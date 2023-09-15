@@ -1,5 +1,6 @@
 ---
 import { getCollection } from "astro:content";
+import BaseLayout from "@layouts/BaseLayout.astro";
 
 
 // Generate a new path for every collection entry
@@ -7,10 +8,19 @@ export async function getStaticPaths() {
   const mapsPage = await getCollection("maps");
   return mapsPage.map((d) => ({
     params: { identifier: d.id },
-    props: { d },
+    props: d,
   }));
 }
 
+const itemData = Astro.props.data;
+
 ---
 
-{JSON.stringify(Astro.props)}
+<BaseLayout title={itemData.dcMetadata.title_info_primary_tsi}>
+  <div>
+  </div>
+</BaseLayout>
+
+<style>
+  div { color: white}
+</style>
