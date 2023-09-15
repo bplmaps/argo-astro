@@ -1,5 +1,7 @@
 ---
 import Header from '@components/Header.astro';
+import LegacyFooter from '@components/legacy-components/legacy-footer.vue';
+import '../../public/legacy-styles.css'
 
 interface Props {
 	title: string;
@@ -15,12 +17,14 @@ const { title } = Astro.props;
 		<meta name="description" content="Astro description" />
 		<meta name="viewport" content="width=device-width" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="stylesheet" href="https://use.typekit.net/rok7eea.css">
 		<meta name="generator" content={Astro.generator} />
 		<title>{title}</title>
 	</head>
 	<body>
 		<Header />
 		<slot />
+		<LegacyFooter />
 	</body>
 </html>
 <style is:global>

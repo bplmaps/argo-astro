@@ -1,6 +1,13 @@
 ---
-import { Image } from 'astro:assets';
-import ARGOLogo from "@assets/ARGO-logo-nav.svg"; 
+import { Image } from "astro:assets";
+import ARGOLogo from "@assets/ARGO-logo-nav.svg"
+import LegacyHeader from "./legacy-components/legacy-header.vue";
 ---
 
-<Image src={ARGOLogo} alt="ARGO Logo" />
+<header>
+    <div class="header-wrapper">
+        <Image src={ARGOLogo} alt="ARGO Logo" />
+            <LegacyHeader></LegacyHeader>
+    </div>
+
+</header>
