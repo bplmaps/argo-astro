@@ -8,7 +8,17 @@ const people = defineCollection({
     type: 'content'
 })
 
+const stories = defineCollection({
+    type: 'content'
+})
+
+const facets = defineCollection({
+    type: 'data'
+})
+
 export const collections = {
     'maps': maps,
-    'people': people
+    'people': people,
+    'stores': stories,
+    'facets': facets
 }
