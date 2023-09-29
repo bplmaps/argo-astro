@@ -3,6 +3,7 @@ title: "William Faden"
 bio_dates: "1749-1836"
 short_description: "British cartographer and publisher"
 credit: "Biography written by Emily Irvine"
+banner_image: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82m246q/2154,3799,2134,826/,1200/0/default.jpg"
 tags: 
     - "Mapmaker"
     - "Visual Makers"
