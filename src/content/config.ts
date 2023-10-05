@@ -19,6 +19,6 @@ const facets = defineCollection({
 export const collections = {
     'maps': maps,
     'people': people,
-    'stores': stories,
+    'stories': stories,
     'facets': facets
 }
