@@ -1,0 +1,21 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from "@layouts/BaseLayout.astro";
+
+
+export async function getStaticPaths() {
+  const facetEntries = await getCollection('facets');
+  return facetEntries.map(entry => ({
+    params: { facet: entry.id }, props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+---
+<BaseLayout title="Facet">
+    <div>
+      <h1>{entry.data.title}</h1>
+      
+      
+    </div>
+  </BaseLayout>
