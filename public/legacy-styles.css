@@ -702,6 +702,10 @@ header .header-wrapper .header-search a {
 	box-shadow: 2px 2px 4px #0006;
 }
 
+.item-content {
+	min-width: 0;
+}
+
 .explore-by .swiper-button-next:after, .explore-by .swiper-button-prev:after, .filter-item .item-content aside .swiper-button-next:after, .filter-item .item-content aside .swiper-button-prev:after {
 	/* font-size: 14px; */
 	/* line-height: 26px; */
