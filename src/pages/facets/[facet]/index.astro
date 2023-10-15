@@ -13,9 +13,7 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 ---
 <BaseLayout title="Facet">
-    <div>
-      <h1>{entry.data.title}</h1>
-      
-      
-    </div>
-  </BaseLayout>
+  <div>
+    <h1>{entry.data.title}</h1>
+  </div>
+</BaseLayout>
