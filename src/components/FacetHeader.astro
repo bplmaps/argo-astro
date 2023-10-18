@@ -1,0 +1,22 @@
+---
+interface Props {
+    facet: object;
+    facetCategories: object;
+    currentFacetCategory: object;
+}
+
+const { facet, facetCategories, currentFacetCategory } = Astro.props;
+---
+
+<div class="filter-explore-by">
+  <h1>
+    <a href={'/facets/' + facet.id}>{facet.data.title}</a>
+  </h1>
+  <ul>
+    {facetCategories.map((category) => (
+      <li class={currentFacetCategory && currentFacetCategory.id === category.id && 'active'}>
+        <a href={'/facets/' + facet.id + '/' + category.id}>{category.title}</a>
+      </li>
+    ))}
+  </ul>
+</div>

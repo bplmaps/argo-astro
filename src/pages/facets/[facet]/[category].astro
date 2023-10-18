@@ -1,7 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from "@layouts/BaseLayout.astro";
-
+import FacetHeader from "@components/FacetHeader.astro";
 
 export async function getStaticPaths() {
   const facetEntries = await getCollection('facets');
@@ -11,7 +11,7 @@ export async function getStaticPaths() {
     if (facet.data['facet-categories']) {
       facet.data['facet-categories'].forEach((entry) => {
         facetCategories.push({
-          params: { facet: facet.id, category: entry.id }, props: { entry },
+          params: { facet: facet.id, category: entry.id }, props: { entry, facet },
         });
       });
     }
@@ -20,10 +20,11 @@ export async function getStaticPaths() {
   return facetCategories;
 }
 
-const { entry } = Astro.props;
+const { entry, facet } = Astro.props;
+const facetCategories = facet.data['facet-categories']
 ---
 <BaseLayout title="Facet">
-  <div>
-    <h1>{entry.title}</h1>
+  <div class="filter">
+    <FacetHeader facet={facet} facetCategories={facetCategories} currentFacetCategory={entry} />
   </div>
 </BaseLayout>

@@ -743,6 +743,10 @@ header .header-wrapper .header-search a {
 	/* position: absolute; */
 	display: inline-block;
 }
+.filter .filter-explore-by h1 a {
+	color: inherit;
+	text-decoration: none;
+}
 .filter .filter-explore-by ul:first-of-type {
 	display: inline;
 	/* flex-wrap: wrap; */
@@ -762,6 +766,10 @@ header .header-wrapper .header-search a {
 	/* margin-bottom: 10px; */
 	cursor: pointer;
 	display: inline-block;
+}
+.filter .filter-explore-by ul:first-of-type > li > a {
+	color: inherit;
+	text-decoration: none;
 }
 .filter .filter-explore-by ul:first-of-type > li:first-of-type {
 	/* margin-left: 255px; */
