@@ -11,7 +11,7 @@ const { results } = Astro.props;
 <ul class="filter-list gallery-view">
   {results.map((result) => (
     <li class="filter-result">
-      <CollectionCard identifier={result} client:visible />
+      <CollectionCard identifier={result} />
     </li>
   ))}
 </ul>
