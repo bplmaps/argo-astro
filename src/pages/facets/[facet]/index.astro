@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from "@layouts/BaseLayout.astro";
 import FacetHeader from "@components/FacetHeader.astro";
+import FacetGrid from "@components/FacetGrid.astro";
 
 export async function getStaticPaths() {
   const facetEntries = await getCollection('facets');
@@ -11,10 +12,16 @@ export async function getStaticPaths() {
 }
 
 const { entry } = Astro.props;
-const facetCategories = entry.data['facet-categories']
+const facetCategories = entry.data['facet-categories'];
+let results = [];
+facetCategories.forEach((category) => {
+  results = results.concat(category.entries); 
+})
 ---
 <BaseLayout title="Facet">
   <div class="filter">
     <FacetHeader facet={entry} facetCategories={facetCategories} />
+    <h2>Maps</h2>
+    <FacetGrid results={results} />
   </div>
 </BaseLayout>
