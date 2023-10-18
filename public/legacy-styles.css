@@ -741,7 +741,10 @@ header .header-wrapper .header-search a {
 	margin: 0 25px 10px 0;
 	min-width: max-content;
 	/* position: absolute; */
-	display: inline-block;
+}
+.filter .filter-explore-by h1 .parent-label {
+	display: block;
+	font-size: 18px;
 }
 .filter .filter-explore-by h1 a {
 	color: inherit;
