@@ -13,7 +13,7 @@ const thumbnailImageSrc = `https://bpldcassets.blob.core.windows.net/derivatives
 ---
 
 <div>
-    <div>
+    <div class="result-image">
         <Image
             src={thumbnailImageSrc}
             alt="descriptive text"
@@ -21,8 +21,11 @@ const thumbnailImageSrc = `https://bpldcassets.blob.core.windows.net/derivatives
             height="150"
         />
     </div>
-    <div>
-        <h1>{record.data.dcMetadata.title_info_primary_tsi}</h1>
-        <a href="">See map</a>
+    <div class="title-tags">
+        <h3>{record.data.dcMetadata.title_info_primary_tsi}</h3>
+        <div class="text">
+            <p>{record.data.dcMetadata.title_info_primary_subtitle_tsi}</p>
+            <a class="button-like dark" href={'/maps/' + identifier}>See map</a>
+        </div>
     </div>
 </div>

@@ -872,12 +872,25 @@ header .header-wrapper .header-search a {
 	margin-left: 25px;
 }
 .filter .filter-list .filter-result .result-image {
+	position: relative;
 	min-width: 300px;
 	width: 300px;
 	height: 150px;
 	background-size: cover;
     background-position: center;
 	border-radius: 10px;
+	overflow: hidden;
+}
+.filter .filter-list .filter-result .result-image img {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+	object-position: center;
 }
 .filter .filter-list .filter-result .result-image .result-tags li {
 	width: unset;
