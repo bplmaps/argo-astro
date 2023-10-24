@@ -14,11 +14,8 @@ const { entry } = Astro.props;
 const { Content } = await entry.render();
 ---
 <BaseLayout title="Story">
-    <div>
-      <h1>{entry.data.title}</h1>
-      <Content />
-  
-      
-      
-    </div>
-  </BaseLayout>
+  <div class="markdown">
+    <h1>{entry.data.title}</h1>
+    <Content />
+  </div>
+</BaseLayout>
