@@ -87,6 +87,7 @@ const facets = defineCollection({
     schema: z.object({
         title: z.string(),
         'facet-categories': z.array(z.object({
+            id: z.string(),
             title: z.string(),
             entries: z.array(z.string())
         })),
