@@ -1,6 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 import BaseLayout from "@layouts/BaseLayout.astro";
+import MapSwiper from '@components/MapSwiper.jsx';
 
 // Generate a new path for every collection entry
 export async function getStaticPaths() {
@@ -12,16 +13,75 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await entry.render();
+const allPeoplePages = await getCollection('people');
+const allPeopleTags = allPeoplePages.map((entry) => {
+  return entry.data.tags;
+}).flat().filter((currentValue, index, arr) => (
+  arr.indexOf(currentValue) === index
+));
+const relatedMapPages = await getCollection('maps', ({ data }) => {
+  return entry.data.related_maps.includes(data.dcMetadata.id) || entry.data.related_maps.includes(data.dcMetadata.id.replace(":","--"));
+});
 ---
 
 <BaseLayout title="Person">
   <div>
-    <h1>{entry.data.title}</h1>
-    <Content />
-
-    
-    
+    {entry.data.banner_image &&
+      <div class="filter-item-header-image" style={`background-image: url(${entry.data.banner_image})`}></div>
+    }
+		<div class="filter-item">
+      {allPeopleTags && allPeopleTags.length > 0 &&
+        <div class="side-nav">
+          {allPeopleTags.map((tag) => (
+            <details class="tag-genre">
+              <summary><div class="open-close-icon"></div>{tag}</summary>
+              <ul class="tag-results">
+                {allPeoplePages.map((person) => (
+                  <>
+                    {person.data.tags.includes(tag) &&
+                      <li class:list={[{ active: entry.slug === person.slug }]}>
+                        <a href={"/people/" + person.slug}>
+                          {person.data.title}
+                        </a>
+                      </li>
+                    }
+                  </>
+                ))}
+              </ul>
+            </details>
+          ))}
+        </div>
+      }
+			<div class="item-content">
+        <h1>{entry.data.title}</h1>
+        {entry.data.tags &&
+          <ul class="filters-applied">
+            {entry.data.tags.map((tag) => (
+              <li>{tag}</li>
+            ))}
+          </ul>
+        }
+				<article>
+          {entry.data.credit &&
+            <p><strong>{entry.data.credit}</strong></p>
+            <Content />
+          }
+				</article>
+        {relatedMapPages && relatedMapPages.length > 0 &&
+          <aside>
+            <h2>Related maps</h2>
+            <MapSwiper mapPages={relatedMapPages} client:load />
+          </aside>
+        }
+        {entry.data.notes &&
+          <h2>Notes</h2>
+          <div>{entry.data.notes}</div>
+        }
+        {entry.data.bibliography &&
+          <h2>Bibliography</h2>
+          <div>{entry.data.bibliography}</div>
+        }
+			</div>
+		</div>    
   </div>
 </BaseLayout>
-
-
