@@ -1,28 +1,28 @@
 ---
 import { getEntry } from "astro:content";
-import { Image } from "astro:assets";
+import LazyCard from "./LazyCard.vue";
 
 interface Props {
-    identifier: string;
+  identifier: string;
 }
 
 const { identifier } = Astro.props;
 const record = await getEntry("maps", identifier);
 
-const thumbnailImageSrc = `https://bpldcassets.blob.core.windows.net/derivatives/images/${record.data.dcMetadata.exemplary_image_ssi}/image_thumbnail_300.jpg`;
+const title = record.data.dcMetadata.title_info_primary_tsi;
+const subtitle = record.data.dcMetadata.title_info_primary_subtitle_tsi;
+const linkText = 'See map';
+const linkHref = `/maps/${identifier}`;
+const image = `https://bpldcassets.blob.core.windows.net/derivatives/images/${record.data.dcMetadata.exemplary_image_ssi}/image_thumbnail_300.jpg`;
 ---
 
-<div>
-    <div>
-        <Image
-            src={thumbnailImageSrc}
-            alt="descriptive text"
-            width="200"
-            height="150"
-        />
-    </div>
-    <div>
-        <h1>{record.data.dcMetadata.title_info_primary_tsi}</h1>
-        <a href="">See map</a>
-    </div>
-</div>
+<LazyCard
+  client:visible
+  title={title}
+  subtitle={subtitle}
+  link={{
+    href: linkHref,
+    text: linkText
+  }}
+  image={image}
+/>

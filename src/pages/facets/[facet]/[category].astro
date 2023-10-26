@@ -1,0 +1,34 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from "@layouts/BaseLayout.astro";
+import FacetHeader from "@components/FacetHeader.astro";
+import FacetGrid from "@components/FacetGrid.astro";
+
+export async function getStaticPaths() {
+  const facetEntries = await getCollection('facets');
+  const facetCategories = [];
+
+  facetEntries.forEach((facet) => {
+    if (facet.data['facet-categories']) {
+      facet.data['facet-categories'].forEach((entry) => {
+        facetCategories.push({
+          params: { facet: facet.id, category: entry.id }, props: { entry, facet },
+        });
+      });
+    }
+  });
+
+  return facetCategories;
+}
+
+const { entry, facet } = Astro.props;
+const facetCategories = facet.data['facet-categories'];
+const results = entry.entries;
+---
+<BaseLayout title="Facet">
+  <div class="filter">
+    <FacetHeader facet={facet} facetCategories={facetCategories} currentFacetCategory={entry} />
+    <h2>Maps</h2>
+    <FacetGrid results={results} />
+  </div>
+</BaseLayout>
