@@ -3,7 +3,6 @@ import { getCollection } from "astro:content";
 import BaseLayout from "@layouts/BaseLayout.astro";
 
 import MetadataBlock from "@components/legacy-components/MetadataBlock.vue";
-import CollectionCard from "@components/CollectionCard.astro";
 
 // Generate a new path for every collection entry
 export async function getStaticPaths() {
@@ -15,18 +14,90 @@ export async function getStaticPaths() {
 }
 
 const itemData = Astro.props.data;
+const viewerManifest = "https://collections.leventhalmap.org/search/" + itemData.dcMetadata.id + "/manifest.json";
 ---
 
 <BaseLayout title={itemData.dcMetadata.title_info_primary_tsi}>
   <div class="map-result">
-    <div>Viewer</div>
+    <div class="map-viewer">{viewerManifest}</div>
 
-    <div class="map-details-container">
-      <h1>{itemData.dcMetadata.title_info_primary_tsi}</h1>
-      <p class="intro">{itemData.dcMetadata.abstract_tsi}</p>
-    </div>
     <div>
-      <MetadataBlock metadata={itemData.dcMetadata} />
+      <div class="map-details-container">
+        <h1 class="text-3xl">
+          {itemData.dcMetadata.title_info_primary_tsi}
+          {itemData.dcMetadata.title_info_primary_subtitle_tsi &&
+            <span class="subtitle">:
+              {itemData.dcMetadata.title_info_primary_subtitle_tsi}
+            </span>
+          }
+        </h1>
+        {itemData.dcMetadata.abstract_tsi &&
+          <p class="intro">{itemData.dcMetadata.abstract_tsi}</p>
+        }
+      </div>
+      <div class="map-details-container map-details">
+        <div class="related-material">
+          <h2>Metadata</h2>
+          <MetadataBlock metadata={itemData.dcMetadata} />
+        </div>
+        <div class="meta-info">
+          {itemData.dcMetadata.related_item_isreferencedby_ssm &&
+            <h2>Collection Information</h2>
+            <div>
+              <a
+                href={JSON.parse(itemData.dcMetadata.related_item_isreferencedby_ssm[0]).url}
+                target="_blank"
+                class="button-like primary no-arrow"
+              >
+                See this object’s record at {itemData.dcMetadata.institution_name_ssi}
+              </a>
+            </div>
+          }
+
+          <h2>Tags</h2>
+          <ul class="tagged-with">
+            {itemData.dcMetadata.tags && itemData.dcMetadata.tags.map((tag) => (
+              <li>
+                <a href={"/explore/" + tag.order + tag.category + "-" + tag.group_order}>{tag.name}</a>
+              </li>
+            ))}
+          </ul>
+
+          {itemData.dcMetadata.exemplary_image_ssi &&
+            <h2>Downloads</h2>
+
+            <a
+              href={"https://iiif.digitalcommonwealth.org/iiif/2/" + itemData.dcMetadata.exemplary_image_ssi + "/full/full/0/default.jpg"}
+              class="button-like"
+              target="_blank">
+              Large Image
+            </a>
+
+            <a
+              href={"https://bpldcassets.blob.core.windows.net/derivatives/images/" + itemData.dcMetadata.exemplary_image_ssi + "/image_thumbnail_300.jpg"}
+              class="button-like"
+              target="_blank">
+              Small Image
+            </a>
+          }
+
+          <h2>Digital Library</h2>
+          <div>
+            <a
+              href={`https://collections.leventhalmap.org/search/${itemData.dcMetadata.id}/manifest.json`}
+              target="_blank"
+              class="button-like dark"
+              >IIIF Manifest</a
+            >
+            <a
+              href={`https://collections.leventhalmap.org/search/${itemData.dcMetadata.id}?format=json`}
+              target="_blank"
+              class="button-like dark"
+              >JSON Metadata</a
+            >
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </BaseLayout>
