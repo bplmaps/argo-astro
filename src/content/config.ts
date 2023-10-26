@@ -79,6 +79,8 @@ const stories = defineCollection({
     type: 'content',
     schema: z.object({
         title: z.string(),
+        banner_image: z.string().url(),
+        author: z.string()
     }),
 });
 
