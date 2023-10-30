@@ -6,7 +6,10 @@ import LegacyHeader from "./legacy-components/legacy-header.vue";
 
 <header>
     <div class="header-wrapper">
-        <Image src={ARGOLogo} alt="ARGO Logo" />
+        <a href="/">
+            <span class="sr-only">ARGO Home</span>
+            <Image src={ARGOLogo} alt="ARGO Logo" />
+        </a>
         <LegacyHeader />
     </div>
 </header>
