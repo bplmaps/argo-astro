@@ -18,9 +18,6 @@
     position: absolute;
     width: 1px;
 }
-.hidden {
-	display: none;
-}
 
 /* alert-block css */
 .alert-block {
@@ -30,9 +27,6 @@
 	top: 0;
 	left: 0;
 	z-index: 999;
-}
-.alert-block.hidden {
-	display: none;
 }
 .alert-block .alert-block-bkgd {
 	width: 100%;
@@ -68,7 +62,7 @@
 	right: 15px;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 767.98px) {
   .alert-block .alert-block-content {
     width: calc(100% - 60px);
     min-width: unset;
@@ -146,12 +140,8 @@
 	}	
 }
 
-
 /* generic sitewide styles */
 body {
-	margin: 0;
-	padding: 0;
-	font-family: 'basic-sans', sans-serif;
 	background-color: #FCFCFC;
 }
 h2 {
@@ -249,28 +239,10 @@ button.styleless{
 	line-height: 10px;
 	text-decoration: none;
 }
-
-
-
 header .header-wrapper {
-	position: relative;
-	display: flex;
 	padding: 15px 21px 15px 18px;
-	/* background-color: white; */
-	align-items: flex-start;
 }
-header .header-wrapper .site-logo .placeholder-logo, 
-footer .site-logo .placeholder-logo {
-	min-width: 123px;
-	height: 35px;
-	background-image: url('/images/ARGO-logo-nav.svg');
-	background-size: contain;
-	background-position: center;
-	background-repeat: no-repeat;
-	display: block;
-	transition: background-color .3s;
-}
-header .header-wrapper .ham-menu {
+header .header-wrapper .menu-toggle {
 	position: absolute;
 	top: 13px;
 	right: 20px;
@@ -284,7 +256,7 @@ header .header-wrapper .ham-menu {
 	border-radius: 6px;
 	/* display: none; */
 }
-header .header-wrapper .ham-menu .line {
+header .header-wrapper .menu-toggle .line {
 	width: 15px;
 	height: 1.5px;
 	margin-bottom: 5px;
@@ -293,18 +265,11 @@ header .header-wrapper .ham-menu .line {
 	opacity: 1;
 	display: block;
 }
-header .header-wrapper .ham-menu .line:last-of-type {
+header .header-wrapper .menu-toggle .line:last-of-type {
 	margin-bottom: 0;
-}
-header .header-wrapper nav {
-	display: flex;
-	flex-grow: 1;
-	justify-content: flex-end;
-	margin: 6px 59px 0 30px;
 }
 header .header-wrapper nav .main-nav {
 	margin: 0;
-	padding: 0 15px 0 0;
 	list-style: none;
 	display: flex;
 	justify-content: flex-end;
@@ -360,7 +325,6 @@ footer .header-search .search input {
 	background-color: #F9F9F9;
 	border: .5px solid #4E798D;
 	border-radius: 5px;
-	/* font-family: 'Inter', sans-serif; */
 	font-size: 14px;
 }
 header .header-search {
@@ -372,70 +336,15 @@ header .header-search {
 	display: none;
 }
 header .header-search input {
-	/* font-family: 'Inter', sans-serif; */
 	font-size: 14px;
 	color: #FFFFFF90;
 	background-color: #F9F9F930;
 }
 header .header-search input::placeholder {
-	/* font-family: 'Inter', sans-serif; */
 	font-size: 14px;
 	color: #FFFFFF90;
 	font-style: italic;
 }
-/* start open top nav */
-.header-wrapper.open-menu {
-	background-color: #4E798D;
-	height: 290px;
-}
-.header-wrapper.open-menu .site-logo {
-	display: none;
-}
-.header-wrapper.open-menu .ham-menu {
-	background-color: #FFFFFF;
-}
-.header-wrapper.open-menu .ham-menu span {
-	background-color: #4E798D;
-	transform: rotate(45deg);
-	position: absolute;
-	left: 7px;
-	top: 17px;
-	width: 20px;
-}
-.header-wrapper.open-menu .ham-menu span:last-of-type {
-	transform: rotate(-45deg);
-}
-.header-wrapper.open-menu nav .nav-item > a {
-	color: #FFFFFF;
-	padding-bottom: 10px;
-	margin-bottom: 5px;
-}
-.header-wrapper.open-menu nav .dropdown-content {
-	display: block;
-}
-.header-wrapper.open-menu nav .dropdown-content .nav-dropdown a .dropdown-image {
-	position: absolute;
-	top: 20px;
-	left: 20px;
-	width: calc(100% - 760px);
-	height: 240px;
-	border-radius: 10px;
-	opacity: 0;
-	background-size: cover;
-	background-position: center;
-	background-repeat: no-repeat;
-	transition: opacity .25s;
-}
-.header-wrapper nav .dropdown-content .nav-dropdown a:hover .dropdown-image {
-	opacity: 1;
-}
-.header-wrapper.open-menu .header-search {
-	display: block;
-}
-body.open-menu .map-background {
-	margin-top: -298px;
-}
-/* end open top nav */
 footer .header-search .search input[type="text"]::placeholder {
 	color: #8A8989;
 	letter-spacing: 0.5px;
@@ -636,14 +545,6 @@ header .header-wrapper .header-search a {
 	line-height: 22px;
 	margin: 0;
 	padding: 0;
-}
-.explore-by .explore-group {
-	/* display: flex; */
-}
-.explore-by .explore-slide {
-	/* flex: 1 1 0px; */
-	/* margin-right: 4%; */
-	/* margin-right: 25px; */
 }
 .explore-by.no-slider .explore-slide {
 	flex: 1 1 0px;
@@ -2435,12 +2336,6 @@ footer .site-logo {
 	margin-top: 75px;
 	margin-left: 20px;
 }
-footer .site-logo .placeholder-logo {
-	width: 175px;
-	height: 75px;
-	background-position: top center;
-	/* background-image: url(/images/ARGO-logo-footer.svg); */
-}
 footer .site-map {
 	width: 600px;
 	margin-top: 75px;
@@ -2667,7 +2562,7 @@ footer .social-icons a:last-of-type .icon {
 		margin: 50px auto 0 auto;
 	}
 }
-@media only screen and (max-width: 1100px) {
+@media only screen and (max-width: 1279.98px) {
 	/* start top nav */
 	header .header-wrapper nav {
 		margin-top: 8px;
@@ -2678,9 +2573,6 @@ footer .social-icons a:last-of-type .icon {
 	}
 	.header-wrapper nav .dropdown-content .nav-dropdown a {
 		font-size: 13px;
-	}
-	.header-wrapper.open-menu nav .dropdown-content .nav-dropdown a .dropdown-image {
-		width: calc(100% - 670px);
 	}
 	header .header-search {
 		width: 580px;
@@ -2757,15 +2649,13 @@ footer .social-icons a:last-of-type .icon {
 	/* end footer */
 }
 
-@media only screen and (max-width: 930px) {
+@media only screen and (max-width: 1023.98px) {
 	/* start nav stuff */
 	header .header-wrapper {
 		flex-direction: column;
-		gap: 76px;
 		padding-left: 12px;
 	}
 	header .header-wrapper nav {
-		display: none;
 		margin: 0;
 	}
 	header .header-wrapper nav .main-nav {
@@ -2775,7 +2665,7 @@ footer .social-icons a:last-of-type .icon {
 		width: unset;
 		max-width: calc(100% - 40px);
 	}
-	header .header-wrapper .ham-menu {
+	header .header-wrapper .menu-toggle {
 		right: 12px;
 	}
 	header .header-search {
@@ -2785,30 +2675,6 @@ footer .social-icons a:last-of-type .icon {
 		padding-top: 0;
 		bottom: unset;
 		width: calc(100% - 24px);
-	}
-	/* open menu */
-	body.open-menu {
-		overflow: hidden;
-	}
-	.header-wrapper.open-menu {
-		position: fixed;
-		z-index: 100;
-		top: 0;
-		left: 0;
-		height: 100vh;
-		width: 100vw;
-	}
-	header .header-wrapper.open-menu .site-logo {
-		display: block;
-	}
-	header .header-wrapper.open-menu .site-logo .placeholder-logo {
-		background-image: url(/images/ARGO-logo-negative.png);
-	}
-	header .header-wrapper.open-menu nav {
-		display: block;
-	}
-	.header-wrapper.open-menu nav .dropdown-content .nav-dropdown a .dropdown-image {
-		display: none;
 	}
 	/* end nav stuff */
 	/* start filter page */
@@ -2834,7 +2700,7 @@ footer .social-icons a:last-of-type .icon {
 	}
 	/* end search page */
 }
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 767.98px) {
 	.tablet, .mobile {
 		display: inline-block;
 	}
