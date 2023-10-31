@@ -16,6 +16,26 @@ export async function getStaticPaths() {
 const itemData = Astro.props.data;
 const title = itemData.dcMetadata.title_info_primary_tsi;
 const viewerManifest = "https://collections.leventhalmap.org/search/" + itemData.dcMetadata.id + "/manifest.json";
+
+itemData.dcMetadata.tags = [];
+
+const facetEntries = await getCollection('facets');
+facetEntries.forEach((facet) => {
+  if (facet.data['facet-categories']) {
+    facet.data['facet-categories'].forEach((categoryEntry) => {
+      categoryEntry['entries'].forEach((entry) => {
+        const rewrittenId = itemData.dcMetadata.id.replaceAll(':', '--');
+        if (entry === rewrittenId) {
+          itemData.dcMetadata.tags.push({
+            id: categoryEntry.id,
+            title: categoryEntry.title,
+            facet: facet.id,
+          });
+        }
+      });
+    });
+  }
+});
 ---
 
 <BaseLayout title={title}>
@@ -59,7 +79,7 @@ const viewerManifest = "https://collections.leventhalmap.org/search/" + itemData
           <ul class="tagged-with">
             {itemData.dcMetadata.tags && itemData.dcMetadata.tags.map((tag) => (
               <li>
-                <a href={"/explore/" + tag.order + tag.category + "-" + tag.group_order}>{tag.name}</a>
+                <a href={"/facets/" + tag.facet + "/" + tag.id}>{tag.title}</a>
               </li>
             ))}
           </ul>
