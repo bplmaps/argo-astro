@@ -18,6 +18,7 @@ const maps = defineCollection({
             date_start_dtsi: z.string().datetime(),
             date_end_dtsi: z.string().datetime(),
             related_item_host_ssim: z.array(z.string()),
+            related_item_isreferencedby_ssm: z.array(z.string()).optional(),
             subject_topic_tsim: z.array(z.string()).optional(),
             subject_facet_ssim: z.array(z.string()).optional(),
             subject_name_tsim: z.array(z.string()).optional(),
