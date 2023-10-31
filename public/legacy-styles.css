@@ -639,22 +639,6 @@ header .header-wrapper .header-search a {
 	position: relative;
 	width: calc(100% - 120px);
 }
-.filter .filter-explore-by h1 {
-	font-family: 'mokoko-variable';
-	font-size: 26px;
-	font-weight: 600;
-	margin: 0 25px 10px 0;
-	min-width: max-content;
-	/* position: absolute; */
-}
-.filter .filter-explore-by h1 .parent-label {
-	display: block;
-	font-size: 18px;
-}
-.filter .filter-explore-by h1 a {
-	color: inherit;
-	text-decoration: none;
-}
 .filter .filter-explore-by ul:first-of-type {
 	display: inline;
 	/* flex-wrap: wrap; */
@@ -752,13 +736,6 @@ header .header-wrapper .header-search a {
 	border-radius: 5px;
 	color: #4E798D;
 	font-weight: 400;
-}
-.filter ul {
-	list-style-type: none;
-	padding: 0;
-	margin: 0;
-	display: flex;
-	flex-wrap: wrap;
 }
 .filter .filter-list {
 	flex-direction: column;
@@ -2956,10 +2933,6 @@ footer .social-icons a:last-of-type .icon {
 		gap: 10px;
 		width: 100%;
 	}
-	.filter .filter-explore-by h1 {
-		position: relative;
-		min-width: unset;
-	}
 	.filter .filter-explore-by ul:first-of-type > li:first-of-type {
 		margin-left: unset;
 	}
@@ -3187,9 +3160,6 @@ footer .social-icons a:last-of-type .icon {
 	.filter .filter-list.gallery-view li {
 		width: 100%;
 	}
-	/* .filter .filter-explore-by h1 {
-		margin: 0;
-	} */
 	/* end filter page */
 	/* start filter-item page */
 	.filter-item {
@@ -3324,16 +3294,6 @@ footer .social-icons a:last-of-type .icon {
 .map-result .map-details-container {
 	max-width: 1024px;
 	margin: 0 auto;
-}
-.map-result h1 {
-	font-family: "raleway";
-	font-size: 26px;
-	font-weight: 700;
-	margin: 45px 0 25px 0;
-}
-.map-result h1>.subtitle {
-	font-style: italic;
-	color: #979797
 }
 .map-result p {
 	font-size: 16px;

@@ -2,11 +2,13 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from "@layouts/BaseLayout.astro";
 import LazyCard from '@components/LazyCard.vue';
+import Title from '@components/Layout/Title.astro';
 
 const entries = await getCollection('stories');
 ---
 <BaseLayout title="Stories">
   <div class="filter">
+    <Title>Stories</Title>
     <ul class="flex flex-wrap p-0 list-none -mx-3">
       {entries.map((entry) => (
         <li class="block w-full px-3 md:w-1/2">
