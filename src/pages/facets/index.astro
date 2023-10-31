@@ -1,7 +1,28 @@
 ---
+import { getCollection } from 'astro:content';
 import BaseLayout from "@layouts/BaseLayout.astro";
----
+import LazyCard from '@components/LazyCard.vue';
+import Title from '@components/Layout/Title.astro';
 
-<BaseLayout title="Facets">
-    <div />
+const title = 'Explore by Theme';
+const entries = await getCollection('facets');
+---
+<BaseLayout title={title}>
+  <Title>{title}</Title>
+  <ul class="flex flex-wrap p-0 list-none -mx-5">
+    {entries.map((entry) => (
+      <li class="block w-full px-5 md:w-1/2">
+        <LazyCard
+          client:visible
+          title={entry.data.title}
+          subtitle={entry.data.short_description}
+          link={{
+            href: '/facets/' + entry.id,
+            text: 'Read more'
+          }}
+          image={entry.data.banner_image}
+        />
+      </li>
+    ))}
+  </ul>
 </BaseLayout>

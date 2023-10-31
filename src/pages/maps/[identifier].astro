@@ -14,17 +14,18 @@ export async function getStaticPaths() {
 }
 
 const itemData = Astro.props.data;
+const title = itemData.dcMetadata.title_info_primary_tsi;
 const viewerManifest = "https://collections.leventhalmap.org/search/" + itemData.dcMetadata.id + "/manifest.json";
 ---
 
-<BaseLayout title={itemData.dcMetadata.title_info_primary_tsi}>
+<BaseLayout title={title}>
   <div class="map-result">
     <div class="map-viewer">{viewerManifest}</div>
 
     <div>
       <div class="map-details-container">
         <Title>
-          {itemData.dcMetadata.title_info_primary_tsi}
+          {title}
           {itemData.dcMetadata.title_info_primary_subtitle_tsi &&
             <em class="text-gray-500">:
               {itemData.dcMetadata.title_info_primary_subtitle_tsi}

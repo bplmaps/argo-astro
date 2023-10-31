@@ -4,10 +4,11 @@ import BaseLayout from "@layouts/BaseLayout.astro";
 import LazyCard from '@components/LazyCard.vue';
 import Title from '@components/Layout/Title.astro';
 
+const title = 'Read Stories';
 const entries = await getCollection('stories');
 ---
-<BaseLayout title="Stories">
-  <Title>Stories</Title>
+<BaseLayout title={title}>
+  <Title>{title}</Title>
   <ul class="flex flex-wrap p-0 list-none -mx-5">
     {entries.map((entry) => (
       <li class="block w-full px-5 md:w-1/2">

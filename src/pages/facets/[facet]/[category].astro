@@ -23,10 +23,11 @@ export async function getStaticPaths() {
 }
 
 const { entry, facet } = Astro.props;
+const title = entry.title;
 const facetCategories = facet.data['facet-categories'];
 const results = entry.entries;
 ---
-<BaseLayout title="Facet">
+<BaseLayout title={title}>
   <div class="filter">
     <FacetHeader facet={facet} facetCategories={facetCategories} currentFacetCategory={entry} />
     <h2>Maps</h2>

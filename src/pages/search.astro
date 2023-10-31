@@ -1,8 +1,10 @@
 ---
 import BaseLayout from "@layouts/BaseLayout.astro";
 import Title from '@components/Layout/Title.astro';
+
+const title = 'Search';
 ---
 
-<BaseLayout title="Search">
-  <Title>Search</Title>
+<BaseLayout title={title}>
+  <Title>{title}</Title>
 </BaseLayout>

@@ -13,6 +13,7 @@ export async function getStaticPaths() {
 }
 
 const { entry } = Astro.props;
+const title = entry.data.title;
 const { Content } = await entry.render();
 const allPeoplePages = await getCollection('people');
 const allPeopleTags = allPeoplePages.map((entry) => {
@@ -25,7 +26,7 @@ const relatedMapPages = await getCollection('maps', ({ data }) => {
 });
 ---
 
-<BaseLayout title="Person">
+<BaseLayout title={title}>
   <div>
     {entry.data.banner_image &&
       <div class="filter-item-header-image" style={`background-image: url(${entry.data.banner_image})`}></div>
@@ -54,7 +55,7 @@ const relatedMapPages = await getCollection('maps', ({ data }) => {
         </div>
       }
 			<div class="item-content">
-        <Title>{entry.data.title}</Title>
+        <Title>{title}</Title>
         {entry.data.tags &&
           <ul class="filters-applied">
             {entry.data.tags.map((tag) => (

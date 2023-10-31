@@ -12,13 +12,14 @@ export async function getStaticPaths() {
 }
 
 const { entry } = Astro.props;
+const title = entry.data.title;
 const facetCategories = entry.data['facet-categories'];
 let results = [];
 facetCategories.forEach((category) => {
   results = results.concat(category.entries); 
 })
 ---
-<BaseLayout title="Facet">
+<BaseLayout title={title}>
   <div class="filter">
     <FacetHeader facet={entry} facetCategories={facetCategories} />
     <h2>Maps</h2>
