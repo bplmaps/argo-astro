@@ -8,7 +8,7 @@ interface Props {
 const { results } = Astro.props;
 ---
 
-<ul class="filter-list gallery-view">
+<ul class="flex flex-wrap p-0 list-none filter-list gallery-view">
   {results.map((result) => (
     <li class="filter-result">
       <CollectionCard identifier={result} />

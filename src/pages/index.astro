@@ -1,8 +1,10 @@
 ---
-import BaseLayout from '../layouts/BaseLayout.astro';
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Title from '@components/Layout/Title.astro';
 
+const title = 'Home';
 ---
 
-<BaseLayout title="ARGO">
-    <div></div>
+<BaseLayout title={title}>
+  <Title>{title}</Title>
 </BaseLayout>
