@@ -13,69 +13,91 @@ export async function getStaticPaths() {
   }));
 }
 
-const itemData = Astro.props.data;
-const title = itemData.dcMetadata.title_info_primary_tsi;
-const viewerManifest = "https://collections.leventhalmap.org/search/" + itemData.dcMetadata.id + "/manifest.json";
+const data = Astro.props.data;
+const title = data.dcMetadata.title_info_primary_tsi;
+const viewerManifest = 'https://collections.leventhalmap.org/search/' + data.dcMetadata.id + '/manifest.json';
+
+data.dcMetadata.facetCategories = [];
+
+const facetEntries = await getCollection('facets');
+facetEntries.forEach((facet) => {
+  if (facet.data['facet-categories']) {
+    facet.data['facet-categories'].forEach((categoryEntry) => {
+      categoryEntry['entries'].forEach((entry) => {
+        const rewrittenId = data.dcMetadata.id.replaceAll(':', '--');
+        if (entry === rewrittenId) {
+          data.dcMetadata.facetCategories.push({
+            id: categoryEntry.id,
+            title: categoryEntry.title,
+            facet: facet.id,
+          });
+        }
+      });
+    });
+  }
+});
 ---
 
 <BaseLayout title={title}>
   <div class="map-result">
-    <div class="map-viewer">{viewerManifest}</div>
+    <div class="map-viewer bg-gray-100 mb-5">
+      <span class="sr-only">{viewerManifest}</span>
+    </div>
 
     <div>
       <div class="map-details-container">
         <Title>
           {title}
-          {itemData.dcMetadata.title_info_primary_subtitle_tsi &&
+          {data.dcMetadata.title_info_primary_subtitle_tsi &&
             <em class="text-gray-500">:
-              {itemData.dcMetadata.title_info_primary_subtitle_tsi}
+              {data.dcMetadata.title_info_primary_subtitle_tsi}
             </em>
           }
         </Title>
-        {itemData.dcMetadata.abstract_tsi &&
-          <p class="intro">{itemData.dcMetadata.abstract_tsi}</p>
+        {data.dcMetadata.abstract_tsi &&
+          <p class="intro">{data.dcMetadata.abstract_tsi}</p>
         }
       </div>
       <div class="map-details-container map-details">
         <div class="related-material">
           <h2>Metadata</h2>
-          <MetadataBlock metadata={itemData.dcMetadata} />
+          <MetadataBlock metadata={data.dcMetadata} />
         </div>
         <div class="meta-info">
-          {itemData.dcMetadata.related_item_isreferencedby_ssm &&
+          {data.dcMetadata.related_item_isreferencedby_ssm &&
             <h2>Collection Information</h2>
             <div>
               <a
-                href={JSON.parse(itemData.dcMetadata.related_item_isreferencedby_ssm[0]).url}
+                href={JSON.parse(data.dcMetadata.related_item_isreferencedby_ssm[0]).url}
                 target="_blank"
                 class="button-like primary no-arrow"
               >
-                See this object’s record at {itemData.dcMetadata.institution_name_ssi}
+                See this object’s record at {data.dcMetadata.institution_name_ssi}
               </a>
             </div>
           }
 
           <h2>Tags</h2>
           <ul class="tagged-with">
-            {itemData.dcMetadata.tags && itemData.dcMetadata.tags.map((tag) => (
+            {data.dcMetadata.facetCategories && data.dcMetadata.facetCategories.map((tag) => (
               <li>
-                <a href={"/explore/" + tag.order + tag.category + "-" + tag.group_order}>{tag.name}</a>
+                <a href={"/facets/" + tag.facet + "/" + tag.id}>{tag.title}</a>
               </li>
             ))}
           </ul>
 
-          {itemData.dcMetadata.exemplary_image_ssi &&
+          {data.dcMetadata.exemplary_image_ssi &&
             <h2>Downloads</h2>
 
             <a
-              href={"https://iiif.digitalcommonwealth.org/iiif/2/" + itemData.dcMetadata.exemplary_image_ssi + "/full/full/0/default.jpg"}
+              href={"https://iiif.digitalcommonwealth.org/iiif/2/" + data.dcMetadata.exemplary_image_ssi + "/full/full/0/default.jpg"}
               class="button-like"
               target="_blank">
               Large Image
             </a>
 
             <a
-              href={"https://bpldcassets.blob.core.windows.net/derivatives/images/" + itemData.dcMetadata.exemplary_image_ssi + "/image_thumbnail_300.jpg"}
+              href={"https://bpldcassets.blob.core.windows.net/derivatives/images/" + data.dcMetadata.exemplary_image_ssi + "/image_thumbnail_300.jpg"}
               class="button-like"
               target="_blank">
               Small Image
@@ -85,13 +107,13 @@ const viewerManifest = "https://collections.leventhalmap.org/search/" + itemData
           <h2>Digital Library</h2>
           <div>
             <a
-              href={`https://collections.leventhalmap.org/search/${itemData.dcMetadata.id}/manifest.json`}
+              href={`https://collections.leventhalmap.org/search/${data.dcMetadata.id}/manifest.json`}
               target="_blank"
               class="button-like dark"
               >IIIF Manifest</a
             >
             <a
-              href={`https://collections.leventhalmap.org/search/${itemData.dcMetadata.id}?format=json`}
+              href={`https://collections.leventhalmap.org/search/${data.dcMetadata.id}?format=json`}
               target="_blank"
               class="button-like dark"
               >JSON Metadata</a
