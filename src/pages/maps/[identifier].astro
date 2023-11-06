@@ -24,8 +24,7 @@ facetEntries.forEach((facet) => {
   if (facet.data['facet-categories']) {
     facet.data['facet-categories'].forEach((categoryEntry) => {
       categoryEntry['entries'].forEach((entry) => {
-        const rewrittenId = data.dcMetadata.id.replaceAll(':', '--');
-        if (entry === rewrittenId) {
+        if (entry === data.dcMetadata.id) {
           data.dcMetadata.facetCategories.push({
             id: categoryEntry.id,
             title: categoryEntry.title,
