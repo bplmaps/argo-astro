@@ -1,10 +1,11 @@
 ---
 import BaseLayout from "@layouts/BaseLayout.astro";
 import Title from '@components/Layout/Title.astro';
+import SearchHero from '@components/Layout/Homepage/SearchHero.astro'
 
 const title = 'Home';
 ---
 
 <BaseLayout title={title}>
-  <Title>{title}</Title>
+  <SearchHero />
 </BaseLayout>
