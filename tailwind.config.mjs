@@ -11,6 +11,7 @@ export default {
 		},
 		colors: {
 			inherit: 'inherit',
+			'brand-orange': '#ea6501',
 			current: 'currentcolor',
 			transparent: 'transparent',
 			black: '#000000',
