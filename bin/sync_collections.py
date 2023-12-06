@@ -5,7 +5,7 @@ import os
 complete = False
 page = 1
 
-query = "https://collections.leventhalmap.org/search?utf8=✓&f_inclusive[collection_name_ssim][]=American+Revolutionary+War-Era+Maps+(Collection+of+Distinction)&format=json"
+query = "https://collections.leventhalmap.org/search?utf8=✓&f_inclusive[destination_site_ssim][]=argo&format=json"
 
 def parse_collection_record(doc):
     filename = "../src/content/maps/{}.json".format(doc["id"])
