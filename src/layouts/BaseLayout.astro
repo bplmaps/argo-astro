@@ -1,6 +1,6 @@
 ---
-import Header from '@components/Header.astro';
-import LegacyFooter from '@components/legacy-components/legacy-footer.vue';
+import Header from '@components/Layout/Header.astro';
+import Footer from '@components/Layout/Footer.astro';
 import '../../public/legacy-styles.css'
 
 interface Props {
@@ -23,9 +23,9 @@ const { title } = Astro.props;
 	</head>
 	<body>
 		<Header />
-		<div class="container mx-auto px-5 mt-10">
+		<div class="container mx-auto px-5 mt-5">
 			<slot />
 		</div>
-		<LegacyFooter />
+		<Footer />
 	</body>
 </html>
