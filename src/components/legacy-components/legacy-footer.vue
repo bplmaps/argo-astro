@@ -55,9 +55,10 @@
 			</div>
 		</nav>
 		<div class="footer-logos">
-			<div class="logo"><img src="/images/NBLMEC_logo.png" alt="Levanthal Map Center Logo" /></div>
-			<div class="logo"><img src="/images/gwpl_logo.png" alt="George Washington Presidential Library Logo" /></div>
-			<div class="logo"><img src="/images/nhprc-logo-l.jpg" alt="National Archives Logo" /></div>
+			<img  />
+			<div class="logo"><img :src="logoNblmec.src" alt="Levanthal Map Center Logo" /></div>
+			<div class="logo"><img :src="logoGwpl.src" alt="George Washington Presidential Library Logo" /></div>
+			<div class="logo"><img :src="logoNhprc.src" alt="National Archives Logo" /></div>
 		</div>
 		<div class="footer-credits" data-embed="Footer: above credits">
 			<div class="credit" data-embed="Footer: credits left area"><p>
@@ -76,6 +77,9 @@
 
 <script>
 import Drawer from "./drawer.vue";
+import logoNblmec from "../../assets/NBLMEC_logo.png";
+import logoGwpl from "../../assets/gwpl_logo.png";
+import logoNhprc from "../../assets/nhprc-logo-l.jpg";
 
 export default {
 	components: {
@@ -83,6 +87,9 @@ export default {
 	},
 	data () {
 		return {
+			logoNblmec: logoNblmec,
+			logoGwpl: logoGwpl,
+			logoNhprc: logoNhprc,
 			maps: [],
 			drawer_results_visible: [],
 		}
