@@ -9,7 +9,7 @@ const entries = await getCollection('stories');
 ---
 <BaseLayout title={title}>
   <Title>{title}</Title>
-  <ul class="flex flex-wrap p-0 list-none -mx-5">
+  <ul class="flex flex-wrap p-0 list-none gap-y-5 -mx-5 lg:gap-y-10">
     {entries.map((entry) => (
       <li class="block w-full px-5 md:w-1/2">
         <LazyCard

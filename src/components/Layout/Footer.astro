@@ -1,0 +1,35 @@
+---
+import { Image } from "astro:assets";
+import Menu from '@components/Layout/Footer/Menu.astro';
+import Logo from "@assets/ARGO-logo-nav.svg";
+import LogoNBLMEC from "@assets/NBLMEC_logo.png";
+import LogoGWPL from "@assets/gwpl_logo.png";
+import LogoNHPRC from "@assets/nhprc-logo-l.jpg";
+---
+
+<footer class="bg-white container mx-auto mt-16 flex flex-col items-start flex-wrap gap-y-10 pt-10 lg:flex-row">
+  <div class="px-5 lg:w-1/6">
+    <a href="/">
+      <span class="sr-only">ARGO Home</span>
+      <Image src={Logo} alt="ARGO Logo" />
+    </a>
+  </div>
+  <nav class="px-5 lg:w-2/3">
+    <Menu />
+  </nav>
+  <div class="px-5 flex flex-col items-start lg:items-end gap-5 lg:w-1/6">
+    <Image class="block w-40 max-w-full" src={LogoNBLMEC} alt="Levanthal Map Center Logo" />
+    <Image class="block w-40 max-w-full" src={LogoGWPL} alt="George Washington Presidential Library Logo" />
+    <Image class="block w-40 max-w-full" src={LogoNHPRC} alt="National Archives Logo" />
+  </div>
+  <div class="w-full bg-bismark-500 text-white px-5 py-3 flex gap-2 flex-col sm:flex-row sm:justify-between sm:items-center">
+    <p class="flex gap-4 text-sm font-normal">
+      <a href="/maps/" class="text-inherit hover:underline">All Maps</a>
+      <a href="/facets/" class="text-inherit hover:underline">All Themes</a>
+      <a href="/search/" class="text-inherit hover:underline">Advanced Search</a>
+    </p>
+    <p>
+      Exhibition Site by <a href="/" class="text-inherit hover:underline">Byte</a>
+    </p>
+  </div>
+</footer>

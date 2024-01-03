@@ -1,0 +1,70 @@
+---
+import MenuDropdown from '@components/Layout/Footer/MenuDropdown.astro';
+const dropdowns = [
+  {
+    href: '/stories/',
+    text: 'Read Stories',
+    links: [
+      {
+        href: '/story-forgotten-theater/',
+        text: 'The Forgotten Theater of the American Revolution'
+      },
+      {
+        href: '/explore/exhibits-0/',
+        text: 'Mapping the Revolution'
+      },
+      {
+        href: '/explore/exhibits-1/',
+        text: 'George Washington’s Maps'
+      }
+    ]
+  },
+  {
+    href: '/facets/',
+    text: 'Explore by Themes',
+    links: [
+      {
+        href: '/people/',
+        text: 'People'
+      },
+      {
+        href: '/empires-and-nations/',
+        text: 'Nations & Empires'
+      },
+      {
+        href: '/explore/4features-2/',
+        text: 'Cartouches'
+      },
+      {
+        href: '/explore/4features-5/',
+        text: 'Animals'
+      }
+    ]
+  },
+  {
+    href: '/about/',
+    text: 'About ARGO',
+    links: [
+      {
+        href: '/about/',
+        text: 'About ARGO'
+      },
+      {
+        href: '/about-partner-institutions/',
+        text: 'Partner Institutions'
+      }
+    ]
+  },
+  {
+    href: '/educators/',
+    text: 'For Educators',
+  }
+]
+---
+{dropdowns &&
+  <ul class="flex flex-col gap-5 lg:flex-row">
+    {dropdowns && dropdowns.map((dropdown) => (
+      <MenuDropdown href={dropdown.href} text={dropdown.text} links={dropdown.links} />
+    ))}
+  </ul>
+}

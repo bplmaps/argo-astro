@@ -1,4 +1,4 @@
----
+<---
 import { getCollection } from "astro:content";
 import BaseLayout from "@layouts/BaseLayout.astro";
 import MapSwiper from '@components/MapSwiper.jsx';
@@ -29,19 +29,21 @@ const relatedMapPages = await getCollection('maps', ({ data }) => {
 <BaseLayout title={title}>
   <div>
     {entry.data.banner_image &&
-      <div class="filter-item-header-image" style={`background-image: url(${entry.data.banner_image})`}></div>
+      <div class="filter-item-header-image w-full h-80 bg-cover bg-center bg-no-repeat mb-12" style={`background-image: url(${entry.data.banner_image})`}></div>
     }
-		<div class="filter-item">
+		<div class="filter-item flex flex-col md:mb-0 md:flex-row">
       {allPeopleTags && allPeopleTags.length > 0 &&
-        <div class="side-nav">
+        <div class="side-nav px-4 py-5 mr-8 w-full bg-gray-100 self-baseline flex flex-col gap-x-1 gap-y-2 order-2 md:order-1 md:mt-28 md:w-auto md:min-w-64">
           {allPeopleTags.map((tag) => (
-            <details class="tag-genre">
-              <summary><div class="open-close-icon"></div>{tag}</summary>
-              <ul class="tag-results">
+            <details class="tag-genre relative block w-full text-base font-medium">
+              <summary class="list-none flex justify-between items-center cursor-pointer">
+                {tag}<div class="open-close-icon"></div>
+              </summary>
+              <ul class="tag-results list-none my-2 p-0 text-sm text-gray-800">
                 {allPeoplePages.map((person) => (
                   <>
                     {person.data.tags.includes(tag) &&
-                      <li class:list={[{ active: entry.slug === person.slug }]}>
+                      <li class:list={['border-l-8', 'pl-1', '-ml-3', { 'border-crimson-700' : entry.slug === person.slug }]}>
                         <a href={"/people/" + person.slug}>
                           {person.data.title}
                         </a>
@@ -54,16 +56,16 @@ const relatedMapPages = await getCollection('maps', ({ data }) => {
           ))}
         </div>
       }
-			<div class="item-content">
+			<div class="item-content min-w-0 order-1 md:order-2">
         <Title>{title}</Title>
         {entry.data.tags &&
-          <ul class="filters-applied">
+          <ul class="filters-applied list-none flex flex-wrap gap-x-1 gap-y-2 p-0 m-0">
             {entry.data.tags.map((tag) => (
-              <li>{tag}</li>
+              <li class="inline-block py-1 px-3 border border-gray-700 rounded-full bg-white text-gray-700">{tag}</li>
             ))}
           </ul>
         }
-				<article>
+				<article class="item-article mt-4">
           {entry.data.credit &&
             <p><strong>{entry.data.credit}</strong></p>
             <Content />
@@ -71,7 +73,7 @@ const relatedMapPages = await getCollection('maps', ({ data }) => {
 				</article>
         {relatedMapPages && relatedMapPages.length > 0 &&
           <aside>
-            <h2>Related maps</h2>
+            <h2 class="text-2xl font-semibold mt-6 mb-4">Related maps</h2>
             <MapSwiper mapPages={relatedMapPages} client:load />
           </aside>
         }
@@ -87,3 +89,75 @@ const relatedMapPages = await getCollection('maps', ({ data }) => {
 		</div>    
   </div>
 </BaseLayout>
+
+<style>
+.open-close-icon::after {
+	@apply block transform transition-transform duration-200 ease-out;
+
+	content: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMTlweCIgaGVpZ2h0PSIxMHB4IiB2aWV3Qm94PSIwIDAgMTkgMTAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8ZyBpZD0iMTI4MCIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIj4KICAgICAgICA8cG9seWxpbmUgaWQ9IlBhdGgtMyIgc3Ryb2tlPSIjNjE2MTYxIiBzdHJva2Utd2lkdGg9IjAuNSIgcG9pbnRzPSIxIDAuMjI3ODQwOTg0IDkuNSA5LjIyNzg0MDk4IDE4IDAuMjI3ODQwOTg0Ij48L3BvbHlsaW5lPgogICAgPC9nPgo8L3N2Zz4K);
+}
+.tag-genre[open] .open-close-icon::after {
+	@apply rotate-180;
+}
+.item-article sup a {
+  @apply no-underline;
+}
+.item-article figure {
+  @aply float-left mr-5 mb-2;
+}
+.item-article figure.img_left_50 {
+  @apply w-1/2;
+}
+.item-article figure.img_left_25 {
+  @apply w-1/4;
+}
+.item-article figure.img_right_50 {
+  @apply float-right w-1/2 ml-5 mr-0;
+}
+.item-article figure.img_right_25 {
+  @apply float-right w-1/4 ml-5 mr-0;
+}
+.item-article figure figcaption {
+  @apply text-sm font-light mt-1;
+}
+
+.item-article .footnote {
+  @apply list-none mb-6 mt-0 mx-0 p-0;
+}
+.item-article .footnote li {
+  @apply font-light flex relative mb-1;
+}
+.item-article .footnote li a {
+  @apply absolute -top-1;
+
+  font-size: 0.625rem;
+}
+.item-article .footnote li sup {
+  @apply min-w-2;
+}
+.item-article .footnote li p {
+  @apply mt-0 mx-0 mb-1;
+}
+@media only screen and (max-width: 605px) {
+	.item-article figure {
+    @apply float-none;
+	}
+}
+@media only screen and (max-width: 500px) {
+	.item-article figure {
+    @apply mx-0;
+	}
+	.item-article figure.img_left_50,
+	.item-article figure.img_right_50 {
+    @apply float-none w-full;
+	}
+	.item-article figure.img_left_25,
+	.item-article figure.img_right_25 {
+    @apply float-none w-1/2;
+	}
+	
+	.item-article figure img {
+    @apply w-full;
+	}
+}
+</style>>

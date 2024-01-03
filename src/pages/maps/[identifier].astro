@@ -1,7 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 import BaseLayout from "@layouts/BaseLayout.astro";
-import MetadataBlock from "@components/legacy-components/MetadataBlock.vue";
+import MetadataBlock from "@components/Maps/MetadataBlock.vue";
 import Title from '@components/Layout/Title.astro';
 
 // Generate a new path for every collection entry
@@ -38,8 +38,8 @@ facetEntries.forEach((facet) => {
 ---
 
 <BaseLayout title={title}>
-  <div class="map-result">
-    <div class="map-viewer bg-gray-100 mb-5">
+  <div class="map-result relative flex flex-wrap justify-around flex-col md:flex-row">
+    <div class="map-viewer bg-gray-100 mb-5 w-full h-[580px]">
       <span class="sr-only">{viewerManifest}</span>
     </div>
 
@@ -59,67 +59,212 @@ facetEntries.forEach((facet) => {
       </div>
       <div class="map-details-container map-details">
         <div class="related-material">
-          <h2>Metadata</h2>
+          <h2 class="text-xl mb-1">Metadata</h2>
           <MetadataBlock metadata={data.dcMetadata} />
         </div>
-        <div class="meta-info">
+        <div class="meta-info flex flex-col gap-y-4">
           {data.dcMetadata.related_item_isreferencedby_ssm &&
-            <h2>Collection Information</h2>
             <div>
+              <h2 class="text-xl mb-1">Collection Information</h2>
               <a
                 href={JSON.parse(data.dcMetadata.related_item_isreferencedby_ssm[0]).url}
                 target="_blank"
-                class="button-like primary no-arrow"
+                class="button"
               >
                 See this object’s record at {data.dcMetadata.institution_name_ssi}
               </a>
             </div>
           }
 
-          <h2>Tags</h2>
-          <ul class="tagged-with">
-            {data.dcMetadata.facetCategories && data.dcMetadata.facetCategories.map((tag) => (
-              <li>
-                <a href={"/facets/" + tag.facet + "/" + tag.id}>{tag.title}</a>
-              </li>
-            ))}
-          </ul>
+          <div>
+            <h2 class="text-xl mb-1">Tags</h2>
+            <ul class="flex flex-wrap gap-x-1 gap-y-2 text-sm">
+              {data.dcMetadata.facetCategories && data.dcMetadata.facetCategories.map((tag) => (
+                <li>
+                  <a href={"/facets/" + tag.facet + "/" + tag.id} class="inline-block py-1 px-3 bg-white text-bismark-500 border border-bismark-500 rounded-full transition-colors duration-300 ease-in-out hover:bg-bismark-500 hover:text-white">{tag.title}</a>
+                </li>
+              ))}
+            </ul>
+          </div>
 
           {data.dcMetadata.exemplary_image_ssi &&
-            <h2>Downloads</h2>
+            <div>
+              <h2 class="text-xl mb-1">Downloads</h2>
+              <div class="flex flex-wrap gap-x-1 gap-y-2">
+                <a
+                  href={"https://iiif.digitalcommonwealth.org/iiif/2/" + data.dcMetadata.exemplary_image_ssi + "/full/full/0/default.jpg"}
+                  class="button arrow"
+                  target="_blank">
+                  Large Image
+                </a>
 
-            <a
-              href={"https://iiif.digitalcommonwealth.org/iiif/2/" + data.dcMetadata.exemplary_image_ssi + "/full/full/0/default.jpg"}
-              class="button-like"
-              target="_blank">
-              Large Image
-            </a>
-
-            <a
-              href={"https://bpldcassets.blob.core.windows.net/derivatives/images/" + data.dcMetadata.exemplary_image_ssi + "/image_thumbnail_300.jpg"}
-              class="button-like"
-              target="_blank">
-              Small Image
-            </a>
+                <a
+                  href={"https://bpldcassets.blob.core.windows.net/derivatives/images/" + data.dcMetadata.exemplary_image_ssi + "/image_thumbnail_300.jpg"}
+                  class="button arrow"
+                  target="_blank">
+                  Small Image
+                </a>
+              </div>
+            </div>
           }
 
-          <h2>Digital Library</h2>
           <div>
-            <a
-              href={`https://collections.leventhalmap.org/search/${data.dcMetadata.id}/manifest.json`}
-              target="_blank"
-              class="button-like dark"
-              >IIIF Manifest</a
-            >
-            <a
-              href={`https://collections.leventhalmap.org/search/${data.dcMetadata.id}?format=json`}
-              target="_blank"
-              class="button-like dark"
-              >JSON Metadata</a
-            >
+            <h2 class="text-xl mb-1">Digital Library</h2>
+            <div class="flex flex-wrap gap-x-1 gap-y-2">
+              <a
+                href={`https://collections.leventhalmap.org/search/${data.dcMetadata.id}/manifest.json`}
+                target="_blank"
+                class="button arrow"
+                >IIIF Manifest</a
+              >
+              <a
+                href={`https://collections.leventhalmap.org/search/${data.dcMetadata.id}?format=json`}
+                target="_blank"
+                class="button arrow"
+                >JSON Metadata</a
+              >
+            </div>
           </div>
         </div>
       </div>
     </div>
   </div>
 </BaseLayout>
+
+<style>
+  .tify-header {
+    @apply sr-only;
+  }
+
+  .tify-black-bar {
+    @apply bg-gray-100 w-full;
+  }
+
+  .tify-black-bar .tify-map-title {
+    @apply w-2/3 p-3 m-auto text-black text-xl text-center whitespace-nowrap text-ellipsis overflow-hidden font-normal;
+  }
+  
+  ..map-details-container {
+    @apply max-w-5xl mx-auto my-0;
+  }
+
+  h2 {
+    @apply relative pl-4;
+  }
+  h2::before {
+    @apply absolute left-0 top-1/2 transform -translate-y-1/2 w-[10px] h-[10px] bg-brand-orange rounded-md;
+
+    content: " ";
+  }
+  .intro {
+    @apply text-lg;
+  }
+
+  .map-details {
+    @apply flex;
+  }
+
+  .related-material,
+  .meta-info {
+    width: calc(50% - 60px);
+  }
+  .meta-info {
+    @apply ml-10;
+  }
+
+  .meta-info .button.arrow::after {
+    @apply ml-2;
+
+    content: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iOXB4IiBoZWlnaHQ9IjExcHgiIHZpZXdCb3g9IjAgMCA5IDExIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPHRpdGxlPkdyb3VwIDM1PC90aXRsZT4KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI+CiAgICAgICAgPGcgaWQ9Ik1hcC1SZXN1bHRzX1Byb3Bvc2VkIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtNzY2LjAwMDAwMCwgLTEwODMuMDAwMDAwKSIgc3Ryb2tlPSIjRkZGRkZGIj4KICAgICAgICAgICAgPGcgaWQ9Ikdyb3VwLTExIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg2NzEuMjIxNjgwLCAxMDM1LjAwMDAwMCkiPgogICAgICAgICAgICAgICAgPGcgaWQ9Ikdyb3VwLTgiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAuMDAwMDAwLCAzNS4wMDAwMDApIj4KICAgICAgICAgICAgICAgICAgICA8ZyBpZD0iR3JvdXAtMzUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDk5LjA3NjI0NiwgMTguMjM4NDQ1KSBzY2FsZSgtMSwgMSkgcm90YXRlKC0yNzAuMDAwMDAwKSB0cmFuc2xhdGUoLTk5LjA3NjI0NiwgLTE4LjIzODQ0NSkgdHJhbnNsYXRlKDk0LjE3ODE4NSwgMTQuNDg4NDQ1KSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxsaW5lIHgxPSIwLjU4Mzc2MDg1NCIgeTE9IjMuNzUiIHgyPSI5LjAxMjU1ODU0IiB5Mj0iMy43NSIgaWQ9IkxpbmUtMTIiPjwvbGluZT4KICAgICAgICAgICAgICAgICAgICAgICAgPHBvbHlsaW5lIGlkPSJQYXRoLTE0IiBwb2ludHM9IjYuMDQ2MTIxMzYgMCA5Ljc5NjEyMTM2IDMuNzUgNi4wNDYxMjEzNiA3LjUiPjwvcG9seWxpbmU+CiAgICAgICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=");
+  }
+
+  .related-material h3 {
+    @apply text-base font-medium relative pl-6 mb-2;
+  }
+
+  .related-material h3::before {
+    @apply absolute left-0 bg-contain bg-no-repeat;
+
+    content: " ";
+  }
+
+  .related-material .digital-talks h3::before {
+    @apply w-5 h-4;
+
+    top: calc(50% - 8px);
+    background-image: url("/images/map_result_digital_talks.svg");
+  }
+
+  .related-material .reference-essays h3::before {
+    @apply w-4 h-5;
+
+    top: calc(50% - 10px);
+    background-image: url("/images/map_result_reference_essays.svg");
+  }
+
+  .related-material .maps h3 {
+    @apply mb-4;
+  }
+
+  .related-material .maps h3::before {
+    @apply w-5 h-5;
+
+    top: calc(50% - 10px);
+    background-image: url("/images/map_result_map_icon.svg");
+  }
+
+  .related-material .digital-talks,
+  .related-material .reference-essays {
+    @aply mb-6;
+  }
+
+  .related-material .digital-talks ul,
+  .related-material .reference-essays ul {
+    @apply list-none m-0 p-0 text-sm font-light;
+  }
+
+  .related-material .digital-talks ul li,
+  .related-material .reference-essays ul li {
+    @apply relative pl-6;
+  }
+
+  .related-material .digital-talks ul li::before,
+  .related-material .reference-essays ul li::before {
+    @apply absolute left-0 top-1/2 transform -translate-y-1/2 w-[10px] h-[10px] border border-gray-200 rounded-full;
+  }
+
+  .maps ul {
+    @apply list-none m-0 p-0 flex flex-wrap justify-between;
+  }
+
+  .maps ul li {
+    @apply mb-4 bg-white border border-bismark-500 rounded;
+  }
+
+  .maps ul li p {
+    @apply m-0 p-2 text-xs rounded;
+  }
+
+  @media only screen and (max-width: 767.98px) {
+    .map-titles {
+      width: calc(100% - 30px);
+    }
+
+    .related-material, 
+    .meta-info {
+      @apply w-full my-0 mx-auto;
+
+      max-width: calc(100vw - 30px);
+    }
+
+    .meta-info {
+      @apply mt-1;
+    }
+  }
+
+  @media only screen and (max-width: 500px) {
+    .related-material .maps ul li {
+      width: 100%;
+    }
+  }
+</style>

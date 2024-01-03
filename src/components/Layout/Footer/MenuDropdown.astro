@@ -1,0 +1,29 @@
+---
+import MenuItem from '@components/Layout/Footer/MenuItem.astro';
+
+const { href, text, links } = Astro.props;
+
+interface Link {
+  href: string;
+  text: string;
+}
+
+interface Props {
+  href: string;
+  text: string;
+  links?: Link[];
+}
+---
+
+<li class="text-base lg:w-full">
+  <a href={href} class="inline-block font-heading font-normal text-bismark-500 border-brand-orange border-b-2 mb-4 hover:text-brand-orange">{text}</a>
+  {links &&
+    <div class="nav-dropdown">
+      <ul class="dropdown-content flex flex-col gap-2">
+        {links && links.map((link) => (
+          <MenuItem href={link.href} text={link.text} />
+        ))}
+      </ul>
+    </div>
+  }
+</li>
