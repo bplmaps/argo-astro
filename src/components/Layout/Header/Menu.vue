@@ -8,7 +8,7 @@ import MenuItem from '@components/Layout/Header/MenuItem.vue';
     <span v-for="index in 3" :key="index" class="line block w-full bg-white h-[2px] rounded-[1px]" />
   </button>
   <nav :class="['w-full lg:w-auto lg:flex', {'hidden' : !active, 'flex' : active}]" id="site-navigation">
-    <ul class="flex gap-6 flex-col w-full text-base lg:text-lg lg:w-auto lg:flex-row">
+    <ul class="flex gap-6 flex-col w-full text-base text-bismark-500 font-heading lg:text-lg lg:w-auto lg:flex-row">
       <MenuItem v-for="link in links" :href="link.href" :text="link.text" />
     </ul>
   </nav>
