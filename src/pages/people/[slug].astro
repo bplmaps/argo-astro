@@ -61,7 +61,7 @@ const relatedMapPages = await getCollection('maps', ({ data }) => {
         {entry.data.tags &&
           <ul class="filters-applied list-none flex flex-wrap gap-x-1 gap-y-2 p-0 m-0">
             {entry.data.tags.map((tag) => (
-              <li class="inline-block py-1 px-3 border border-gray-700 rounded-full bg-white text-gray-700">{tag}</li>
+              <li class="inline-block py-1 px-3 whitespace-nowrap border border-gray-700 rounded-full bg-white text-gray-700">{tag}</li>
             ))}
           </ul>
         }
