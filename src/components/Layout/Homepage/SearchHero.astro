@@ -1,22 +1,32 @@
 ---
 import { Image } from "astro:assets";
+import backgroundCartoucheMobile from "@assets/argo-cartouch-bg-mobile.png";
 import backgroundCartouche from "@assets/cartouche-bg.webp";
 import heroSearchBg from "@assets/herosearch-bg.jpg";
 import WLLogo from "@assets/WashingtonLibrary-logo.png";
 import LMECLogo from "@assets/LMEC-logo.webp";
 ---
 
-<div class="relative isolate overflow-hidden bg-gray-900 px-6 py-24 sm:py-32 lg:px-8">
+<div class="relative isolate overflow-hidden bg-gray-900 -mx-5 py-8 sm:mx-auto sm:py-12 lg:px-8">
   <Image src={heroSearchBg} alt="Background image of a map" class="absolute inset-0 -z-10 h-full w-full object-cover" />
     
-    <div class="mx-auto max-w-2xl text-center">
-      <div></div>
-        <Image src={backgroundCartouche} alt="Cartouche backgorund image" class="absolute inset-0 -z-10 mx-auto" />
-      <h2 class="text-2xl tracking-tight text-brand-orange sm:text-4xl font-heading">Explore the Legacy of Our Revolutionary Past</h2>
-      <p class="mt-6 text-lg leading-8 text-bra">Search bar here</p>
+    <div class="relative mx-auto max-w-sm text-center px-6 pt-[4.5rem] pb-[4.5rem] md:max-w-full md:pt-24 lg:pt-32">
+      <Image src={backgroundCartoucheMobile} alt="Cartouche backgorund image" class="absolute inset-0 -z-10 mx-auto md:hidden" />
+      <Image src={backgroundCartouche} alt="Cartouche backgorund image" class="absolute inset-0 -z-10 mx-auto hidden md:block" />
+      <h2 class="text-xl tracking-tight leading-tight text-brand-orange font-heading mx-auto md:text-3xl md:max-w-md">Explore the Legacy of Our Revolutionary Past</h2>
+      <p class="text-sm tracking-tight leading-tight px-4 mt-1 mx-auto md:text-lg md:leading-tight md:max-w-lg lg:mt-4">In American Revolutionary Geographies Online, discover the stories, spaces, and people of the American Revolutionary War era through maps, interpretive essays, and interactives.</p>
+      <div class="relative mx-auto max-w-full w-64 mt-1 md:w-full md:max-w-md lg:mt-4">
+        <input class="border border-bismark-500 text-base pl-2 pr-10 py-1 rounded w-full" type="search" placeholder="Search" />
+        <button class="flex justify-center items-center absolute top-1/2 right-0 transform -translate-y-1/2 mr-1 bg-bismark-500 text-white rounded p-1" type="submit">
+          <span class="sr-only">Search</span>
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-4 h-4 stroke-current">
+            <path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" />
+          </svg>
+        </button>
+      </div>
     </div>
-    <div>
-      <Image src={LMECLogo} alt="Leventhal Map & Education Center Logo" width="400" />
-      <Image src={WLLogo} alt="Washington Library Logo" width="400" />
+    <div class="flex w-full max-w-md mx-auto md:mt-20">
+      <Image src={WLLogo} alt="Washington Library Logo" class="w-1/2 px-2 h-auto self-center" />
+      <Image src={LMECLogo} alt="Leventhal Map & Education Center Logo" class="w-1/2 px-2 h-auto self-center" />
     </div>
   </div>
