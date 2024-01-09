@@ -1,8 +1,8 @@
 import { Navigation, Pagination } from 'swiper/modules';
-import { Swiper, SwiperSlide } from 'swiper/react'
-import MapSwiperSlide from '@components/MapSwiperSlide.jsx'
-import '../../node_modules/swiper/swiper.min.css'
-import '../../node_modules/swiper/modules/navigation.min.css'
+import { Swiper, SwiperSlide } from 'swiper/react';
+import MapSwiperSlide from '@components/MapSwiperSlide.jsx';
+import '../../node_modules/swiper/swiper.min.css';
+import '../../node_modules/swiper/modules/navigation.min.css';
 
 export default (props) => {
   if (props.mapPages) {

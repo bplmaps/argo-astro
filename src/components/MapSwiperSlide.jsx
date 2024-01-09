@@ -1,5 +1,3 @@
-import { SwiperSlide } from 'swiper/react'
-
 export default (props) => {
   return (
     <>

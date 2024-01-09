@@ -2,6 +2,7 @@
 import { getCollection } from "astro:content";
 import BaseLayout from "@layouts/BaseLayout.astro";
 import MetadataBlock from "@components/Maps/MetadataBlock.vue";
+import MapViewer from "@components/Maps/MapViewer.jsx";
 import Title from '@components/Layout/Title.astro';
 
 // Generate a new path for every collection entry
@@ -39,9 +40,7 @@ facetEntries.forEach((facet) => {
 
 <BaseLayout title={title}>
   <div class="map-result relative flex flex-wrap justify-around flex-col md:flex-row">
-    <div class="map-viewer bg-gray-100 mb-5 w-full h-[580px]">
-      <span class="sr-only">{viewerManifest}</span>
-    </div>
+    <MapViewer manifest={viewerManifest} client:only="react" />
 
     <div>
       <div class="map-details-container">
