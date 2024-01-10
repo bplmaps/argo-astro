@@ -2,7 +2,7 @@ import Viewer from '@samvera/clover-iiif/viewer';
 
 export default (props) => {
   return (
-    <div className="map-viewer mb-5 w-full">
+    <div className="map-viewer mb-5 w-full flex items-center justify-center min-h-[580px] text-2xl">
       <span className="sr-only">{props.manifest}</span>
       <Viewer
         iiifContent={props.manifest}
