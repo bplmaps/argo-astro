@@ -1,0 +1,13 @@
+diff --git a/node_modules/@iiif/vault/dist/esm/index.mjs b/node_modules/@iiif/vault/dist/esm/index.mjs
+index 89727d8..72285a8 100644
+--- a/node_modules/@iiif/vault/dist/esm/index.mjs
++++ b/node_modules/@iiif/vault/dist/esm/index.mjs
+@@ -51,6 +51,8 @@ const batchActions = createAction(BATCH_ACTIONS)();
+ createAction(BATCH_IMPORT)();
+ 
+ const actionListFromResource = (id, response) => {
++  response.id = id;
++  response["@id"] = id;
+   const { entities, resource, mapping } = normalize(response);
+   if (resource.id === void 0) {
+     return [requestError({ id, message: "ID is not defined in resource." })];
