@@ -5,8 +5,7 @@
 	@apply inline-block py-1 px-2 bg-bismark-500 text-white no-underline rounded transition-colors duration-300 ease-in-out hover:bg-bismark-700;
 }
 
-/* Markdown */
-.markdown .card {
+.markdown > astro-island > .card {
 	@apply max-w-sm mb-4;
 }
 
