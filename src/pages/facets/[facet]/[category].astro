@@ -2,7 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from "@layouts/BaseLayout.astro";
 import FacetHeader from "@components/FacetHeader.astro";
-import FacetGrid from "@components/FacetGrid.astro";
+import CollectionGrid from "@components/CollectionGrid.astro";
 
 // Generate a new path for every collection entry
 export async function getStaticPaths() {
@@ -31,6 +31,6 @@ const results = entry.entries;
   <div class="filter">
     <FacetHeader facet={facet} facetCategories={facetCategories} currentFacetCategory={entry} />
     <h2 class="text-xl mt-6 font-semibold">Maps</h2>
-    <FacetGrid results={results} />
+    <CollectionGrid identifiers={results} />
   </div>
 </BaseLayout>

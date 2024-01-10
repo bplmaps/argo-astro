@@ -2,16 +2,16 @@
 import CollectionCard from "@components/CollectionCard.astro";
 
 interface Props {
-  results: array;
+  identifiers: array;
 }
 
-const { results } = Astro.props;
+const { identifiers } = Astro.props;
 ---
 
 <ul class="flex gap-y-5 flex-wrap p-0 list-none filter-list -mx-5 lg:gap-y-10">
-  {results.map((result) => (
+  {identifiers.map((identifier) => (
     <li class="filter-result flex w-full px-5 lg:w-1/3">
-      <CollectionCard identifier={result} />
+      <CollectionCard identifier={identifier} />
     </li>
   ))}
 </ul>
