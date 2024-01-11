@@ -16,7 +16,9 @@ export async function getStaticPaths() {
 
 const data = Astro.props.data;
 const title = data.dcMetadata.title_info_primary_tsi;
-const viewerManifest = 'https://collections.leventhalmap.org/search/' + data.dcMetadata.id + '/manifest.json';
+
+// temporary fix to manually handle Digital Commonwealth manifests while ARK redirects are still not working with Clover-IIIF
+const viewerManifest =  data.dcMetadata.identifier_iiif_manifest_ss.includes('ark.digitalcommonwealth') ? 'https://collections.leventhalmap.org/search/' + data.dcMetadata.id + '/manifest.json' : data.dcMetadata.identifier_iiif_manifest_ss;
 
 data.dcMetadata.facetCategories = [];
 
@@ -111,7 +113,7 @@ facetEntries.forEach((facet) => {
             <h2 class="text-xl mb-1">Digital Library</h2>
             <div class="flex flex-wrap gap-x-1 gap-y-2">
               <a
-                href={`https://collections.leventhalmap.org/search/${data.dcMetadata.id}/manifest.json`}
+                href={viewerManifest}
                 target="_blank"
                 class="button arrow"
                 >IIIF Manifest</a
