@@ -59,6 +59,7 @@ const maps = defineCollection({
             subject_geographic_sim: z.array(z.string()).optional(),
             date_facet_yearly_itim: z.array(z.number()),
             score: z.number(),
+            identifier_iiif_manifest_ss: z.string().optional()
         }),
     }),
 })
