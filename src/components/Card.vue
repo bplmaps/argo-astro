@@ -24,7 +24,7 @@
 import { ref } from 'vue';
 
 export default {
-	name: 'LazyCard',
+	name: 'Card',
 	props: [
     'className',
     'title',
