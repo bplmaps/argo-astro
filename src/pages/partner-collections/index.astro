@@ -1,0 +1,30 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Title from '@components/Layout/Title.astro';
+import LazyCard from '@components/LazyCard.vue';
+
+const title = 'Partner Collections';
+const entries = await getCollection('partner-collections');
+
+
+---
+<BaseLayout title={title}>
+  <Title>{title}</Title>
+  <ul class="flex flex-wrap p-0 list-none gap-y-5 -mx-5 lg:gap-y-10">
+    {entries.map((entry) => (
+      <li class="block w-full px-5 md:w-1/2">
+        <LazyCard
+          client:visible
+          title={ entry.data.title_info_primary_ssi }
+          link={{
+            href: '/partner-collections/' + entry.id,
+            text: 'All items'
+          }}
+          image={`https://iiif.digitalcommonwealth.org/iiif/2/${entry.data.exemplary_image_ssi}/full/pct:25/0/default.jpg`}
+        />
+        
+      </li>
+    ))}
+  </ul>
+</BaseLayout>
