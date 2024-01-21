@@ -7,6 +7,11 @@ export default (props) => {
       <Viewer
         iiifContent={props.manifest}
         options={{
+          openSeadragon: {
+            gestureSettingsMouse: {
+              scrollToZoom: false,
+            }
+          },
           canvasHeight: '580px',
           showTitle: false,
           showIIIFBadge: false,
