@@ -8,12 +8,13 @@ interface Props {
 }
 
 const { className, identifier } = Astro.props;
-const record = await getEntry("maps", identifier);
+const cleanIdentifier = identifier.replace("__",":")
+const record = await getEntry("maps", identifier.replace(":","__"));
 
 const title = record.data.dcMetadata.title_info_primary_tsi;
 const subtitle = record.data.dcMetadata.title_info_primary_subtitle_tsi;
 const linkText = 'See map';
-const linkHref = `/maps/${identifier}`;
+const linkHref = `/maps/${cleanIdentifier}`;
 const image = `https://bpldcassets.blob.core.windows.net/derivatives/images/${record.data.dcMetadata.exemplary_image_ssi}/image_thumbnail_300.jpg`;
 ---
 
