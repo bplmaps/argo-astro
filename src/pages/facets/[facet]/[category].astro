@@ -31,6 +31,6 @@ const results = entry.entries;
   <div class="filter">
     <FacetHeader facet={facet} facetCategories={facetCategories} currentFacetCategory={entry} />
     <h2 class="text-xl mt-6 font-semibold">Maps</h2>
-    <CollectionGrid identifiers={results} />
+    <CollectionGrid contentType="maps" columns={3} identifiers={results} />
   </div>
 </BaseLayout>

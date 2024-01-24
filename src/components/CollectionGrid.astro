@@ -1,17 +1,74 @@
 ---
-import CollectionCard from "@components/CollectionCard.astro";
+import FacetCard from "@components/Cards/Facet.astro";
+import MapCard from "@components/Cards/Map.astro";
+import PersonCard from "@components/Cards/Person.astro";
+import StoryCard from "@components/Cards/Story.astro";
 
 interface Props {
+  className: string;
+  cardClassName: string;
+  title: string;
+  columns: number;
+  contentType: string,
   identifiers: array;
 }
 
-const { identifiers } = Astro.props;
+const { className, cardClassName, title, columns, contentType, identifiers } = Astro.props;
+
+let columnClassName = "";
+
+switch (columns) {
+  case 2:
+    columnClassName = "lg:w-1/2";
+    break;
+  case 3:
+    columnClassName = "lg:w-1/3";
+    break;
+  case 4:
+    columnClassName = "lg:w-1/4";
+    break;
+  case 5:
+    columnClassName = "lg:w-1/5";
+    break;
+  case 6:
+    columnClassName = "lg:w-1/6";
+    break;
+}
 ---
 
-<ul class="flex gap-y-5 flex-wrap p-0 list-none filter-list -mx-5 lg:gap-y-10">
+{title &&
+  <h2 class="">
+    {title}
+  </h2>
+}
+
+<ul class={`flex gap-y-5 flex-wrap p-0 list-none filter-list -mx-5 lg:gap-y-10 ${className}`}>
   {identifiers.map((identifier) => (
-    <li class="filter-result flex w-full px-5 lg:w-1/3">
-      <CollectionCard identifier={identifier} />
+    <li class={`filter-result flex w-full px-5 ${columnClassName}`}>
+      {contentType === 'facets' &&
+        <FacetCard
+          className={cardClassName}
+          identifier={identifier}
+        />
+      }
+      {contentType === 'maps' &&
+        <MapCard
+          className={cardClassName}
+          identifier={identifier}
+        />
+      }
+      {contentType === 'people' &&
+        <PersonCard
+          className={cardClassName}
+          identifier={identifier}
+        />
+      }
+      {contentType === 'stories' &&
+        <StoryCard
+          className={cardClassName}
+          identifier={identifier}
+        />
+      }
     </li>
   ))}
 </ul>

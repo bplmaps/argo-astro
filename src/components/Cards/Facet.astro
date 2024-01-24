@@ -1,0 +1,30 @@
+---
+import { getEntry } from "astro:content";
+import Card from "@components/Card.vue";
+
+interface Props {
+  className: string;
+  identifier: string;
+}
+
+const { className, identifier } = Astro.props;
+const entry = await getEntry("facets", identifier);
+
+const title = entry.data.title;
+const subtitle = entry.data.short_description;
+const linkText = "Read more";
+const linkHref = `/facets/${entry.id}`;
+const image = entry.data.banner_image;
+---
+
+<Card
+  client:visible
+  className={className}
+  title={title}
+  subtitle={subtitle}
+  link={{
+    href: linkHref,
+    text: linkText
+  }}
+  image={image}
+/>
