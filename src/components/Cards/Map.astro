@@ -1,0 +1,31 @@
+---
+import { getEntry } from "astro:content";
+import Card from "@components/Card.vue";
+
+interface Props {
+  className: string;
+  identifier: string;
+}
+
+const { className, identifier } = Astro.props;
+const cleanIdentifier = identifier.replace("__",":")
+const entry = await getEntry("maps", identifier.replace(":","__"));
+
+const title = entry.data.dcMetadata.title_info_primary_tsi;
+const subtitle = entry.data.dcMetadata.title_info_primary_subtitle_tsi;
+const linkText = 'See map';
+const linkHref = `/maps/${cleanIdentifier}`;
+const image = `https://bpldcassets.blob.core.windows.net/derivatives/images/${entry.data.dcMetadata.exemplary_image_ssi}/image_thumbnail_300.jpg`;
+---
+
+<Card
+  client:visible
+  className={className}
+  title={title}
+  subtitle={subtitle}
+  link={{
+    href: linkHref,
+    text: linkText
+  }}
+  image={image}
+/>
