@@ -23,6 +23,6 @@ facetCategories.forEach((category) => {
   <div class="filter">
     <FacetHeader facet={entry} facetCategories={facetCategories} />
     <h2 class="text-xl mt-6 font-semibold">Maps</h2>
-    <CollectionGrid identifiers={results} />
+    <CollectionGrid contentType="maps" columns={3} identifiers={results} />
   </div>
 </BaseLayout>

@@ -9,7 +9,7 @@ import Title from '@components/Layout/Title.astro';
 export async function getStaticPaths() {
   const mapsPage = await getCollection("maps");
   return mapsPage.map((d) => ({
-    params: { identifier: d.id },
+    params: { identifier: d.id.replace("__",":") },
     props: d,
   }));
 }
