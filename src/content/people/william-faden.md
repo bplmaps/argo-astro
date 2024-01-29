@@ -1,5 +1,5 @@
 ---
-banner_image: https://www.argomaps.org/https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vq195/220,774,2028,1163/858,/0/default.jpg
+banner_image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vq195/224,293,2077,1311/,1200/0/default.jpg
 bio_dates: 1749-1836
 credit: "Biography written by\_Emily Irvine"
 related_maps:
