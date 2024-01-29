@@ -1,5 +1,5 @@
 ---
-banner_image: https://www.argomaps.org//content/people/people_12_image_compress_100.jpg
+banner_image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n831r/117,2608,2320,1218/,1200/0/default.jpg
 bio_dates: 1735-1780
 credit: "Biography written by\_Anna Jett"
 related_maps:
