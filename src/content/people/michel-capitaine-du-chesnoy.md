@@ -1,5 +1,5 @@
 ---
-banner_image: https://www.argomaps.org//content/people/people_18_image_compress_100.jpg
+banner_image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vw196/8076,4356,3525,1583/,1200/0/default.jpg
 bio_dates: 1746-1804
 credit: Biography written by Brennan Owens
 related_maps:
