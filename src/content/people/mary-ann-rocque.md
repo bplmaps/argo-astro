@@ -1,5 +1,5 @@
 ---
-banner_image: https://www.argomaps.org//content/people/people_6_image_compress_100.jpg
+banner_image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161g60b/1571,8421,2907,1228/,1200/0/default.jpg
 bio_dates: c.1725-aft.1770
 credit: "Biography written by\_Lucy Horowitz"
 related_maps:
