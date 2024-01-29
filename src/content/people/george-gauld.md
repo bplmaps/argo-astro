@@ -1,5 +1,5 @@
 ---
-banner_image: https://www.argomaps.org//content/people/people_13_image_compress_100.jpg
+banner_image: https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:8328:WCL008397/5160,452,9161,4394/,1200/0/default.jpg
 bio_dates: 1731-1789
 credit: "Biography written by\_John Prather"
 related_maps:
