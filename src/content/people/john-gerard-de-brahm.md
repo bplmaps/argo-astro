@@ -1,5 +1,5 @@
 ---
-banner_image: https://www.argomaps.org//content/people/people_10_image_compress_100.jpg
+banner_image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nf03m/186,1386,5038,2368/,1200/0/default.jpg
 bio_dates: 1718-c.1799
 credit: Biography written by Isabella Henderson
 related_maps:
