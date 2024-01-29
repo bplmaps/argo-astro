@@ -1,5 +1,5 @@
 ---
-banner_image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vp05m/206,2046,2899,1274/full/0/default.jpg
+banner_image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vp05m/206,2046,2899,1274/,1200/0/default.jpg
 bio_dates: c.1764-1828
 credit: ''
 related_maps:
