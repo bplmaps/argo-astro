@@ -1,5 +1,5 @@
 ---
-banner_image: https://www.argomaps.org//content/people/people_4_image_compress_100.jpg
+banner_image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524mv089/884,865,4346,2125/,1200/0/default.jpg
 bio_dates: 1736-1802
 credit: "Biography written by\_Justin McCulloch"
 related_maps:
