@@ -8,11 +8,12 @@ interface Props {
 }
 
 const { className, identifier } = Astro.props;
-const entry = await getEntry("partner-collections", identifier);
+const cleanIdentifier = identifier.replace("__",":")
+const entry = await getEntry("partner-collections", identifier.replace(":","__"));
 
 const title = entry.data.title_info_primary_ssi;
 const linkText = "All items";
-const linkHref = `/partner-collections/${entry.id}`;
+const linkHref = `/partner-collections/${cleanIdentifier}`;
 const image = `https://iiif.digitalcommonwealth.org/iiif/2/${entry.data.exemplary_image_ssi}/full/pct:25/0/default.jpg`;
 ---
 

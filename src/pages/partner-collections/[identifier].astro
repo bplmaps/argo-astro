@@ -8,7 +8,7 @@ import CollectionGrid from "@components/CollectionGrid.astro";
 export async function getStaticPaths() {
   const partnerEntries = await getCollection('partner-collections');
   return partnerEntries.map((d) => ({
-    params: { identifier: d.id },
+    params: { identifier: d.id.replace("__",":") },
     props: d,
   }));
 }
