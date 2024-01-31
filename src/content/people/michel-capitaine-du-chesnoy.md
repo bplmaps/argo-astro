@@ -1,5 +1,5 @@
 ---
-banner_image: https://www.argomaps.org//content/people/people_18_image_compress_100.jpg
+banner_image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vw196/8076,4356,3525,1583/,1200/0/default.jpg
 bio_dates: 1746-1804
 credit: Biography written by Brennan Owens
 related_maps:
@@ -23,7 +23,7 @@ title: Michel Capitaine du Chesnoy
 
 <figure class="img_left_50"><a href="/maps/commonwealth:q524nd555"><img alt="Detail of a manuscript map showing the title, an index key, and part of a shoreline. Limited detail is show, including the slope of the shore and some trees. The water is colored blue." src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nk513/77,4128,2990,2000/500,/0/default.jpg" /></a>
 
-<figcaption>Fetail from Captiaine du Chesnoy&#39;s 1777 map <em>Plan of Carillon ou [sic] Ticonderoga</em></figcaption>
+<figcaption>Detail from Captiaine du Chesnoy&#39;s 1777 map <em>Plan of Carillon ou [sic] Ticonderoga</em></figcaption>
 </figure>
 
 <p>The map is unique, as Capitaine created the battlefield map through a combination of reconnaissance accounts and secondary maps without visiting the area. When the British occupied Fort Ticonderoga in October 1777, Lafayette was in Pennsylvania and Capitaine was in North Carolina. Unlike many of Capitaine&rsquo;s maps, the map&rsquo;s legend is largely in English, as the English-speaking Americans fighting at Saratoga were its primary audience.</p>

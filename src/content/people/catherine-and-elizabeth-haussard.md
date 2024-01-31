@@ -1,5 +1,5 @@
 ---
-banner_image: https://www.argomaps.org//content/people/people_16_image_compress_100.jpg
+banner_image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z890s302k/641,8186,1560,689/,1200/0/default.jpg
 bio_dates: c.1740s-late 1700s
 credit: Biography written by Katie Davis
 related_maps:

@@ -1,5 +1,5 @@
 ---
-banner_image: https://www.argomaps.org//content/people/people_14_image_compress_100.jpg
+banner_image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524mt69t/6312,6941,8728,3981/,1200/0/default.jpg
 bio_dates: 1708-1757
 credit: "Biography written by\_Brett Martin"
 related_maps:

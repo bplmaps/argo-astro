@@ -1,5 +1,5 @@
 ---
-banner_image: https://www.argomaps.org//content/people/people_35_image_compress_100.jpg
+banner_image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vj02z/190,2506,3497,1576/,1200/0/default.jpg
 bio_dates: 1720-1784
 credit: ''
 related_maps:
