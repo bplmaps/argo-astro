@@ -1,0 +1,31 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Title from '@components/Layout/Title.astro';
+import CollectionGrid from "@components/CollectionGrid.astro";
+
+// Generate a new path for every collection entry
+export async function getStaticPaths() {
+  const partnerEntries = await getCollection('partner-collections');
+  return partnerEntries.map((d) => ({
+    params: { identifier: d.id.replace("__",":") },
+    props: d,
+  }));
+}
+
+const entryData = Astro.props.data;
+const title = entryData.title_info_primary_tsi;
+const entries = await getCollection('maps', ({ data }) => {
+  return data.dcMetadata.collection_ark_id_ssim.includes(entryData.id);
+});
+const identifiers = entries.map((entry) => (
+  entry.id
+));
+---
+<BaseLayout title={title}>
+  <div class="markdown mb-5 lg:mb-10">
+    <Title>{title}</Title>
+    <div set:html={entryData.abstract_tsi} />
+  </div>
+  <CollectionGrid contentType="maps" columns={3} identifiers={identifiers} />
+</BaseLayout>

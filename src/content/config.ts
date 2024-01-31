@@ -101,9 +101,14 @@ const facets = defineCollection({
     }),
 })
 
+const partnerCollections = defineCollection({
+    type: 'data'
+})
+
 export const collections = {
     'maps': maps,
     'people': people,
     'stories': stories,
-    'facets': facets
+    'facets': facets,
+    'partner-collections': partnerCollections
 }

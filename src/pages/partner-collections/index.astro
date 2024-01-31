@@ -1,0 +1,17 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Title from '@components/Layout/Title.astro';
+import CollectionGrid from "@components/CollectionGrid.astro";
+
+const title = 'Partner Collections';
+const entries = await getCollection('partner-collections');
+const identifiers = entries.map((entry) => (
+  entry.id
+));
+
+---
+<BaseLayout title={title}>
+  <Title>{title}</Title>
+  <CollectionGrid contentType="partner-collection" columns={3} identifiers={identifiers} />
+</BaseLayout>

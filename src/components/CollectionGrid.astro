@@ -1,6 +1,8 @@
 ---
 import FacetCard from "@components/Cards/Facet.astro";
 import MapCard from "@components/Cards/Map.astro";
+import PartnerCollection from "@components/Cards/PartnerCollection.astro";
+import PartnerCollectionCard from "@components/Cards/PartnerCollection.astro";
 import PersonCard from "@components/Cards/Person.astro";
 import StoryCard from "@components/Cards/Story.astro";
 
@@ -53,6 +55,12 @@ switch (columns) {
       }
       {contentType === 'maps' &&
         <MapCard
+          className={cardClassName}
+          identifier={identifier}
+        />
+      }
+      {contentType === 'partner-collection' &&
+        <PartnerCollection
           className={cardClassName}
           identifier={identifier}
         />
