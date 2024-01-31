@@ -4,8 +4,6 @@ import Title from '@components/Layout/Title.astro';
 interface Props {
   facet: object;
   facetCategories: object;
-  facetCategories: object;
-  facetCategories: object;
   currentFacetCategory: object;
 }
 
@@ -16,11 +14,11 @@ const { facet, facetCategories, currentFacetCategory } = Astro.props;
   <Title>{currentFacetCategory ? <span class="block text-lg font-medium">{facet.data.title}: </span><span>{currentFacetCategory.title}</span> : facet.data.title}</Title>
   <ul class="flex flex-wrap gap-1">
     <li>
-      <a class={`inline-block py-1 px-3 whitespace-nowrap border border-bismark-500 rounded-full transition-colors duration-300 ease-in-out hover:bg-bismark-500 hover:text-white ${!currentFacetCategory ? 'bg-bismark-500 text-white' : 'bg-white text-bismark-500'}`} href={'/facets/' + facet.id}>All</a>
+      <a class={`pill ${!currentFacetCategory && 'pill-active'}`} href={'/facets/' + facet.id}>All</a>
     </li>
     {facetCategories.map((category) => (
       <li>
-        <a class={`inline-block py-1 px-3 whitespace-nowrap border border-bismark-500 rounded-full transition-colors duration-300 ease-in-out hover:bg-bismark-500 hover:text-white ${currentFacetCategory && currentFacetCategory.id === category.id ? 'bg-bismark-500 text-white' : 'bg-white text-bismark-500'}`} href={'/facets/' + facet.id + '/' + category.id}>{category.title}</a>
+        <a class={`pill ${currentFacetCategory && currentFacetCategory.id === category.id && 'pill-active'}`} href={'/facets/' + facet.id + '/' + category.id}>{category.title}</a>
       </li>
     ))}
   </ul>

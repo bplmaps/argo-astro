@@ -1,11 +1,16 @@
 ---
+import { getEntry } from "astro:content";
+
 import BaseLayout from "@layouts/BaseLayout.astro";
 import Title from '@components/Layout/Title.astro';
 import SearchHero from '@components/Layout/Homepage/SearchHero.astro'
+import Timeline from '@components/Layout/Homepage/Timeline.vue'
 
 const title = 'Home';
+const timelineData = await getEntry("timeline", "timeline");
 ---
 
 <BaseLayout title={title}>
   <SearchHero />
+  <Timeline data={timelineData.data} client:load />
 </BaseLayout>

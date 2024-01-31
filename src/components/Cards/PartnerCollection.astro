@@ -1,0 +1,29 @@
+---
+import { getEntry } from "astro:content";
+import Card from "@components/Card.vue";
+
+interface Props {
+  className: string;
+  identifier: string;
+}
+
+const { className, identifier } = Astro.props;
+const cleanIdentifier = identifier.replace("__",":")
+const entry = await getEntry("partner-collections", identifier.replace(":","__"));
+
+const title = entry.data.title_info_primary_ssi;
+const linkText = "All items";
+const linkHref = `/partner-collections/${cleanIdentifier}`;
+const image = `https://bpldcassets.blob.core.windows.net/derivatives/${entry.data.exemplary_image_key_base_ss}/image_thumbnail_300.jpg`;
+---
+
+<Card
+  client:visible
+  className={className}
+  title={title}
+  link={{
+    href: linkHref,
+    text: linkText
+  }}
+  image={image}
+/>
