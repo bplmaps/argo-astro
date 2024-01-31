@@ -109,6 +109,4 @@ title: Jacques-Nicolas Bellin
 
 <p>Shoalts, Adam. <em>A History of Canada in Ten Maps: Epic Stories of Charting a Mysterious Land</em>. Toronto: Allen Lane Penguin Canada, 2017.</p>
 
-### Bibliography
-
 
