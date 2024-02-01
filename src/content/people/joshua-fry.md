@@ -10,7 +10,7 @@ tags:
   - Untagged
 title: Joshua Fry
 ---
-<p>Joshua Fry was surveyor, soldier, politician, and professor in colonial Virginia. He is best known for co-creating the Fry-Jefferson Map of Virginia with <a href="peter-jefferson.md">Peter Jefferson</a>, Thomas Jefferson’s father.</p>
+<p>Joshua Fry was surveyor, soldier, politician, and professor in colonial Virginia. He is best known for co-creating the Fry-Jefferson Map of Virginia with <a href="/people/peter-jefferson">Peter Jefferson</a>, Thomas Jefferson’s father.</p>
 
 <figure class="img_left_50"><a href="/maps/commonwealth:0r96fq87q"><img alt="A map of the most inhabited part of Virginia containing the whole province of Maryland with part of Pensilvania, New Jersey and North Carolina" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fq880/1561,1601,9077,5594/pct:50/0/default.jpg" style="float:left; height:800x; margin:5px 20px" /></a>
 
