@@ -38,13 +38,9 @@ Although Mitchell had the right to publish his maps, it is difficult to tell how
 
 Mitchell’s map of North America had significant geopolitical and cartographical influence.[\[10\]](#fn10) It was republished numerous times, including in Paris with a French translation a year after its completion.[\[11\]](#fn11) Both British and American forces used the map during the American Revolutionary War (1775-1783), and diplomats from Britain, France, and Spain consulted it for the negotiations of the Treaty of Paris in 1783.  
 
-<figure class="img_left_50"><a href="/maps/commonwealth:hx11z549x"><img alt="A map of the most inhabited part of Virginia containing the whole province of Maryland with part of Pensilvania, New Jersey and North Carolina" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx11z550p/3474,1046,8312,7238/pct:50/0/default.jpg" style="float:left; height:800x; margin:5px 20px" /></a>
+[![A MAP of the BRITISH COLONIES in North America : WITH THE Roads, Distances, Limits, and Extent of the SETTLEMENTS, Humbly Inscribed to the Right Honourable The Early of Halifax, and the other Right Honourable The Lords Commissioners for Trade & Plantations](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx11z550p/3474,1046,8312,7238/pct:50/0/default.jpg "Detail from King George III's copy of Mitchell's map _A MAP of the BRITISH COLONIES in North America_ showing the eastern seaboard of North America")](/maps/commonwealth:hx11z549x)
 
-<figcaption>Detail from King George III&#39;s copy of Mitchell&#39;s map <em>A MAP of the BRITISH COLONIES in North America</em> showing the eastern seaboard of North America</figcaption>
-</figure>
-
-
-<p>Banner image: detail from <a href="/maps/commonwealth:z603vp36m">Mitchell,&nbsp;<em>A map of the British colonies in North America,&nbsp;</em>[1775]</a></p>
+Banner image: detail from [Mitchell, _A map of the British colonies in North America_, \[1775\]](/maps/commonwealth:z603vp36m)</p>
 
 [\[1\]] Edmund Berkeley and Dorothy Smith Berkeley, Dr. _John Mitchell: The Man Who Made the Map of North America_ (Chapel Hill: University of North Carolina Press, 1974), 3.
 
