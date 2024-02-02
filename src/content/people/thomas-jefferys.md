@@ -62,16 +62,6 @@ Thomas Jefferys died in 1771, leaving his booming commercial enterprise in the h
 
 Banner image: detail from [Jefferys, _A general chart of the island of Newfoundland with the rocks & soundings_, 1775.](/maps/commonwealth:kk91fr16h)
 
-### Bibliography
-
-Alexander, Isabella, and Cristina S. Martinez. “A Game Map: Object of Copyright and Form of Authority in Eighteenth-Century Britain.” _Imago Mundi: The International Journal for the History of Cartography_ 72, no. 2 (2020): 163–80.
-
-Edelson, S. Max. _The New Map of Empire: How Britain Imagined America before Independence._ Cambridge, MA: Harvard University Press, 2017.
-
-Harley, J.B. “The Bankruptcy of Thomas Jefferys: An Episode in the Economic History of Eighteenth Century Map-Making.” _Imago Mundi: The International Journal for the History of Cartography_ 20 (1966): 27–48.
-
-Pedley, Mary. “Maps, War, and Commerce: Business Correspondence with the London Map Firm of Thomas Jefferys and William Faden.” _Imago Mundi: The International Journal for the History of Cartography_ 48 (1996): 161–73.
-
 [^1]: J.B. Harley, “The Bankruptcy of Thomas Jefferys: An Episode in the Economic History of Eighteenth Century Map-Making,” _Imago Mundi: The International Journal for the History of Cartography_ 20 (1966): 31.
 
 [^2]: Isabella Alexander and Cristina S. Martinez, “A Game Map: Object of Copyright and Form of Authority in Eighteenth-Century Britain,” _Imago Mundi: The International Journal for the History of Cartography_ 72, no. 2 (2020): 165.
@@ -83,3 +73,13 @@ Pedley, Mary. “Maps, War, and Commerce: Business Correspondence with the Londo
 [^5]: S. Max Edelson, _The New Map of Empire: How Britain Imagined America before Independence_ (Cambridge, MA: Harvard University Press, 2017), 71.
 
 [^6]: S. Max Edelson, _The New Map of Empire, 202._
+
+### Bibliography
+
+Alexander, Isabella, and Cristina S. Martinez. “A Game Map: Object of Copyright and Form of Authority in Eighteenth-Century Britain.” _Imago Mundi: The International Journal for the History of Cartography_ 72, no. 2 (2020): 163–80.
+
+Edelson, S. Max. _The New Map of Empire: How Britain Imagined America before Independence._ Cambridge, MA: Harvard University Press, 2017.
+
+Harley, J.B. “The Bankruptcy of Thomas Jefferys: An Episode in the Economic History of Eighteenth Century Map-Making.” _Imago Mundi: The International Journal for the History of Cartography_ 20 (1966): 27–48.
+
+Pedley, Mary. “Maps, War, and Commerce: Business Correspondence with the London Map Firm of Thomas Jefferys and William Faden.” _Imago Mundi: The International Journal for the History of Cartography_ 48 (1996): 161–73.
