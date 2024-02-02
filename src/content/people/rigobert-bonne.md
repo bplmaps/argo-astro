@@ -1,7 +1,7 @@
 ---
 banner_image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vt223/5839,4377,3138,1380/,1200/0/default.jpg
 bio_dates: 1727-1794
-credit: ''
+credit: Biography by Adam Bieniek
 related_maps:
   - commonwealth:z603vt21t
   - commonwealth:6t053q967
