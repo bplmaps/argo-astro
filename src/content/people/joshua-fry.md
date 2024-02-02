@@ -70,4 +70,4 @@ Pritchard, Margaret Beck, and Henry H. Taliaferro. _Degrees of Latitude: Mapping
 
 Slaughter, Philip. _Memoir of Col. Joshua Fry. . ._ Richmond, VA: Randolph and English, 1880.
 
-The Library of Virginia. “Joshua Fry.” From Williamsburg to Willis’s Creek: The Frey-Jefferson Map of Virginia, [https://www.lva.virginia.gov/exhibits/f](https://www.lva.virginia.gov/exhibits/fryjefferson/joshuaFry.asp)ry-jefferson/joshuaFry.asp</a></p>
+The Library of Virginia. “Joshua Fry.” From Williamsburg to Willis’s Creek: The Frey-Jefferson Map of Virginia, [https://www.lva.virginia.gov/exhibits/f](https://www.lva.virginia.gov/exhibits/fryjefferson/joshuaFry.asp)ry-jefferson/joshuaFry.asp
