@@ -1,7 +1,7 @@
 ---
 banner_image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90f3650/373,2934,2721,1418/,1200/0/default.jpg
 bio_dates: 1741-1816
-credit: ''
+credit: Bioigraphy by Andrew Liaupsin
 related_maps:
   - commonwealth:wd376568q
   - commonwealth:z603vg27d
