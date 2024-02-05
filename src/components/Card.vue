@@ -4,7 +4,7 @@
     :class="className"
     v-if="loaded"
   >
-    <div class="relative w-full aspect-video border-b border-bismark-500">
+    <div v-if="image" class="relative w-full aspect-video border-b border-bismark-500">
       <img
         :src="image"
         :alt="title"

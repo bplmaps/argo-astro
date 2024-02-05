@@ -1,8 +1,8 @@
 ---
 import { getCollection } from 'astro:content';
 import Title from '@components/Layout/Title.astro';
+import Card from "@components/Card.vue";
 import BaseLayout from "@layouts/BaseLayout.astro";
-import CollectionGrid from "@components/CollectionGrid.astro";
 
 export async function getStaticPaths() {
   const facetEntries = await getCollection('facets');
@@ -17,11 +17,26 @@ const facetCategories = entry.data['facet-categories'];
 let results = [];
 facetCategories.forEach((category) => {
   results = results.concat(category.entries); 
+  category.count = results.length;
 })
 ---
 <BaseLayout title={title}>
   <div class="filter">
     <Title>{ title }</Title>
-    <CollectionGrid className="mt-6" contentType="maps" columns={3} identifiers={results} />
+    <ul class={`flex gap-y-5 flex-wrap p-0 list-none filter-list -mx-2 lg:-mx-5 lg:gap-y-10`}>
+      {facetCategories.map((category) => (
+        <li class={`filter-result flex px-2 w-1/2 lg:px-5 md:w-1/3 lg:w-1/4 xl:w-1/5`}>
+          <Card
+            client:visible
+            title={category.title}
+            subtitle={`${category.count} items`}
+            link={{
+              href: `/facets/${entry.id}/${category.id}`,
+              text: "Read more"
+            }}
+          />
+        </li>
+      ))}
+    </ul>
   </div>
 </BaseLayout>
