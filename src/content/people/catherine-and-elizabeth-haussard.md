@@ -59,6 +59,6 @@ Rosepapacreative. “Female Mapmakers Making History.” VinMaps, August 27, 201
 
 Tyner, Judith. "Mapping Women: Scholarship on Women in the History of Cartography." Terrae Incognitae. 48, 1 (2016): 7-14.
 
-<p>Verner, Coolie. &ldquo;The Fry and Jefferson Map.&rdquo; Imago Mundi: The International Journal for the History of Cartography 21 (1967): 70&ndash;94.</p>
+Verner, Coolie. "The Fry and Jefferson Map" Imago Mundi: The International Journal for the History of Cartography 21 (1967): 70-94.
 
-<p>West, Martin. &ldquo;Memory&amp;Artifact: The Mystery of the Vaugondy Maps.&rdquo; Western Pennsylvania History (2001): 2-10.</p>
+West, Martin. "Memory&Artifact: The Mystery of the Vaugondy Maps." Western Pennsylvania History (2001): 2-10.
