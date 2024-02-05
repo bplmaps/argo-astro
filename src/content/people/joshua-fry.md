@@ -38,14 +38,13 @@ At the start of the Seven Years’ War in 1754, Fry was commissioned as a colone
 
 Banner image: detail from [Fry and Jefferson, _A map of the most inhabited part of Virginia_, \[1768\]](/maps/commonwealth:q524mt68j).
 
-[^1]: Cassandra Farrell, “Joshua Fry (ca. 1700-May 31, 1754),” in _Encyclopedia Virginia_, Virginia Humanities, December 21, 2021, [https://encyclopediavirginia.org/entries/fry-joshua-ca-1700-may-31-1754/](https://encyclopediavirginia.org/entries/fry-joshua-ca-1700-may-31-1754/).
+[^1]: Cassandra Farrell, “Joshua Fry (ca. 1700-May 31, 1754),” in _Encyclopedia Virginia_, Virginia Humanities, December 21, 2021, https://encyclopediavirginia.org/entries/fry-joshua-ca-1700-may-31-1754/.
 
 [^2]: Philip Slaughter, _Memoir of Col. Joshua Fry, Sometime Professor in William and Mary College, Virginia, and Washington’s Senior in Command of Virginia Forces, 1754. . ._ (Richmond, VA: Randolph and English, 1880), 16–35.
 
 [^3]: Farrell, “Joshua Fry (ca. 1700-May 31, 1754).”
 
-[^4]: Samuel Willard Crompton, “Fry, Joshua,” in _American National Biography_, Oxford University Press, 1999; online ed., February 2000, [https://doi.org/10.1093/anb/9780198606697.article.0100304](https://doi.org/10.1093/anb/9780198606697.article.0100304)
-
+[^4]: Samuel Willard Crompton, “Fry, Joshua,” in _American National Biography_, Oxford University Press, 1999; online ed., February 2000, https://doi.org/10.1093/anb/9780198606697.article.0100304
 [^5]: Slaughter, _Memoir of Col. Joshua Fry_, 22–3.
 
 [^6]: Farrell, “Joshua Fry (ca. 1700-May 31, 1754).”
@@ -60,9 +59,9 @@ Banner image: detail from [Fry and Jefferson, _A map of the most inhabited part
 
 ### Bibliography
 
-Crompton, Samuel Willard. “Fry, Joshua.” In _American National Biography_. Oxford University Press, 1999; online ed., February 2000. [https://doi.org/10.1093/anb/9780198606697.article.0100304](https://doi.org/10.1093/anb/9780198606697.article.0100304)
+Crompton, Samuel Willard. “Fry, Joshua.” In _American National Biography_. Oxford University Press, 1999; online ed., February 2000. https://doi.org/10.1093/anb/9780198606697.article.0100304
 
-Farrell, Cassandra. “Joshua Fry (ca. 1700–May 31, 1754).” In _Encyclopedia Virginia_. Virginia Humanities, December 22, 2021. [https://encyclopediavirginia.org/entries/fry-joshua-ca-1700-may-31-1754/](https://encyclopediavirginia.org/entries/fry-joshua-ca-1700-may-31-1754/)
+Farrell, Cassandra. “Joshua Fry (ca. 1700–May 31, 1754).” In _Encyclopedia Virginia_. Virginia Humanities, December 22, 2021. https://encyclopediavirginia.org/entries/fry-joshua-ca-1700-may-31-1754/
 
 Norona, Delf. “Joshua Fry’s Report on the Back Settlements of Virginia (May 8, 1751).” _The Virginia Magazine of History and Biography_ 56, no. 1 (January 1948): 22
 
@@ -70,4 +69,4 @@ Pritchard, Margaret Beck, and Henry H. Taliaferro. _Degrees of Latitude: Mapping
 
 Slaughter, Philip. _Memoir of Col. Joshua Fry. . ._ Richmond, VA: Randolph and English, 1880.
 
-The Library of Virginia. “Joshua Fry.” From Williamsburg to Willis’s Creek: The Fry-Jefferson Map of Virginia, [https://www.lva.virginia.gov/exhibits/fry-jefferson/joshuaFry.asp](https://www.lva.virginia.gov/exhibits/fryjefferson/joshuaFry.asp)
+The Library of Virginia. “Joshua Fry.” From Williamsburg to Willis’s Creek: The Fry-Jefferson Map of Virginia, https://www.lva.virginia.gov/exhibits/fry-jefferson/joshuaFry.asp
