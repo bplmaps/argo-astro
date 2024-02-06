@@ -76,7 +76,7 @@ Johnson, Alexander. The First Mapping of America : The General Survey of Brit
 
 Robson, John. Captain Cook's War and Peace: The Royal Navy Years, 1755-1768. Annapolis: Naval Institute Press, 2009.
 
-Thorpe, Frederick J. “HOLLAND, SAMUEL JOHANNES,” in Dictionary of Canadian Biography, vol. 5, University of Toronto/Université Laval, 2003. http://www.biographi.ca/en/bio/holland\_samuel\_johannes\_5E.html.
+Thorpe, Frederick J. “HOLLAND, SAMUEL JOHANNES,” in Dictionary of Canadian Biography, vol. 5, University of Toronto/Université Laval, 2003. http://www.biographi.ca/en/bio/holland_samuel_johannes_5E.html.
 
 Thorpe, Frederick J. “Samuel Holland: From Gunner and Sapper to Surveyor-General, 1755-1764.” Canadian Military History, Vol. 27 (2018), Issue 1, Article 17. https://scholars.wlu.ca/cgi/viewcontent.cgi?article=1920&context=cmh
 
