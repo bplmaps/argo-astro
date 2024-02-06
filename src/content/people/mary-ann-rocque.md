@@ -30,7 +30,7 @@ Andrews, J.H. “The French School of Dublin Surveyors.” Irish Geography 5, no
 
 Macnair, Andrew, Anne E. Rowe, and Tom Williamson. Dury and Andrews' Map of Hertfordshire: Society and Landscape in the Eighteenth Century. Oxford, UK: Windgather Press, 2016.
 
-“Mary Ann Rocque (c. 1725-c. 1770): A Set of Plans and Forts in America Reduced from Actual Surveys.” Royal Collection Trust. Accessed February 10, 2022. https://www.rct.co.uk/collection/1059283/a-set-of-plans-and-forts-in-america-reduced-from-actual-surveys.
+“Mary Ann Rocque (c. 1725-c. 1770): A Set of Plans and Forts in America Reduced from Actual Surveys.” Royal Collection Trust. Accessed February 10, 2022. https://www.rct.uk/collection/1059283/a-set-of-plans-and-forts-in-america-reduced-from-actual-surveys.
 
 Mason, A. Stuart. 'Wasn't It Exciting!': A Compilation of the Work of A. Stuart Mason. London: Royal College of Physicians, 2004.
 
