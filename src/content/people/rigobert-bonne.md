@@ -27,7 +27,7 @@ Born on October 6, 1727, in Raucourt, Ardennes (today Raucourt-et-Flaba), Bonne 
 
 While in Paris, Bonne made a successful career by working on several high-quality navigational charts. In 1762, his _Atlas Maritime des Cotes de France_ (Maritime Atlas of the Coasts of France) modified and popularized what became known as the Bonne Projection. By drawing a map of the globe in a shape similar to that of a heart, the projection makes proportions of known landmasses appear more proportional to their actual size than a traditional flat projection. While elements of the projection existed prior to Bonne, his modifications made the method more viable for widespread use.[^2]
 
-The 1762 atlas, along with several other works, drew considerable attention from the French royal court. Bonne was so esteemed that in 1773 he was recommended for the positions of Premier Géographe du Roi (Chief Geographer to the King) and associate geographer of the Académie des Sciences.[^3] Although he lost these positions to fellow cartographer [Jean-Baptiste Bourguingnon d’Anville](jean-baptiste-bourguignon-d-anville), Bonne did not have to wait long for another chance at government work.[^4] Bonne joined royal service in 1775 as head of the _Dépôt des Cartes et Plans de la Marine_, the cartography office of the French Navy. That same year, he suffered a stroke that left him partially paralyzed, but that did not stop Bonne from carrying out his duties for over a decade.[^5]
+The 1762 atlas, along with several other works, drew considerable attention from the French royal court. Bonne was so esteemed that in 1773 he was recommended for the positions of Premier Géographe du Roi (Chief Geographer to the King) and associate geographer of the Académie des Sciences.[^3] Although he lost these positions to fellow cartographer [Jean-Baptiste Bourguingnon d’Anville](/people/jean-baptiste-bourguignon-d-anville), Bonne did not have to wait long for another chance at government work.[^4] Bonne joined royal service in 1775 as head of the _Dépôt des Cartes et Plans de la Marine_, the cartography office of the French Navy. That same year, he suffered a stroke that left him partially paralyzed, but that did not stop Bonne from carrying out his duties for over a decade.[^5]
 
 Following Bonne’s arrival at the _Dépôt_, he worked on several maps from around the world.[^6] His hydrographies were particularly lauded and widely used for military and commercial applications. During the American Revolutionary War (1775-1783), he produced many continent-spanning maps of North America, including some that charted the various theaters of the conflict. Even before France officially joined the war on the American side, Bonne produced maps detailing the environs of the American colonies for military purposes. One such map was [_Partie de l'Amérique Septentrionale, Qui Comprend le Canada, la Louisiane, le Labrador, le Groenland, la Nouvelle Angleterre, la Floride_](/maps/commonwealth:x059cc901/) (1776) (Part of North America, which includes Canada, Louisiana, Labrador, Greenland, New England, Florida). Bonne continued this series of maps for the rest of the war, including [_Théâtre de la Guerre en Amérique, Avec les Isles Antilles_](/maps/commonwealth:9s1618557/) (1781) (Theater of War in America, with the West Indies). He further pursued the series even after the end of the conflict. In fact, one of his last maps in royal service was [_L'Amerique Divisée en ses Principaux États_](/maps/commonwealth:z603vt21t/) (1788) (America Divided into its Principal States), which outlines the polities of both North and South America as demarcated by the 1783 Treaty of Paris.
 
@@ -50,7 +50,7 @@ Banner image: detail from [Bonne, L'Amerique divisée en ses principaux États
 
 [^4]: Petto, _When France Was King of Cartography_, 80.
 
-[^5]: _Bonne, Rigobert (October 6, 1727 - September 2, 1794)_, Geographicus Rare Antique Maps, (n.d.) [https://www.geographicus.com/P/ctgy&Category_Code=bonne](https://www.geographicus.com/P/ctgy&Category_Code=bonne); Boulliot, Biographie ardennaise, 1: 131.
+[^5]: _Bonne, Rigobert (October 6, 1727 - September 2, 1794)_, Geographicus Rare Antique Maps, (n.d.) https://www.geographicus.com/P/ctgy&Category_Code=bonne; Boulliot, Biographie ardennaise, 1: 131.
 
 [^6]: Boulliot, _Biographie ardennaise_, 1: 131.
 
@@ -68,7 +68,7 @@ Banner image: detail from [Bonne, L'Amerique divisée en ses principaux États
 
 [^13]: Boulliot, _Biographie ardennaise_, 1: 131.
 
-[^14]: _Missions_. Shom. (n.d.) [https://www.shom.fr/index.php/en/node/15](https://www.shom.fr/index.php/en/node/15).
+[^14]: _Missions_. Shom. (n.d.) https://www.shom.fr/index.php/en/node/15.
 
 
 ### Bibliography
@@ -77,11 +77,11 @@ Bonne, Rigobert, and Nicolas Desmarest. _Atlas encyclopédique, contenant la 
 
 _Bonne, Rigobert (October 6, 1727 – September 2, 1794)_. Geographicus Rare Antique Maps. (n.d.). https ://www.geographicus.com/P/ctgy&Category_Code=bonne.  
 
-Boulliot, Jean Baptiste Joseph. _Biographie ardennaise, ou Histoire des ardennais. . ._ Vol. 1. Paris: Chez L'Editeur, 1830. [https://books.google.fr/books?id=I1iF5lcyXDMC&pg=PA131&dq=#v=onepage&q&f=false](https://books.google.fr/books?id=I1iF5lcyXDMC&pg=PA131&dq=#v=onepage&q&f=false)
+Boulliot, Jean Baptiste Joseph. _Biographie ardennaise, ou Histoire des ardennais. . ._ Vol. 1. Paris: Chez L'Editeur, 1830. https://books.google.fr/books?id=I1iF5lcyXDMC&pg=PA131&dq=#v=onepage&q&f=false
 
-_Missions_. Shom. (n.d.). Accessed February 22, 2023, [https://www.shom.fr/index.php/en/node/15](https://www.shom.fr/index.php/en/node/15).  
+_Missions_. Shom. (n.d.). Accessed February 22, 2023, https://www.shom.fr/index.php/en/node/15.  
 
-O’Neill, Timothy. Review of _Cartography_, by J. H. Andrews, John Crowley, John Sheehan, and J. A. Claffey. _Books Ireland_, no. 317 (December 2009): 280–2. [http://www.jstor.org/stable/40406321](http://www.jstor.org/stable/40406321).
+O’Neill, Timothy. Review of _Cartography_, by J. H. Andrews, John Crowley, John Sheehan, and J. A. Claffey. _Books Ireland_, no. 317 (December 2009): 280–2. http://www.jstor.org/stable/40406321.
 
 Petto, Christine Marie. _When France Was King of Cartography: The Patronage and Production of Maps in Early Modern France_. Lanham, MD: Lexington Books, 2007.
 
