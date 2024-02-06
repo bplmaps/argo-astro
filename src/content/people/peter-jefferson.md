@@ -31,7 +31,7 @@ Jefferson also continued his duties at Shadwell, now a successful tobacco planta
 
 Banner image: detail from [Fry and Jefferson, _A map of the most inhabited part of Virginia,_ \[1768\]](/maps/commonwealth:q524mt68j).
 
-[^1]: “Thomas Jefferson: Autobiography, 6 Jan.-29 July 1821, 6 January 1821,” Founders Online, National Archives, https://founders.archives.gov/documents/Jefferson/98-01-02-1756.
+[^1]: “Thomas Jefferson: Autobiography, 6 Jan.-29 July 1821, 6 January 1821,” Founders Online, National Archives, https://founders.archives.gov/documents/Jefferson/03-17-02-0324-0002.
 
 ### Bibliography
 
