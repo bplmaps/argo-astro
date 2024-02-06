@@ -1,7 +1,7 @@
 ---
 import FacetCard from "@components/Cards/Facet.astro";
+import FacetCategoryCards from "@components/Cards/FacetCategories.astro";
 import MapCard from "@components/Cards/Map.astro";
-import PartnerCollection from "@components/Cards/PartnerCollection.astro";
 import PartnerCollectionCard from "@components/Cards/PartnerCollection.astro";
 import PersonCard from "@components/Cards/Person.astro";
 import StoryCard from "@components/Cards/Story.astro";
@@ -27,26 +27,33 @@ switch (columns) {
     columnClassName = "lg:w-1/3";
     break;
   case 4:
-    columnClassName = "lg:w-1/4";
+    columnClassName = "sm:w-1/2 lg:w-1/4";
     break;
   case 5:
-    columnClassName = "lg:w-1/5";
+    columnClassName = "sm:w-1/3 md:w-1/4 lg:w-1/5";
     break;
   case 6:
-    columnClassName = "lg:w-1/6";
+    columnClassName = "sm:w-1/3 md:w-1/4 lg:w-1/5 xl:w-1/6";
     break;
 }
 ---
 
 {title &&
-  <h2 class="">
+  <h2 class="font-heading font-semibold text-4xl mb-4">
     {title}
   </h2>
 }
 
 <ul class={`flex gap-y-5 flex-wrap p-0 list-none filter-list -mx-5 lg:gap-y-10 ${className}`}>
+  {contentType === 'facetCategories' &&
+    <FacetCategoryCards
+      className={cardClassName}
+      columnClassName={columnClassName}
+      identifiers={identifiers}
+    />
+  }
   {identifiers.map((identifier) => (
-    <li class={`filter-result flex w-full px-5 ${columnClassName}`}>
+    <li class={`flex w-full px-5 ${columnClassName}`}>
       {contentType === 'facets' &&
         <FacetCard
           className={cardClassName}
@@ -60,7 +67,7 @@ switch (columns) {
         />
       }
       {contentType === 'partner-collection' &&
-        <PartnerCollection
+        <PartnerCollectionCard
           className={cardClassName}
           identifier={identifier}
         />

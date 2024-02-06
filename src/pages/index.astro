@@ -1,16 +1,32 @@
 ---
-import { getEntry } from "astro:content";
+import { getCollection, getEntry } from 'astro:content';
 
 import BaseLayout from "@layouts/BaseLayout.astro";
-import Title from '@components/Layout/Title.astro';
 import SearchHero from '@components/Layout/Homepage/SearchHero.astro'
 import Timeline from '@components/Layout/Homepage/Timeline.vue'
+import CollectionGrid from "@components/CollectionGrid.astro";
 
 const title = 'Home';
 const timelineData = await getEntry("timeline", "timeline");
+
+const storyEntries = await getCollection('stories');
+const storyIdentifiers = storyEntries.map((entry) => (
+  entry.slug
+));
+
+const facetEntries = await getCollection('facets');
+const facetIdentifiers = facetEntries.map((entry) => (
+  entry.id
+));
 ---
 
 <BaseLayout title={title}>
   <SearchHero />
+  <CollectionGrid className="mb-12" title="Explore by Story" contentType="stories" columns={3} identifiers={storyIdentifiers} />
+  <CollectionGrid className="mb-12" title="Explore by Theme" contentType="facets" columns={4} identifiers={facetIdentifiers} />
   <Timeline data={timelineData.data} client:load />
+  <CollectionGrid className="mb-12" title="Explore by Empires & Nations" contentType="facetCategories" columns={5} identifiers={['empires-and-nations']} />
+  <CollectionGrid className="mb-12" title="Explore by Features" contentType="facetCategories" columns={5} identifiers={['features']} />
+  <CollectionGrid className="mb-12" title="Explore by Languages" contentType="facetCategories" columns={5} identifiers={['languages']} />
+  <CollectionGrid className="mb-12" title="Explore by Subject" contentType="facetCategories" columns={5} identifiers={['subjects']} />
 </BaseLayout>
