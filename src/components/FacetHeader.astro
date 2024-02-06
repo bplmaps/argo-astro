@@ -13,9 +13,6 @@ const { facet, facetCategories, currentFacetCategory } = Astro.props;
 <div class="filter-explore-by relative mb-4">
   <Title>{currentFacetCategory ? <span class="block text-lg font-medium">{facet.data.title}: </span><span>{currentFacetCategory.title}</span> : facet.data.title}</Title>
   <ul class="flex flex-wrap gap-1">
-    <li>
-      <a class={`pill ${!currentFacetCategory && 'pill-active'}`} href={'/facets/' + facet.id}>All</a>
-    </li>
     {facetCategories.map((category) => (
       <li>
         <a class={`pill ${currentFacetCategory && currentFacetCategory.id === category.id && 'pill-active'}`} href={'/facets/' + facet.id + '/' + category.id}>{category.title}</a>
