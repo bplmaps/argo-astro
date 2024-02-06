@@ -48,7 +48,7 @@ Banner image credit: detail from [John Singleton Copley, _A Boy with a Flying S
 
 ### Bibliography
 
-“Alumni.” Notable Alumni - Alumni. Boston Latin School, n.d. https://www.bls.org/apps/pages/index.jsp?uREC\_ID=203830&type=d&pREC\_ID=404406#m-p.
+“Alumni.” Notable Alumni - Alumni. Boston Latin School, n.d. https://www.bls.org/apps/pages/index.jsp?uREC_ID=203830&type=d&pREC_ID=404406#m-p.
 
 Archer, Jean B. “Henry Pelham's Lost Grand Jury Map of Kerry (C.1800): A Newly Found Derivative.” Imago Mundi: The International Journal for the History of Cartography 58, no. 2 (2006): 183–97.
 
