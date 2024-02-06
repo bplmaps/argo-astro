@@ -52,6 +52,6 @@ Banner image: detail from [Erskine, _Map of Orange and Rockland counties area o
 
 Fleeharty, Clifford E. “Army Map Service Semicentennial.” The Military Engineer 52, no. 346  (1960): 95-97.
 
-Mana, Jo Margaret. “History in the Mapping: Simeon Dewitt’s Legacy in New York State Cartography.” Proceedings, AAG Middle States Division 22 (1989): 27-33. https://msaag.aag.org/wp-content/uploads/2013/04/4\_Mano.pdf
+Mana, Jo Margaret. “History in the Mapping: Simeon Dewitt’s Legacy in New York State Cartography.” Proceedings, AAG Middle States Division 22 (1989): 27-33. https://msaag.aag.org/wp-content/uploads/2013/04/4_Mano.pdf
 
 Ruppert, Bob. “Robert Erskine, Surveyor-General of the Continental Army.” Journal of the American Revolution (2019). https://allthingsliberty.com/2019/12/robert-erskine-surveyor-general-of-the-continental-army/
