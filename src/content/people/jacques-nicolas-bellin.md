@@ -41,72 +41,60 @@ tags:
   - Mapmaker
 title: Jacques-Nicolas Bellin
 ---
-<p>Jacques Nicolas Bellin was a French cartographer, geographer, and hydrographer. He worked during the French Enlightenment in the early eighteenth century in the royal hydrography <em>D&eacute;p&ocirc;t des Cartes et Plans</em>, the official map makers of the French Navy. Enlightenment ideology highly influenced Bellin&rsquo;s work, emphasizing the importance of reason and standardization when making maps for a global audience.</p>
+Jacques Nicolas Bellin was a French cartographer, geographer, and hydrographer. He worked during the French Enlightenment in the early eighteenth century in the royal hydrography _Dépôt des Cartes et Plans_, the official map makers of the French Navy. Enlightenment ideology highly influenced Bellin’s work, emphasizing the importance of reason and standardization when making maps for a global audience.
 
-<p>Bellin was born in 1703 in Paris, France. Skilled in cartography and hydrography from an early age, he began to clerk for the French Navy&rsquo;s <em>D&eacute;p&ocirc;t des Cartes et Plans</em> in 1721. Twenty years later, King Louis XV awarded Bellin the title of <em>ingenieur-hydrographe de le Marine</em>, and he assumed the position of chief hydrographer of the Royal Navy.<a href="#fn1">[1]</a> Bellin&rsquo;s most significant contribution was his <em>Le Petit Atlas Maritime</em>, which depicted nearly six hundred maritime charts, maps, and plans relevant to the global French Empire. Even though Bellin never left France to work on maps of North America and the Caribbean, he completed dozens depicting the waterways around present-day Canada, major port cities in the British colonies, and French commercial interests in the Caribbean.</p>
+Bellin was born in 1703 in Paris, France. Skilled in cartography and hydrography from an early age, he began to clerk for the French Navy’s _Dépôt des Cartes et Plans_ in 1721. Twenty years later, King Louis XV awarded Bellin the title of _ingenieur-hydrographe de le Marine_, and he assumed the position of chief hydrographer of the Royal Navy.[^1] Bellin’s most significant contribution was his _Le Petit Atlas Maritime_, which depicted nearly six hundred maritime charts, maps, and plans relevant to the global French Empire. Even though Bellin never left France to work on maps of North America and the Caribbean, he completed dozens depicting the waterways around present-day Canada, major port cities in the British colonies, and French commercial interests in the Caribbean.
 
-<p>Bellin produced his first work, a maritime chart depicting the Mediterranean Sea, under the direction of the <em>D&eacute;p&ocirc;t </em>in 1737. In the accompanying <em>m&eacute;morie </em>(the means of validating a map&rsquo;s accuracy and usefulness), Bellin explained his Enlightenment methodology: to create maps of waterways on which he had not traveled, he referenced ancient and contemporary textual sources, first-hand accounts, and manuscript&nbsp;maps drawn by missionaries, explorers, and navigators.<a href="#fn2">[2]</a> Bellin sought to implement this process throughout the <em>D&eacute;p&ocirc;t </em>to ensure that navigators, sailors, and merchants received the best resources from the office. One example of this method was his work in the 1755 <a href="/maps/commonwealth:w9505s88s/"><em>Historie de la Nouvelle France</em></a>, in which Bellin used the twenty-year-old accounts of the Jesuit priest Pierre Fran&ccedil;ois Xavier de Charlevoix&rsquo;s travels in North America to map French colonial and naval interests.<a href="#fn3">[3]</a> Given the age of the information he was provided, Bellin added details from more recent navigational journals, astronomical observations, and expeditions.</p>
+Bellin produced his first work, a maritime chart depicting the Mediterranean Sea, under the direction of the _Dépôt_ in 1737. In the accompanying _mémorie_ (the means of validating a map’s accuracy and usefulness), Bellin explained his Enlightenment methodology: to create maps of waterways on which he had not traveled, he referenced ancient and contemporary textual sources, first-hand accounts, and manuscript maps drawn by missionaries, explorers, and navigators.[^2] Bellin sought to implement this process throughout the _Dépôt_ to ensure that navigators, sailors, and merchants received the best resources from the office. One example of this method was his work in the 1755 [_Historie de la Nouvelle France_](/maps/commonwealth:w9505s88s/), in which Bellin used the twenty-year-old accounts of the Jesuit priest Pierre François Xavier de Charlevoix’s travels in North America to map French colonial and naval interests.[^3] Given the age of the information he was provided, Bellin added details from more recent navigational journals, astronomical observations, and expeditions.
 
-<figure class="img_full_width"><a href="/maps/commonwealth:w9505s88s/"><img alt="Detail of a map showing what is now Nova Scotia, New Brunswick, and part of Quebec, as well as a decorative cartouche reading Partie Orientale de le Nouvelle France ou du Canada" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:w9505s892/1671,3874,6373,2744/full/0/default.jpg" style="float:center; margin:5px 20px" /></a>
+[![Detail of a map showing what is now Nova Scotia, New Brunswick, and part of Quebec, as well as a decorative cartouche reading Partie Orientale de le Nouvelle France ou du Canada](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:w9505s892/1671,3874,6373,2744/full/0/default.jpg "Detail from Bellin's 1755 map \"Partie orientale de la Nouvelle France ou du Canada\"")](/maps/commonwealth:w9505s88s/)
 
-<figcaption>Detail from Bellin&#39;s 1755 map <em>Partie orientale de la Nouvelle France ou du Canada</em></figcaption>
-</figure>
+Bellin’s maps of Acadia and Nova Scotia were used in a 1750 Boundary Commission in which the French and British Empires sought to determine a solidified boundary between their colonial holdings in what is now Canada.[^4] Following the tense Commission, Bellin published a letter warning the reader to avoid pride and politics when practicing science. His map had been used for a geo-political dispute, but Bellin wanted to ensure his personal non-partisan ideology was preserved. He explained his enlightened philosophy of seeking truth through reason and continually updating his work with new sources and geographical developments. As evidence of his non-partisan commitment to hydrography and navigation, Bellin was elected as a foreign member of the Royal Society of London in 1752.[^5]
 
-<p>Bellin&rsquo;s maps of Acadia and Nova Scotia were used in a 1750 Boundary Commission in which the French and British Empires sought to determine a solidified boundary between their colonial holdings in what is now Canada.<a href="#fn4">[4]</a> Following the tense Commission, Bellin published a letter warning the reader to avoid pride and politics when practicing science. His map had been used for a geo-political dispute, but Bellin wanted to ensure his personal non-partisan ideology was preserved. He explained his enlightened philosophy of seeking truth through reason and continually updating his work with new sources and geographical developments. As evidence of his non-partisan commitment to hydrography and navigation, Bellin was elected as a foreign member of the Royal Society of London in 1752.<a href="#fn5">[5]</a></p>
+In 1758, Bellin produced _Description Géographique des Isles Antilles possédées par les Anglois_ depicting the British Empire’s Caribbean colonies.[^6] Bellin’s [maps of the Caribbean](/maps/commonwealth:6t053r360/) allowed the French navy and merchants to maintain activity in these waterways and deter British domination in North America and the Caribbean. Despite his official role working for the French Navy, Bellin implored sailors and merchants from all backgrounds, not just those with French connections, to record their voyages and supply them to the _Dépôt_. To ensure that the most accurate information was available to all navigators, Bellin’s maps of major ports in the Antilles included specific depths, anchorages, and hazards so that ships had the necessary instructions to safely navigate the waters.[^7]
 
-<p>In 1758, Bellin produced <em>Description G&eacute;ographique des Isles Antilles poss&eacute;d&eacute;es par les Anglois</em> depicting the British Empire&rsquo;s Caribbean colonies.<a href="#fn6">[6]</a> Bellin&rsquo;s <a href="/maps/commonwealth:6t053r360/">maps of the Caribbean</a> allowed the French navy and merchants to maintain activity in these waterways and deter British domination in North America and the Caribbean. Despite his official role working for the French Navy, Bellin implored sailors and merchants from all backgrounds, not just those with French connections, to record their voyages and supply them to the <em>D&eacute;p&ocirc;t</em>. To ensure that the most accurate information was available to all navigators, Bellin&rsquo;s maps of major ports in the Antilles included specific depths, anchorages, and hazards so that ships had the necessary instructions to safely navigate the waters.<a href="#fn7">[7]</a></p>
+[![A map of Boston from Bellin's Petite atlas maritime](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462v37d/1095,1085,3585,5031/full/0/default.jpg "A map of Boston from Bellin's \"Petite atlas maritime\"")](/maps/commonwealth:3f462v364/)
 
-<figure class="img_left_50"><a href="/maps/commonwealth:3f462v364/"><img alt="A map of Boston from Bellin's Petite atlas maritime" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462v37d/1095,1085,3585,5031/full/0/default.jpg" style="float:left; margin:5px 20px; height:600px" /></a>
+Bellin’s most extensive work and largest commercial success was his _Le Petit Atlas Maritime_, which was published in 1764 in five volumes.[^8] _Le Petit Atlas_ contained over six hundred maps and charts and depicted four different regions of the world. _Le Petit Atlas_ represented a culmination of Bellin’s four decades of work in the _Dépôt_ and his continuously updating his earlier hydrographic charts in accordance with his Enlightenment practices. The atlas was marketed as a medium of study rather than a navigational tool, reaffirming the Enlightenment commitment to science and hydrography Bellin established in the _Dépôt_.
 
-<figcaption>A map of Boston from Bellin&#39;s <em>Petite atlas maritime</em></figcaption>
-</figure>
+Jacques Bellin died in 1772 in France. In the years following his death, Bellin’s widow, Genevieve Madeleine Rouger, petitioned the French government to award her a pension commensurate with her husband’s service. Since 1748, Bellin was permitted to sell his _Dépôt_ maps as his own intellectual property, but after his death, the _Dépôt_ claimed his maps, charts, and plates for their own usage and reproduction.[^9] According to Genevieve’s report, Bellin received an income of only 5000 livres in the final years of his career, which was not enough to cover the reimbursements the _Dépôt_ owed him. In 1775, the French government awarded Genevieve 1000 livres to augment her widow’s pension, less than her petition asked for.[^10]
 
-<p>Bellin&rsquo;s most extensive work and largest commercial success was his <em>Le Petit Atlas Maritime</em>, which was published in 1764 in five volumes.<a href="#fn8">[8]</a> <em>Le Petit Atlas</em> contained over six hundred maps and charts and depicted four different regions of the world. <em>Le Petit Atlas</em> represented a culmination of Bellin&rsquo;s four decades of work in the <em>D&eacute;p&ocirc;t </em>and his continuously updating his earlier hydrographic charts in accordance with his Enlightenment practices. The atlas was marketed as a medium of study rather than a navigational tool, reaffirming the Enlightenment commitment to science and hydrography Bellin established in the <em>D&eacute;p&ocirc;t</em>.</p>
+Bellin left a lasting legacy on the advancement of cartography and hydrography in France. Of the 127 plates printed under the authority of the _Dépôt_ from 1737 to 1772, Bellin created 115.[^11] Later cartographers often cited or improved upon his works, and his commitment to Enlightenment ideals shaped the methodology of future _Dépôt_ chiefs.[^12]
 
-<p>Jacques Bellin died in 1772 in France. In the years following his death, Bellin&rsquo;s widow, Genevieve Madeleine Rouger, petitioned the French government to award her a pension commensurate with her husband&rsquo;s service. Since 1748, Bellin was permitted to sell his <em>D&eacute;p&ocirc;t </em>maps as his own intellectual property, but after his death, the <em>D&eacute;p&ocirc;t</em> claimed his maps, charts, and plates for their own usage and reproduction.<a href="#fn9">[9]</a> According to Genevieve&rsquo;s report, Bellin received an income of only 5000 livres in the final years of his career, which was not enough to cover the reimbursements the <em>D&eacute;p&ocirc;t </em>owed him. In 1775, the French government awarded Genevieve 1000 livres to augment her widow&rsquo;s pension, less than her petition asked for.<a href="#fn10">[10]</a></p>
+Banner image: detail from [Bellin, _Carte de l'Isle de La Barbade_, \[1758\]](/maps/commonwealth:6t053r360)
 
-<p>Bellin left a lasting legacy on the advancement of cartography and hydrography in France. Of the 127 plates printed under the authority of the <em>D&eacute;p&ocirc;t</em> from 1737 to 1772, Bellin created 115.<a href="#fn11">[11]</a> Later cartographers often cited or improved upon his works, and his commitment to Enlightenment ideals shaped the methodology of future <em>D&eacute;p&ocirc;t </em>chiefs.<a href="#fn12">[12]</a></p>
+[^1]: Christine Marie Petto, _When France Was King of Cartography: The Patronage and Production of Maps in Early Modern France_ (Lanham, MD: Lexington Books, 2007), 71.
 
-<p>&nbsp;</p>
+[^2]: Petto, _When France Was King of Cartography_, 69.
 
-<p>&nbsp;</p>
+[^3]: Petto, _When France Was King of Cartography_, 106.
 
-<p>&nbsp;</p>
+[^4]: Petto, _When France Was King of Cartography_, 110.
 
-<p>Banner image: detail from <a href="/maps/commonwealth:6t053r360">Bellin, <em>Carte de l&#39;Isle de La Barbade</em>,&nbsp;[1758]</a></p>
+[^5]: Petto, _When France Was King of Cartography_, 184.
 
-<p><a name="fn1">[1]</a> Christine Marie Petto, <em>When France Was King of Cartography: The Patronage and Production of Maps in Early Modern France</em> (Lanham, MD: Lexington Books, 2007), 71.</p>
+[^6]: Petto, _When France Was King of Cartography_, 119.
 
-<p><a name="fn2">[2]</a> Petto, <em>When France Was King of Cartography</em>, 69.</p>
+[^7]: Petto, _When France Was King of Cartography_, 120.
 
-<p><a name="fn3">[3]</a> Petto, <em>When France Was King of Cartography</em>, 106.</p>
+[^8]: Petto, _When France Was King of Cartography_, 74.
 
-<p><a name="fn4">[4]</a> Petto, <em>When France Was King of Cartography</em>, 110.</p>
+[^9]: Petto, _When France Was King of Cartography_, 89.
 
-<p><a name="fn5">[5]</a> Petto, <em>When France Was King of Cartography</em>, 184.</p>
+[^10]: Petto, _When France Was King of Cartography_, 185.
 
-<p><a name="fn6">[6]</a> Petto, <em>When France Was King of Cartography</em>, 119.</p>
+[^11]: Matthew H. Edney and Mary Spoonberg Pedley, eds., _The History of Cartography: Cartography in the European Enlightenment_ (Chicago: Chicago University Press, 2020), 4:155.
 
-<p><a name="fn7">[7]</a> Petto, <em>When France Was King of Cartography</em>, 120.</p>
-
-<p><a name="fn8">[8]</a> Petto, <em>When France Was King of Cartography</em>, 74.</p>
-
-<p><a name="fn9">[9]</a> Petto, <em>When France Was King of Cartography</em>, 89.</p>
-
-<p><a name="fn10">[10]</a> Petto, <em>When France Was King of Cartography</em>, 185.</p>
-
-<p><a name="fn11">[11]</a> Matthew H. Edney and Mary Spoonberg Pedley, eds., <em>The History of Cartography: Cartography in the European Enlightenment</em> (Chicago: Chicago University Press, 2020), 4:155.</p>
-
-<p><a name="fn12">[12]</a> Max S. Edelson, <em>The New Map of Empire: How Britain Imagined America before Independenc</em>e (Cambridge, MA: Harvard University Press, 2017), 78.</p>
+[^12]: Max S. Edelson, _The New Map of Empire: How Britain Imagined America before Independenc_e (Cambridge, MA: Harvard University Press, 2017), 78.
 
 ### Bibliography
 
-<p>Edelson, Max S. <em>The New Map of Empire: How Britain Imagined America before Independence</em>. Cambridge, MA: Harvard University Press, 2017.</p>
+Edelson, Max S. _The New Map of Empire: How Britain Imagined America before Independence_. Cambridge, MA: Harvard University Press, 2017.
 
-<p>Edney, Matthew H., and Mary Sponberg Pedley, eds. <em>The History of Cartography: Cartography in the European Enlightenment</em>. Vol. 4. Chicago: University of Chicago Press, 2020.</p>
+Edney, Matthew H., and Mary Sponberg Pedley, eds. _The History of Cartography: Cartography in the European Enlightenment_. Vol. 4. Chicago: University of Chicago Press, 2020.
 
-<p>Petto, Christine Marie. <em>When France Was King of Cartography: The Patronage and Production of Maps in Early Modern France</em>. Lanham, MD: Lexington Books, 2007.</p>
+Petto, Christine Marie. _When France Was King of Cartography: The Patronage and Production of Maps in Early Modern France_. Lanham, MD: Lexington Books, 2007.
 
-<p>Shoalts, Adam. <em>A History of Canada in Ten Maps: Epic Stories of Charting a Mysterious Land</em>. Toronto: Allen Lane Penguin Canada, 2017.</p>
+Shoalts, Adam. _A History of Canada in Ten Maps: Epic Stories of Charting a Mysterious Land_. Toronto: Allen Lane Penguin Canada, 2017.
 
 
