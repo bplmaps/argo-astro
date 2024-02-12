@@ -68,7 +68,7 @@ watch(queryString, () => {
             :key="r.id"
             :subtitle="r.admin_set_name_ssi"
             :title="r.title_info_primary_tsi"
-            :link="{href: `./maps/${r.id}`, text: 'See map'}"
+            :link="{href: `../maps/${r.id}`, text: 'See map'}"
             :image="`https://bpldcassets.blob.core.windows.net/derivatives/${r.exemplary_image_key_base_ss}/image_thumbnail_300.jpg`"
           />
         </div>
