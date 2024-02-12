@@ -65,7 +65,7 @@ const relatedMapPages = await getCollection('maps', ({ data }) => {
             ))}
           </ul>
         }
-				<article class="item-article mt-4">
+				<article class="item-article mt-4 prose max-w-none">
           {entry.data.credit &&
             <p><strong>{entry.data.credit}</strong></p>
             <Content />
