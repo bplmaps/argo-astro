@@ -1,18 +1,22 @@
 ---
 import BaseLayout from '@layouts/BaseLayout.astro';
+import Title from '@components/Layout/Title.astro';
 
 interface Props {
 	title: string;
 }
 
-const { title } = Astro.props;
+const { frontmatter } = Astro.props;
 
 ---
 
-<BaseLayout title={title}>
+<BaseLayout title={frontmatter.title}>
 	<article>
-		<h1>{title}</h1>
-		<slot />
+		<Title>{ frontmatter.title }</Title>
+		<div class="prose">
+			<slot />
+		</div>
+		
 	</article>
 </BaseLayout>
 

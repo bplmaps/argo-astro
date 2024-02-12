@@ -30,9 +30,10 @@ facetCategories.forEach((category) => {
             client:visible
             title={category.title}
             subtitle={`${category.count} items`}
+            image={category.banner_image}
             link={{
               href: `/facets/${entry.id}/${category.id}`,
-              text: "Read more"
+              text: "See maps"
             }}
           />
         </li>

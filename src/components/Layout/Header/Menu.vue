@@ -23,11 +23,15 @@ export default {
       links: [
         {
           href: '/stories',
-          text: 'Read Stories'
+          text: 'Stories'
         },
         {
           href: '/facets',
-          text: 'Explore by Theme'
+          text: 'Themes'
+        },
+        {
+          href: '/people',
+          text: 'People'
         },
         {
           href: '/partner-collections',
