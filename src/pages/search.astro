@@ -7,7 +7,7 @@ import SearchMain from '@components/Search/SearchMain.vue'
 const title = 'Search Maps';
 ---
 
-<BaseLayout title={title}>
+<BaseLayout title={title} noindex={true}>
   <Title>{title}</Title>
   <SearchMain client:only="vue" />
 </BaseLayout>

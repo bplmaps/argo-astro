@@ -8,9 +8,10 @@ interface Props {
 	title: string;
 	description: string;
 	image: string;
+	noindex: boolean;
 }
 
-const { title, description, image } = Astro.props;
+const { title, description, image, noindex } = Astro.props;
 
 const siteTitle = 'American Revolutionary Geographies Online';
 const siteImage = 'https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:w9505r968/250,72,15744,9720/,1200/0/default.jpg';
@@ -32,6 +33,7 @@ const metaImage = image ? image : siteImage;
 		<SEO
 			title={metaTitle}
 			description={metaDescription}
+			noindex={noindex}
 			openGraph={{
 				basic: {
 					title: `${metaTitle}`,
