@@ -7,6 +7,7 @@ import Timeline from '@components/Layout/Homepage/Timeline.vue'
 import CollectionGrid from "@components/CollectionGrid.astro";
 
 const title = 'Home';
+const description = 'American Revolutionary Geographies Online (ARGO) is a portal containing thousands of maps from dozens of institutions that bring to life the history and geography of the American Revolutionary War era.'
 const timelineData = await getEntry("timeline", "timeline");
 
 const storyEntries = await getCollection('stories');
@@ -20,7 +21,7 @@ const facetIdentifiers = facetEntries.map((entry) => (
 ));
 ---
 
-<BaseLayout title={title}>
+<BaseLayout title={title} description={description}>
   <SearchHero />
   <CollectionGrid className="mb-12" title="Explore by Story" contentType="stories" columns={3} identifiers={storyIdentifiers} />
   <CollectionGrid className="mb-12" title="Explore by Theme" contentType="facets" columns={4} identifiers={facetIdentifiers} />
