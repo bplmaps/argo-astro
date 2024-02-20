@@ -5,7 +5,9 @@ import { ref, watch } from "vue";
 
 import Card from '@components/Card.vue';
 
-let queryString = ref("");
+let urlParams = new URLSearchParams(window.location.search);
+
+let queryString = ref(urlParams.has('q') ? urlParams.get('q') : '');
 let results = ref([]);
 
 const getSearchUrl = () => {
@@ -38,6 +40,8 @@ const performSearch = debounce(async () => {
 watch(queryString, () => {
     performSearch();
 });
+
+performSearch();
 
 </script>
 
