@@ -39,9 +39,11 @@ facetEntries.forEach((facet) => {
     });
   }
 });
+
+const metaImage = "https://iiif.digitalcommonwealth.org/iiif/2/" + data.dcMetadata.exemplary_image_ssi + "/full/!1200,630/0/default.jpg";
 ---
 
-<BaseLayout title={title}>
+<BaseLayout title={title} image={metaImage}>
   <div class="map-result relative flex flex-wrap justify-around flex-col md:flex-row">
     <MapViewer manifest={viewerManifest} client:only="react" />
 

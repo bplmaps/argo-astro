@@ -24,9 +24,10 @@ const allPeopleTags = allPeoplePages.map((entry) => {
 const relatedMapPages = await getCollection('maps', ({ data }) => {
   return entry.data.related_maps.includes(data.dcMetadata.id) || entry.data.related_maps.includes(data.dcMetadata.id.replace(":","--"));
 });
+const metaImage = entry.data.banner_image ? entry.data.banner_image : null;
 ---
 
-<BaseLayout title={title}>
+<BaseLayout title={title} image={metaImage}>
   <div>
     {entry.data.banner_image &&
       <div class="filter-item-header-image w-full h-80 bg-cover bg-center bg-no-repeat mb-12" style={`background-image: url(${entry.data.banner_image})`}></div>
