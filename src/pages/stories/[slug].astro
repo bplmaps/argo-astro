@@ -19,7 +19,7 @@ const { Content } = await entry.render();
 <BaseLayout title={title}>
   <div class="markdown">
     <Title>{title}</Title>
-    <h2>{entry.data.author}</h2>
+    <h2>Article by {entry.data.author}</h2>
     <Content />
   </div>
 </BaseLayout>
