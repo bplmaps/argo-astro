@@ -64,7 +64,7 @@ performSearch();
 
     <section>
         <div v-if="queryString.length < 1" class="w-full p-6 text-lg">
-            <h1>Enter a search term</h1>
+            <p>Enter a search term</p>
         </div>
 
         <div class="grid grid-cols-2 md:grid-cols-5 gap-4 mt-6">
