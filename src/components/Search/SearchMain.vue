@@ -37,6 +37,7 @@
 </template>
 
 <script>
+
 import debounce from "debounce";
 import Card from '@components/Card.vue';
 
