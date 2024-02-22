@@ -24,6 +24,6 @@ facetCategories.forEach((category) => {
 <BaseLayout title={title}>
   <div class="filter">
     <Title>{ title }</Title>
-    <CollectionGrid contentType="facetCategories" columns={5} identifiers={['features']} />
+    <CollectionGrid contentType="facetCategories" columns={5} identifiers={[entry.id]} />
   </div>
 </BaseLayout>
