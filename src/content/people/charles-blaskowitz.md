@@ -1,5 +1,5 @@
 ---
-banner_image: https://www.argomaps.org//content/people/people_9_image.png
+banner_image: https://a-us.storyblok.com/f/1016535/858x380/cc647cd6a2/charles_blaskowtiz.png
 bio_dates: 1753-1823
 credit: "Biography written by James Huebner"
 related_maps:
