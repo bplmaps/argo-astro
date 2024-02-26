@@ -127,4 +127,10 @@ export default {
     padding: 0;
     list-style: none;
   }
+
+  th {
+	vertical-align: top; padding-right: 10px; 
+  }
+  
+  tr { margin-top: 24px; }
 </style>

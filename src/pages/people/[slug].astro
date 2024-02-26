@@ -1,4 +1,4 @@
-<---
+---
 import { getCollection } from "astro:content";
 import BaseLayout from "@layouts/BaseLayout.astro";
 import MapSwiper from '@components/MapSwiper.jsx';
@@ -24,9 +24,10 @@ const allPeopleTags = allPeoplePages.map((entry) => {
 const relatedMapPages = await getCollection('maps', ({ data }) => {
   return entry.data.related_maps.includes(data.dcMetadata.id) || entry.data.related_maps.includes(data.dcMetadata.id.replace(":","--"));
 });
+const metaImage = entry.data.banner_image ? entry.data.banner_image : null;
 ---
 
-<BaseLayout title={title}>
+<BaseLayout title={title} image={metaImage}>
   <div>
     {entry.data.banner_image &&
       <div class="filter-item-header-image w-full h-80 bg-cover bg-center bg-no-repeat mb-12" style={`background-image: url(${entry.data.banner_image})`}></div>
@@ -65,7 +66,7 @@ const relatedMapPages = await getCollection('maps', ({ data }) => {
             ))}
           </ul>
         }
-				<article class="item-article mt-4">
+				<article class="item-article mt-4 prose max-w-none">
           {entry.data.credit &&
             <p><strong>{entry.data.credit}</strong></p>
             <Content />
@@ -73,7 +74,7 @@ const relatedMapPages = await getCollection('maps', ({ data }) => {
 				</article>
         {relatedMapPages && relatedMapPages.length > 0 &&
           <aside>
-            <h2 class="text-2xl font-semibold mt-6 mb-4">Related maps</h2>
+            <h2 class="text-2xl font-medium mt-6 mb-4">Related maps</h2>
             <MapSwiper mapPages={relatedMapPages} client:load />
           </aside>
         }

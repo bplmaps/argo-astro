@@ -1,0 +1,42 @@
+---
+import { getCollection } from "astro:content";
+import Card from "@components/Card.vue";
+
+interface Props {
+  className: string;
+  columnClassName: string;
+  identifiers: array;
+}
+
+const { className, columnClassName, identifiers } = Astro.props;
+let entries = [];
+let facetEntries = await getCollection('facets');
+facetEntries = facetEntries.filter((entry) => (
+  identifiers.includes(entry.id)
+));
+facetEntries.forEach((entry) => {
+  let categories = entry.data['facet-categories'];
+  categories = categories.map((category) => {
+    category.facetId = entry.id;
+    return category;
+  })
+
+  entries = entries.concat(categories);
+});
+---
+
+{entries.map((entry) => (
+  <li class={`flex w-full px-5 ${columnClassName}`}>
+    <Card
+      client:visible
+      className={className}
+      title={entry.title}
+      image={entry.banner_image}
+      subtitle={`${entry.entries.length} items`}
+      link={{
+        href: `/facets/${entry.facetId}/${entry.id}`,
+        text: "Read more"
+      }}
+    />
+  </li>
+))}

@@ -7,29 +7,27 @@ import LogoGWPL from "@assets/gwpl_logo.png";
 import LogoNHPRC from "@assets/nhprc-logo-l.jpg";
 ---
 
-<footer class="bg-white container mx-auto mt-16 flex flex-col items-start flex-wrap gap-y-10 pt-10 lg:flex-row">
+<footer class="bg-white container mx-auto mt-16 flex flex-col items-start flex-wrap gap-y-10 pt-10 lg:flex-row py-8">
   <div class="px-5 lg:w-1/6">
     <a href="/">
       <span class="sr-only">ARGO Home</span>
       <Image src={Logo} alt="ARGO Logo" />
+      <div class="font-heading text-xs uppercase tracking-widest my-2 text-gray-500">American Revolutionary Geographies Online</div>
     </a>
   </div>
   <nav class="px-5 lg:w-2/3">
     <Menu />
   </nav>
   <div class="px-5 flex flex-col items-start lg:items-end gap-5 lg:w-1/6">
-    <Image class="block w-40 max-w-full" src={LogoNBLMEC} alt="Levanthal Map Center Logo" />
-    <Image class="block w-40 max-w-full" src={LogoGWPL} alt="George Washington Presidential Library Logo" />
-    <Image class="block w-40 max-w-full" src={LogoNHPRC} alt="National Archives Logo" />
+    <a href="https://leventhalmap.org" target="_blank">
+      <Image class="block w-40 max-w-full" src={LogoNBLMEC} alt="Leventhal Map & Education Center Logo" />
+    </a>
+    <a href="https://www.mountvernon.org/library/" target="_blank">
+      <Image class="block w-40 max-w-full" src={LogoGWPL} alt="George Washington Presidential Library Logo" />
+    </a>
+    <a href="https://www.archives.gov/nhprc" target="_blank">
+      <Image class="block w-40 max-w-full" src={LogoNHPRC} alt="National Archives Logo" />
+    </a>
   </div>
-  <div class="w-full bg-bismark-500 text-white px-5 py-3 flex gap-2 flex-col sm:flex-row sm:justify-between sm:items-center">
-    <p class="flex gap-4 text-sm font-normal">
-      <a href="/maps/" class="text-inherit hover:underline">All Maps</a>
-      <a href="/facets/" class="text-inherit hover:underline">All Themes</a>
-      <a href="/search/" class="text-inherit hover:underline">Advanced Search</a>
-    </p>
-    <p>
-      Exhibition Site by <a href="/" class="text-inherit hover:underline">Byte</a>
-    </p>
-  </div>
+ 
 </footer>

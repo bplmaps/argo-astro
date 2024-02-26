@@ -96,7 +96,8 @@ const facets = defineCollection({
         'facet-categories': z.array(z.object({
             id: z.string(),
             title: z.string(),
-            entries: z.array(z.string())
+            entries: z.array(z.string()),
+            banner_image: z.string().optional()
         })),
     }),
 })

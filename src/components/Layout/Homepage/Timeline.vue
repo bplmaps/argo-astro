@@ -1,7 +1,11 @@
 <template>
-  <div :class="['explore-by explore-by-outer explore-by-timelines', { 'explore-by-timelines-active': show_pane }]">
+  <div class="mb-12" :class="['explore-by explore-by-outer explore-by-timelines', { 'explore-by-timelines-active': show_pane }]">
     <div class="filter-explore-by relative mb-4">
-      <h2 class="font-heading font-semibold text-4xl mb-4">Explore by Timelines</h2>
+      <h2 class="heading-underlined font-heading font-medium text-3xl text-bismark-500 mb-4">
+		<span>
+			Explore by Timelines
+		</span>
+	  </h2>
       <ul class="flex flex-wrap gap-1">
         <li v-for="(era, era_year) in data.timeline_eras" :key="era_year">
           <a @click="scrollTo(era_year)" :class="['pill', 'cursor-pointer', { 'pill-active': show_era == era_year }]">{{ era.era }}</a>
