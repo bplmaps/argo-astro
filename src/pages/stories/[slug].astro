@@ -17,9 +17,11 @@ const { Content } = await entry.render();
 
 ---
 <BaseLayout title={title}>
-  <div class="prose">
+  <div>
+    <article class="prose">
     <Title>{title}</Title>
     <h2> by {entry.data.author}</h2>
     <Content />
+  </article>
   </div>
 </BaseLayout>
