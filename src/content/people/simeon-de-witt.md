@@ -1,5 +1,5 @@
 ---
-banner_image: https://www.argomaps.org//content/people/people_11_image_compress_100.jpg
+banner_image: https://a-us.storyblok.com/f/1016535/858x384/7684c7dd4a/simeon_de_witt.jpg
 bio_dates: 1756-1834
 credit: Biography written by Christina Peitler
 related_maps:
