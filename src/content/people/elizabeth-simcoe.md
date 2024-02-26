@@ -1,5 +1,5 @@
 ---
-banner_image: https://www.argomaps.org//content/people/people_8_image_compress_100.jpg
+banner_image: https://a-us.storyblok.com/f/1016535/858x381/dea901623e/elizabeth_simcoe.jpg
 bio_dates: 1762-1850
 credit: "Biography written by\_Ella Rauer"
 related_maps: []
