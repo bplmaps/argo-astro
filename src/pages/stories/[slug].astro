@@ -14,10 +14,14 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const title = entry.data.title;
 const { Content } = await entry.render();
+
 ---
 <BaseLayout title={title}>
-  <div class="markdown">
+  <div>
+    <article class="prose">
     <Title>{title}</Title>
-      <Content />
+    <h2> Story by {entry.data.author}</h2>
+    <Content />
+  </article>
   </div>
 </BaseLayout>

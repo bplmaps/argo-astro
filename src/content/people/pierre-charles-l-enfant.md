@@ -1,5 +1,5 @@
 ---
-banner_image: https://www.argomaps.org//content/people/people_17_image_compress_100.jpg
+banner_image: https://a-us.storyblok.com/f/1016535/858x380/96f10489b1/pierre_charles_lenfant.jpg
 bio_dates: 1754-1825
 credit: Biography written by Lauren Bordeaux
 related_maps:

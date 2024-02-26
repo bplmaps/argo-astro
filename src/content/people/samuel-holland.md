@@ -1,5 +1,5 @@
 ---
-banner_image: https://www.argomaps.org//content/people/people_2_image.png
+banner_image: https://a-us.storyblok.com/f/1016535/858x377/90c31a8a80/samuel_holland.png
 bio_dates: 1728-1799
 credit: "Biography written by Ryan Singsank"
 related_maps:
