@@ -1,5 +1,5 @@
 ---
-banner_image: https://www.argomaps.org//content/people/people_3_image_compress_100.jpg
+banner_image: https://a-us.storyblok.com/f/1016535/858x380/0b98d87c3e/john_montresor.jpg
 bio_dates: 1736-1799
 credit: Biography written by Benjamin George
 related_maps:
