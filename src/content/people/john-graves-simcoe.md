@@ -1,5 +1,5 @@
 ---
-banner_image: https://www.argomaps.org//content/people/people_7_image.png
+banner_image: https://a-us.storyblok.com/f/1016535/858x380/2c96afd3dd/john_graves_simcoe.png
 bio_dates: 1752-1806
 credit: "Biography by Patrick Monaghan"
 related_maps:
