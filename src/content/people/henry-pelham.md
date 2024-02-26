@@ -1,5 +1,5 @@
 ---
-banner_image: https://www.argomaps.org//content/people/people_15_image_compress_100.jpg
+banner_image: https://a-us.storyblok.com/f/1016535/858x380/9efea24a4b/henry_pelham.jpg
 bio_dates: 1749-1806
 credit: Biography written by Cecelia Michalowski
 related_maps:
