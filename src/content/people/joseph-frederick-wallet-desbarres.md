@@ -1,5 +1,5 @@
 ---
-banner_image: https://www.argomaps.org//content/people/people_19_image_compress_100.jpg
+banner_image: https://a-us.storyblok.com/f/1016535/858x380/1d704be39a/jfw_des_barres.jpg
 bio_dates: c.1721-1824
 credit: Biography by Joshua Cline
 related_maps:
@@ -272,7 +272,7 @@ DesBarres spent the next seventeen years lobbying the British government for com
 
 Joseph F.W. DesBarres’s legacy almost exclusively lies with the publication of _Atlantic Neptune_, often considered the most significant book of maps and charts of North America made in the eighteenth century.[^16]  With its use of innovative mapping techniques and advanced technology, combined with DesBarres’s fastidious attention to detail, _Atlantic Neptune_ still influences modern navigational charts.
 
-
+Banner image credit: detail from [“A copy by Gambardella of a 1785 portrait of Des Barres" in the National Gallery, London.](https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=fonandcol&IdNumber=2895902)
 
 
 [^1]: Stephen J. Hornsby and Hope Stege, _Surveyors of Empire: Samuel Holland, J.W.F. Des Barres, and the Making ofthe Atlantic Neptune_ (Montreal: McGill-Queen’s University Press, 2011), 3.
