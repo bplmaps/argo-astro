@@ -1,7 +1,7 @@
 ---
 banner_image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vp37w/10907,7302,3081,1333/,1200/0/default.jpg
 bibliography: 
-  -"Berkeley, Edmund, and Dorothy Smith Berkeley. _Dr. John Mitchell: The Man Who Made the Map of North America_. Chapel Hill: University of North Carolina Press, 1974."
+  -"Berkeley, Edmund, and Dorothy Smith Berkeley. Dr. John Mitchell: The Man Who Made the Map of North America. Chapel Hill: University of North Carolina Press, 1974."
 bio_dates: 1711-1768
 credit: Biography by John Attwood
 related_maps:
