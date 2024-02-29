@@ -26,8 +26,8 @@ related_maps:
 short_description: Dutch-born British military engineer, surveyor, and cartographer
 tags:
   - Mapmaker
-  - Surveyor
   - Military
+  - Surveyor
 title: Samuel Holland
 ---
 Samuel Johannes Holland was a Dutch-born mapmaker who played a significant role in aiding the British war efforts in North America during the Seven Years’ War and beyond. An invaluable asset to the British throughout his career, Holland became the first British Surveyor General of North America. 
