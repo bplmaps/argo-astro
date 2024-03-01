@@ -39,3 +39,5 @@ Longchamps, Denis. “Political Tourism: Elizabeth Simcoe’s Maps and Views of 
 Simcoe, Elizabeth. Mrs. Simcoe's Diary. Edited by Mary Quale Innis. Toronto: Macmillian of Canada, 1965.
 
 Simcoe, Elizabeth, and Robertson, J. Ross. The Diary of Mrs. John Graves Simcoe, Wife of the First Lieutenant Governor of the Province of Upper Canada (1792-6). Toronto: William Briggs, 1911.
+
+***

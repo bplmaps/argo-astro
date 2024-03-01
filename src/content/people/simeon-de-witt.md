@@ -60,3 +60,5 @@ Koeppel, Gerard T. _City on a Grid: How New York Became New York_. Boston, MA: 
 “NMAH: Albert H. Small Documents Gallery - the Cosmos in Miniature: The Remarkable Star Map of Simeon De Witt: European Astrolabes.” NMAH | Albert H. Small Documents Gallery - The Cosmos in Miniature: The Remarkable Star Map of Simeon De Witt. Accessed February 17, 2022. https://americanhistory.si.edu/documentsgallery/exhibitions/dewitt_1.html. 
 
 “Simeon De Witt \[1756-1834\].” New Netherlands Institute . Accessed February 17, 2022. https://www.newnetherlandinstitute.org/history-and-heritage/dutch_americans/simeon-de-witt.
+
+***

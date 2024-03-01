@@ -80,7 +80,7 @@ Litalien, Raymond, Jean-François Palomino, and Denis Vaugeois. _Mapping a Conti
 
 Martin, Lawrence. “John Mitchell’s Map.” _Quarterly Journal of Current Acquisitions_ 1, no. 4 (1944): 36–8. 
 
-
+***
 
 
 

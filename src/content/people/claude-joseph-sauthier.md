@@ -66,3 +66,5 @@ William P. Cumming. “Sauthier, Claude Joseph.” NCpedia. 1994.  https://www.
 Brown, Richard H., and Paul E. Cohen. Revolution: Mapping the Road to American Independence, 1755-1783. New York: W.W. Norton & Co, 2015.
 
 Ewen, Charles, Patricia M. Samford, and Perry Mathewes. “The Sauthier Maps and the Formal Gardens at Tryon Palace: Myth or Reality?” The North Carolina Historical Review 79, no. 3 (2002): 327–46.
+
+***

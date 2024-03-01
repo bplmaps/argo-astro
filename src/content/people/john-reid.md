@@ -38,3 +38,4 @@ The Old Printing Gallery Blog, “John Reid’s Map of America” June 27, 2014.
 
 Winterthur Museum, Garden and Library. “The National Map, 1785-1815.” http://commondestinations.winterthur.org/the-national-map/.
 
+***

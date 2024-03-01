@@ -54,3 +54,5 @@ Cohen, Paul E. Michel Capitaine Du Chesnoy, the Marquis de Lafayette’s Cartogr
 Guthorn, Peter J. American Maps and Map Makers of the Revolution. Monmouth Beach, N.J.: Philip Freneau Press, 1966.
 
 Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, Marquis de. Lafayette in the Age of the American Revolution: Selected Letters and Papers, 1776-1790. Edited by Stanley J. Idzerda. 5 vols. Ithaca: Cornell University Press, 1977-1983.
+
+***

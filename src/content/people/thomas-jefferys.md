@@ -83,3 +83,5 @@ Edelson, S. Max. _The New Map of Empire: How Britain Imagined America before Ind
 Harley, J.B. “The Bankruptcy of Thomas Jefferys: An Episode in the Economic History of Eighteenth Century Map-Making.” _Imago Mundi: The International Journal for the History of Cartography_ 20 (1966): 27–48.
 
 Pedley, Mary. “Maps, War, and Commerce: Business Correspondence with the London Map Firm of Thomas Jefferys and William Faden.” _Imago Mundi: The International Journal for the History of Cartography_ 48 (1996): 161–73.
+
+***

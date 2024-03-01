@@ -104,3 +104,5 @@ Scull, G. D., ed. “Lt. John Montresor’s Journal of an Expedition in 1760 Acr
 Scull, G. D., ed. The Montresor Journals. New York: New York Historical Society, 1881.
 
 Webster, J.C. “Life of John Montresor.” Proceedings and Transactions of the Royal Society of Canada, 3rd ser., 22 (May 1928): 1-31.
+
+***

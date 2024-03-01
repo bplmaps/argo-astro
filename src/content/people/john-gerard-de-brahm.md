@@ -63,3 +63,5 @@ Paulett, Robert. “De Brahm, William Gerard.” In The Encyclopedia of North Am
 Paulett, Robert. “The Bewildering World of William De Brahm: An Eighteenth Century Map Maker Surveys the End of Time.” Eighteenth-Century Studies 42, no. 4 (2009): 481-499.
 
 “De Brahm’s Philosophico-Historico Hydrogeography of South Carolina, Georgia, and East Florida,” in Documents Connected with the History of South Carolina, ed. Plowden C.J. Weston (London: Chiswick Press, 1856).
+
+***

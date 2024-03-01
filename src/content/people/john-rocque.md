@@ -74,4 +74,4 @@ Varley, John. “John Rocque. Engraver, Surveyor, Cartographer and Map-Seller.�
 
 Walshaw, Rodney. “John Rocque: A Revolutionary Map-maker.” _Brentford & Chiswick Local History Journal_, 2004. https://brentfordandchiswicklhs.org.uk/john-rocque-a-revolutionary-map-maker/.
 
-
+***

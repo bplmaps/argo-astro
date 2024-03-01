@@ -66,3 +66,5 @@ Jennings, Francis. "The Scandalous Indian Policy of William Penn's Sons: Deeds a
 Rosenberger, Homer. “EARLY MAPS OF PENNSYLVANIA.” _Pennsylvania History: A Journal of Mid-Atlantic Studies_ 11, no. 2 (1944): 103–17.
 
 Wainwright, Nicholas B. “Scull and Heap's East Prospect of Philadelphia.” _The Pennsylvania Magazine of History and Biography_ 73, no. 1 (1949): 16–25.
+
+***

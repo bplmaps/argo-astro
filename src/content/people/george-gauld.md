@@ -47,3 +47,5 @@ Howard, Clinton L. “Colonial Pensacola: The British Period Part III: The Admin
 Verell, Nancy. “William Tatham.” Monticello.org, December 2, 2013. https://www.monticello.org/site/research-and-collections/william-tatham.
 
 Ware, John D. George Gauld: Surveyor and Cartographer of the Gulf Coast. Gainesville/Tampa: University Presses of Florida, 1982.
+
+***

@@ -81,3 +81,5 @@ Thorpe, Frederick J. “HOLLAND, SAMUEL JOHANNES,” in Dictionary of Canadian 
 Thorpe, Frederick J. “Samuel Holland: From Gunner and Sapper to Surveyor-General, 1755-1764.” Canadian Military History, Vol. 27 (2018), Issue 1, Article 17. https://scholars.wlu.ca/cgi/viewcontent.cgi?article=1920&context=cmh
 
 Thorpe, Frederick J. "Samuel Johannes Holland: The Dutch Grooming of the Canadian Land Surveyor (1729-1755)." Canadian Journal of Netherlandic Studies 30, no. 2 (Fall, 2009):
+
+***

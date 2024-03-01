@@ -121,3 +121,5 @@ Taylor, Robert J. Western Massachusetts in the Revolution. Providence, RI: Brown
 Press, 1954.
 Trumbull, James Russell. History of Northampton, Massachusetts. Vol. 2. Northampton, MA: 
 Gazette Printing, 1902.
+
+***

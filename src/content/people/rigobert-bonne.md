@@ -86,3 +86,5 @@ O’Neill, Timothy. Review of _Cartography_, by J. H. Andrews, John Crowley, Joh
 Petto, Christine Marie. _When France Was King of Cartography: The Patronage and Production of Maps in Early Modern France_. Lanham, MD: Lexington Books, 2007.
 
 Ravenhill, William. “Projections for the Large General Maps of Britain, 1583–1700.” _Imago Mundi: The International Journal for the History of Cartography_ 33 (1981): 21–32. http://www.jstor.org/stable/1150781
+
+***

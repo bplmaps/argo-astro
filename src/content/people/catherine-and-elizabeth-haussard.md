@@ -62,3 +62,5 @@ Tyner, Judith. "Mapping Women: Scholarship on Women in the History of Cartograph
 Verner, Coolie. "The Fry and Jefferson Map" Imago Mundi: The International Journal for the History of Cartography 21 (1967): 70-94.
 
 West, Martin. "Memory&Artifact: The Mystery of the Vaugondy Maps." Western Pennsylvania History (2001): 2-10.
+
+***

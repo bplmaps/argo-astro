@@ -37,3 +37,5 @@ Mason, A. Stuart. 'Wasn't It Exciting!': A Compilation of the Work of A. Stuart 
 “Scalé, Peter Bernard.” Dictionary of Irish Architects – Irish Architectural Archive. Accessed February 10, 2022. https://www.dia.ie/architects/view/4754/SCAL%C3%89-PETERBERNARD.
 
 Varley, John. “John Rocque. Engraver, Surveyor, Cartographer and Map‐Seller.” Imago Mundi: The International Journal for the History of Cartography, 5, no. 1 (1948): 83–91.
+
+***

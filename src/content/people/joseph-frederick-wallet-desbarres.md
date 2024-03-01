@@ -316,7 +316,7 @@ Hornsby, Stephen J., and Hope Stege. _Surveyors of Empire: Samuel Holland, J.F.W
 
 Morgan, R.J. “DesBarres, Joseph Frederick Wallet.” In _Dictionary of Canadian Biography_. Vol. 6. University of Toronto/Université Laval, 2003–. http://www.biographi.ca/en/bio/desbarres_joseph_frederick_wallet_6E.html
 
-
+***
 
 
 

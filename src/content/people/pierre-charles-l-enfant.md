@@ -58,3 +58,5 @@ Historic American Buildings Survey. L'Enfant-McMillan Plan of Washington, DC. Li
 Losee, Chance. “Pierre L'Enfant.” Digital Encyclopedia of George Washington. George Washington's Mount Vernon. Accessed January 17, 2022. https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/pierre-lenfant/
 
 Von Eckardt, Wolf. "L' Enfant Plaza Is a Triumph." Washington Post. June 9, 1968.
+
+***

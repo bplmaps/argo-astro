@@ -69,3 +69,5 @@ Simcoe, John Graves. A Journal of the Operations of the Queen's Rangers: From th
 “Upper Canadian Act of 1793 Against Slavery National Historic Event.” Parks Canada. Accessed February 24, 2022. https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=1623.
 
 “Why We Celebrate Simcoe Day,” July 31, 2020. Markham Public Library. https://markhampubliclibrary.ca/blogs/post/why-we-celebrate-simcoe-day/#:~:text=This%20Monday%20August%203rd,Britain%20and%20died%20in%20180
+
+***
