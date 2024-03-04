@@ -11,7 +11,6 @@ export default {
 		},
 		colors: {
 			inherit: 'inherit',
-			'brand-orange': '#ea6501',
 			current: 'currentcolor',
 			transparent: 'transparent',
 			black: '#000000',
@@ -41,6 +40,19 @@ export default {
 				800: '#364854',
 				900: '#313e48',
 				950: '#1d272f',
+			},
+			clementine: {
+				50: '#fff9ec',
+				100: '#fff1d3',
+				200: '#ffdfa6',
+				300: '#ffc76d',
+				400: '#ffa333',
+				500: '#ff860b',
+				600: '#ea6501',
+				700: '#cb4e03',
+				800: '#a13e0b',
+				900: '#81340d',
+				950: '#461804',
 			},
 			crimson: {
 				50: '#fff0f3',
