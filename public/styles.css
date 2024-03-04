@@ -20,11 +20,11 @@
 
 /* Components */
 .button {
-	@apply inline-block py-1 px-2 bg-bismark-500 text-white font-semibold no-underline rounded transition-colors duration-200 ease-in-out hover:bg-bismark-700;
+	@apply inline-block text-center py-1 px-2 bg-bismark-500 text-white font-semibold no-underline rounded transition-colors duration-200 ease-in-out hover:bg-bismark-700;
 }
 
 .pill {
-	@apply inline-block py-1 px-3 whitespace-nowrap border border-bismark-500 rounded-full transition-colors duration-200 ease-in-out bg-white text-bismark-500 font-semibold hover:bg-bismark-500 hover:text-white;
+	@apply inline-block text-center py-1 px-3 whitespace-nowrap border border-bismark-500 rounded-full transition-colors duration-200 ease-in-out bg-white text-bismark-500 font-semibold hover:bg-bismark-500 hover:text-white;
 }
 
 .pill-active {
