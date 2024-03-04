@@ -3,9 +3,9 @@ import { getCollection } from "astro:content";
 import MenuDropdown from '@components/Layout/Footer/MenuDropdown.astro';
 const storyEntries = (await getCollection('stories')).sort(
   (a, b) => b.data.publish_date - a.data.publish_date
-).slice(0, 3);
+);
 
-const recentStoriesLinks = storyEntries.map((entry) => (
+const recentStoriesLinks = storyEntries.slice(0, 3).map((entry) => (
   {
     href: `/stories/${entry.slug}`,
     text: entry.data.title,
