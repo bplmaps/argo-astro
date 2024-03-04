@@ -8,6 +8,10 @@ const title = 'Search Maps';
 ---
 
 <BaseLayout title={title} noindex={true}>
-  <Title>{title}</Title>
+  <Title>
+    <span class="heading-underlined block text-bismark-950">
+      <span>{ title }</span>
+    </span>
+  </Title>
   <SearchMain client:only="vue" />
 </BaseLayout>

@@ -24,7 +24,11 @@ const identifiers = entries.map((entry) => (
 ---
 <BaseLayout title={title}>
   <div class="markdown mb-5 lg:mb-10">
-    <Title>{title}</Title>
+    <Title>
+      <span class="heading-underlined block text-bismark-950">
+        <span>{ title }</span>
+      </span>
+    </Title>
     <div set:html={entryData.abstract_tsi} />
   </div>
   <CollectionGrid contentType="maps" columns={3} identifiers={identifiers} />

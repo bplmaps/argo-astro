@@ -1,7 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 import BaseLayout from "@layouts/BaseLayout.astro";
-import MapSwiper from '@components/MapSwiper.jsx';
+import CollectionGrid from '@components/CollectionGrid.astro';
 import Title from '@components/Layout/Title.astro';
 
 // Generate a new path for every collection entry
@@ -21,9 +21,12 @@ const allPeopleTags = allPeoplePages.map((entry) => {
 }).flat().filter((currentValue, index, arr) => (
   arr.indexOf(currentValue) === index
 ));
-const relatedMapPages = await getCollection('maps', ({ data }) => {
+const relatedMapEntries = await getCollection('maps', ({ data }) => {
   return entry.data.related_maps.includes(data.dcMetadata.id) || entry.data.related_maps.includes(data.dcMetadata.id.replace(":","--"));
 });
+const relatedMapIdentifiers = relatedMapEntries.map((entry) => (
+  entry.id
+));
 const metaImage = entry.data.banner_image ? entry.data.banner_image : null;
 ---
 
@@ -58,7 +61,11 @@ const metaImage = entry.data.banner_image ? entry.data.banner_image : null;
         </div>
       }
 			<div class="item-content min-w-0 order-1 md:order-2">
-        <Title>{title}</Title>
+        <Title>
+          <span class="heading-underlined block text-bismark-950">
+            <span>{ title }</span>
+          </span>
+        </Title>
         {entry.data.tags &&
           <ul class="filters-applied list-none flex flex-wrap gap-x-1 gap-y-2 p-0 m-0">
             {entry.data.tags.map((tag) => (
@@ -72,10 +79,14 @@ const metaImage = entry.data.banner_image ? entry.data.banner_image : null;
             <Content />
           }
 				</article>
-        {relatedMapPages && relatedMapPages.length > 0 &&
+        {relatedMapIdentifiers && relatedMapIdentifiers.length > 0 &&
           <aside>
-            <h2 class="text-2xl font-medium mt-6 mb-4">Related maps</h2>
-            <MapSwiper mapPages={relatedMapPages} client:load />
+            <CollectionGrid
+              title="Related maps"
+              contentType="maps"
+              columns={3}
+              identifiers={relatedMapIdentifiers}
+            />
           </aside>
         }
         {entry.data.notes &&

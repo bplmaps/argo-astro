@@ -22,7 +22,7 @@ const facetIdentifiers = facetEntries.map((entry) => (
 ---
 
 <BaseLayout title={title} description={description}>
-  <SearchHero />
+  <SearchHero slot="hero" />
   <CollectionGrid className="mb-12" title="Explore by Story" contentType="stories" columns={3} identifiers={storyIdentifiers} />
   <CollectionGrid className="mb-12" title="Explore by Theme" contentType="facets" columns={4} identifiers={facetIdentifiers} />
   <Timeline data={timelineData.data} client:load />
