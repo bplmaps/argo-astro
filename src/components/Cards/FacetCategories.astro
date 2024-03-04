@@ -6,9 +6,10 @@ interface Props {
   className: string;
   columnClassName: string;
   identifiers: array;
+  maxCards: number;
 }
 
-const { className, columnClassName, identifiers } = Astro.props;
+const { className, columnClassName, identifiers, maxCards } = Astro.props;
 let entries = [];
 let facetEntries = await getCollection('facets');
 facetEntries = facetEntries.filter((entry) => (
@@ -23,6 +24,7 @@ facetEntries.forEach((entry) => {
 
   entries = entries.concat(categories);
 });
+entries = entries.slice(0, maxCards);
 ---
 
 {entries.map((entry) => (

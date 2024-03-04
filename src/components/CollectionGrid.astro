@@ -11,11 +11,12 @@ interface Props {
   cardClassName: string;
   title: string;
   columns: number;
-  contentType: string,
+  contentType: string;
   identifiers: array;
+  maxCards: number;
 }
 
-const { className, cardClassName, title, columns, contentType, identifiers } = Astro.props;
+const { className, cardClassName, title, columns, contentType, identifiers, maxCards } = Astro.props;
 
 let columnClassName = "";
 
@@ -52,9 +53,10 @@ switch (columns) {
       className={cardClassName}
       columnClassName={columnClassName}
       identifiers={identifiers}
+      maxCards={maxCards}
     />
   }
-  {identifiers.map((identifier) => (
+  {identifiers.slice(0, maxCards).map((identifier) => (
     <li class={`flex w-full px-5 ${columnClassName}`}>
       {contentType === 'facets' &&
         <FacetCard
