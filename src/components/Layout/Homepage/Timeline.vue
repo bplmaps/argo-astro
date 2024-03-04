@@ -1,7 +1,7 @@
 <template>
   <div class="mb-12" :class="['explore-by explore-by-outer explore-by-timelines', { 'explore-by-timelines-active': show_pane }]">
     <div class="filter-explore-by relative mb-4">
-      <h2 class="heading-underlined font-heading font-medium text-3xl text-bismark-500 mb-4">
+      <h2 class="heading-underlined font-heading font-medium text-3xl text-bismark-950 mb-4">
 		<span>
 			Explore by Timelines
 		</span>

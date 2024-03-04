@@ -58,7 +58,11 @@ const metaImage = entry.data.banner_image ? entry.data.banner_image : null;
         </div>
       }
 			<div class="item-content min-w-0 order-1 md:order-2">
-        <Title>{title}</Title>
+        <Title>
+          <span class="heading-underlined block text-bismark-950">
+            <span>{ title }</span>
+          </span>
+        </Title>
         {entry.data.tags &&
           <ul class="filters-applied list-none flex flex-wrap gap-x-1 gap-y-2 p-0 m-0">
             {entry.data.tags.map((tag) => (

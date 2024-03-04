@@ -19,7 +19,11 @@ const { Content } = await entry.render();
 <BaseLayout title={title}>
   <div>
     <article class="prose">
-    <Title>{title}</Title>
+      <Title>
+        <span class="heading-underlined block text-bismark-950">
+          <span>{ title }</span>
+        </span>
+      </Title>
     <h2> Story by {entry.data.author}</h2>
     <Content />
   </article>
