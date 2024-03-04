@@ -14,9 +14,10 @@ interface Props {
   contentType: string;
   identifiers: array;
   maxCards: number;
+  morePage: string;
 }
 
-const { className, cardClassName, title, columns, contentType, identifiers, maxCards } = Astro.props;
+const { className, cardClassName, title, columns, contentType, identifiers, maxCards, morePage } = Astro.props;
 
 let columnClassName = "";
 
@@ -40,10 +41,15 @@ switch (columns) {
 ---
 
 {title &&
-  <h2 class="heading-underlined font-heading font-medium text-bismark-500 text-3xl mb-4">
+  <h2 class="flex justify-between items-end gap-2 heading-underlined font-heading font-medium text-bismark-500 text-xl mb-4 md:text-3xl">
     <span>
       {title}
     </span>
+    {morePage &&
+      <a href={morePage} class="button button-outline whitespace-nowrap sm:m-1">
+        View all
+      </a>
+    }
   </h2>
 }
 
