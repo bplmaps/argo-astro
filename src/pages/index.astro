@@ -23,11 +23,11 @@ const facetIdentifiers = facetEntries.map((entry) => (
 
 <BaseLayout title={title} description={description}>
   <SearchHero />
-  <CollectionGrid className="mb-12" title="Explore by Story" contentType="stories" columns={3} identifiers={storyIdentifiers}, maxCards="3" />
-  <CollectionGrid className="mb-12" title="Explore by Theme" contentType="facets" columns={4} identifiers={facetIdentifiers}, maxCards="4" />
+  <CollectionGrid className="mb-12" title="Explore by Story" contentType="stories" columns={3} identifiers={storyIdentifiers}, maxCards="3" morePage="/stories/" />
+  <CollectionGrid className="mb-12" title="Explore by Theme" contentType="facets" columns={4} identifiers={facetIdentifiers}, maxCards="4" morePage="/facets/" />
   <Timeline data={timelineData.data} client:load />
-  <CollectionGrid className="mb-12" title="Explore by Empires & Nations" contentType="facetCategories" columns={5} identifiers={['empires-and-nations']}, maxCards="5" />
-  <CollectionGrid className="mb-12" title="Explore by Features" contentType="facetCategories" columns={5} identifiers={['features']}, maxCards="5" />
-  <CollectionGrid className="mb-12" title="Explore by Languages" contentType="facetCategories" columns={5} identifiers={['languages']}, maxCards="5" />
-  <CollectionGrid className="mb-12" title="Explore by Subject" contentType="facetCategories" columns={5} identifiers={['subjects']}, maxCards="5" />
+  <CollectionGrid className="mb-12" title="Explore by Empires & Nations" contentType="facetCategories" columns={5} identifiers={['empires-and-nations']}, maxCards="5"  morePage="/facets/empires-and-nations/" />
+  <CollectionGrid className="mb-12" title="Explore by Features" contentType="facetCategories" columns={5} identifiers={['features']}, maxCards="5"  morePage="/facets/features/" />
+  <CollectionGrid className="mb-12" title="Explore by Languages" contentType="facetCategories" columns={5} identifiers={['languages']}, maxCards="5"  morePage="/facets/languages/" />
+  <CollectionGrid className="mb-12" title="Explore by Subject" contentType="facetCategories" columns={5} identifiers={['subjects']}, maxCards="5"  morePage="/facets/subjects/" />
 </BaseLayout>
