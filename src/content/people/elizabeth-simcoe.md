@@ -7,7 +7,6 @@ short_description: British artist and mapmaker
 tags:
   - Mapmaker
   - Visual Makers
-  - Cool & Unusual
 title: Elizabeth Simcoe
 ---
 Elizabeth Posthuma Simcoe (nee Gwillim) was a British writer, artist, and wife of [John Graves Simcoe](/people/john-graves-simcoe) (1752-1806), the first lieutenant governor of Upper Canada (1791-1798). She is best known for her diary entries, watercolors, sketches, and maps of the frontier of Upper and Lower Canada from 1791 to 1796. Simcoe’s various works provide a unique insight into her life as a female cartographer and artist as well as a British explorer of Canada in the late eighteenth and early nineteenth centuries.

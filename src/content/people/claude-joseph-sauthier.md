@@ -31,8 +31,8 @@ related_maps:
 short_description: French-born British surveyor, architect, and mapmaker
 tags:
   - Mapmaker
-  - Surveyor
   - Military
+  - Surveyor
 title: Claude Joseph Sauthier
 ---
 Claude Joseph Sauthier was a surveyor in the British Army during the American Revolution. He was born on November 10, 1736, in Strasbourg, on the Franco-German border, to Joseph Philippe, a saddler, and Barbe Primat Sauthier. Early in his life, Sauthier took an interest in surveying and draftsmanship. By the time he was twenty-three years old, Sauthier had completed one of the most impressive surveys of Alsace, assisted by Cassini De Thury, a French intellectual who revolutionized mapmaking in the region with his innovation of triangulation. In the mid-1760s, Sauthier arrived in North Carolina on a royal commission from the British Crown to survey and map the colony, where he worked under the eighth royal governor of Virginia, Lord William Tryon. During his tenure in the North Carolina colony, Sauthier completed twelve detailed maps of different localities.

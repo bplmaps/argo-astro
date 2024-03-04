@@ -250,7 +250,10 @@ related_maps:
   - commonwealth:z603vm31t
 short_description: Swiss-born British military engineer, surveyor, and cartographer
 tags:
-  - Untagged
+  - Mapmaker
+  - Military
+  - Politician
+  - Surveyor
 title: Joseph Frederick Wallet DesBarres
 ---
 

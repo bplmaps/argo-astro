@@ -19,7 +19,8 @@ related_maps:
   - commonwealth:z603vt177
 short_description: British colonial physician and cartographer
 tags:
-  - Untagged
+  - Academic
+  - Mapmaker
 title: John Mitchell
 ---
 John Mitchell was an American physician, botanist, and cartographer who produced maps of North America during the mid-eighteenth century. His most significant work, commonly referred to as the “Mitchell Map,” was published in 1755 and is considered one of the most influential maps of colonial North America.

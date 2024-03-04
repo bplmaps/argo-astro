@@ -8,8 +8,9 @@ related_maps:
 short_description: Scottish military engineer, surveyor, and cartographer
 tags:
   - Mapmaker
-  - Surveyor
   - Military
+  - Politician
+  - Surveyor
 title: George Gauld
 ---
 George Gauld was a British surveyor and cartographer who produced notable maps of the Gulf Coast and the Caribbean in the mid-eighteenth century. Though of great quality and possessing an incredible degree of accuracy, Gauld’s maps, much like the man himself, existed in relative obscurity on the margins of the British Empire until after his death in 1782.

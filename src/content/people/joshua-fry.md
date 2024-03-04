@@ -7,7 +7,11 @@ related_maps:
   - commonwealth:0r96fq87q
 short_description: British colonial politician, educator, planter, surveyor, and cartographer
 tags:
-  - Untagged
+  - Academic
+  - Mapmaker
+  - Military
+  - Politician
+  - Surveyor
 title: Joshua Fry
 ---
 Joshua Fry was surveyor, soldier, politician, and professor in colonial Virginia. He is best known for co-creating the Fry-Jefferson Map of Virginia with [Peter Jefferson](/people/peter-jefferson), Thomas Jefferson’s father.

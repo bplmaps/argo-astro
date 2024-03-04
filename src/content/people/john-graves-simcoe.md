@@ -17,8 +17,9 @@ short_description: British general and colonial politician who produced many map
   and sketches
 tags:
   - Mapmaker
-  - Surveyor
   - Military
+  - Politician
+  - Surveyor
 title: John Graves Simcoe
 ---
 John Graves Simcoe (1752-1806) was a British cartographer, soldier, and lieutenant governor of Upper Canada from 1791 to 1796. Named after his godfather, Captain Samuel Graves, John Graves Simcoe often distinguished himself from his father, also named John, by using his middle name of Graves. The third son of Captain John Simcoe, Royal Navy, and Katherine Stamford Simcoe, John Graves Simcoe was the first to survive to adulthood. His father was a decorated naval officer, commanding both the frigate Prince Edward and later HMS Pembroke. Captain John Simcoe died in 1759 during the siege of Quebec from pneumonia and was buried off the coast of Anticosti in the Gulf of Saint Lawrence.

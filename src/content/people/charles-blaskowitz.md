@@ -18,8 +18,8 @@ related_maps:
 short_description: Prussian-born British military surveyor and mapmaker
 tags:
   - Mapmaker
-  - Surveyor
   - Military
+  - Surveyor
 title: Charles Blaskowitz
 ---
 Charles Blaskowitz was one of the British military’s most accomplished surveyors during the American Revolutionary War. Prior to the Revolution, he worked with other talented British cartographers to help survey key areas of colonial Canada. When the Revolutionary War broke out, Blaskowitz worked on campaign maps for General William Howe and a siege plan for Newport, Rhode Island.

@@ -7,8 +7,9 @@ related_maps:
   - commonwealth:z603vg36c
 short_description: Massachusetts-born surveyor, militia captain, & political leader
 tags:
-  - Surveyor
   - Military
+  - Politician
+  - Surveyor
 title: Nathaniel Dwight
 ---
 

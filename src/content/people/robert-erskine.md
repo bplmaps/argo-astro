@@ -11,9 +11,8 @@ short_description: Scottish-American military engineer, surveyor, cartographer, 
   inventor
 tags:
   - Mapmaker
-  - Surveyor
   - Military
-  - Cool & Unusual
+  - Surveyor
 title: Robert Erskine
 ---
 Robert Erskine (1735-1780) was a Scottish-American businessman, inventor, and mapmaker during the late eighteenth century. While he contributed to technological advancements in engineering and hydraulics, Erskine is most famous for his role as the first Geographer and Surveyor of Roads for the Continental Army from 1777 to 1780. He and his team of surveyors supplied the army with approximately 275 maps, which were imperative to American victories throughout the Revolutionary War.

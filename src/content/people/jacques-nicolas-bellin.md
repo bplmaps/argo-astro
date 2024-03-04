@@ -38,6 +38,7 @@ related_maps:
   - commonwealth:z603vq50n
 short_description: French geographer, cartographer, and natural philosopher
 tags:
+  - Academic
   - Mapmaker
 title: Jacques-Nicolas Bellin
 ---

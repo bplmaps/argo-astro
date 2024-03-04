@@ -21,7 +21,6 @@ short_description: German-born British imperial surveyor, mapmaker, and religiou
 tags:
   - Mapmaker
   - Surveyor
-  - Cool & Unusual
 title: John Gerard De Brahm
 ---
 John Gerard De Brahm (also known as William De Brahm) was a German-born cartographer and military engineer. De Brahm achieved distinction in colonial Georgia and South Carolina for his expertly detailed maps, eventually rising through colonial ranks to become the surveyor general for the Southern District of North America between 1764 and 1775. His reputation was marred by several developments in his life, including his involvement in the emerging religious mysticism movement of the late eighteenth century. However, De Brahm’s contributions to early American geographical studies eventually proved massively influential.

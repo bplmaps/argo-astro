@@ -8,6 +8,7 @@ related_maps:
 short_description: British colonial surveyor, cartographer, politician, and planter
 tags:
   - Mapmaker
+  - Politician
   - Surveyor
 title: Peter Jefferson
 ---

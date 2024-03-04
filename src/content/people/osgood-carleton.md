@@ -21,7 +21,10 @@ related_maps:
   - commonwealth:z603vh074
 short_description: British colonial surveyor, cartographer, and educator
 tags:
-  - Untagged
+  - Academic
+  - Mapmaker
+  - Military
+  - Surveyor
 title: Osgood Carleton
 ---
 

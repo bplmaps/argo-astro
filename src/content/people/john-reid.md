@@ -17,7 +17,7 @@ related_maps:
   - commonwealth:z603vh08d
 short_description: Early American map publisher
 tags:
-  - Untagged
+  - Mapmaker
 title: John Reid
 ---
 

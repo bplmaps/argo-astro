@@ -10,7 +10,9 @@ related_maps:
   - commonwealth:0r96fq80s
 short_description: British colonial surveyor and cartographer
 tags:
-  - Untagged
+  - Mapmaker
+  - Politician
+  - Surveyor
 title: Nicolas Scull II
 ---
 Nicholas Scull II was an accomplished British colonial surveyor and cartographer born in 1687 in Philadelphia, Pennsylvania. Scull served as the surveyor general of Pennsylvania and was known for his work surveying and mapping Bucks and Philadelphia counties.
