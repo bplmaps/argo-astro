@@ -4,7 +4,7 @@
 .heading-underlined {
 	@apply pb-2;
 
-    box-shadow: inset 0 1.1em theme("colors.white"),
+    box-shadow: inset 0 1.1em theme("colors.gray.50"),
 				inset -0.5px 0 theme("colors.bismark.500"),
 				inset 0 -0.5px theme("colors.bismark.500");
 }
@@ -12,7 +12,7 @@
 .heading-underlined > span {
 	@apply pb-2;
 
-    box-shadow: inset 0 1.3em theme("colors.white"),
+    box-shadow: inset 0 1.3em theme("colors.gray.50"),
 				inset 0.5px 0 theme("colors.bismark.500"),
 				inset -0.5px 0 theme("colors.bismark.500"),
 				inset 0 -3px theme("colors.brand-orange");
