@@ -8,7 +8,7 @@ page = 1
 query = "https://collections.leventhalmap.org/search?utf8=✓&f_inclusive[destination_site_ssim][]=argo&format=json"
 
 def parse_collection_record(doc):
-    filename = "../src/content/maps/{}.json".format(doc["id"])
+    filename = "../src/content/maps/{}.json".format(doc["id"].replace(":","__"), sort_keys=True, indent=4, separators=(',', ': '))
     
     with open(filename, "w") as f:
 
