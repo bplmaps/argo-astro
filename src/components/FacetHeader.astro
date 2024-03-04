@@ -10,7 +10,7 @@ interface Props {
 const { facet, facetCategories, currentFacetCategory } = Astro.props;
 ---
 
-<div class="filter-explore-by relative mb-4">
+<div class="filter-explore-by not-prose relative mb-4">
   <Title>{currentFacetCategory ? <span class="block text-lg font-medium">{facet.data.title}: </span><span class="block heading-underlined text-bismark-950"><span>{currentFacetCategory.title}</span></span> : <span class="block heading-underlined text-bismark-950"><span>{facet.data.title}</span></span>}</Title>
   <ul class="flex flex-wrap gap-1">
     {facetCategories.map((category) => (

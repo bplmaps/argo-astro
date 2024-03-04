@@ -1,6 +1,6 @@
 <template>
   <div
-    class="card w-full bg-white shadow-lg rounded-xl flex flex-col justify-start overflow-hidden"
+    class="card not-prose w-full bg-white shadow-lg rounded-xl flex flex-col justify-start overflow-hidden"
     :class="className"
     v-if="loaded"
   >
