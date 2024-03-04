@@ -12,8 +12,12 @@ const { frontmatter } = Astro.props;
 
 <BaseLayout title={frontmatter.title}>
 	<article>
-		<Title>{ frontmatter.title }</Title>
-		<div class="prose">
+		<Title>
+			<span class="heading-underlined block text-bismark-950">
+				<span>{ frontmatter.title }</span>
+			</span>
+		</Title>
+		<div class="prose max-w-none">
 			<slot />
 		</div>
 		

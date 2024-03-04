@@ -1,6 +1,6 @@
 <template>
   <li>
-    <a :href="href" class="hover:underline">{{ text }}</a>
+    <a :class="className ? className : 'hover:underline'" :href="href">{{ text }}</a>
   </li>
 </template>
 
@@ -8,6 +8,7 @@
 export default {
 	name: 'NavItem',
   props: {
+    className: String,
     href: String,
     text: String,
 	},
