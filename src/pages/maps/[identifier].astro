@@ -85,7 +85,7 @@ const metaImage = "https://iiif.digitalcommonwealth.org/iiif/2/" + data.dcMetada
             <ul class="flex flex-wrap gap-x-1 gap-y-2 text-sm">
               {data.dcMetadata.facetCategories && data.dcMetadata.facetCategories.map((tag) => (
                 <li>
-                  <a href={"/facets/" + tag.facet + "/" + tag.id} class="inline-block py-1 px-3 whitespace-nowrap bg-white text-bismark-500 border border-bismark-500 rounded-full transition-colors duration-300 ease-in-out hover:bg-bismark-500 hover:text-white">{tag.title}</a>
+                  <a href={"/facets/" + tag.facet + "/" + tag.id} class="inline-block py-1 px-3 whitespace-nowrap bg-white text-bismark-500 border border-bismark-500 rounded-full transition-colors duration-200 ease-in-out hover:bg-bismark-500 hover:text-white">{tag.title}</a>
                 </li>
               ))}
             </ul>
