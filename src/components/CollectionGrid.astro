@@ -46,7 +46,7 @@ switch (columns) {
   </h2>
 }
 
-<ul class={`flex gap-y-5 flex-wrap p-0 list-none filter-list -mx-5 lg:gap-y-10 ${className}`}>
+<ul class={`flex gap-y-5 flex-wrap p-0 list-none filter-list -mx-2 lg:gap-y-10 ${className}`}>
   {contentType === 'facetCategories' &&
     <FacetCategoryCards
       className={cardClassName}
@@ -55,7 +55,7 @@ switch (columns) {
     />
   }
   {identifiers.map((identifier) => (
-    <li class={`flex w-full px-5 ${columnClassName}`}>
+    <li class={`flex w-full px-2 ${columnClassName}`}>
       {contentType === 'facets' &&
         <FacetCard
           className={cardClassName}
