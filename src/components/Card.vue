@@ -1,10 +1,10 @@
 <template>
   <div
-    class="card w-full bg-white border flex flex-col justify-start border-bismark-500 rounded-lg overflow-hidden"
+    class="card w-full bg-white shadow-lg rounded-xl flex flex-col justify-start overflow-hidden"
     :class="className"
     v-if="loaded"
   >
-    <div v-if="image" class="relative w-full aspect-video border-b border-bismark-500">
+    <div v-if="image" class="relative w-full aspect-video border-b border-gray-100">
       <img
         :src="image"
         :alt="title"
