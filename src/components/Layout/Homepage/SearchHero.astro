@@ -7,9 +7,9 @@ import WLLogo from "@assets/WashingtonLibrary-logo.png";
 import LMECLogo from "@assets/LMEC-logo.webp";
 ---
 
-<div class="relative isolate overflow-hidden bg-gray-900 -mx-5 py-8 mb-12 sm:mx-auto sm:py-12 lg:px-8">
+<div class="relative isolate overflow-hidden bg-gray-900 py-8 mb-12 sm:mx-auto sm:py-12 lg:px-8">
   <Image src={heroSearchBg} alt="Background image of a map" class="absolute inset-0 -z-10 h-full w-full object-cover" />
-    
+  <div class="container mx-auto px-5">
     <div class="relative mx-auto max-w-sm text-center px-6 pt-[4.5rem] pb-[4.5rem] md:max-w-full md:pt-24 lg:pt-32">
       <Image src={backgroundCartoucheMobile} alt="Cartouche backgorund image" class="absolute inset-0 -z-10 mx-auto md:hidden" />
       <Image src={backgroundCartouche} alt="Cartouche backgorund image" class="absolute inset-0 -z-10 mx-auto hidden md:block" />
@@ -25,8 +25,9 @@ import LMECLogo from "@assets/LMEC-logo.webp";
         </button>
       </form>
     </div>
-    <div class="flex w-full max-w-md mx-auto md:mt-20">
-      <Image src={WLLogo} alt="Washington Library Logo" class="w-1/2 px-2 h-auto self-center" />
-      <Image src={LMECLogo} alt="Leventhal Map & Education Center Logo" class="w-1/2 px-2 h-auto self-center" />
+    <div class="flex gap-4 w-full max-w-md mx-auto md:mt-20">
+      <Image src={WLLogo} alt="Washington Library Logo" class="w-1/2 h-auto self-center" />
+      <Image src={LMECLogo} alt="Leventhal Map & Education Center Logo" class="w-1/2 h-auto self-center" />
     </div>
   </div>
+</div>
