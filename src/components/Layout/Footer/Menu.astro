@@ -1,43 +1,37 @@
 ---
+import { getCollection } from "astro:content";
 import MenuDropdown from '@components/Layout/Footer/MenuDropdown.astro';
+const storyEntries = (await getCollection('stories')).sort(
+  (a, b) => b.data.publish_date - a.data.publish_date
+);
+
+const recentStoriesLinks = storyEntries.slice(0, 3).map((entry) => (
+  {
+    href: `/stories/${entry.slug}`,
+    text: entry.data.title,
+  }
+));
 const dropdowns = [
   {
     href: '/stories/',
     text: 'Recent Stories',
-    links: [
-      {
-        href: '/stories/forgotten-theater/',
-        text: 'The Forgotten Theater of the American Revolution'
-      },
-      {
-        href: '/stories/mapping-american-revolution-symposium/',
-        text: 'Mapping the Revolution'
-      },
-      {
-        href: '/stories/george-washingtons-maps/',
-        text: 'George Washington’s Maps'
-      }
-    ]
+    links: recentStoriesLinks,
   },
   {
     href: '/facets/',
     text: 'Featured Themes',
     links: [
+    {
+        href: '/facets/',
+        text: 'Themes'
+      },
       {
         href: '/people/',
         text: 'People'
       },
       {
-        href: '/facets/empires-and-nations/',
-        text: 'Nations & Empires'
-      },
-      {
-        href: '/facets/features/cartouche/',
-        text: 'Cartouches'
-      },
-      {
-        href: '/facets/features/animal/',
-        text: 'Animals'
+        href: '/partner-collections/',
+        text: 'Partner Collections'
       }
     ]
   },
@@ -52,17 +46,17 @@ const dropdowns = [
       {
         href: '/partner-collections',
         text: 'Partner Collections'
+      },
+      {
+        href: '/educators/',
+        text: 'For Educators',
       }
     ]
-  },
-  {
-    href: '/educators/',
-    text: 'For Educators',
   }
 ]
 ---
 {dropdowns &&
-  <ul class="flex flex-col gap-5 lg:flex-row">
+  <ul class="w-full flex flex-col gap-5 lg:flex-row">
     {dropdowns && dropdowns.map((dropdown) => (
       <MenuDropdown href={dropdown.href} text={dropdown.text} links={dropdown.links} />
     ))}

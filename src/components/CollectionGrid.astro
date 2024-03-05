@@ -11,11 +11,13 @@ interface Props {
   cardClassName: string;
   title: string;
   columns: number;
-  contentType: string,
+  contentType: string;
   identifiers: array;
+  maxCards: number;
+  morePage: string;
 }
 
-const { className, cardClassName, title, columns, contentType, identifiers } = Astro.props;
+const { className, cardClassName, title, columns, contentType, identifiers, maxCards, morePage } = Astro.props;
 
 let columnClassName = "";
 
@@ -39,23 +41,29 @@ switch (columns) {
 ---
 
 {title &&
-  <h2 class="heading-underlined font-heading font-medium text-bismark-500 text-3xl mb-4">
+  <h2 class="not-prose flex justify-between items-end gap-2 heading-underlined font-heading font-medium text-bismark-950 text-xl mb-4 md:text-3xl">
     <span>
       {title}
     </span>
+    {morePage &&
+      <a href={morePage} class="button button-outline whitespace-nowrap sm:m-1">
+        View all
+      </a>
+    }
   </h2>
 }
 
-<ul class={`flex gap-y-5 flex-wrap p-0 list-none filter-list -mx-5 lg:gap-y-10 ${className}`}>
+<ul class={`flex gap-y-5 flex-wrap p-0 list-none filter-list -mx-2 ${className}`}>
   {contentType === 'facetCategories' &&
     <FacetCategoryCards
       className={cardClassName}
       columnClassName={columnClassName}
       identifiers={identifiers}
+      maxCards={maxCards}
     />
   }
-  {identifiers.map((identifier) => (
-    <li class={`flex w-full px-5 ${columnClassName}`}>
+  {identifiers.slice(0, maxCards).map((identifier) => (
+    <li class={`flex w-full px-2 ${columnClassName}`}>
       {contentType === 'facets' &&
         <FacetCard
           className={cardClassName}

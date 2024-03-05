@@ -43,8 +43,9 @@ const metaImage = image ? image : siteImage;
 			}}
 		/>
 	</head>
-	<body class="bg-[#fcfcfc]">
+	<body class="bg-gray-50">
 		<Header />
+		<slot name="hero" />
 		<div class="container mx-auto px-5 mt-5">
 			<slot />
 		</div>

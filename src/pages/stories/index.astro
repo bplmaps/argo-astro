@@ -12,6 +12,10 @@ const identifiers = entries.map((entry) => (
 
 ---
 <BaseLayout title={title}>
-  <Title>{title}</Title>
+  <Title>
+    <span class="heading-underlined block text-bismark-950">
+      <span>{ title }</span>
+    </span>
+  </Title>
   <CollectionGrid contentType="stories" columns={2} identifiers={identifiers} />
 </BaseLayout>

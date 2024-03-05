@@ -7,27 +7,28 @@ import LogoGWPL from "@assets/gwpl_logo.png";
 import LogoNHPRC from "@assets/nhprc-logo-l.jpg";
 ---
 
-<footer class="bg-white container mx-auto mt-16 flex flex-col items-start flex-wrap gap-y-10 pt-10 lg:flex-row py-8">
-  <div class="px-5 lg:w-1/6">
-    <a href="/">
-      <span class="sr-only">ARGO Home</span>
-      <Image src={Logo} alt="ARGO Logo" />
-      <div class="font-heading text-xs uppercase tracking-widest my-2 text-gray-500">American Revolutionary Geographies Online</div>
-    </a>
+<footer class="bg-white border-t border-gray-100 mt-16 py-10 lg:py-0">
+  <div class="container mx-auto flex flex-col flex-wrap gap-y-10 lg:flex-row">
+    <div class="px-5 lg:py-5 lg:w-1/6 lg:border-r lg:border-gray-100">
+      <a href="/">
+        <span class="sr-only">ARGO Home</span>
+        <Image src={Logo} alt="ARGO Logo" />
+        <div class="font-heading text-xs uppercase tracking-widest my-2 text-gray-500">American Revolutionary Geographies Online</div>
+      </a>
+    </div>
+    <nav class="px-5 flex lg:w-2/3">
+      <Menu />
+    </nav>
+    <div class="px-5 lg:py-5 flex flex-col items-start lg:items-end gap-5 lg:w-1/6">
+      <a class="block w-full max-w-xs" href="https://leventhalmap.org" target="_blank">
+        <Image class="block w-full" src={LogoNBLMEC} alt="Leventhal Map & Education Center Logo" />
+      </a>
+      <a class="block w-full max-w-xs" href="https://www.mountvernon.org/library/" target="_blank">
+        <Image class="block w-full" src={LogoGWPL} alt="George Washington Presidential Library Logo" />
+      </a>
+      <a class="block w-full max-w-xs" href="https://www.archives.gov/nhprc" target="_blank">
+        <Image class="block w-full" src={LogoNHPRC} alt="National Archives Logo" />
+      </a>
+    </div>
   </div>
-  <nav class="px-5 lg:w-2/3">
-    <Menu />
-  </nav>
-  <div class="px-5 flex flex-col items-start lg:items-end gap-5 lg:w-1/6">
-    <a href="https://leventhalmap.org" target="_blank">
-      <Image class="block w-40 max-w-full" src={LogoNBLMEC} alt="Leventhal Map & Education Center Logo" />
-    </a>
-    <a href="https://www.mountvernon.org/library/" target="_blank">
-      <Image class="block w-40 max-w-full" src={LogoGWPL} alt="George Washington Presidential Library Logo" />
-    </a>
-    <a href="https://www.archives.gov/nhprc" target="_blank">
-      <Image class="block w-40 max-w-full" src={LogoNHPRC} alt="National Archives Logo" />
-    </a>
-  </div>
- 
 </footer>

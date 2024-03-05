@@ -2,29 +2,35 @@
 
 /* Typography */
 .heading-underlined {
-	@apply pb-2;
+	@apply flex;
 
-    box-shadow: inset 0 1.1em theme("colors.white"),
-				inset -0.5px 0 theme("colors.bismark.500"),
-				inset 0 -0.5px theme("colors.bismark.500");
+	@screen sm {
+    box-shadow: inset 0 1.1em theme("colors.gray.50"),
+                inset -0.5px 0 theme("colors.bismark.500"),
+                inset 0 -0.5px theme("colors.bismark.500");
+	}
 }
 
 .heading-underlined > span {
-	@apply pb-2;
+	@apply pb-2 -mb-[3px];
 
-    box-shadow: inset 0 1.3em theme("colors.white"),
-				inset 0.5px 0 theme("colors.bismark.500"),
-				inset -0.5px 0 theme("colors.bismark.500"),
-				inset 0 -3px theme("colors.brand-orange");
+  box-shadow: inset 0 1.1em theme("colors.gray.50"),
+              inset 0.5px 0 theme("colors.bismark.500"),
+              inset -0.5px 0 theme("colors.bismark.500"),
+              inset 0 -3px theme("colors.clementine.600");
 }
 
 /* Components */
 .button {
-	@apply inline-block py-1 px-2 bg-bismark-500 text-white no-underline rounded transition-colors duration-300 ease-in-out hover:bg-bismark-700;
+	@apply inline-block text-center font-sans text-base py-1 px-2 bg-bismark-500 border border-bismark-500 text-white font-semibold no-underline rounded transition-colors duration-300 ease-in-out hover:bg-bismark-700;
+}
+
+.button-outline {
+	@apply bg-transparent text-bismark-500 hover:text-white;
 }
 
 .pill {
-	@apply inline-block py-1 px-3 whitespace-nowrap border border-bismark-500 rounded-full transition-colors duration-300 ease-in-out bg-white text-bismark-500 hover:bg-bismark-500 hover:text-white;
+	@apply inline-block text-center font-sans text-base py-1 px-3 whitespace-nowrap border border-bismark-500 rounded-full transition-colors duration-300 ease-in-out bg-white text-bismark-500 font-semibold hover:bg-bismark-500 hover:text-white;
 }
 
 .pill-active {
