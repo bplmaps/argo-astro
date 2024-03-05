@@ -1,0 +1,154 @@
+---
+
+---
+
+<section class="py-8">
+    <h2
+        class="not-prose flex justify-between items-end gap-2 heading-underlined font-heading font-medium text-bismark-950 text-xl mb-4 md:text-3xl"
+    >
+        <span>Explore by Map</span>
+    </h2>
+
+    <div class="flex mb-3 bg-gray-100 p-2">
+        <div class="rounded px-2 py-1 bg-bismark-950 text-white mr-4">
+            Filtered by size
+        </div>
+        <span class="rounded px-2 py-1 bg-gray-100 mr-4">Smallest</span>
+        <input
+            type="range"
+            min="1"
+            max="100"
+            value="50"
+            class="slider grow"
+            id="map-slider"
+        />
+        <span class="rounded px-2 py-1 bg-gray-100 ml-4">Largest</span>
+    </div>
+
+    <div id="mapDiv"></div>
+</section>
+
+<script>
+    import Map from "ol/Map.js";
+    import OSM from "ol/source/OSM.js";
+    import TileLayer from "ol/layer/Tile.js";
+    import View from "ol/View.js";
+    import VectorLayer from "ol/layer/Vector.js";
+    import VectorSource from "ol/source/Vector.js";
+    import { Fill, Stroke, Style } from "ol/style.js";
+    import Feature from "ol/Feature";
+    import { fromExtent } from "ol/geom/Polygon";
+    import { transformExtent } from "ol/proj";
+    import { getArea } from "ol/extent";
+
+    import bboxes from "@assets/map-bboxes.json";
+
+    const wkt_transformer = (wkt) => {
+        const clean = wkt
+            .replace("ENVELOPE(", "")
+            .replace(")", "")
+            .split(", ")
+            .map((e) => +e); // janky brittle hard coded transform of WKT encoding, but it works
+        return clean;
+    };
+
+    const transformBbox = (a) => {
+        const a_t = [a[0], a[3], a[1], a[2]]; // WKT uses WENS, while OL uses minx miny maxx maxy
+        const e = transformExtent(a_t, "EPSG:4326", "EPSG:3857");
+        return e;
+    };
+
+    const clean_bboxes = bboxes
+        .map((b) => {
+            return { id: b.id, bbox: wkt_transformer(b.bbox) };
+        })
+        .filter((b) => b.bbox[1] > b.bbox[0] && b.bbox[2] > b.bbox[3]); // check for valid WKT where maxx > minx && maxy > miny
+
+    const feature_bboxes = clean_bboxes.map((b) => {
+        return new Feature({
+            geometry: fromExtent(transformBbox(b.bbox)),
+            collection_identifier: b.id,
+        });
+    });
+
+    const source = new VectorSource();
+
+    const vectorLayer = new VectorLayer({
+        source: source,
+        style: new Style({
+            stroke: new Stroke({
+                color: "blue",
+                width: 1,
+            }),
+            fill: new Fill({
+                color: "rgba(255,255,255,0.1)",
+            }),
+        }),
+    });
+
+    const view = new View();
+
+    const map = new Map({
+        target: "mapDiv",
+        layers: [
+            new TileLayer({
+                source: new OSM(),
+            }),
+            vectorLayer,
+        ],
+        view: view,
+    });
+
+    view.fit(
+        fromExtent(
+            transformExtent(
+                [-105.42, 19.18, -62.53, 50.42],
+                "EPSG:4326",
+                "EPSG:3857",
+            ),
+        ),
+    );
+
+    const slider = document.getElementById("map-slider");
+
+    const scaleMin = Math.log(1000);
+    const scaleMax = Math.log(12000000); // hard coded log scaling, should do better but don't want to import d3
+
+    const areaFilterFunction = (f, v) => {
+        const a = Math.sqrt(getArea(f.getGeometry().getExtent()));
+        const sl = Math.exp(scaleMin + v * ((scaleMax - scaleMin) / 100));
+        return a > sl * 0.8 && a < sl * 1.2;
+    };
+
+    const executeFilter = (v) => {
+        source.clear();
+        const filtered = feature_bboxes.filter((f) => areaFilterFunction(f, v));
+        source.addFeatures(filtered);
+    };
+
+    executeFilter(50);
+
+    slider.oninput = function () {
+        executeFilter(this.value);
+    };
+
+    map.on("click", (e) => {
+        const s = source.getFeaturesAtCoordinate(e.coordinate);
+        if (s.length > 0) {
+            console.log(s.map((d) => d.get("collection_identifier")));
+            // TODO: Instead of writing array to console, pass it to collections
+            window.location.href = `./maps/${s[0].get("collection_identifier")}`;
+        } else {
+            window.alert("No maps where you clicked");
+        }
+    });
+</script>
+
+<style>
+    @import "node_modules/ol/ol.css";
+
+    #mapDiv {
+        width: 100%;
+        height: 500px;
+    }
+</style>
