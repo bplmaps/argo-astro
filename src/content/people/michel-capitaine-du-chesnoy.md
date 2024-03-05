@@ -35,7 +35,7 @@ In January 1779, Capitaine followed Lafayette to France, and played a pivotal ro
 
 In the spring of 1780, Capitaine returned to North America with Lafayette and mapped the general’s final battles in the Revolutionary War. Capitane’s last map of the war, [_Plan d'Une Partie de la Virginia_](/maps/commonwealth:q524nk52c), provides an ambitious picture of both the strategy and tactics of the Virginia campaign of 1781. The map documents elements that were critical to the outcome of the Battle of Yorktown, including troop disposition and movement, terrain and locations of camps and batteries. 
 
-Following the battle, Capitaine again returned to France with Lafayette. Although the cartographer never returned to America, he retained his Continental Army rank of major until November 1783 and remained a lifetime member of the Society of the Cincinnati. Capitaine served as an assistant on the French army general staff until 1790.He died in France in 1804.
+Following the battle, Capitaine again returned to France with Lafayette. Although the cartographer never returned to America, he retained his Continental Army rank of major until November 1783 and remained a lifetime member of the Society of the Cincinnati. Capitaine served as an assistant on the French army general staff until 1790. He died in France in 1804.
 
 Banner image: detail from [Capitaine du Chesnoy, _Carte de l'affaire de Montmouth,_ 1778](/maps/commonwealth:z603vw18x).
 
@@ -54,3 +54,5 @@ Cohen, Paul E. Michel Capitaine Du Chesnoy, the Marquis de Lafayette’s Cartogr
 Guthorn, Peter J. American Maps and Map Makers of the Revolution. Monmouth Beach, N.J.: Philip Freneau Press, 1966.
 
 Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, Marquis de. Lafayette in the Age of the American Revolution: Selected Letters and Papers, 1776-1790. Edited by Stanley J. Idzerda. 5 vols. Ithaca: Cornell University Press, 1977-1983.
+
+***

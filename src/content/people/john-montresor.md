@@ -43,11 +43,11 @@ related_maps:
 short_description: British military engineer and cartographer
 tags:
   - Mapmaker
-  - Surveyor
   - Military
+  - Surveyor
 title: John Montresor
 ---
-John Montresor was also a prolific surveyor and mapmaker, drawing as many as two thousand maps during his career in America. During his twenty-three years in America, Montresor participated in significant battles in the Seven Years’ War and the American Revolutionary War. His notable works include maps of the New England backcountry, a city plan of New York, and battleground maps in and around Boston and Philadelphia.
+John Montresor was a prolific surveyor and mapmaker, drawing as many as two thousand maps during his career in America. During his twenty-three years in America, Montresor participated in significant battles in the Seven Years’ War and the American Revolutionary War. His notable works include maps of the New England backcountry, a city plan of New York, and battleground maps in and around Boston and Philadelphia.
 
 Montresor was born on April 6, 1736, at Gibraltar, the firstborn son of Colonel James Gabriel Montresor, an engineer in the British army. Montresor also became an engineer and served four years in Gibraltar under his father before arriving in America in 1754. Montresor’s duties as an engineer include constructing and improving fortifications as well as conducting sieges. Montresor was wounded in battle during Major General Edward Braddock’s failed campaign against Fort Duquesne (today Pittsburgh) in 1755. He then participated in sieges against French garrisons at Louisbourg in 1758 and Quebec in 1759. In January 1760, Brigadier General James Murray, whom Montresor called “a madman” in his journal, sought to communicate with Major General Jeffery Amherst regarding the state of the British garrison in Quebec.[^1] Montresor volunteered for the mission and led a near month-long snowshoe expedition through uncharted New England backcountry, which his party barely survived. Writing to Amherst afterwards, Montresor lamented that his party “were 13 days without bread and 11 without meat, owing to the little knowledge we had of the distance we had to go” and that the party survived by eating their “Indian shoes, bullet pouches and all the spare leather we brought, with berries, buds, bark and boiled mountain tea.”[^2] In his journal from the trek, Montresor wrote, “Gave the Commander in Chief a journal and [plan of my route to a scale of 8 miles to an inch](/maps/commonwealth:q524nj194).”[^3] Montresor conducted a scouting mission the following year, during which he charted unexplored areas between Canada and Maine and produced a more detailed area map, [_A Map of the Sources of the Chaudière, Penobscot, and Kennebec Rivers_](/maps/commonwealth:q524n7511). Montresor’s journal and map from the 1761 exploration later fell into the possession of Benedict Arnold, who, as a colonel in the Continental Army, used them to plan a 1775 invasion of Canada with George Washington’s full support.
 
@@ -104,3 +104,5 @@ Scull, G. D., ed. “Lt. John Montresor’s Journal of an Expedition in 1760 Acr
 Scull, G. D., ed. The Montresor Journals. New York: New York Historical Society, 1881.
 
 Webster, J.C. “Life of John Montresor.” Proceedings and Transactions of the Royal Society of Canada, 3rd ser., 22 (May 1928): 1-31.
+
+***

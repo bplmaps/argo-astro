@@ -8,6 +8,7 @@ related_maps:
 short_description: British colonial surveyor, cartographer, politician, and planter
 tags:
   - Mapmaker
+  - Politician
   - Surveyor
 title: Peter Jefferson
 ---
@@ -46,3 +47,5 @@ Kern, Susan. The Jeffersons at Shadwell. New Haven: Yale University Press, 2010.
 Taliaferro, Henry. “Fry and Jefferson Revisited.” Journal of Early Southern Decorative Arts 34, (2013). https://www.mesdajournal.org/2013/fry-jefferson-revisited/
 
 Verell, Nancy. “Peter Jefferson.” Thomas Jefferson's Monticello. Monticello.org, April 14, 2015. https://www.monticello.org/site/research-and-collections/peter-jefferson#footnoteref2\_pt7l8p5.
+
+***

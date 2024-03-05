@@ -7,7 +7,6 @@ related_maps:
 short_description: French Illustrators and engravers known for decorative map cartouches
 tags:
   - Visual Makers
-  - Cool & Unusual
 title: Catherine and Elizabeth Haussard
 ---
 Marie Catherine and Elizabeth Haussard were French engravers known for their beautiful engravings on geographical maps and [natural history plates](https://www.digitalcommonwealth.org/search/commonwealth:0p097h38v). Little is known about the lives of the sisters, and much of their work has been lost or misattributed due to the difficulty of publishing as a woman in the eighteenth century. There are still many beautiful cartouches, however, that can be definitively accredited to the Haussard sisters. They worked on a variety of maps, many of which were included in the famous French _Atlas Universel_ (1757). From their home in Paris along the Rue du Platre, Marie Catherine and Elizabeth produced engravings that graced map cartouches for North America, South America, Egypt, Belgium, and Lorraine.
@@ -62,3 +61,5 @@ Tyner, Judith. "Mapping Women: Scholarship on Women in the History of Cartograph
 Verner, Coolie. "The Fry and Jefferson Map" Imago Mundi: The International Journal for the History of Cartography 21 (1967): 70-94.
 
 West, Martin. "Memory&Artifact: The Mystery of the Vaugondy Maps." Western Pennsylvania History (2001): 2-10.
+
+***

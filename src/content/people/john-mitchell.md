@@ -19,7 +19,8 @@ related_maps:
   - commonwealth:z603vt177
 short_description: British colonial physician and cartographer
 tags:
-  - Untagged
+  - Academic
+  - Mapmaker
 title: John Mitchell
 ---
 John Mitchell was an American physician, botanist, and cartographer who produced maps of North America during the mid-eighteenth century. His most significant work, commonly referred to as the “Mitchell Map,” was published in 1755 and is considered one of the most influential maps of colonial North America.
@@ -38,7 +39,7 @@ Although Mitchell had the right to publish his maps, it is difficult to tell how
 
 Mitchell’s map of North America had significant geopolitical and cartographical influence.[^10] It was republished numerous times, including in Paris with a French translation a year after its completion.[^11] Both British and American forces used the map during the American Revolutionary War (1775-1783), and diplomats from Britain, France, and Spain consulted it for the negotiations of the Treaty of Paris in 1783.  
 
-[![A MAP of the BRITISH COLONIES in North America : WITH THE Roads, Distances, Limits, and Extent of the SETTLEMENTS, Humbly Inscribed to the Right Honourable The Early of Halifax, and the other Right Honourable The Lords Commissioners for Trade & Plantations](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx11z550p/3474,1046,8312,7238/pct:50/0/default.jpg "Detail from King George III's copy of Mitchell's map _A MAP of the BRITISH COLONIES in North America_ showing the eastern seaboard of North America")](/maps/commonwealth:hx11z549x)
+[![A MAP of the BRITISH COLONIES in North America : WITH THE Roads, Distances, Limits, and Extent of the SETTLEMENTS, Humbly Inscribed to the Right Honourable The Early of Halifax, and the other Right Honourable The Lords Commissioners for Trade & Plantations](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx11z550p/3474,1046,8312,7238/pct:50/0/default.jpg "Detail from King George III's copy of Mitchell's map \"A MAP of the BRITISH COLONIES in North America\" showing the eastern seaboard of North America")](/maps/commonwealth:hx11z549x)
 
 Banner image: detail from [Mitchell, _A map of the British colonies in North America_, \[1775\]](/maps/commonwealth:z603vp36m)
 
@@ -80,7 +81,7 @@ Litalien, Raymond, Jean-François Palomino, and Denis Vaugeois. _Mapping a Conti
 
 Martin, Lawrence. “John Mitchell’s Map.” _Quarterly Journal of Current Acquisitions_ 1, no. 4 (1944): 36–8. 
 
-
+***
 
 
 

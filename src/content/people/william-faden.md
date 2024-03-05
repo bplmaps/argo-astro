@@ -121,3 +121,5 @@ Pedley, Mary. “Maps, War, and Commerce: Business Correspondence with the Londo
 Verner, Coolie. “Mr. Jefferson Makes a Map.” Imago Mundi 14 (1959): 96–108.
 
 Yokota, Kariann Akemi. Unbecoming British : How Revolutionary America Became a Postcolonial Nation. Oxford: Oxford University Press, 2011.
+
+***

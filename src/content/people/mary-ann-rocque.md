@@ -7,7 +7,6 @@ related_maps:
 short_description: British cartographer and map seller
 tags:
   - Mapmaker
-  - Cool & Unusual
 title: Mary Ann Rocque
 ---
 Mary Ann Rocque, neé Scalé, was one of the few prominent female cartographers of the eighteenth century. Born in 1725 in England, Rocque began her mapping career after taking over the publishing company of her deceased husband, the legendary cartographer [John Rocque](/people/john-rocque). She is remembered for her significant contributions to the early mapping of North American forts and Canadian towns, as well as for her pioneering map of Albany, New York.
@@ -37,3 +36,5 @@ Mason, A. Stuart. 'Wasn't It Exciting!': A Compilation of the Work of A. Stuart 
 “Scalé, Peter Bernard.” Dictionary of Irish Architects – Irish Architectural Archive. Accessed February 10, 2022. https://www.dia.ie/architects/view/4754/SCAL%C3%89-PETERBERNARD.
 
 Varley, John. “John Rocque. Engraver, Surveyor, Cartographer and Map‐Seller.” Imago Mundi: The International Journal for the History of Cartography, 5, no. 1 (1948): 83–91.
+
+***

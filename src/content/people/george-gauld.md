@@ -8,8 +8,9 @@ related_maps:
 short_description: Scottish military engineer, surveyor, and cartographer
 tags:
   - Mapmaker
-  - Surveyor
   - Military
+  - Politician
+  - Surveyor
 title: George Gauld
 ---
 George Gauld was a British surveyor and cartographer who produced notable maps of the Gulf Coast and the Caribbean in the mid-eighteenth century. Though of great quality and possessing an incredible degree of accuracy, Gauld’s maps, much like the man himself, existed in relative obscurity on the margins of the British Empire until after his death in 1782.
@@ -47,3 +48,5 @@ Howard, Clinton L. “Colonial Pensacola: The British Period Part III: The Admin
 Verell, Nancy. “William Tatham.” Monticello.org, December 2, 2013. https://www.monticello.org/site/research-and-collections/william-tatham.
 
 Ware, John D. George Gauld: Surveyor and Cartographer of the Gulf Coast. Gainesville/Tampa: University Presses of Florida, 1982.
+
+***

@@ -38,6 +38,7 @@ related_maps:
   - commonwealth:z603vq50n
 short_description: French geographer, cartographer, and natural philosopher
 tags:
+  - Academic
   - Mapmaker
 title: Jacques-Nicolas Bellin
 ---
@@ -97,4 +98,4 @@ Petto, Christine Marie. _When France Was King of Cartography: The Patronage and 
 
 Shoalts, Adam. _A History of Canada in Ten Maps: Epic Stories of Charting a Mysterious Land_. Toronto: Allen Lane Penguin Canada, 2017.
 
-
+***

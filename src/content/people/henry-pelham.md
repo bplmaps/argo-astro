@@ -55,3 +55,5 @@ Archer, Jean B. “Henry Pelham's Lost Grand Jury Map of Kerry (C.1800): A Newly
 Copley, John Singleton, and Henry Pelham. Letters & Papers of John Singleton Copley and Henry Pelham, 1739-1776. Boston: Massachusetts Historical Society, 1914.
 
 Falb, Karen Forslund. “The Pelham Map: Garden Design Revealed in Pre-Revolutionary Cambridge.” Perspectives in Landscape Design 22, no. 1 (Summer 2007): 7–9.
+
+***

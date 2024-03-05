@@ -7,8 +7,9 @@ related_maps:
   - commonwealth:z603vg36c
 short_description: Massachusetts-born surveyor, militia captain, & political leader
 tags:
-  - Surveyor
   - Military
+  - Politician
+  - Surveyor
 title: Nathaniel Dwight
 ---
 
@@ -121,3 +122,5 @@ Taylor, Robert J. Western Massachusetts in the Revolution. Providence, RI: Brown
 Press, 1954.
 Trumbull, James Russell. History of Northampton, Massachusetts. Vol. 2. Northampton, MA: 
 Gazette Printing, 1902.
+
+***

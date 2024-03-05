@@ -10,6 +10,7 @@ related_maps:
 short_description: French-born British surveyor, cartographer, and map seller
 tags:
   - Mapmaker
+  - Surveyor
 title: John Rocque
 ---
 John Rocque was a prolific eighteenth-century land surveyor and cartographer who produced over one hundred maps during his career. His most notable works include two comprehensive maps of London, a house-by-house urban map of Dublin, and a general map of North America, the latter of which was published posthumously by his wife, [Mary Ann](/people/mary-ann-rocque/).
@@ -74,4 +75,4 @@ Varley, John. “John Rocque. Engraver, Surveyor, Cartographer and Map-Seller.�
 
 Walshaw, Rodney. “John Rocque: A Revolutionary Map-maker.” _Brentford & Chiswick Local History Journal_, 2004. https://brentfordandchiswicklhs.org.uk/john-rocque-a-revolutionary-map-maker/.
 
-
+***

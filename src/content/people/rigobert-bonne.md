@@ -17,7 +17,9 @@ related_maps:
   - commonwealth:9s1618557
 short_description: French imperial cartographer
 tags:
-  - Untagged
+  - Academic
+  - Mapmaker
+  - Military
 title: Rigobert Bonne
 ---
 
@@ -31,7 +33,7 @@ The 1762 atlas, along with several other works, drew considerable attention from
 
 Following Bonne’s arrival at the _Dépôt_, he worked on several maps from around the world.[^6] His hydrographies were particularly lauded and widely used for military and commercial applications. During the American Revolutionary War (1775-1783), he produced many continent-spanning maps of North America, including some that charted the various theaters of the conflict. Even before France officially joined the war on the American side, Bonne produced maps detailing the environs of the American colonies for military purposes. One such map was [_Partie de l'Amérique Septentrionale, Qui Comprend le Canada, la Louisiane, le Labrador, le Groenland, la Nouvelle Angleterre, la Floride_](/maps/commonwealth:x059cc901/) (1776) (Part of North America, which includes Canada, Louisiana, Labrador, Greenland, New England, Florida). Bonne continued this series of maps for the rest of the war, including [_Théâtre de la Guerre en Amérique, Avec les Isles Antilles_](/maps/commonwealth:9s1618557/) (1781) (Theater of War in America, with the West Indies). He further pursued the series even after the end of the conflict. In fact, one of his last maps in royal service was [_L'Amerique Divisée en ses Principaux États_](/maps/commonwealth:z603vt21t/) (1788) (America Divided into its Principal States), which outlines the polities of both North and South America as demarcated by the 1783 Treaty of Paris.
 
-[![Section of Bonne's map entitled "_Partie de l'Amérique Septentrionale, Qui Comprend le Canada, la Louisiane, le Labrador, le Groenland, la Nouvelle Angleterre, la Floride_" displaying northeast Canada and Greenland](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x059cc919/4522,976,4015,4954/pct:50/0/default.jpg "Section of Bonne's map \"Partie de l'Amérique Septentrionale, Qui Comprend le Canada, la Louisiane, le Labrador, le Groenland, la Nouvelle Angleterre, la Floride\" displaying northeast Canada and Greenland")](/maps/commonwealth:x059cc901/)
+[![Section of Bonne's map entitled "Partie de l'Amérique Septentrionale, Qui Comprend le Canada, la Louisiane, le Labrador, le Groenland, la Nouvelle Angleterre, la Floride" displaying northeast Canada and Greenland](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x059cc919/4522,976,4015,4954/pct:50/0/default.jpg "Section of Bonne's map \"Partie de l'Amérique Septentrionale, Qui Comprend le Canada, la Louisiane, le Labrador, le Groenland, la Nouvelle Angleterre, la Floride\" displaying northeast Canada and Greenland")](/maps/commonwealth:x059cc901/)
 
 Outside of his official capacity, Bonne collaborated with other cartographers and philosophers of the era. One famous work from this period, produced in collaboration with famed philosopher Abbe Guillaume-Thomas-Francois Raynal, is the [_Atlas de Toutes les Parties Connues du Globe Terrestre: Dressé pour l'Histoire Philosophique Et Politique des Établissements Et du Commerce des Européens dans les Deux Indes_](https://digitalarchive.tpl.ca/objects/351484/atlas-de-toutes-les-parties-connues-du-globe-terrestre--dr) (1780) (Atlas of All the Known Parts of the Terrestrial Globe: Drawn up for the Philosophical and Political History of the Settlements and Commerce of Europeans in the Two Indies).[^7] Perhaps Bonne’s best-known collaboration is the _Atlas Encyclopédique_ (1788), which he wrote with fellow cartographer and geologist Nicholas Desmarest.[^8]
 
@@ -86,3 +88,5 @@ O’Neill, Timothy. Review of _Cartography_, by J. H. Andrews, John Crowley, Joh
 Petto, Christine Marie. _When France Was King of Cartography: The Patronage and Production of Maps in Early Modern France_. Lanham, MD: Lexington Books, 2007.
 
 Ravenhill, William. “Projections for the Large General Maps of Britain, 1583–1700.” _Imago Mundi: The International Journal for the History of Cartography_ 33 (1981): 21–32. http://www.jstor.org/stable/1150781
+
+***

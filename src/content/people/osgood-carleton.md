@@ -21,7 +21,10 @@ related_maps:
   - commonwealth:z603vh074
 short_description: British colonial surveyor, cartographer, and educator
 tags:
-  - Untagged
+  - Academic
+  - Mapmaker
+  - Military
+  - Surveyor
 title: Osgood Carleton
 ---
 
@@ -103,6 +106,6 @@ Danforth, Susan L. “The First Official Maps of Maine and Massachusetts.” _Im
 
 Titus, Anson. “OSGOOD CARLETON.” _The New-England Historical and Genealogical Register_ 55 (January 1901): 52. 
 
-
+***
 
 

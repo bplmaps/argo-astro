@@ -18,8 +18,8 @@ related_maps:
 short_description: Prussian-born British military surveyor and mapmaker
 tags:
   - Mapmaker
-  - Surveyor
   - Military
+  - Surveyor
 title: Charles Blaskowitz
 ---
 Charles Blaskowitz was one of the British military’s most accomplished surveyors during the American Revolutionary War. Prior to the Revolution, he worked with other talented British cartographers to help survey key areas of colonial Canada. When the Revolutionary War broke out, Blaskowitz worked on campaign maps for General William Howe and a siege plan for Newport, Rhode Island.
@@ -43,3 +43,5 @@ Edelson, S. Max. The New Map of Empire: How Britain Imagined America before Ind
 “Spotlight at Stanford.” A Plan of the Town of Newport in Rhode Island. Surveyed by Charles Blaskowitz, Engraved and Published by William Faden . . . Sept 1, 1777. Barry Lawrence Ruderman Map Collection, Stanford Libraries. Accessed February 20, 2022. https://exhibits.stanford.edu/ruderman/catalog/sb122kh6431.
 
 Library and Archives Canada Blog. "The 260th Anniversary of the Murray Map: The St. Lawrence Valley through the Eyes and Pens of British Military Engineers." Library and Archives Canada Blog, December 10, 2021. Accessed February 20, 2022. https://thediscoverblog.com/2021/12/09/the-260th-anniversary-of-the-murray-map-the-st-lawrence-valley-through-the-eyes-and-pens-of-british-military-engineers.
+
+***
