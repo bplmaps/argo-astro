@@ -13,16 +13,14 @@ import 'ol/ol.css';
         <div class="rounded px-2 py-1 bg-bismark-950 text-white mr-4">
             Filtered by size
         </div>
-        <span class="rounded px-2 py-1 bg-gray-100 mr-4">Smallest</span>
-        <input
-            type="range"
-            min="1"
-            max="100"
-            value="50"
-            class="slider grow"
-            id="map-slider"
-        />
-        <span class="rounded px-2 py-1 bg-gray-100 ml-4">Largest</span>
+        <div class="relative flex-grow mb-6">
+            <label for="map-size-slider" class="sr-only">Filter maps by size</label>
+            <input id="map-size-slider" type="range" value="50" min="0" max="100" step="any" class="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer dark:bg-gray-700">
+            <span class="text-sm text-gray-500 dark:text-gray-400 absolute start-0 -bottom-6">Buildings and forts</span>
+            <span class="text-sm text-gray-500 dark:text-gray-400 absolute start-1/3 -translate-x-1/2 rtl:translate-x-1/2 -bottom-6">Cities</span>
+            <span class="text-sm text-gray-500 dark:text-gray-400 absolute start-2/3 -translate-x-1/2 rtl:translate-x-1/2 -bottom-6">States and regions</span>
+            <span class="text-sm text-gray-500 dark:text-gray-400 absolute end-0 -bottom-6">Hemisphere</span>
+        </div>
     </div>
 
     <div id="mapDiv"></div>
@@ -41,7 +39,10 @@ import 'ol/ol.css';
     import { transformExtent } from "ol/proj";
     import { getArea } from "ol/extent";
 
+    import { applyStyle } from "ol-mapbox-style";
+
     import bboxes from "@assets/map-bboxes.json";
+import VectorTileLayer from "ol/layer/VectorTile";
 
     const wkt_transformer = (wkt) => {
         const clean = wkt
@@ -86,19 +87,23 @@ import 'ol/ol.css';
         }),
     });
 
+    const baseLayer = new VectorTileLayer({declutter: true});
     const view = new View();
 
     const map = new Map({
         target: "mapDiv",
         layers: [
-            new TileLayer({
-                source: new OSM(),
-            }),
-            vectorLayer,
+            baseLayer,
+            vectorLayer
         ],
         view: view,
     });
 
+    const maptilerKey = 'E7YRymn4x0Im2NxjlLks';
+    const styleJson = `https://api.maptiler.com/maps/dataviz/style.json?key=${maptilerKey}`;
+
+    applyStyle(baseLayer, styleJson);
+    
     view.fit(
         fromExtent(
             transformExtent(
@@ -109,15 +114,16 @@ import 'ol/ol.css';
         ),
     );
 
-    const slider = document.getElementById("map-slider");
+    const slider = document.getElementById("map-size-slider");
 
-    const scaleMin = Math.log(1000);
-    const scaleMax = Math.log(12000000); // hard coded log scaling, should do better but don't want to import d3
+    const areaRange = feature_bboxes.map(f => { return Math.sqrt(getArea(f.getGeometry().getExtent())) } )
+    const scaleMin = Math.log(500) // hard coding this because some are way too small
+    const scaleMax = Math.log(Math.max(...areaRange));
 
     const areaFilterFunction = (f, v) => {
         const a = Math.sqrt(getArea(f.getGeometry().getExtent()));
         const sl = Math.exp(scaleMin + v * ((scaleMax - scaleMin) / 100));
-        return a > sl * 0.8 && a < sl * 1.2;
+        return a > sl * 0.6 && a < sl * 1.4;
     };
 
     const executeFilter = (v) => {
