@@ -110,11 +110,11 @@
 </template>
 
 <script setup>
-import { isDrawerOpen } from '../../../drawerStore';
+import { isDrawerOpen, drawerMaps } from '../../../drawerStore';
 import { useStore } from '@nanostores/vue';
 
-// read the store value with the `useStore` hook
 const $isDrawerOpen = useStore(isDrawerOpen);
+const $drawerMaps = useStore(drawerMaps);
 </script>
 
 <script>
@@ -135,18 +135,20 @@ export default {
 	},
 	mounted() {
 		window.addEventListener("resize", this.resize);
+    console.log(this.data)
 	},
 	unmounted() {
 		window.removeEventListener("resize", this.resize);
 	},
 	methods: {
-		openDrawer(whichMaps) {
-      isDrawerOpen.set(true)
+		openDrawer(maps) {
+      isDrawerOpen.set(true);
+      drawerMaps.set(maps);
 		},
-		resize: function () {
+		resize() {
 			this.isMobile = window.innerWidth <= 768;
 		},
-		timelineScroll: function () {
+		timelineScroll() {
 			let firstDivPastScrollDate = "";
       Object.keys(this.data.timeline_eras).forEach((thisYear) => {
         var outsideRect = document.querySelector(".timeline-years").getBoundingClientRect(); // reference to scroll target
@@ -169,14 +171,14 @@ export default {
       });
 			this.showEra = firstDivPastScrollDate;
 		},
-		scrollTo: function (whichDiv) {
+		scrollTo(div) {
 			// update button state
-			this.showEra = whichDiv;
+			this.showEra = div;
 			// find location and move to it
 			var outsideElem = document.querySelector(".timeline-years");
 			var outsideRect = outsideElem.getBoundingClientRect(); // reference to scroll target
 			var insideRect = document
-				.querySelector("#year-orient-" + whichDiv)
+				.querySelector("#year-orient-" + div)
 				.getBoundingClientRect(); // reference to scroll target
 			var scrollLocation =
 				Math.abs(

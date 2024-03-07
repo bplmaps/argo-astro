@@ -17,8 +17,18 @@
               </div>
             </div>
           </div>
-          <div class="relative mt-6 flex-1 px-4 sm:px-6">
-            <!-- Your content -->
+          <div class="relative flex items-streth flex-col gap-6 mt-6 flex-1 px-4 sm:px-6">
+            <div v-for="map in $drawerMaps" :key="map.id">
+              <h3 class="font-bold">
+                {{ map.name }}
+              </h3>
+              <h4 class="italic text-gray-500">
+                {{ map.event_date_range }}, {{ map.era }}
+              </h4>
+              <p class="mt-1">
+                {{ map.notes }}
+              </p>
+            </div>
           </div>
         </div>
       </div>
@@ -27,19 +37,15 @@
 </template>
 
 <script setup>
-import { isDrawerOpen } from '../../../drawerStore';
+import { isDrawerOpen, drawerMaps } from '../../../drawerStore';
 import { useStore } from '@nanostores/vue';
 
 const $isDrawerOpen = useStore(isDrawerOpen);
+const $drawerMaps = useStore(drawerMaps);
 </script>
 
 <script>
 export default {
-	data() {
-		return {
-      maps: [],
-		};
-	},
 	methods: {
     closeDrawer() {
       isDrawerOpen.set(false)
