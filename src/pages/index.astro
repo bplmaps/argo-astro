@@ -5,6 +5,7 @@ import BaseLayout from "@layouts/BaseLayout.astro";
 import SearchHero from '@components/Layout/Homepage/SearchHero.astro'
 import Timeline from '@components/Layout/Homepage/Timeline.vue'
 import CollectionGrid from "@components/CollectionGrid.astro";
+import SearchByMap from "@components/SearchByMap/SearchByMap.astro"
 
 const title = 'Home';
 const description = 'American Revolutionary Geographies Online (ARGO) is a portal containing thousands of maps from dozens of institutions that bring to life the history and geography of the American Revolutionary War era.'
@@ -26,6 +27,7 @@ const facetIdentifiers = facetEntries.map((entry) => (
   <CollectionGrid className="mb-12" title="Explore by Story" contentType="stories" columns={3} identifiers={storyIdentifiers}, maxCards="3" morePage="/stories/" />
   <CollectionGrid className="mb-12" title="Explore by Theme" contentType="facets" columns={4} identifiers={facetIdentifiers}, maxCards="4" morePage="/facets/" />
   <Timeline data={timelineData.data} client:load />
+  <SearchByMap />
   <CollectionGrid className="mb-12" title="Explore by Empires & Nations" contentType="facetCategories" columns={5} identifiers={['empires-and-nations']}, maxCards="5"  morePage="/facets/empires-and-nations/" />
   <CollectionGrid className="mb-12" title="Explore by Features" contentType="facetCategories" columns={5} identifiers={['features']}, maxCards="5"  morePage="/facets/features/" />
   <CollectionGrid className="mb-12" title="Explore by Languages" contentType="facetCategories" columns={5} identifiers={['languages']}, maxCards="5"  morePage="/facets/languages/" />

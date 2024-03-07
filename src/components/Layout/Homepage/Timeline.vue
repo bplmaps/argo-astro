@@ -206,7 +206,7 @@ export default {
 	scroll-behavior: smooth;
 	background-color: #E3EBEF;
 	padding: 30px;
-	border-radius: 15px;
+	border-radius: 16px;
 }
 .timeline-years::-webkit-scrollbar {
 	display: none;

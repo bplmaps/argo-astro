@@ -1,0 +1,144 @@
+---
+import 'ol/ol.css';
+---
+
+<section class="mb-12">
+  <h2 class="not-prose flex justify-between items-end gap-2 heading-underlined font-heading font-medium text-bismark-950 text-xl mb-4 md:text-3xl">
+    <span>Explore by Map</span>
+  </h2>
+
+  <div class="overflow-hidden shadow-lg rounded-2xl">
+    <div class="flex flex-col sm:flex-row bg-gray-100 px-3 py-4">
+      <label class="text-bismark-950 font-bold leading-none mb-2 flex-shrink-0 sm:mr-6" for="map-size-slider" class="sr-only">Filtered by size</label>
+      <div class="flex flex-wrap gap-2 justify-between py-1 relative text-[0.625rem] sm:text-sm text-bismark-950 flex-grow">
+        <input id="map-size-slider" type="range" value="50" min="0" max="100" step="any" class="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer accent-bismark-500 mb-1">
+        <span class="">Buildings and forts</span>
+        <span class="">Cities</span>
+        <span class="">States and regions</span>
+        <span class="">Hemisphere</span>
+      </div>
+    </div>
+
+    <div id="search-map" class="w-full h-[500px]"></div>
+  </div>
+</section>
+
+<script>
+  import Map from 'ol/Map.js';
+  import View from 'ol/View.js';
+  import VectorLayer from 'ol/layer/Vector.js';
+  import VectorSource from 'ol/source/Vector.js';
+  import { Fill, Stroke, Style } from 'ol/style.js';
+  import Feature from 'ol/Feature';
+  import { fromExtent } from 'ol/geom/Polygon';
+  import { transformExtent } from 'ol/proj';
+  import { getArea } from 'ol/extent';
+  import { applyStyle } from 'ol-mapbox-style';
+  import bboxes from '@assets/map-bboxes.json';
+  import VectorTileLayer from 'ol/layer/VectorTile';
+
+  const wkt_transformer = (wkt) => {
+    const clean = wkt
+      .replace("ENVELOPE(", "")
+      .replace(")", "")
+      .split(", ")
+      .map((e) => +e); // janky brittle hard coded transform of WKT encoding, but it works
+    return clean;
+  };
+
+  const transformBbox = (a) => {
+    const a_t = [a[0], a[3], a[1], a[2]]; // WKT uses WENS, while OL uses minx miny maxx maxy
+    const e = transformExtent(a_t, "EPSG:4326", "EPSG:3857");
+    return e;
+  };
+
+  const clean_bboxes = bboxes
+    .map((b) => {
+      return { id: b.id, bbox: wkt_transformer(b.bbox) };
+    })
+    .filter((b) => b.bbox[1] > b.bbox[0] && b.bbox[2] > b.bbox[3]); // check for valid WKT where maxx > minx && maxy > miny
+
+  const feature_bboxes = clean_bboxes.map((b) => {
+    return new Feature({
+      geometry: fromExtent(transformBbox(b.bbox)),
+      collection_identifier: b.id,
+    });
+  });
+
+  const source = new VectorSource();
+
+  const vectorLayer = new VectorLayer({
+    source: source,
+    style: new Style({
+      stroke: new Stroke({
+        color: '#4e798d',
+        width: 1,
+      }),
+      fill: new Fill({
+        color: 'rgba(255,255,255,0.1)',
+      }),
+    }),
+  });
+
+  const baseLayer = new VectorTileLayer({declutter: true});
+  const view = new View();
+
+  const map = new Map({
+    target: 'search-map',
+    layers: [
+      baseLayer,
+      vectorLayer
+    ],
+    view: view,
+  });
+
+  const maptilerKey = 'E7YRymn4x0Im2NxjlLks';
+  const styleJson = `https://api.maptiler.com/maps/dataviz/style.json?key=${maptilerKey}`;
+
+  applyStyle(baseLayer, styleJson);
+  
+  view.fit(
+    fromExtent(
+      transformExtent(
+        [-105.42, 19.18, -62.53, 50.42],
+        'EPSG:4326',
+        'EPSG:3857',
+      ),
+    ),
+  );
+
+  const slider = document.getElementById('map-size-slider');
+
+  const areaRange = feature_bboxes.map(f => { return Math.sqrt(getArea(f.getGeometry().getExtent())) } )
+  const scaleMin = Math.log(500) // hard coding this because some are way too small
+  const scaleMax = Math.log(Math.max(...areaRange));
+
+  const areaFilterFunction = (f, v) => {
+    const a = Math.sqrt(getArea(f.getGeometry().getExtent()));
+    const sl = Math.exp(scaleMin + v * ((scaleMax - scaleMin) / 100));
+    return a > sl * 0.6 && a < sl * 1.4;
+  };
+
+  const executeFilter = (v) => {
+    source.clear();
+    const filtered = feature_bboxes.filter((f) => areaFilterFunction(f, v));
+    source.addFeatures(filtered);
+  };
+
+  executeFilter(50);
+
+  slider.oninput = function () {
+    executeFilter(this.value);
+  };
+
+  map.on('click', (e) => {
+    const s = source.getFeaturesAtCoordinate(e.coordinate);
+    if (s.length > 0) {
+      console.log(s.map((d) => d.get('collection_identifier')));
+      // TODO: Instead of writing array to console, pass it to collections
+      window.location.href = `./maps/${s[0].get('collection_identifier')}`;
+    } else {
+      window.alert('No maps where you clicked');
+    }
+  });
+</script>
