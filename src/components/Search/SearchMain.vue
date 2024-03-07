@@ -1,10 +1,10 @@
 <template>
   <form @submit.prevent="newQuery" class="mb-5">
-    <label for="default-search" class="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-white">Search</label>
+    <label for="default-search" class="mb-2 text-sm font-medium text-gray-900 sr-only">Search</label>
     <div class="relative flex">
       <input v-model="queryString" type="search" id="default-search"
              @keyup="debouncedQuery" @change="debouncedQuery"
-             class="block w-full p-4 text-xl text-gray-900 border border-gray-300 rounded-l bg-gray-50 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+             class="block w-full p-4 text-xl text-gray-900 border border-gray-300 rounded-l bg-gray-50 focus:ring-blue-500 focus:border-blue-500"
              autofocus placeholder="Search keywords, locations, people, institutions ..." required>
       <button type="submit" class="p-4 bg-bismark-500 text-white no-underline rounded-r transition-colors duration-200 ease-in-out flex items-center gap-2 hover:bg-bismark-700">
         <span>

@@ -21,7 +21,7 @@ const allPeopleTags = allPeoplePages.map((entry) => {
 }).flat().filter((currentValue, index, arr) => (
   arr.indexOf(currentValue) === index
 )).sort();
-const relatedMapPages = await getCollection('maps', ({ data }) => {
+const relatedMapEntries = await getCollection('maps', ({ data }) => {
   return entry.data.related_maps.includes(data.dcMetadata.id) || entry.data.related_maps.includes(data.dcMetadata.id.replace(":","--"));
 });
 const relatedMapIdentifiers = relatedMapEntries.map((entry) => (
