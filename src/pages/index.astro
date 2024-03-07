@@ -4,6 +4,7 @@ import { getCollection, getEntry } from 'astro:content';
 import BaseLayout from "@layouts/BaseLayout.astro";
 import SearchHero from '@components/Layout/Homepage/SearchHero.astro'
 import Timeline from '@components/Layout/Homepage/Timeline.vue'
+import MapDrawer from '@components/Layout/Homepage/MapDrawer.vue'
 import CollectionGrid from "@components/CollectionGrid.astro";
 import SearchByMap from "@components/SearchByMap/SearchByMap.astro"
 
@@ -32,4 +33,5 @@ const facetIdentifiers = facetEntries.map((entry) => (
   <CollectionGrid className="mb-12" title="Explore by Features" contentType="facetCategories" columns={5} identifiers={['features']}, maxCards="5"  morePage="/facets/features/" />
   <CollectionGrid className="mb-12" title="Explore by Languages" contentType="facetCategories" columns={5} identifiers={['languages']}, maxCards="5"  morePage="/facets/languages/" />
   <CollectionGrid className="mb-12" title="Explore by Subject" contentType="facetCategories" columns={5} identifiers={['subjects']}, maxCards="5"  morePage="/facets/subjects/" />
+  <MapDrawer client:load />
 </BaseLayout>
