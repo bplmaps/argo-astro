@@ -12,7 +12,7 @@
         </li>
       </ul>
     </div>
-    <div class="timeline-years" @scroll.passive="timelineScroll()" v-if="ready && !isMobile">
+    <div class="timeline-years shadow-lg" @scroll.passive="timelineScroll()" v-if="ready && !isMobile">
       <!-- if it's NOT mobile -->
       <div class="years">
         <div class="year" :id="'year-' + year" :key="year" v-for="(index, year) in data.timeline_events" >
@@ -27,18 +27,6 @@
             </div>
           </div>
           <div class="year-text">{{ year }}</div>
-          <div class="map-count">
-            <template v-if="data.timeline_events[parseInt(year)].length">
-              <a @click="openDrawer(data.timeline_events[parseInt(year)])" class="tooltip">
-                <div class="top">
-                {{ data.timeline_events[parseInt(year)].length }} Map<template v-if="data.timeline_events[parseInt(year).length + 1] != 1">s</template>
-                in {{ parseInt(year) }}<i></i>
-                </div>
-                {{ data.timeline_events[parseInt(year)].length }}
-              </a>
-            </template>
-            <template v-else><span>0</span></template>
-          </div>
 
           <div class="event-group">
             <details class="event" v-for="(event, index) in data.timeline_events[year]" :key="index">
@@ -110,11 +98,11 @@
 </template>
 
 <script setup>
-import { isDrawerOpen, drawerMaps } from '../../../drawerStore';
+import { isDrawerOpen, drawerIdentifiers } from '../../../drawerStore';
 import { useStore } from '@nanostores/vue';
 
 const $isDrawerOpen = useStore(isDrawerOpen);
-const $drawerMaps = useStore(drawerMaps);
+const $drawerIdentifiers = useStore(drawerIdentifiers);
 </script>
 
 <script>
@@ -135,15 +123,14 @@ export default {
 	},
 	mounted() {
 		window.addEventListener("resize", this.resize);
-    console.log(this.data)
 	},
 	unmounted() {
 		window.removeEventListener("resize", this.resize);
 	},
 	methods: {
-		openDrawer(maps) {
+		openDrawer(identifiers) {
       isDrawerOpen.set(true);
-      drawerMaps.set(maps);
+      drawerIdentifiers.set(identifiers);
 		},
 		resize() {
 			this.isMobile = window.innerWidth <= 768;

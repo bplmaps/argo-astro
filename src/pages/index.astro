@@ -21,6 +21,25 @@ const facetEntries = await getCollection('facets');
 const facetIdentifiers = facetEntries.map((entry) => (
   entry.id
 ));
+
+const drawerMaps = {};
+const mapEntries = await getCollection('maps');
+const mapEntriesSanitized = mapEntries.map((entry) => (
+  {
+    id: entry.id.replace("__",":"),
+    data: entry.data,
+  }
+));
+
+mapEntriesSanitized.forEach((entry) => (
+  drawerMaps[entry.id] = {
+    id: entry.id,
+    image: `https://bpldcassets.blob.core.windows.net/derivatives/${entry.data.dcMetadata.exemplary_image_key_base_ss}/image_thumbnail_300.jpg`,
+    link: `/maps/${entry.id}`,
+    title: entry.data.dcMetadata.title_info_primary_tsi,
+    subtitle: entry.data.dcMetadata.admin_set_name_ssi,
+  }
+));
 ---
 
 <BaseLayout title={title} description={description}>
@@ -33,5 +52,5 @@ const facetIdentifiers = facetEntries.map((entry) => (
   <CollectionGrid className="mb-12" title="Explore by Features" contentType="facetCategories" columns={5} identifiers={['features']}, maxCards="5"  morePage="/facets/features/" />
   <CollectionGrid className="mb-12" title="Explore by Languages" contentType="facetCategories" columns={5} identifiers={['languages']}, maxCards="5"  morePage="/facets/languages/" />
   <CollectionGrid className="mb-12" title="Explore by Subject" contentType="facetCategories" columns={5} identifiers={['subjects']}, maxCards="5"  morePage="/facets/subjects/" />
-  <MapDrawer client:load />
+  <MapDrawer maps={drawerMaps} client:load />
 </BaseLayout>
