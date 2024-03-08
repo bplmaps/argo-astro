@@ -134,8 +134,6 @@ import 'ol/ol.css';
   map.on('click', (e) => {
     const s = source.getFeaturesAtCoordinate(e.coordinate);
     if (s.length > 0) {
-      console.log(s.map((d) => d.get('collection_identifier')));
-      // TODO: Instead of writing array to console, pass it to collections
       window.location.href = `./maps/${s[0].get('collection_identifier')}`;
     } else {
       window.alert('No maps where you clicked');
