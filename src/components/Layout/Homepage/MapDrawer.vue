@@ -56,9 +56,6 @@ export default {
     closeDrawer() {
       isDrawerOpen.set(false)
 		},
-	},
-  mounted() {
-    console.log(this.maps);
   }
 };
 </script>
