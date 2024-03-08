@@ -2,8 +2,8 @@
   <div class="relative z-40" aria-labelledby="slide-over-title" role="dialog" aria-modal="true">
     <div class="pointer-events-none fixed inset-y-0 right-0 flex max-w-full pl-10 pt-20">
       <div :class="['w-screen max-w-md transform transition ease-in-out duration-500', { 'translate-x-full': !$isDrawerOpen, 'pointer-events-auto translate-x-0': $isDrawerOpen }]">
-        <div class="flex h-full flex-col overflow-y-scroll bg-white py-6 shadow-xl">
-          <div class="px-4 sm:px-6">
+        <div class="flex h-full flex-col overflow-y-scroll bg-white shadow-xl">
+          <div class="sticky z-10 bg-white top-0 inset-x-0 py-6 px-4 sm:px-6">
             <div class="flex items-center justify-between">
               <h2 class="text-xl font-heading font-semibold leading-6 text-bismark-900" id="slide-over-title">{{ $drawerIdentifiers.length }} Results</h2>
               <div class="ml-3 flex h-7 items-center">
@@ -17,7 +17,7 @@
               </div>
             </div>
           </div>
-          <div class="relative flex items-stretch flex-col gap-6 mt-6 flex-1 px-4 sm:px-6">
+          <div class="relative flex items-stretch flex-col gap-6 flex-1 px-4 sm:px-6">
             <div class="flex gap-3 flex-col" v-for="id in $drawerIdentifiers" :key="id">
               <template v-if="maps[id]">
                 <img v-if="maps[id].image" :src="maps[id].image" class="block w-full aspect-video object-cover object-center rounded" />
