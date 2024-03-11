@@ -1,11 +1,7 @@
 {
-    "title": "Subject",
-    "short_description": "Interested in a subject in particular? Look through maps focused on military engagements, political boundaries, and transportation routes, maps which show Native American nations and pathways, or depictions of cities, houses and property.",
     "banner_image": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vr78j/5073,2095,1622,1295/,1200/0/default.jpg",
     "facet-categories": [
         {
-            "id": "borders",
-            "title": "Borders",
             "banner_image": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n955j/1209,2252,2486,1367/pct:50/0/default.jpg",
             "entries": [
                 "commonwealth:0r96fq64d",
@@ -701,12 +697,22 @@
                 "commonwealth:z603vw10q",
                 "commonwealth:z603vw20z",
                 "commonwealth:z603vw22h",
-                "commonwealth:zk51wc63t"
-            ]
+                "commonwealth:zk51wc63t",
+                "commonwealth:r494zk24f",
+                "commonwealth:1g05j9964",
+                "commonwealth:g158fh774",
+                "commonwealth:gt54pn01v",
+                "commonwealth:mw22z4376",
+                "commonwealth:69701z44k",
+                "commonwealth:05744q92c",
+                "commonwealth:s1787m97q",
+                "commonwealth:34852g55q",
+                "commonwealth:wd378t192"
+            ],
+            "id": "borders",
+            "title": "Borders"
         },
         {
-            "id": "indigenous-peoples",
-            "title": "Indigenous Peoples",
             "banner_image": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vm38r/9103,3081,2329,1105/pct:50/0/default.jpg",
             "entries": [
                 "commonwealth:0r96fq64d",
@@ -1290,12 +1296,28 @@
                 "commonwealth:z603vw08p",
                 "commonwealth:z603vw20z",
                 "commonwealth:z603vw22h",
-                "commonwealth:zk51wc63t"
-            ]
+                "commonwealth:zk51wc63t",
+                "commonwealth:1544fp04t",
+                "commonwealth:8c97pq34j",
+                "commonwealth:7h14dn92n",
+                "commonwealth:8w32v518f",
+                "commonwealth:37723f43k",
+                "commonwealth:cz30ss36q",
+                "commonwealth:s4658g760",
+                "commonwealth:g158fh774",
+                "commonwealth:mw22z4376",
+                "commonwealth:sx61hm10z",
+                "commonwealth:2n49x349r",
+                "commonwealth:s1787m97q",
+                "commonwealth:34852g55q",
+                "commonwealth:jd475x10f",
+                "commonwealth:1j92k5875",
+                "commonwealth:dj530466c"
+            ],
+            "id": "indigenous-peoples",
+            "title": "Indigenous Peoples"
         },
         {
-            "id": "roads-and-routes",
-            "title": "Roads and Routes",
             "banner_image": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n977k/5702,3939,2408,1597/pct:50/0/default.jpg",
             "entries": [
                 "commonwealth:0r96fq64d",
@@ -2385,12 +2407,37 @@
                 "commonwealth:z603vw10q",
                 "commonwealth:z603vw128",
                 "commonwealth:z603vw22h",
-                "commonwealth:zk51wc63t"
-            ]
+                "commonwealth:zk51wc63t",
+                "commonwealth:31981j159",
+                "commonwealth:r494zk24f",
+                "commonwealth:1544fp04t",
+                "commonwealth:qj72s7007",
+                "commonwealth:zs261862d",
+                "commonwealth:d791wf94d",
+                "commonwealth:2v23zt06v",
+                "commonwealth:5q47vn46v",
+                "commonwealth:cn69q4000",
+                "commonwealth:rf5627675",
+                "commonwealth:8w32v518f",
+                "commonwealth:37723f43k",
+                "commonwealth:df65z841b",
+                "commonwealth:s4658g760",
+                "commonwealth:gt54pn01v",
+                "commonwealth:t722m943j",
+                "commonwealth:js959h151",
+                "commonwealth:pn89h678s",
+                "commonwealth:s1787m97q",
+                "commonwealth:1g05j995v",
+                "commonwealth:d504vk225",
+                "commonwealth:wm11bn329",
+                "commonwealth:jd475x10f",
+                "commonwealth:1j92k5875",
+                "commonwealth:dj530466c"
+            ],
+            "id": "roads-and-routes",
+            "title": "Roads and Routes"
         },
         {
-            "id": "houses-and-property",
-            "title": "Houses and Property",
             "banner_image": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524ng018/8858,4237,2732,1582/pct:50/0/default.jpg",
             "entries": [
                 "commonwealth:0r96fq69s",
@@ -3330,12 +3377,41 @@
                 "commonwealth:z603vw08p",
                 "commonwealth:z603vw128",
                 "commonwealth:z603vw18x",
-                "commonwealth:zk51wc63t"
-            ]
+                "commonwealth:zk51wc63t",
+                "commonwealth:31981j159",
+                "commonwealth:r494zk24f",
+                "commonwealth:1544fp04t",
+                "commonwealth:7h14dn92n",
+                "commonwealth:d791wf94d",
+                "commonwealth:2v23zt06v",
+                "commonwealth:5q47vn46v",
+                "commonwealth:cn69q4000",
+                "commonwealth:4f16g309g",
+                "commonwealth:q524nq35j",
+                "commonwealth:37723f43k",
+                "commonwealth:df65z841b",
+                "commonwealth:jm217p705",
+                "commonwealth:p841ck384",
+                "commonwealth:8s45t8959",
+                "commonwealth:1g05j9964",
+                "commonwealth:2r36xx573",
+                "commonwealth:2j62w4435",
+                "commonwealth:cz30ss36q",
+                "commonwealth:69701z44k",
+                "commonwealth:d791wf934",
+                "commonwealth:05744q92c",
+                "commonwealth:1g05j995v",
+                "commonwealth:34852g55q",
+                "commonwealth:tt44sn62b",
+                "commonwealth:d504vk225",
+                "commonwealth:kd17gt588",
+                "commonwealth:tx31th04g",
+                "commonwealth:jd475x10f"
+            ],
+            "id": "houses-and-property",
+            "title": "Houses and Property"
         },
         {
-            "id": "military",
-            "title": "Military",
             "banner_image": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nk602/16546,2451,3577,2157/pct:50/0/default.jpg",
             "entries": [
                 "commonwealth:1j92h0041",
@@ -4195,8 +4271,30 @@
                 "commonwealth:z603vw16c",
                 "commonwealth:z603vw18x",
                 "commonwealth:z603vw20z",
-                "commonwealth:z603vw22h"
-            ]
+                "commonwealth:z603vw22h",
+                "commonwealth:31981j159",
+                "commonwealth:2v23zt06v",
+                "commonwealth:5q47vn46v",
+                "commonwealth:cn69q4000",
+                "commonwealth:4f16g309g",
+                "commonwealth:q524nq35j",
+                "commonwealth:7w62j777r",
+                "commonwealth:df65z841b",
+                "commonwealth:jm217p705",
+                "commonwealth:p841ck384",
+                "commonwealth:2r36xx573",
+                "commonwealth:2j62w4435",
+                "commonwealth:s4658g760",
+                "commonwealth:g732h871r",
+                "commonwealth:tx31th04g",
+                "commonwealth:s4658g75q",
+                "commonwealth:bg25bf84n",
+                "commonwealth:jd475x10f"
+            ],
+            "id": "military",
+            "title": "Military"
         }
-    ]
+    ],
+    "short_description": "Interested in a subject in particular? Look through maps focused on military engagements, political boundaries, and transportation routes, maps which show Native American nations and pathways, or depictions of cities, houses and property.",
+    "title": "Subject"
 }
