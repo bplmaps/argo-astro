@@ -1,11 +1,7 @@
 {
-    "title": "Empires and Nations",
-    "short_description": "Focus on a specific colonial empire, Indigenous nation, or post-Revolutionary country.",
     "banner_image": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx11z550p/4565,2501,4401,2414/,1200/0/default.jpg",
     "facet-categories": [
         {
-            "id": "british-empire",
-            "title": "British Empire",
             "banner_image": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vs47r/6619,2929,3678,2483/pct:50/0/default.jpg",
             "entries": [
                 "commonwealth:0r96fq74n",
@@ -447,11 +443,11 @@
                 "commonwealth:z603vw14t",
                 "commonwealth:z603vw16c",
                 "commonwealth:z603vw18x"
-            ]
+            ],
+            "id": "british-empire",
+            "title": "British Empire"
         },
         {
-            "id": "french-empire",
-            "title": "French Empire",
             "banner_image": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vv15w/3245,2068,3711,2062/pct:50/0/default.jpg",
             "entries": [
                 "commonwealth:0r96fq74n",
@@ -507,11 +503,11 @@
                 "commonwealth:z603vs00v",
                 "commonwealth:z603vs324",
                 "commonwealth:z603vt37q"
-            ]
+            ],
+            "id": "french-empire",
+            "title": "French Empire"
         },
         {
-            "id": "wabanaki",
-            "title": "Wabanaki",
             "banner_image": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:8220:WCL008287/270,272,2542,1122/pct:50/0/default.jpg",
             "entries": [
                 "commonwealth:0r96fq74n",
@@ -523,11 +519,11 @@
                 "commonwealth:q524nj26j",
                 "commonwealth:z603vn96v",
                 "commonwealth:z603vt134"
-            ]
+            ],
+            "id": "wabanaki",
+            "title": "Wabanaki"
         },
         {
-            "id": "united-states",
-            "title": "United States",
             "banner_image": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vt32b/1335,1017,3004,2266/pct:50/0/default.jpg",
             "entries": [
                 "commonwealth:1j92h0041",
@@ -890,11 +886,11 @@
                 "commonwealth:z603vw14t",
                 "commonwealth:z603vw16c",
                 "commonwealth:z603vw18x"
-            ]
+            ],
+            "id": "united-states",
+            "title": "United States"
         },
         {
-            "id": "spanish-empire",
-            "title": "Spanish Empire",
             "banner_image": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8336h2955/2408,3574,6716,3886/pct:50/0/default.jpg",
             "entries": [
                 "commonwealth:4m90fp515",
@@ -934,11 +930,11 @@
                 "commonwealth:z603vs87q",
                 "commonwealth:z603vt37q",
                 "commonwealth:z603vv18q"
-            ]
+            ],
+            "id": "spanish-empire",
+            "title": "Spanish Empire"
         },
         {
-            "id": "dutch-empire",
-            "title": "Dutch Empire",
             "banner_image": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nf38q/348,778,4461,2278/pct:50/0/default.jpg",
             "entries": [
                 "commonwealth:4m90fp515",
@@ -960,11 +956,11 @@
                 "commonwealth:z603vp88c",
                 "commonwealth:z603vp98m",
                 "commonwealth:z603vt37q"
-            ]
+            ],
+            "id": "dutch-empire",
+            "title": "Dutch Empire"
         },
         {
-            "id": "danish-empire",
-            "title": "Danish Empire",
             "banner_image": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524mt78s/524,2583,4368,2408/pct:50/0/default.jpg",
             "entries": [
                 "commonwealth:4m90fp515",
@@ -982,20 +978,20 @@
                 "commonwealth:z603vp88c",
                 "commonwealth:z603vp98m",
                 "commonwealth:z603vt37q"
-            ]
+            ],
+            "id": "danish-empire",
+            "title": "Danish Empire"
         },
         {
-            "id": "ohio-nations",
-            "title": "Ohio Nations",
             "banner_image": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n7333/577,1110,7945,4277/pct:50/0/default.jpg",
             "entries": [
                 "commonwealth:6108vw177",
                 "commonwealth:z603vn96v"
-            ]
+            ],
+            "id": "ohio-nations",
+            "title": "Ohio Nations"
         },
         {
-            "id": "haudenosaunee-(iroquois)-confederacy",
-            "title": "Haudenosaunee (Iroquois) Confederacy",
             "banner_image": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vs64d/417,2654,3879,2228/pct:50/0/default.jpg",
             "entries": [
                 "commonwealth:6t053q240",
@@ -1005,16 +1001,20 @@
                 "commonwealth:q524nj568",
                 "commonwealth:z603vg68n",
                 "commonwealth:z603vn96v"
-            ]
+            ],
+            "id": "haudenosaunee-(iroquois)-confederacy",
+            "title": "Haudenosaunee (Iroquois) Confederacy"
         },
         {
-            "id": "cherokee-nation",
-            "title": "Cherokee Nation",
             "banner_image": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n646z/405,4075,5254,2728/pct:50/0/default.jpg",
             "entries": [
                 "commonwealth:hx11z2278",
                 "commonwealth:z603vg221"
-            ]
+            ],
+            "id": "cherokee-nation",
+            "title": "Cherokee Nation"
         }
-    ]
+    ],
+    "short_description": "Focus on a specific colonial empire, Indigenous nation, or post-Revolutionary country.",
+    "title": "Empires and Nations"
 }

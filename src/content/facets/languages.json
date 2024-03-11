@@ -1,11 +1,7 @@
 {
-    "title": "Languages",
-    "short_description": "Not all of our collections are in English! Browse maps in a variety of different languages, including Latin, French, Dutch, Armenian, Japanese, and more.",
     "banner_image": "https://jcb.lunaimaging.com/luna/servlet/iiif/JCBMAPS~1~1~1355~100710003/2199,540,1635,1258/pct:50/0/default.jpg",
     "facet-categories": [
         {
-            "id": "english",
-            "title": "English",
             "banner_image": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx11z482r/3557,2149,1813,964/pct:50/0/default.jpg",
             "entries": [
                 "commonwealth:0r96fq64d",
@@ -1655,11 +1651,11 @@
                 "commonwealth:z603vw16c",
                 "commonwealth:z603vw20z",
                 "commonwealth:zk51wc63t"
-            ]
+            ],
+            "id": "english",
+            "title": "English"
         },
         {
-            "id": "french",
-            "title": "French",
             "banner_image": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vv076/8167,3026,2505,1302/pct:50/0/default.jpg",
             "entries": [
                 "commonwealth:1257bb63q",
@@ -2015,11 +2011,11 @@
                 "commonwealth:z603vw128",
                 "commonwealth:z603vw18x",
                 "commonwealth:z603vw22h"
-            ]
+            ],
+            "id": "french",
+            "title": "French"
         },
         {
-            "id": "german",
-            "title": "German",
             "banner_image": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vt87x/721,2205,740,363/pct:50/0/default.jpg",
             "entries": [
                 "commonwealth:2514p144s",
@@ -2081,11 +2077,11 @@
                 "commonwealth:z603vv849",
                 "commonwealth:z603vv86v",
                 "commonwealth:z603vv90f"
-            ]
+            ],
+            "id": "german",
+            "title": "German"
         },
         {
-            "id": "latin",
-            "title": "Latin",
             "banner_image": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vq437/3026,3829,730,351/pct:50/0/default.jpg",
             "entries": [
                 "commonwealth:2514p144s",
@@ -2104,11 +2100,11 @@
                 "commonwealth:z603vp18p",
                 "commonwealth:z603vq42z",
                 "commonwealth:z603vv08g"
-            ]
+            ],
+            "id": "latin",
+            "title": "Latin"
         },
         {
-            "id": "spanish",
-            "title": "Spanish",
             "banner_image": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vn74t/1944,2173,2342,1253/pct:50/0/default.jpg",
             "entries": [
                 "commonwealth:q524n703c",
@@ -2200,7 +2196,11 @@
                 "commonwealth:z603vg60f",
                 "commonwealth:z603vn21s",
                 "commonwealth:z603vn73j"
-            ]
+            ],
+            "id": "spanish",
+            "title": "Spanish"
         }
-    ]
+    ],
+    "short_description": "Not all of our collections are in English! Browse maps in a variety of different languages, including Latin, French, Dutch, Armenian, Japanese, and more.",
+    "title": "Languages"
 }
