@@ -3,7 +3,7 @@ import { Image } from "astro:assets";
 import backgroundCartoucheMobile from "@assets/argo-cartouch-bg-mobile.png";
 import backgroundCartouche from "@assets/cartouche-bg.webp";
 import heroSearchBg from "@assets/herosearch-bg.jpg";
-import WLLogo from "@assets/WashingtonLibrary-logo.png";
+import WLLogo from "@assets/gwpl_logo_blue.png";
 import LMECLogo from "@assets/LMEC-logo.webp";
 ---
 
@@ -25,9 +25,13 @@ import LMECLogo from "@assets/LMEC-logo.webp";
         </button>
       </form>
     </div>
-    <div class="flex gap-4 w-full max-w-md mx-auto md:mt-20">
+    <div class="flex gap-4 w-full max-w-md mx-auto md:mt-20 bg-white/80 p-2" id="logos">
       <Image src={WLLogo} alt="Washington Library Logo" class="w-1/2 h-auto self-center" />
       <Image src={LMECLogo} alt="Leventhal Map & Education Center Logo" class="w-1/2 h-auto self-center" />
     </div>
   </div>
 </div>
+
+<style>
+  #logos { box-shadow: 0 0 19px 25px rgba(255,255,255,0.8); }
+</style>
