@@ -1,5 +1,5 @@
 <template>
-  <div class="mb-12" :class="['explore-by explore-by-outer explore-by-timelines', { 'explore-by-timelines-active': show_pane }]">
+  <div class="mb-12 explore-by explore-by-outer explore-by-timelines">
     <div class="filter-explore-by relative mb-4">
       <h2 class="heading-underlined font-heading font-medium text-xl md:text-3xl text-bismark-950 mb-4">
 		<span>
@@ -7,12 +7,12 @@
 		</span>
 	  </h2>
       <ul class="flex flex-wrap gap-1">
-        <li v-for="(era, era_year) in data.timeline_eras" :key="era_year">
-          <a @click="scrollTo(era_year)" :class="['pill', 'cursor-pointer', { 'pill-active': show_era == era_year }]">{{ era.era }}</a>
+        <li v-for="(era, eraYear) in data.timeline_eras" :key="eraYear">
+          <a @click="scrollTo(eraYear)" :class="['pill', 'cursor-pointer', { 'pill-active': showEra == eraYear }]">{{ era.era }}</a>
         </li>
       </ul>
     </div>
-    <div class="timeline-years" @scroll.passive="timelineScroll()" v-if="ready && !is_mobile">
+    <div class="timeline-years shadow-lg" @scroll.passive="timelineScroll()" v-if="ready && !isMobile">
       <!-- if it's NOT mobile -->
       <div class="years">
         <div class="year" :id="'year-' + year" :key="year" v-for="(index, year) in data.timeline_events" >
@@ -27,18 +27,6 @@
             </div>
           </div>
           <div class="year-text">{{ year }}</div>
-          <div class="map-count">
-            <template v-if="data.timeline_events[parseInt(year)].length">
-              <a @click="openDrawer(data.timeline_events[parseInt(year)])" class="tooltip">
-                <div class="top">
-                {{ data.timeline_events[parseInt(year)].length }} Map<template v-if="data.timeline_events[parseInt(year).length + 1] != 1">s</template>
-                in {{ parseInt(year) }}<i></i>
-                </div>
-                {{ data.timeline_events[parseInt(year)].length }}
-              </a>
-            </template>
-            <template v-else><span>0</span></template>
-          </div>
 
           <div class="event-group">
             <details class="event" v-for="(event, index) in data.timeline_events[year]" :key="index">
@@ -63,7 +51,7 @@
         </div>
       </div>
     </div>
-    <div class="timeline-years" @scroll.passive="timelineScroll()" v-if="ready && is_mobile">
+    <div class="timeline-years" @scroll.passive="timelineScroll()" v-if="ready && isMobile">
       <!-- if it IS mobile -->
       <div class="years" v-for="(index, year) in data.timeline_events" :key="year">
         <div class="year-orient" :id="'year-orient-' + year">
@@ -109,6 +97,14 @@
   </div>
 </template>
 
+<script setup>
+import { isDrawerOpen, drawerIdentifiers } from '../../../drawerStore';
+import { useStore } from '@nanostores/vue';
+
+const $isDrawerOpen = useStore(isDrawerOpen);
+const $drawerIdentifiers = useStore(drawerIdentifiers);
+</script>
+
 <script>
 export default {
 	props: {
@@ -117,19 +113,8 @@ export default {
 	data() {
 		return {
 			ready: false,
-			is_mobile: false,
-			show_pane: null,
-			show_facet: null,
-			show_era: Object.keys(this.data.timeline_eras)[0],
-			// results
-			map_filter_results: [],
-			// drawer_results_visible: [], //['commonwealth:hx11z473s', 'commonwealth:hx11z475b', 'commonwealth:hq37vv62q', 'commonwealth:hx11z4717'],
-			// map_vector_layers: [],
-			// windowWidth: window.innerWidth,
-			map_html_icon: null,
-			// mi_to_m_factor: 1609.34,
-			layersByID: {},
-			mapPopup: null,
+			isMobile: false,
+			showEra: Object.keys(this.data.timeline_eras)[0],
 		};
 	},
 	beforeMount() {
@@ -143,50 +128,49 @@ export default {
 		window.removeEventListener("resize", this.resize);
 	},
 	methods: {
-		openDrawer(which_maps) {
-      // TODO: Open the drawer
+		openDrawer(identifiers) {
+      isDrawerOpen.set(true);
+      drawerIdentifiers.set(identifiers);
 		},
-		resize: function () {
-			this.is_mobile = window.innerWidth <= 768;
+		resize() {
+			this.isMobile = window.innerWidth <= 768;
 		},
-		timelineScroll: function () {
-			let first_div_past_scroll_date = "";
-      Object.keys(this.data.timeline_eras).forEach((this_year) => {
+		timelineScroll() {
+			let firstDivPastScrollDate = "";
+      Object.keys(this.data.timeline_eras).forEach((thisYear) => {
         var outsideRect = document.querySelector(".timeline-years").getBoundingClientRect(); // reference to scroll target
-        if (this.is_mobile) {
-          var insideRectEl = document.querySelector("#year-orient-" + this.data.timeline_eras[this_year].era_end_year);
+        if (this.isMobile) {
+          var insideRectEl = document.querySelector("#year-orient-" + this.data.timeline_eras[thisYear].era_end_year);
           if (insideRectEl) {
             var insideRect = insideRectEl.getBoundingClientRect(); // reference to scroll target
           }
         } else {
-          var insideRectEl = document.querySelector("#year-" + this.data.timeline_eras[this_year].era_end_year);
+          var insideRectEl = document.querySelector("#year-" + this.data.timeline_eras[thisYear].era_end_year);
           if (insideRectEl) {
             var insideRect = insideRectEl.getBoundingClientRect(); // reference to scroll target
           }
         }
         if (outsideRect && insideRect) {
           var scrollLocation = insideRect["top"] - outsideRect["top"] - outsideRect["height"] - 30;
-          // console.log('this_year:', this_year, this.data.timeline_eras[this_year].era_end_year, scrollLocation);
-          if (scrollLocation > -176 && first_div_past_scroll_date == "")
-            first_div_past_scroll_date = this_year;
+          if (scrollLocation > -176 && firstDivPastScrollDate == "")
+            firstDivPastScrollDate = thisYear;
         }
       });
-			this.show_era = first_div_past_scroll_date;
+			this.showEra = firstDivPastScrollDate;
 		},
-		scrollTo: function (which_div) {
+		scrollTo(div) {
 			// update button state
-			this.show_era = which_div;
+			this.showEra = div;
 			// find location and move to it
 			var outsideElem = document.querySelector(".timeline-years");
 			var outsideRect = outsideElem.getBoundingClientRect(); // reference to scroll target
 			var insideRect = document
-				.querySelector("#year-orient-" + which_div)
+				.querySelector("#year-orient-" + div)
 				.getBoundingClientRect(); // reference to scroll target
 			var scrollLocation =
 				Math.abs(
 				insideRect["top"] - outsideRect["top"] + outsideElem.scrollTop
 				) - 30;
-			// console.log('>>>>>', outside['top'], inside['top'], scrollLocation, outsideElem.scrollTop);
 			document.querySelector(".timeline-years").scrollTo({
 				top: scrollLocation,
 				behavior: "smooth",
