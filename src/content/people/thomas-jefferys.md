@@ -39,6 +39,7 @@ related_maps:
 short_description: British cartographer, engraver, and publisher
 tags:
   - Mapmaker
+  - Map Publisher
 title: Thomas Jefferys
 ---
 

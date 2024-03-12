@@ -18,6 +18,7 @@ related_maps:
 short_description: Early American map publisher
 tags:
   - Mapmaker
+  - Map Publisher
 title: John Reid
 ---
 

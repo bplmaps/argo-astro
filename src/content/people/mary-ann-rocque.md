@@ -7,6 +7,7 @@ related_maps:
 short_description: British cartographer and map seller
 tags:
   - Mapmaker
+  - Map Publisher
 title: Mary Ann Rocque
 ---
 Mary Ann Rocque, neé Scalé, was one of the few prominent female cartographers of the eighteenth century. Born in 1725 in England, Rocque began her mapping career after taking over the publishing company of her deceased husband, the legendary cartographer [John Rocque](/people/john-rocque). She is remembered for her significant contributions to the early mapping of North American forts and Canadian towns, as well as for her pioneering map of Albany, New York.
