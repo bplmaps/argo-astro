@@ -1,5 +1,5 @@
 ---
-banner_image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:dz010v115/2064,2836,2292,1241/,1200/0/default.jpg
+banner_image: https://a-us.storyblok.com/f/1016535/858x380/dee371e432/robert_sayer.jpg
 bio_dates: 1725-1794
 credit: Biography by Tyler Stewart
 related_maps:
@@ -90,7 +90,7 @@ In the early 1780s, John Bennett began to show signs of mental illness, leading 
 
 A publishing pioneer, Sayer built his wealth on commercial skills and benefitted from advanced production facilities, imperial distribution channels, and expanding markets. With acute business sense, he became one of the earliest publishers in the British Empire to capitalize on the production of maps for profit. 
 
-Banner image: detail from [Hervey Smyth, _A view of the landing place above the town of Quebec_, 1759](/maps/commonwealth:dz010v10w)
+Banner image: detail from Johann Zoffany, _The Sayer Family of Richmond_
 
 [^1]: Susanna Fisher, "Sayer, Robert \(1724/5–1794\), Print, Map, and Chart Publisher," in _Oxford Dictionary of National Biography_, 2004; online ed., 2004
 
