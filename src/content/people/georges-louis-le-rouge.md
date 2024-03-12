@@ -57,7 +57,7 @@ As word of Le Rouge’s maps spread across the Atlantic, he maintained a corresp
 
 After contributing to Franklin’s map collection, Le Rouge did not publish additional works. An exact death date has not been established; premature announcements of his death appeared as early as 1780.[^9] In 1789, Le Rouge’s Parisian printing shop was put up for sale.[^10] Despite the obscure end to his life, Georges-Louis Le Rouge is remembered today as a prolific publisher and surveyor who connected France and America through his maps, translations, and personal associations.
 
-<p>Banner image: detail from <a href="/maps/commonwealth:z603vs570">Le Rouge, <em>Partie occidentale de la Virginie, Pensylvanie, Maryland, et Caroline</em>,&nbsp;1781</a>.</p>
+Banner image: detail from [Le Rouge, _Partie occidentale de la Virginie, Pensylvanie, Maryland, et Caroline_, 1781](/maps/commonwealth:z603vs570).
 
 [^1]: David L. Hays,“Mapping and ‘Natural’ Garden Design in Late Eighteenth-Century France: The Example of Georges-Louis Le Rouge.” _SiteLINES: A Journal of Place_ 12, no. 2 \(2017\): 7.
 
