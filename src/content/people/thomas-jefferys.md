@@ -51,7 +51,7 @@ The exact year of Jefferys’ birth is unknown; sources indicate that he was bor
   <a href="https://collections.leventhalmap.org/search/commonwealth:4m90fn31g">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fn32r/2219,4380,10194,3827/pct:50/0/default.jpg" alt="A new and exact plan of the city&#39;s of London and Westminster, the borough of Southwark : and the additional new buildings, churches &amp;c. to the present year 1735 laid down in such a manner, that any place may readily be found by inspection; the like no extant" />
   </a>
-  <figcaption class="table-caption caption-bottom">
+  <figcaption class="table-caption caption-bottom mt-0">
     A detail showing the river Thames from Jefferys&#39; map <em>A new and exact plan and the city&#39;s of London and Westminster, the borough of Southwark...</em>
   </figcaption>
 </figure>
@@ -68,8 +68,8 @@ In 1768, alongside Sayer, Jefferys used existing surveys that French geographers
   <a href="/maps/commonwealth:6t053n859/">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6t053n86k/879,2295,6914,3188/pct:50/0/default.jpg" alt="A large and particular plan of Shegnekto Bay, and the circumjacent country, with the forts and settlements of the French &#39;till dispossess&#39;d by the English in June 1755" />
   </a>
-  <figcaption class="table-caption caption-bottom">
-    A detail of Shegnetko Bay from Jefferys&#39; first major atlas"
+  <figcaption class="table-caption caption-bottom mt-0">
+    A detail of Shegnetko Bay from Jefferys&#39; first major atlas
   </figcaption>
 </figure>
 

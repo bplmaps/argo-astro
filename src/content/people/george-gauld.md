@@ -27,7 +27,7 @@ In August 1764, Gauld arrived and took residence at the capital of West Florida,
   <a href="/maps/commonwealth:q524nd05z">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nd067/full/790,/0/default.jpg" alt="A manuscript map with green and red accents showing a large harbor. The depth of the water in fathoms is shown and the shoreline is represented with shading. Limited detail is given in the land, but green shading is used to represent vegetation and points of interest such as an &#39;Indian Town,&#39; and brick kiln are shown outside a schematic representation of Pensacola." />
   </a>
-  <figcaption class="table-caption caption-table">
+  <figcaption class="table-caption caption-bottom">
     <em>A plan of the harbour of Pensacola in West-Florida</em>, 1764
   </figcaption>
 </figure>

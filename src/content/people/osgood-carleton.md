@@ -60,6 +60,7 @@ While working on his maps of Maine and Massachusetts, Carleton drafted maps of t
   <figcaption class="table-caption caption-bottom">
     Carleton&#39;s <em>Plan of the Land at Prince Street and Snowhill Street</em>
   </figcaption>
+</figure>
 
 Carleton combined his surveys of various parts of Boston to make [a full map of the town](/maps/commonwealth:z603vg07x/), which was issued on May 16, 1797 and engraved by Norman. This map was the largest plan of Boston to date. The detailed map included the names of all the wharves, streets, alleys, public buildings, and wards in the growing town.
 

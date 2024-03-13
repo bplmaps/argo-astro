@@ -37,7 +37,7 @@ In April 1778, Capitaine traveled north towards the main theater of war. Congres
   <a href="https://www.argomaps.org/maps/commonwealth:q524nd53m/">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nd54w/2213,1265,850,972/500,/0/default.jpg" alt="Detail from a manuscript battle map. Troops are reprsented by colored rectangles and their movement by dtted lines. In this image, American troops are shown moving around the Barren Hill church, which is shown on top of a hill surrounded by trees." />
   </a>
-  <figcaption>
+  <figcaption class="table-caption caption-bottom mt-0">
     Detail from Michel Capitaine du Chesnoy&#39;s 1778 map <em>Plan de la retraite de Barren Hill en Pensilvanie</em>
   </figcaption>
 </figure>

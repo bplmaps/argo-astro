@@ -23,11 +23,11 @@ tags:
   - Mapmaker
 title: John Mitchell
 ---
-<figure class="table float-left mr-5 mb-10">
+<figure class="table w-50 float-left mr-5 mb-10">
   <a href="/maps/commonwealth:hx11z549x">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx11z550p/3474,1046,8312,7238/pct:50/0/default.jpg" alt="A MAP of the BRITISH COLONIES in North America : WITH THE Roads, Distances, Limits, and Extent of the SETTLEMENTS, Humbly Inscribed to the Right Honourable The Early of Halifax, and the other Right Honourable The Lords Commissioners for Trade &amp; Plantations" />
   </a>
-  <figcaption>
+  <figcaption class="table-caption caption-bottom mt-0">
     Detail from King George III&#39;s copy of Mitchell&#39;s map <em>A MAP of the BRITISH COLONIES in North America&quot; showing the eastern seaboard of North America</em>
   </figcaption>
 </figure>

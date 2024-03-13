@@ -27,7 +27,7 @@ In 1764, Erskine followed that promise when William Cole, an instrument maker in
   <a href="/maps/commonwealth:p8418t86q">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:p8418t870/144,96,5179,7329/567,/0/default.jpg" alt="A hand-drawn sketch map showing a road system. Towns and some other buildings are shown. Some limited topographical detail has been added in pencil." />
   </a>
-  <figcaption>
+  <figcaption class="table-caption caption-bottom mt-0">
     A map made by Robert Erskine in 1779 showing roads in Westchester County, New York and western Fairfield County, Connecticut
   </figcaption>
 </figure>
