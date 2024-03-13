@@ -1,0 +1,61 @@
+---
+import { getCollection, getEntry } from 'astro:content';
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Title from '@components/Layout/Title.astro';
+import CollectionGrid from "@components/CollectionGrid.astro";
+import Pagination from "@components/Pagination.astro";
+
+// Generate a new path for every collection entry
+export async function getStaticPaths({ paginate }) {
+  const partnerEntries = await getCollection('partner-collections');
+  const mapEntries = await getCollection('maps');
+  const pageSize = 12;
+
+  return partnerEntries.flatMap((entry) => {
+    const partnerEntryMaps = [];
+
+    mapEntries.forEach((map) => {
+      if (map.data.dcMetadata.collection_ark_id_ssim.includes(entry.data.id)) {
+        partnerEntryMaps.push(map);
+      }
+    });
+
+    const identifiers = partnerEntryMaps.map((entry) => (
+      entry.id
+    ));
+
+    const identifier = entry.id.replace("__",":");
+    return paginate(identifiers, {
+      params: { identifier },
+      pageSize: pageSize
+    });
+  });
+}
+
+const { identifier, page } = Astro.props;
+const params = Astro.params;
+
+const partnerEntry = await getEntry('partner-collections', params.identifier.replace(":","__"));
+
+const title = partnerEntry.data.title_info_primary_tsi;
+const entries = await getCollection('maps', ({ data }) => {
+  return data.dcMetadata.collection_ark_id_ssim.includes(partnerEntry.id);
+});
+const identifiers = entries.map((entry) => (
+  entry.id
+));
+const prevLink = page.currentPage === 2 ? `/partner-collections/${partnerEntry.id.replace("__", ":")}` : page.url.prev;
+const nextLink = page.url.next;
+---
+<BaseLayout title={title}>
+  <div class="markdown mb-5 lg:mb-10">
+    <Title>
+      <span class="heading-underlined block text-bismark-950">
+        <span>{ title }</span>
+      </span>
+    </Title>
+    <div set:html={partnerEntry.data.abstract_tsi} />
+  </div>
+  <CollectionGrid contentType="maps" columns={3} identifiers={page.data} />
+  <Pagination start={page.start + 1} end={page.end + 1} total={page.total} prevLink={prevLink} nextLink={nextLink} />
+</BaseLayout>
