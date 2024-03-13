@@ -4,6 +4,26 @@ bio_dates: c.1725-aft.1770
 credit: "Biography written by Lucy Horowitz"
 related_maps:
   - commonwealth:z603vr80k
+  - commonwealth-oai:xw42s6114
+  - commonwealth-oai:qj72t571z
+  - commonwealth-oai:5712r625x
+  - commonwealth-oai:34853f313
+  - commonwealth-oai:vh541t73m
+  - commonwealth-oai:cr56s090c
+  - commonwealth-oai:9k423c40x
+  - commonwealth-oai:1g05k882r
+  - commonwealth-oai:x059h5654
+  - commonwealth-oai:vd670z05f
+  - commonwealth-oai:bz60ht05t
+  - commonwealth-oai:x920kw533
+  - commonwealth-oai:z029t212r
+  - commonwealth-oai:8623ns32m
+  - commonwealth-oai:j3864599s
+  - commonwealth-oai:hd76wz09n
+  - commonwealth-oai:s4659f93m
+  - commonwealth-oai:5m60vq362
+  - commonwealth-oai:m326r085z
+  - commonwealth-oai:mk61wh50b
 short_description: British cartographer and map seller
 tags:
   - Map Publisher
