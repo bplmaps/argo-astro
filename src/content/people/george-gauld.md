@@ -5,6 +5,10 @@ credit: "Biography written by John Prather"
 related_maps:
   - commonwealth:z603vv386
   - commonwealth:q524nd05z
+  - commonwealth-oai:rj434391f
+  - commonwealth-oai:p267br69m
+  - commonwealth-oai:3x81bj73g
+  - commonwealth-oai:bk12d854x
 short_description: Scottish military engineer, surveyor, and cartographer
 tags:
   - Mapmaker
@@ -19,7 +23,7 @@ Born in Scotland in 1732, Gauld entered the world in a time of Enlightenment and
 
 In August 1764, Gauld arrived and took residence at the capital of West Florida, Pensacola, where he would spend much of the rest of his life. In the same year, Gauld would survey and produce a [detailed plan](/maps/commonwealth:q524nd05z) for a harbor in his new residence of Pensacola. For the next seventeen years, he established himself as not only a masterful cartographer, but also as a staple of society and politics in Pensacola. Devoted to his cartography and possessing “a strong sense of duty,” according to his biographer John D. Ware, Gauld was neither a political partisan nor someone to abuse his position of power.[^1] In the eyes of his neighbors, Gauld was therefore the ideal politician to represent them. In 1769, he was selected to serve as a representative of the Pensacola delegation to the West Florida General Assembly.
 
-<a href="/maps/commonwealth:q524nd05z"><img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nd067/full/790,/0/default.jpg" alt="A manuscript map with green and red accents showing a large harbor. The depth of the water in fathoms is shown and the shoreline is represented with shading. Limited detail is given in the land, but green shading is used to represent vegetation and points of interest such as an &#39;Indian Town,&#39; and brick kiln are shown outside a schematic representation of Pensacola." style="display: block;margin-left: auto;margin-right: auto;width: 75%;" title="&quot;A plan of the harbour of Pensacola in West-Florida&quot;, 1764"></a>
+<a href="/maps/commonwealth:q524nd05z"><img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nd067/full/790,/0/default.jpg" alt="A manuscript map with green and red accents showing a large harbor. The depth of the water in fathoms is shown and the shoreline is represented with shading. Limited detail is given in the land, but green shading is used to represent vegetation and points of interest such as an &#39;Indian Town,&#39; and brick kiln are shown outside a schematic representation of Pensacola." style="display: block;margin-left: auto;margin-right: auto;width: 75%;" title="&quot;A plan of the harbour of Pensacola in West-Florida&quot;, 1764"/></a>
 
 Alongside his achievements in cartography and success in local politics, Gauld also proved to be financially savvy. Often being the first to judge and appraise the lands he surveyed, Gauld used his insider knowledge and his political connections to amass wealth. In May 1776, he successfully petitioned West Florida Governor Peter Chester for an additional two thousand acres of land, “having resided chiefly in this province since its first establishment and being desirous of making a settlement on the east branch of the Peral River.”[^2] Having established an impressive reputation in the British colonies as a cartographer and politician, Gauld married in 1776. Although little is known about Ann Gauld beyond speculation that she was a widow of a military officer, the couple lived an active and social life, engaging in West Florida high society and entertaining a continuous stream of guests.
 
@@ -29,7 +33,7 @@ Gauld left Ann the small amount of their wealth they were able to recoup after t
 
 Gauld’s maps played a role in the history of the United States after the Louisiana Purchase in 1803 and during the War of 1812. In October 1803, attorney and former member of the South Carolina legislature William Marshall sent President Thomas Jefferson Gauld’s “accurate Chart of the Coast of West Florida and Louisiana, including a survey and soundings of the Mississippi river, extending, considerably above New Orleans” to aid the executive in navigating and understanding the newly acquired territory.[^3] Gauld’s map made another resurgence during James Madison’s presidency. In July 1812, Madison’s friend and informal naval advisor, William Tatham, stressed to the president the need to produce “similar documents of the British operations & works in Florida” to maps crafted by Gauld in order to combat the British in this theater of war, reinforcing Gauld’s legacy long after his death.[^4]
 
-Banner image: detail from Gauld, [_A general plan of the harbours of Port Royal and Kingston Jamaica with the channels leading thereto, and the kays and shoals adjacent; including Wreck Reef &c,_ 1772](https://quod.lib.umich.edu/w/wcl1ic/x-8328/wcl008397).
+Banner image: detail from Gauld, [_A general plan of the harbours of Port Royal and Kingston Jamaica with the channels leading thereto, and the kays and shoals adjacent; including Wreck Reef &c,_ 1772](/maps/commonwealth-oai:rj434391f).
 
 [^1]: John D. Ware, George Gauld: Surveyor and Cartographer of the Gulf Coast (Gainesville/Tampa: University Presses of Florida, 1982), 210.
 

@@ -17,5 +17,10 @@ const identifiers = entries.map((entry) => (
       <span>{ title }</span>
     </span>
   </Title>
+  <section class="py-2 md:py-8">
+    <div class="prose text-lg">
+      The collections in ARGO bring together maps from <strong>{ entries.length } partner institutions</strong>. Our collections are always growing. To see more about what's coming, learn about our <a href="../about/future-partners">future partner collections.</a>
+    </div>
+  </section>
   <CollectionGrid contentType="partner-collection" columns={3} identifiers={identifiers} />
 </BaseLayout>

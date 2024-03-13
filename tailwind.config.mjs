@@ -90,7 +90,19 @@ export default {
 				'"Noto Color Emoji"',
 			],
 		},
-		extend: {},
+		extend: {
+			typography: (theme) => ({
+				DEFAULT: {
+					css: {
+						a: {
+							color: theme('colors.bismark.600'),
+							"text-decoration-color": theme('colors.bismark.200'),
+							"text-decoration-thickness": "2px"
+						}
+					}
+				}
+			})
+		},
 	},
 	plugins: [require('@tailwindcss/typography')],
 }

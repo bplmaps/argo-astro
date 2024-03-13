@@ -248,6 +248,12 @@ related_maps:
   - commonwealth:z603vm519
   - commonwealth:z603vm29s
   - commonwealth:z603vm31t
+  - commonwealth-oai:n01011382
+  - commonwealth-oai:kd17ht07z
+  - commonwealth-oai:qj72t568n
+  - commonwealth-oai:pv63kz98j
+  - commonwealth-oai:00003w92m
+  - commonwealth-oai:f4756d32x
 short_description: Swiss-born British military engineer, surveyor, and cartographer
 tags:
   - Mapmaker
@@ -261,7 +267,7 @@ Joseph Frederick Wallet DesBarres was one of the most important surveyors and na
 
 DesBarres was born into a Huguenot family in 1721 in Montbéliard, France, close to the Swiss border. He graduated from the University of Basel in 1750. As a Huguenot, he recognized that he lacked opportunities in Catholic France following his graduation and immigrated to Britain. With the Duke of Cumberland’s patronage, DesBarres was able to attend the Royal Military Academy in Woolwich, England, in 1753. Around this time, he married Martha Williams. DesBarres fathered eleven children with his wife and, at some point, began an illicit relationship with Mary Cannon, with whom he had six additional children.[^3]
 
-In 1756, DesBarres began his British Army career as a lieutenant in the 60th Royal American Regiment.[^4] During the Seven Years’ War (1756-1763), as one of several assistant engineers, he was assigned to chart the [St. Lawrence River](/maps/commonwealth:7h149v41w/) and survey [Newfoundland](/maps/commonwealth:9g54xk56c/). DesBarres worked under Surveyor General Samuel Holland in the Royal American Regiment as well as other cartographers, including James Cook and John Henry Bastide. Together, they [surveyed fortifications of Quebec, measured the depth of the Port of Quebec, and contributed to the fortification of Halifax](/maps/commonwealth:z603vv254/). DesBarres also briefly served as an aide-de-camp to General James Wolfe and was at the general’s side when he was killed at the Battle of Quebec in 1759.[^5]
+In 1756, DesBarres began his British Army career as a lieutenant in the 60th Royal American Regiment.[^4] During the Seven Years’ War (1756-1763), as one of several assistant engineers, he was assigned to chart the [St. Lawrence River](/maps/commonwealth:7h149v41w/) and survey [Newfoundland](/maps/commonwealth:9g54xk56c/). DesBarres worked under Surveyor General Samuel Holland in the Royal American Regiment as well as other cartographers, including [James Cook](/people/james-cook) and John Henry Bastide. Together, they [surveyed fortifications of Quebec, measured the depth of the Port of Quebec, and contributed to the fortification of Halifax](/maps/commonwealth:z603vv254/). DesBarres also briefly served as an aide-de-camp to General James Wolfe and was at the general’s side when he was killed at the Battle of Quebec in 1759.[^5]
 
 Following the war, the Royal Navy selected DesBarres to complete a survey of the Nova Scotia coastline. According to Commodore Richard Spry, the commander-in-chief of British naval forces in North America, DesBarres was “in every respect qualified for such an undertaking, and who offer’d his service, to be employ’d on this useful business.”[^6]
 

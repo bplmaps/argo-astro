@@ -40,6 +40,35 @@ related_maps:
   - commonwealth:q524nb650
   - commonwealth:q524n881z
   - commonwealth:q524nk556
+  - commonwealth-oai:wh24br637
+  - commonwealth-oai:dn401x058
+  - commonwealth-oai:vt154g147
+  - commonwealth-oai:6q186k38b
+  - commonwealth-oai:bk12d852c
+  - commonwealth-oai:5138p970n
+  - commonwealth-oai:dn401x104
+  - commonwealth-oai:df660717c
+  - commonwealth-oai:wp98dh63r
+  - commonwealth-oai:k069d668d
+  - commonwealth-oai:hd76wz12z
+  - commonwealth-oai:2b88vb266
+  - commonwealth-oai:bk12d8599
+  - commonwealth-oai:9z907051v
+  - commonwealth-oai:cn69r352q
+  - commonwealth-oai:xw42s613p
+  - commonwealth-oai:9c681j55v
+  - commonwealth-oai:xk81pj765
+  - commonwealth-oai:xw42s610v
+  - commonwealth-oai:pv63kz92w
+  - commonwealth:dj530466c
+  - commonwealth:1544fp04t
+  - commonwealth:1j92k5875
+  - commonwealth:jd475x10f
+  - commonwealth-oai:9w0361339
+  - commonwealth-oai:tt44tm89q
+  - commonwealth-oai:4j03hz07z
+  - commonwealth-oai:cj82q561z
+  - commonwealth-oai:2227rm988
 short_description: British military engineer and cartographer
 tags:
   - Mapmaker
@@ -51,7 +80,7 @@ John Montresor was a prolific surveyor and mapmaker, drawing as many as two thou
 
 Montresor was born on April 6, 1736, at Gibraltar, the firstborn son of Colonel James Gabriel Montresor, an engineer in the British army. Montresor also became an engineer and served four years in Gibraltar under his father before arriving in America in 1754. Montresor’s duties as an engineer include constructing and improving fortifications as well as conducting sieges. Montresor was wounded in battle during Major General Edward Braddock’s failed campaign against Fort Duquesne (today Pittsburgh) in 1755. He then participated in sieges against French garrisons at Louisbourg in 1758 and Quebec in 1759. In January 1760, Brigadier General James Murray, whom Montresor called “a madman” in his journal, sought to communicate with Major General Jeffery Amherst regarding the state of the British garrison in Quebec.[^1] Montresor volunteered for the mission and led a near month-long snowshoe expedition through uncharted New England backcountry, which his party barely survived. Writing to Amherst afterwards, Montresor lamented that his party “were 13 days without bread and 11 without meat, owing to the little knowledge we had of the distance we had to go” and that the party survived by eating their “Indian shoes, bullet pouches and all the spare leather we brought, with berries, buds, bark and boiled mountain tea.”[^2] In his journal from the trek, Montresor wrote, “Gave the Commander in Chief a journal and [plan of my route to a scale of 8 miles to an inch](/maps/commonwealth:q524nj194).”[^3] Montresor conducted a scouting mission the following year, during which he charted unexplored areas between Canada and Maine and produced a more detailed area map, [_A Map of the Sources of the Chaudière, Penobscot, and Kennebec Rivers_](/maps/commonwealth:q524n7511). Montresor’s journal and map from the 1761 exploration later fell into the possession of Benedict Arnold, who, as a colonel in the Continental Army, used them to plan a 1775 invasion of Canada with George Washington’s full support.
 
-<a href="/maps/commonwealth:z603vs082/"><img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vs09b/full/663,/0/default.jpg" alt="Vividly hand-colored map of New York City from the 18th century. The city occupies only the tip of Manhattan island, with field and hills just beyond, which the map shows in detail." style="float:right;margin: 5px 10px;" title="1775 map &quot;A plan of the city of New-York &amp; its environs&quot;, based off of his Montrésor&#39;s 1766 survey work."></a>
+<a href="/maps/commonwealth:z603vs082/"><img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vs09b/full/663,/0/default.jpg" alt="Vividly hand-colored map of New York City from the 18th century. The city occupies only the tip of Manhattan island, with field and hills just beyond, which the map shows in detail." style="float:right;margin: 5px 10px;" title="1775 map &quot;A plan of the city of New-York &amp; its environs&quot;, based off of his Montrésor&#39;s 1766 survey work."/></a>
 
 Following the Seven Years’ War, Montresor led a detachment that relieved British forces at the besieged Fort Detroit during Pontiac’s War, a mission Montresor referred to as “My great success in 1763.”[^4]  In 1764, he led a force of French Canadians, the first of its kind, throughout the Niagara district and built redoubts to defend against Indian attacks. While in New York in 1765, Montresor witnessed daily civil unrest over the impending Stamp Act. On October 23, he noted in his journal that “Many placards put up threatening the lives, houses and properties of any one who shall either issue or receive a stamp.”[^5] On November 1, he added that “the Rabble or rather Rebels assembled again early in the evening & continued the riot till 4 this morning, their numbers about 2000 during which time they broke open the Governor’s coach house” and attempted to scale the fort walls.[^6] During this unrest, British Commander-in-Chief Major General Thomas Gage requested Montresor “to sketch him a plan of this place on a large scale with its environs and adjacent country together with its harbour.”[^7] Fearing for his safety, Montresor surveyed the city discreetly. On January 7, 1766, he wrote, “continued on my survey Sub Rosa as observations might endanger one’s house and effects if not one’s life.”[^8] The map that Montresor produced—[_A Plan of the City of New-York & its Environs_](/maps/commonwealth:z603vs082)—is recognized as among the most accurate, detailed, and artfully executed plans of any American colonial city.
 
