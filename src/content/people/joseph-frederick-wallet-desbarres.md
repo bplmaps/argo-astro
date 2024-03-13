@@ -248,6 +248,12 @@ related_maps:
   - commonwealth:z603vm519
   - commonwealth:z603vm29s
   - commonwealth:z603vm31t
+  - commonwealth-oai:n01011382
+  - commonwealth-oai:kd17ht07z
+  - commonwealth-oai:qj72t568n
+  - commonwealth-oai:pv63kz98j
+  - commonwealth-oai:00003w92m
+  - commonwealth-oai:f4756d32x
 short_description: Swiss-born British military engineer, surveyor, and cartographer
 tags:
   - Mapmaker
