@@ -52,7 +52,7 @@ By the spring of 1770, Sauthier had completed several other maps and surveys of 
 
 In New York, Sauthier became a prominent surveyor for Lord Governor Tryon, conducting several surveys of the colony and New York City. The best known of these was his [1776 map of the New York province](/maps/commonwealth:z603vs634). The topographical survey depicted the administrative boundaries of New York in relation to the Long Island Sound, New Jersey, Quebec, and the land holdings of the Six Nations of the Iroquois Confederacy. The map was published by [William Faden](/people/william-faden) in his _North American Atlas_ (1777).
 
-<figure style="float:right;margin: 5px 10px;">
+<figure class="float-right mx-5 my-10">
   <a href="/maps/commonwealth:q524n8738">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n874j/full/433,/0/default.jpg" alt="Faded, colored manuscript map showing an American fort in rural upper Manhattan island during the American Revolution. Fields, roads, and the elevation of the land are shown in detail.">
   </a>
