@@ -1,10 +1,11 @@
 ---
 banner_image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524mt69t/6312,6941,8728,3981/,1200/0/default.jpg
 bio_dates: 1708-1757
-credit: "Biography written by\_Brett Martin"
+credit: "Biography written by Brett Martin"
 related_maps:
   - commonwealth:z603vr10w
   - commonwealth:0r96fq87q
+  - commonwealth-oai:r207zn34f
 short_description: British colonial surveyor, cartographer, politician, and planter
 tags:
   - Mapmaker
