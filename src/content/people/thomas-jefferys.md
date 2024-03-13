@@ -38,8 +38,8 @@ related_maps:
   - commonwealth:6t053r203
 short_description: British cartographer, engraver, and publisher
 tags:
-  - Mapmaker
   - Map Publisher
+  - Mapmaker
 title: Thomas Jefferys
 ---
 

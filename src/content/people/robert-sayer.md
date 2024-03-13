@@ -65,7 +65,7 @@ related_maps:
   - commonwealth:0r96fq97z
 short_description: British engraver and publisher
 tags:
-  - Map Publishers
+  - Map Publisher
 title: Robert Sayer
 ---
 Robert Sayer was one of the most successful publishers of maps and atlases in eighteenth-century Britain. While not a mapmaker himself, Sayer’s publishing company produced numerous books, paintings, and maps of the British Empire. He is also remembered for his children’s books, which were among the first flap books for children created, and providing military maps and geographical aids for the British army during the American Revolutionary War \(1775–1783\).
