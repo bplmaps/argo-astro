@@ -23,6 +23,37 @@ related_maps:
   - commonwealth:z603vs65p
   - commonwealth:6t053p88b
   - commonwealth:wd3762772
+  - commonwealth:34852g55q
+  - commonwealth:tx31th04g
+  - commonwealth:jd475x10f
+  - commonwealth:2j62w4435
+  - commonwealth:7w62j777r
+  - commonwealth:dj530466c
+  - commonwealth-oai:pv63kz98j
+  - commonwealth-oai:00003w92m
+  - commonwealth-oai:g445hd12q
+  - commonwealth-oai:pn89j515g
+  - commonwealth-oai:1544gn141
+  - commonwealth-oai:ww72g8029
+  - commonwealth-oai:1r66p0772
+  - commonwealth-oai:gx41rh31s
+  - commonwealth-oai:jq089f965
+  - commonwealth-oai:3r078t56s
+  - commonwealth-oai:1544gn159
+  - commonwealth-oai:0p09b6245
+  - commonwealth-oai:t435md84q
+  - commonwealth-oai:j3864598h
+  - commonwealth-oai:8p58tc16k
+  - commonwealth-oai:cr56s094g
+  - commonwealth-oai:vt154g147
+  - commonwealth-oai:3r078t547
+  - commonwealth-oai:bz60ht08n
+  - commonwealth-oai:z029t2149
+  - commonwealth-oai:2j62x3256
+  - commonwealth-oai:2227rm988
+  - commonwealth-oai:pn89j5171
+  - commonwealth-oai:6m315p55g
+  - commonwealth-oai:wh24br637
 short_description: Dutch-born British military engineer, surveyor, and cartographer
 tags:
   - Mapmaker
@@ -36,7 +67,14 @@ Holland was born in 1728 in Nijmegen, Netherlands. The young Holland had joined
 
 Holland’s maps helped the British achieve critical victories throughout the Seven Years’ War. In 1758, British forces under the command of Brigadier General James Wolfe advanced on Louisbourg at the mouth of the St. Lawrence River. Holland, serving as Wolfe’s engineer, played a critical role in both creating and implementing a battleplan for the siege. Writing to the Duke of Richmond after the British victory at Louisbourg, Wolfe praised Holland as a “brave and active fellow,” who could deliver a plan of attack that “will amaze you.”[^1] Holland’s skills at Louisbourg earned him an invitation to share his knowledge with the captain of HMS Pembroke, John Simcoe, where he caught the attention of Pembroke’s master, [James Cook](/people/james-cook).  Holland later recounted how he and Cook compiled “materials for a chart of the Gulf and River Saint Lawrence,” and as the pair departed to prepare for the forthcoming British advance.[^2] The surveys conducted by Holland and Cook were instrumental in aiding the eventual British capture of Quebec in September 1759. After being promoted to captain, Holland was [initially tasked with devising plans for new forts to be constructed in Quebec](/maps/commonwealth:7h149v43f). Still, more work was needed to map the entirety of the St. Lawrence River region. As such, General James Murray arranged a team of surveyors, including Holland, to map the area. Upon the completion of the task in November 1761, Murray praised Holland as “an industrious, brave officer, and an intelligent engineer, in which capacity he would be desirous, and deservedly merits to be advanced.”[^3]   
 
-<a href="/maps/commonwealth:6t053n77m/"><img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6t053n78w/240,1040,8104,4069/900,/0/default.jpg" alt="Hand-colored printed map of the modern Canadian province of PEI, showing the island divided into parishes and individual plots of land" style="display: block;margin-left: auto;margin-right: auto;width: 75%;" title="Deatil from Samuel Holland&#39;s 1775 &quot;A plan of the island of St. John&quot;"/></a>
+<figure class="table w-3/4 mx-5 my-5">
+  <a href="/maps/commonwealth:6t053n77m/">
+    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6t053n78w/240,1040,8104,4069/900,/0/default.jpg" alt="Hand-colored printed map of the modern Canadian province of PEI, showing the island divided into parishes and individual plots of land" />
+  </a>
+  <figcaption>
+    Deatil from Samuel Holland&#39;s 1775 <em>A plan of the island of St. John</em>
+  </figcaption>
+</figure>
 
 Armed with his new maps of Canada, Holland returned to Britain. During his time in London, Holland proposed to the Board of Trade to authorize a general survey of the entirety of settleable British North American landholdings. Holland not only received approval from the Board but was also appointed Surveyor General in April of 1764 as he prepared to return to North America. As he was directing such a significant project, the next few years were busy for the new Surveyor-General of North America. Often facing unfavorable weather between 1764 and 1770, Holland and his team fell short of their goal to complete the entire survey of the Northern District, which reached as far south as the Potomac River. Still, Holland was pleased that he acquired “[materials for forming a general map of our surveys of the gulph and river St. Lawrence](/maps/commonwealth:hx11z066j).”[^4] Yet, Holland’s general survey remained incomplete as conflicts escalated in Britain’s American colonies.
 
