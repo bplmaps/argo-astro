@@ -15,6 +15,10 @@ related_maps:
   - commonwealth:q524nj50m
   - commonwealth:3f462w67b
   - commonwealth:cj82ks02t
+  - commonwealth:jd475x10f
+  - commonwealth-oai:8w32w3674
+  - commonwealth-oai:zw1333151
+  - commonwealth-oai:fn10bw327
 short_description: Prussian-born British military surveyor and mapmaker
 tags:
   - Mapmaker
