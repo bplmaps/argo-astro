@@ -41,11 +41,11 @@ title: Claude Joseph Sauthier
 ---
 Claude Joseph Sauthier was a surveyor in the British Army during the American Revolution. He was born on November 10, 1736, in Strasbourg, on the Franco-German border, to Joseph Philippe, a saddler, and Barbe Primat Sauthier. Early in his life, Sauthier took an interest in surveying and draftsmanship. By the time he was twenty-three years old, Sauthier had completed one of the most impressive surveys of Alsace, assisted by Cassini De Thury, a French intellectual who revolutionized mapmaking in the region with his innovation of triangulation. In the mid-1760s, Sauthier arrived in North Carolina on a royal commission from the British Crown to survey and map the colony, where he worked under the eighth royal governor of Virginia, Lord William Tryon. During his tenure in the North Carolina colony, Sauthier completed twelve detailed maps of different localities.
 
-<figure style="display: block;margin-left: auto;margin-right: auto;width: 75%;">
+<figure class="table m-auto">
   <a href="/maps/commonwealth:hx11z441h">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx11z442s/full/800,/0/default.jpg" alt="A black, white, and red manuscript map of the town of Newburn, North Carolina, showing buildings, roads, a race ground, and other features"/>
   </a>
-  <figcaption>
+  <figcaption class="table-caption caption-bottom">
     Claude Joseph Sauthier&#39;s 1769 manuscript map <em>PLAN of the Town of NEWBERN in Craven County NORTH CAROLINA</em>
   <figcaption>
 </figure>

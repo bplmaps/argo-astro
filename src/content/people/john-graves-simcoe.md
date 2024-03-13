@@ -32,7 +32,14 @@ Trained and with experience in warfare in the Americas, Simcoe was prepared for 
 
 Simcoe mapped another battle, just three days after the victory at Quintin’s Bridge. After threats of violence against civilians on both sides, the siege of Salem, New Jersey, appeared to be at a standstill. However, [a map drawn by Simcoe](/maps/commonwealth:z603vv54k) showed the approach of the Queen’s Rangers on the opposite side of Alloway Creek and their general position surrounding the house. In the early hours of the morning of March 21, Simcoe and his company struck the American position, killing several inside, including Judge William Hancock and his brother.  Although he had been assured that Judge Hancock no longer lived in the home, Simcoe’s attack created a great deal of fuel for American propaganda presses. Simcoe criticized his troops for adding another civilian death to the growing list of those caught in the middle of the warring forces.[^2]
 
-<a href="/maps/commonwealth:z603vv564"><img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vv57d/940,1165,5505,4326/650,/0/default.jpg" alt="A hand-colored, printed battle map depicting an ambush. Troop positions are shown by square and rectangular blocks and their movements are shown by dotted lines. The map demonstrates how the Queen&#39;s Rangers ambushed and pursued Stockbridge Mohican troops after luring them into the open." style="display: block;margin-left: auto;margin-right: auto;width: 75%;" title="John Graves Simcoe&#39;s 1787 &quot;Ambuscade of the Indians at Kingsbridge&quot;, depicting the 1778 ambush of Stockbridge Mohican troops in what is now the Bronx"/></a>
+<figure class="table m-auto">
+  <a href="/maps/commonwealth:z603vv564">
+    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vv57d/940,1165,5505,4326/650,/0/default.jpg" alt="A hand-colored, printed battle map depicting an ambush. Troop positions are shown by square and rectangular blocks and their movements are shown by dotted lines. The map demonstrates how the Queen&#39;s Rangers ambushed and pursued Stockbridge Mohican troops after luring them into the open." />
+  </a>
+  <figcaption class="table-caption caption-bottom">
+    John Graves Simcoe&#39;s 1787 <em>Ambuscade of the Indians at Kingsbridge</em>, depicting the 1778 ambush of Stockbridge Mohican troops in what is now the Bronx
+  </figcaption>
+</figure>
 
 While Simcoe regretted the death of Hancock, he continued to inflict atrocities during the war. In August 1778, the Queen’s Rangers slaughtered a company of Stockbridge Indians loyal to the American cause in what would become known as the Stockbridge Indian Massacre. [Mapped by Simcoe](/maps/commonwealth:z603vv564), the battle shows both an understanding of light infantry tactics and a ruthless plan in which the ambush turned to slaughter.[^3]
 

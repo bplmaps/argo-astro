@@ -23,6 +23,15 @@ tags:
   - Mapmaker
 title: John Mitchell
 ---
+<figure class="table float-left mr-5 mb-10">
+  <a href="/maps/commonwealth:hx11z549x">
+    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx11z550p/3474,1046,8312,7238/pct:50/0/default.jpg" alt="A MAP of the BRITISH COLONIES in North America : WITH THE Roads, Distances, Limits, and Extent of the SETTLEMENTS, Humbly Inscribed to the Right Honourable The Early of Halifax, and the other Right Honourable The Lords Commissioners for Trade &amp; Plantations" />
+  </a>
+  <figcaption>
+    Detail from King George III&#39;s copy of Mitchell&#39;s map <em>A MAP of the BRITISH COLONIES in North America&quot; showing the eastern seaboard of North America</em>
+  </figcaption>
+</figure>
+
 John Mitchell was an American physician, botanist, and cartographer who produced maps of North America during the mid-eighteenth century. His most significant work, commonly referred to as the “Mitchell Map,” was published in 1755 and is considered one of the most influential maps of colonial North America.
 
 Mitchell was born on April 13, 1711, in Lancaster County, Virginia, to Robert Mitchell and Mary Chilton Sharpe.[^1] Little is known of Mitchell’s early life and education. He crossed the Atlantic for formal education in Britain, a common practice for young men of established families in the colonies like Mitchell’s. He graduated from the University of Edinburgh in 1729, where he was likely exposed to subjects like natural philosophy, language, and botany that may have informed his cartography. After graduating, Mitchell entered medical school at Edinburgh until 1731. Although no existing record confirms that he received his degree, he was referred to as “Doctor Mitchell” by contemporaries.[^2] Three years later, Mitchell established a medical practice in Urbanna, Virginia, following his return to his home colony.
@@ -39,7 +48,7 @@ Although Mitchell had the right to publish his maps, it is difficult to tell how
 
 Mitchell’s map of North America had significant geopolitical and cartographical influence.[^10] It was republished numerous times, including in Paris with a French translation a year after its completion.[^11] Both British and American forces used the map during the American Revolutionary War (1775-1783), and diplomats from Britain, France, and Spain consulted it for the negotiations of the Treaty of Paris in 1783.  
 
-<a href="/maps/commonwealth:hx11z549x"><img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx11z550p/3474,1046,8312,7238/pct:50/0/default.jpg" alt="A MAP of the BRITISH COLONIES in North America : WITH THE Roads, Distances, Limits, and Extent of the SETTLEMENTS, Humbly Inscribed to the Right Honourable The Early of Halifax, and the other Right Honourable The Lords Commissioners for Trade &amp; Plantations" style="display: block;margin-left: auto;margin-right: auto;width: 75%;" title="Detail from King George III&#39;s copy of Mitchell&#39;s map &quot;A MAP of the BRITISH COLONIES in North America&quot; showing the eastern seaboard of North America"/></a>
+***
 
 Banner image: detail from [Mitchell, _A map of the British colonies in North America_, \[1775\]](/maps/commonwealth:z603vp36m)
 

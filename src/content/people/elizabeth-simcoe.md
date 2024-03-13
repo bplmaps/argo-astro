@@ -18,11 +18,11 @@ Simcoe was born in Aldwincle, Northamptonshire, England in 1762. Orphaned at bir
 
 Simcoe’s diaries have been extremely well preserved and contain not only various watercolors and sketches of Canadian scenery, coastlines, and maps, but also commentary and criticisms of other British surveyors’ work. She wrote in 1792 that their maps are “little better than sketches, little of the country having been surveyed. The surveyors draw slowly, and, I am told, when they want to suit their maps to the paper, do not scruple cutting off a few miles of the river or adding to it.”[^1] In most of her diary entries, Simcoe briefly described her daily activities, the people she met, and the weather. In addition to keeping a diary, Simcoe also filled multiple sketchbooks filled with topographical drawings, watercolors of Canadian waterways, and maps of creeks and harbors. She frequently sent her sketches to family and friends in England, keeping them updated on her travels and recalling her activities at Niagara Falls or in Quebec. Simcoe was greatly involved in her husband’s career and her talent for cartography was found to be “extremely useful,” according to a letter written by Lord Dorchester while visiting the Simcoe family around 1805.[^2] He stated, “Mrs. Simcoe is… bashful and speaks little… and fulfills all the duties of the mother and wife with the most scrupulous exactness. The performance of the latter she carries so far as to act the part of a private secretary to her husband.”[^3]
 
-<figure style="display: block;margin-left: auto;margin-right: auto;width: 75%;">
+<figure class="table m-auto">
   <a href="/maps/commonwealth-oai:qr46w109n">
       <img src="https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5673:WCL005750/234,301,11563,7213/pct:50/0/default.jpg" alt="Hand-drawn map of the great lakes showing waterways. The water has been colored a light bluish color. Notes have been added in a different hand."/>
     </a>
-  <figcaption>
+  <figcaption class="table-caption caption-bottom">
     1790s manuscript map of the great lakes attributed to Elizabeth Simcoe.
   </figcaption>
 </figure>

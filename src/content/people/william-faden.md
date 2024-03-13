@@ -95,7 +95,7 @@ title: William Faden
 ---
 William Faden was an accomplished engraver and publisher who produced over a hundred maps in his lifetime, including official maps for the British Parliament as well as maps made for mass consumption and decorative purposes. Faden is best known for his time as Cartographer to the King. His _North America Atlas_ (1777) also brought Faden considerable fame and was widely used by both the American and British armies during the American Revolutionary War.
 
-<figure class="table float-right mx-5 my-5">
+<figure class="table float-right ml-5 mb-10">
   <a href="/maps/commonwealth:z603vn23b/">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vn24m/1709,340,10335,6523/600,/0/default.jpg" alt="A black, white, and red map showing part of Lake Champlain and the movement of ships" />
   </a>

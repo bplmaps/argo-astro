@@ -1,7 +1,7 @@
 ---
 banner_image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n831r/117,2608,2320,1218/,1200/0/default.jpg
 bio_dates: 1735-1780
-credit: "Biography written by\_Anna Jett"
+credit: "Biography written by Anna Jett"
 related_maps:
   - commonwealth:p8418t82m
   - commonwealth:q524n830g
@@ -23,7 +23,14 @@ This arrangement lasted until 1760, when Swinton left with hopes of conducting b
 
 In 1764, Erskine followed that promise when William Cole, an instrument maker in London, sent his pump to the directors of the Salt Works of Westphalia to produce and manufacture the machine. Erskine continued to create new machines, including the platometer and the centrifugal hydraulic engine. His designs focused heavily on civic improvement, particularly as they related to rivers, which is reflected in his publication, _A Dissertation on Rivers and Tides_ (1770). In 1769, after learning about Erskine’s work in civic improvement projects, a representative from the London-based Hasenclever, Seton & Crofts Syndicate in London approached Erskine with an exciting career opportunity. The group, also known as “The American Iron Company,” purchased four pig iron mines throughout New Jersey and New York and offered him the position of director. Erskine accepted the position and learned both the mechanical and technical elements of mines and furnaces as well as the process of converting iron into steel. By 1771, his work caught the attention of Benjamin Franklin and fellow members of the Royal Society of London, which awarded Erskine the title of “A Gentleman well versed in Mathematics and Practical Mechanics.”[^1]
 
-<a href="/maps/commonwealth:p8418t86q"><img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:p8418t870/144,96,5179,7329/567,/0/default.jpg" alt="A hand-drawn sketch map showing a road system. Towns and some other buildings are shown. Some limited topographical detail has been added in pencil." style="float:left;margin: 5px 10px;" title="A map made by Robert Erskine in 1779 showing roads in Westchester County, New York and western Fairfield County, Connecticut"/></a>
+<figure class="table float-left mr-5 mb-10">
+  <a href="/maps/commonwealth:p8418t86q">
+    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:p8418t870/144,96,5179,7329/567,/0/default.jpg" alt="A hand-drawn sketch map showing a road system. Towns and some other buildings are shown. Some limited topographical detail has been added in pencil." />
+  </a>
+  <figcaption>
+    A map made by Robert Erskine in 1779 showing roads in Westchester County, New York and western Fairfield County, Connecticut
+  </figcaption>
+</figure>
 
 Erskine remained with the American Iron Company and shipped aboard the _Britannia_ for New York, arriving on June 5, 1771. He spent the first year and a half in the American colonies as a mining inspector in the colony of New York. He reported the strengths, weaknesses, and possible improvements of mining sites to syndicates of the American Iron Company. In March 1773, Erskine was commissioned a justice of the peace in New Jersey. His correspondence with company syndicates reveals the political, economic, and environmental conditions of the colonies as they related to the mines. As the American Revolution became imminent, Erskine sided with the Americans. He understood that alliances and militias would be necessary to ensure the safety of the mines and their workers. This led him to organize one of the first companies of militia, which consisted of the men who worked for him. The New Jersey legislature officially commissioned him as a captain in August 1775.
 

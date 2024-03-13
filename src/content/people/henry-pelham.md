@@ -21,7 +21,14 @@ In March 1770, Pelham created an engraving of the events that would become known
 
 As an ardent loyalist, Pelham often complained in his letters about the “turbulant \[sic\] and factious town” of Boston, and how the people were deluded with the hope for revolution.[^4] While traveling to Philadelphia in the winter of 1775, a mob attacked Pelham and his companions in Springfield, Massachusetts, calling them “a damn’d pack of Torys.”[^5] This attack only fueled his frustrations with the patriot cause. 
 
-<a href="/maps/commonwealth:3f462w840/"><img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462w858/272,165,6361,9451/562,/0/default.jpg" alt="Black and white printed map of Boston. Water depth is shown, as is a significant amount of detail on the land including field systems, blocks of buildings, forts, inns, roads, and property owners. In the top left corner is a realistic image of a curled peice of paper with writing, and a compass." style="float:left;margin: 5px 10px;" title="Henry Pelham&#39;s &quot;A Plan of Boston in New England&quot;, 1777"/></a>
+<figure class="float-left mr-5 mb-10">
+  <a href="/maps/commonwealth:3f462w840/">
+    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462w858/272,165,6361,9451/562,/0/default.jpg" alt="Black and white printed map of Boston. Water depth is shown, as is a significant amount of detail on the land including field systems, blocks of buildings, forts, inns, roads, and property owners. In the top left corner is a realistic image of a curled peice of paper with writing, and a compass." />
+  </a>
+  <figcaption class="table-caption caption-bottom">
+    Henry Pelham&#39;s <em>A Plan of Boston in New England</em>, 1777
+  </figcaption>
+</figure>
 
 The battles of Lexington and Concord in April 1775 disrupted Boston’s economy, leaving Pelham unable to collect money or conduct his portraiture business. With ample free time, he began to survey Charlestown with the permission of Generals Thomas Gage and William Howe.[^6] Pelham’s [resulting map](/maps/commonwealth:3f462w840) included the environs of Boston and the state of military affairs in its surrounding towns: Milton, Dorchester, Roxbury, Brookline, Cambridge, Medford, Malden, Charlestown, and Chelsea. The map is considered one of the most important battle plans of Boston because it shows, in great detail, fortifications and locations of British and American troops. On the top left corner of the map, Pelham included a facsimile of a pass issued by James Urquhart, the British-appointed town-major who oversaw the occupied city, which allowed Pelham to survey rebel-held land without obstruction. Pelham included the pass to prove the accuracy of his work. The fine details in the map reflect Pelham’s artistic abilities in miniatures. General Howe asked Pelham to delay publishing the map for fear that its information could benefit the enemy.[^7]
 
