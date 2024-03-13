@@ -36,6 +36,38 @@ related_maps:
   - commonwealth:z603vg78w
   - commonwealth:cj82kx11m
   - commonwealth:z603vq50n
+  - commonwealth:sx61hm10z
+  - commonwealth:mw22z4376
+  - commonwealth:js959h151
+  - commonwealth:xg94mq943
+  - commonwealth:t722m943j
+  - commonwealth:gt54pn01v
+  - commonwealth:g158fh774
+  - commonwealth:wm11bn329
+  - commonwealth-oai:fn10bw33h
+  - commonwealth-oai:66832281t
+  - commonwealth-oai:0p09b623w
+  - commonwealth-oai:b2777s70t
+  - commonwealth-oai:jw82cc23x
+  - commonwealth-oai:pz50mt227
+  - commonwealth-oai:0v83cx58v
+  - commonwealth-oai:jd476v89c
+  - commonwealth-oai:fj23b0902
+  - commonwealth-oai:s752bc21t
+  - commonwealth-oai:ww72g798x
+  - commonwealth-oai:b2777s692
+  - commonwealth-oai:j9606004x
+  - commonwealth-oai:4q77kq69g
+  - commonwealth-oai:xk81pj77f
+  - commonwealth-oai:bv73gz037
+  - commonwealth-oai:9g552g90w
+  - commonwealth-oai:34853f32c
+  - commonwealth-oai:2801td79j
+  - commonwealth-oai:bz60ht07c
+  - commonwealth-oai:mk61wh535
+  - commonwealth-oai:rf563656m
+  - commonwealth-oai:gf06m184j
+  - commonwealth-oai:qb98rb875
 short_description: French geographer, cartographer, and natural philosopher
 tags:
   - Academic
