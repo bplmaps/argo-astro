@@ -20,7 +20,7 @@ The Haussard sisters are best known for their work for the de Vaugondy family of
 
 <figure style="display: block;margin-left: auto;margin-right: auto;width: 75%;">
   <a href="/maps/commonwealth:w9505s84p">
-   <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:w9505s85z/5568,3461,2502,2392/700,/0/default.jpg" alt="A decorative cartouche from a map. A small ruined boat sits on a mound of vegetation; the scale bar is on its hull, and the name of the map and details are displayed on the sail. In the background are a number of trees. To the right, a small furry animal, probably meant to represent a beaver, grimaces at the scene.">
+   <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:w9505s85z/5568,3461,2502,2392/700,/0/default.jpg" alt="A decorative cartouche from a map. A small ruined boat sits on a mound of vegetation; the scale bar is on its hull, and the name of the map and details are displayed on the sail. In the background are a number of trees. To the right, a small furry animal, probably meant to represent a beaver, grimaces at the scene."/>
   </a>
   <figcaption>
     Detail from Gilles Robert de Vaugondy's 1755 map <em>Partie de l'Amerique septent</em> showing the cartouche engraved by Marie Catherine Haussard

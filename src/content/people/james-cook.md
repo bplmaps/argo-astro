@@ -35,7 +35,7 @@ Between 1762 and 1768, Cook divided his time between England and Newfoundland, w
 
 <figure>
   <a href="/maps/commonwealth:d504vk225">
-  <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6t056g374/9361,182,7806,3876/pct:50/0/default.jpg" alt="Portion of a manuscript map with a simple box cartouche and part of a coastline with water depth. The land is shaded to show elevation.">
+  <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6t056g374/9361,182,7806,3876/pct:50/0/default.jpg" alt="Portion of a manuscript map with a simple box cartouche and part of a coastline with water depth. The land is shaded to show elevation."/>
   </a>
   <figcaption>Detail from Cook's <em>A chart of the sea-coast of Newfoundland between St. Laurence and Point May</em>, 1765, showing potential locations for fishing stages in yellow.</figcaption>
 </figure>
