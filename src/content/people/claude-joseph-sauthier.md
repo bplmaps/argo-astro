@@ -43,7 +43,7 @@ Claude Joseph Sauthier was a surveyor in the British Army during the American Re
 
 <figure style="display: block;margin-left: auto;margin-right: auto;width: 75%;">
   <a href="/maps/commonwealth:hx11z441h">
-    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx11z442s/full/800,/0/default.jpg" alt="A black, white, and red manuscript map of the town of Newburn, North Carolina, showing buildings, roads, a race ground, and other features">
+    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx11z442s/full/800,/0/default.jpg" alt="A black, white, and red manuscript map of the town of Newburn, North Carolina, showing buildings, roads, a race ground, and other features"/>
   </a>
   <figcaption>
     Claude Joseph Sauthier&#39;s 1769 manuscript map <em>PLAN of the Town of NEWBERN in Craven County NORTH CAROLINA</em>
@@ -58,7 +58,7 @@ In New York, Sauthier became a prominent surveyor for Lord Governor Tryon, condu
 
 <figure class="table float-right mx-5 my-10">
   <a href="/maps/commonwealth:q524n8738">
-    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n874j/full/433,/0/default.jpg" alt="Faded, colored manuscript map showing an American fort in rural upper Manhattan island during the American Revolution. Fields, roads, and the elevation of the land are shown in detail.">
+    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n874j/full/433,/0/default.jpg" alt="Faded, colored manuscript map showing an American fort in rural upper Manhattan island during the American Revolution. Fields, roads, and the elevation of the land are shown in detail."/>
   </a>
   <figcaption class="table-caption caption-bottom">
     Claude Joseph Sauthier&#39;s 1776 <em>A map of part of New-York Island showing a plan of Fort Washington</em>

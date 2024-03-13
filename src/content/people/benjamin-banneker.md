@@ -22,7 +22,7 @@ Because few recorded the specifics of Banneker’s involvement, it is difficult 
 
 <figure>
     <a href="/maps/commonwealth:z603vs02d/">
-    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vs03p/140,128,6456,4635/pct:50/0/default.jpg" alt="a black and white engraved image of a city plan--Washington, DC--on the east bank of a river">
+    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vs03p/140,128,6456,4635/pct:50/0/default.jpg" alt="a black and white engraved image of a city plan--Washington, DC--on the east bank of a river"/>
     </a>
     <figcaption>Andrew Ellicott's plan of Washington, DC, which Banneker assisted in surveying.</figcaption>
 </figure>
