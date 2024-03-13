@@ -19,6 +19,10 @@ related_maps:
   - commonwealth:x633f8530
   - commonwealth:4m90f364q
   - commonwealth:z603vh074
+  - commonwealth-oai:fx71fk86h
+  - commonwealth-oai:hx122d65d
+  - commonwealth-oai:2n49z236n
+  - commonwealth-oai:4x51nj032
 short_description: British colonial surveyor, cartographer, and educator
 tags:
   - Academic
