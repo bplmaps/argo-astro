@@ -5,6 +5,7 @@ credit: Biography written by Alexis Doe
 related_maps:
   - commonwealth:z603vr10w
   - commonwealth:0r96fq87q
+  - commonwealth-oai:r207zn34f
 short_description: British colonial politician, educator, planter, surveyor, and cartographer
 tags:
   - Academic
