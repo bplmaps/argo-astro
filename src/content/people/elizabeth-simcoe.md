@@ -1,8 +1,11 @@
 ---
 banner_image: https://a-us.storyblok.com/f/1016535/858x381/dea901623e/elizabeth_simcoe.jpg
 bio_dates: 1762-1850
-credit: "Biography written by\_Ella Rauer"
-related_maps: []
+credit: "Biography written by Ella Rauer"
+related_maps:
+  - commonwealth-oai:qr46w109n
+  - commonwealth-oai:rn3050449
+  - commonwealth-oai:2n49z224v
 short_description: British artist and mapmaker
 tags:
   - Mapmaker
@@ -15,7 +18,14 @@ Simcoe was born in Aldwincle, Northamptonshire, England in 1762. Orphaned at bir
 
 Simcoe’s diaries have been extremely well preserved and contain not only various watercolors and sketches of Canadian scenery, coastlines, and maps, but also commentary and criticisms of other British surveyors’ work. She wrote in 1792 that their maps are “little better than sketches, little of the country having been surveyed. The surveyors draw slowly, and, I am told, when they want to suit their maps to the paper, do not scruple cutting off a few miles of the river or adding to it.”[^1] In most of her diary entries, Simcoe briefly described her daily activities, the people she met, and the weather. In addition to keeping a diary, Simcoe also filled multiple sketchbooks filled with topographical drawings, watercolors of Canadian waterways, and maps of creeks and harbors. She frequently sent her sketches to family and friends in England, keeping them updated on her travels and recalling her activities at Niagara Falls or in Quebec. Simcoe was greatly involved in her husband’s career and her talent for cartography was found to be “extremely useful,” according to a letter written by Lord Dorchester while visiting the Simcoe family around 1805.[^2] He stated, “Mrs. Simcoe is… bashful and speaks little… and fulfills all the duties of the mother and wife with the most scrupulous exactness. The performance of the latter she carries so far as to act the part of a private secretary to her husband.”[^3]
 
-<a href="https://quod.lib.umich.edu/cgi/i/image/image-idx?id=S-WCL1IC-X-5673%5DWCL005750"><img src="https://a-us.storyblok.com/f/1016535/800x507/149054febf/elizabeth_simcoe_bio_image.jpg" alt="Hand-drawn map of the great lakes showing waterways. The water has been colored a light bluish color. Notes have been added in a different hand." style="display: block;margin-left: auto;margin-right: auto;width: 75%;" title="1790s manuscript map of the great lakes attributed to Elizabeth Simcoe"></a>
+<figure style="display: block;margin-left: auto;margin-right: auto;width: 75%;">
+  <a href="/maps/commonwealth-oai:qr46w109n">
+      <img src="https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5673:WCL005750/234,301,11563,7213/pct:50/0/default.jpg" alt="Hand-drawn map of the great lakes showing waterways. The water has been colored a light bluish color. Notes have been added in a different hand.">
+    </a>
+  <figcaption>
+    1790s manuscript map of the great lakes attributed to Elizabeth Simcoe.
+  </figcaption>
+</figure>
 
 One of the most notable maps Simcoe ever created was her _Sketch Map of Upper Canada Showing the Routes Lt. Gov. Simcoe Took on Journeys between March 1793 and September 1795._ The map is scaled about twenty miles to an inch and features various established counties, waterways, and routes that Simcoe or her husband visited on their expedition of Upper Canada. Other information such as distances between major cities and proposed areas to build towns are noted. A selection of the art Simcoe created during her Canadian journeys was made into an album for King George III. Titled _Drawing Presented by Governor Simcoe to his Majesty done by Mrs. Simcoe_. _View of North Canada, and a Map_, the album contained thirty-two ink drawings on birch bark glued to paper, including an altered version of her 1793 _Sketch of Upper Canada_ map. Some historians argue that this album of Simcoe’s pieces was gifted to George III to advance her husband’s career, emphasizing her central role in not only his success as a political figure but also in the reception of the Canadian frontier in London.
 
