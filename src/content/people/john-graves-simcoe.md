@@ -13,6 +13,8 @@ related_maps:
   - commonwealth:z603vv66c
   - commonwealth:z603vv628
   - commonwealth:z603vv54k
+  - commonwealth-oai:rn3050449
+  - commonwealth-oai:qr46w109n
 short_description: British general and colonial politician who produced many maps
   and sketches
 tags:
