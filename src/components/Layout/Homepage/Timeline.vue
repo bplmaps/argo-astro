@@ -22,7 +22,7 @@
                 {{ data.timeline_eras[year].era }} &nbsp;
                 <span class="era-years">{{ data.timeline_eras[year].era_start_year }} - {{ data.timeline_eras[year].era_end_year }}</span>
               </div>
-              <img class="era-image rounded w-1/2 mb-2" :src="data.timeline_eras[year].background_image" :alt="data.timeline_eras[year].background_image_alt_tag" loading="lazy" />
+              <img class="era-image rounded aspect-[3] object-cover object-center mb-2" :src="data.timeline_eras[year].background_image" :alt="data.timeline_eras[year].background_image_alt_tag" loading="lazy" />
               <div class="era-text leading-tight" v-html="data.timeline_eras[year].era_description"></div>
             </div>
           </div>
