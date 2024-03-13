@@ -5,6 +5,10 @@ credit: "Biography written by John Prather"
 related_maps:
   - commonwealth:z603vv386
   - commonwealth:q524nd05z
+  - commonwealth-oai:rj434391f
+  - commonwealth-oai:p267br69m
+  - commonwealth-oai:3x81bj73g
+  - commonwealth-oai:bk12d854x
 short_description: Scottish military engineer, surveyor, and cartographer
 tags:
   - Mapmaker
@@ -29,7 +33,7 @@ Gauld left Ann the small amount of their wealth they were able to recoup after t
 
 Gauld’s maps played a role in the history of the United States after the Louisiana Purchase in 1803 and during the War of 1812. In October 1803, attorney and former member of the South Carolina legislature William Marshall sent President Thomas Jefferson Gauld’s “accurate Chart of the Coast of West Florida and Louisiana, including a survey and soundings of the Mississippi river, extending, considerably above New Orleans” to aid the executive in navigating and understanding the newly acquired territory.[^3] Gauld’s map made another resurgence during James Madison’s presidency. In July 1812, Madison’s friend and informal naval advisor, William Tatham, stressed to the president the need to produce “similar documents of the British operations & works in Florida” to maps crafted by Gauld in order to combat the British in this theater of war, reinforcing Gauld’s legacy long after his death.[^4]
 
-Banner image: detail from Gauld, [_A general plan of the harbours of Port Royal and Kingston Jamaica with the channels leading thereto, and the kays and shoals adjacent; including Wreck Reef &c,_ 1772](https://quod.lib.umich.edu/w/wcl1ic/x-8328/wcl008397).
+Banner image: detail from Gauld, [_A general plan of the harbours of Port Royal and Kingston Jamaica with the channels leading thereto, and the kays and shoals adjacent; including Wreck Reef &c,_ 1772](/maps/commonwealth-oai:rj434391f).
 
 [^1]: John D. Ware, George Gauld: Surveyor and Cartographer of the Gulf Coast (Gainesville/Tampa: University Presses of Florida, 1982), 210.
 
