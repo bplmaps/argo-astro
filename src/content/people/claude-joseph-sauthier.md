@@ -28,6 +28,10 @@ related_maps:
   - commonwealth:hx11z445m
   - commonwealth:z603vr735
   - commonwealth:q524n871q
+  - commonwealth-oai:5d86sz01p
+  - commonwealth-oai:7d27dp968
+  - commonwealth-oai:9z9070592
+  - commonwealth-oai:g158gg684
 short_description: French-born British surveyor, architect, and mapmaker
 tags:
   - Mapmaker
