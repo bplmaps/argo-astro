@@ -22,7 +22,7 @@ Simcoe’s diaries have been extremely well preserved and contain not only vario
   <a href="/maps/commonwealth-oai:qr46w109n">
       <img src="https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5673:WCL005750/234,301,11563,7213/pct:50/0/default.jpg" alt="Hand-drawn map of the great lakes showing waterways. The water has been colored a light bluish color. Notes have been added in a different hand."/>
     </a>
-  <figcaption class="table-caption caption-bottom">
+  <figcaption class="table-caption caption-bottom mt-0">
     1790s manuscript map of the great lakes attributed to Elizabeth Simcoe.
   </figcaption>
 </figure>

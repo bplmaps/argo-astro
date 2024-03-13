@@ -84,7 +84,7 @@ Bellin produced his first work, a maritime chart depicting the Mediterranean Sea
   <a href="/maps/commonwealth:w9505s88s/">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:w9505s892/1671,3874,6373,2744/full/0/default.jpg" alt="Detail of a map showing what is now Nova Scotia, New Brunswick, and part of Quebec, as well as a decorative cartouche reading Partie Orientale de le Nouvelle France ou du Canada" />
   </a>
-  <figcaption class="table-caption caption-bottom">
+  <figcaption class="table-caption caption-bottom mt-0">
     Detail from Bellin&#39;s 1755 map <em>Partie orientale de la Nouvelle France ou du Canada</em>
   </figcaption>
 </figure>
@@ -97,7 +97,7 @@ In 1758, Bellin produced _Description Géographique des Isles Antilles possédé
   <a href="/maps/commonwealth:3f462v364/">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462v37d/1095,1085,3585,5031/full/0/default.jpg" alt="A map of Boston from Bellin&#39;s Petite atlas maritime" />
   </a>
-  <figcaption class="table-caption caption-bottom">
+  <figcaption class="table-caption caption-bottom mt-0">
     A map of Boston from Bellin&#39;s <em>Petite atlas maritime</em>
   </figcaption>
 </figure>

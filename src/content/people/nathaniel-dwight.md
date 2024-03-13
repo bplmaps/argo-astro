@@ -25,7 +25,7 @@ Dwight’s acquisition of so much real estate was interconnected with his work a
   <a href="/maps/commonwealth:z603vg353">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6108vt04r/604,522,2760,2539/pct:50/0/default.jpg" alt="Details from Osgood Carelton&#39;s map of the commonwealth of Massachusetts, showing the lands which Dwight surveyed. This section focuses on western Massachusetts, specifically highlighting Berkshire and Hampshire counties. Otherwise balck and white, the two counties are separated by a red line." />
   </a>
-  <figcaption class="table-caption caption-bottom">
+  <figcaption class="table-caption caption-bottom mt-0">
     Detail from Osgood Carleton&#39;s map of the commonwealth of Massachusetts, utilizing the extenisve surveying work done by Dwight
   </figcaption>
 </figure>

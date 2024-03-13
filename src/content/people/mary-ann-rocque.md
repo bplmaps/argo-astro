@@ -36,7 +36,7 @@ After a brief marriage to the apothecary Edward Bew, Mary Anne married John Rocq
 
 <figure class="table m-auto">
   <img src="https://a-us.storyblok.com/f/1016535/800x608/7f122c28f1/mary_an_rocque_bio_image.jpg" alt="Faded, black-and-white print of a square fortification with the title of the book written on the front-facing side. Cannons, cannonballs, and barrels are seen in the foreground" />
-  <figcaption class="table-caption caption-bottom">
+  <figcaption class="table-caption caption-bottom mt-0">
   Detail of the cover page from Mary Ann Rocque&#39;s <em>A Set of Plans and Forts in America</em>
 </figure>
 

@@ -82,7 +82,7 @@ In 1774, Sayer took on Jefferys’s former apprentice, John Bennett, into partne
   <a href="/maps/commonwealth:3f462x82n">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462x83x/548,433,6933,5245/pct:50/0/default.jpg" alt="An engraved image showing a romanticised image of life in the West Indies, including enslaved people, sugar cane, and several boats and ships in a bay." />
   </a>
-  <figcaption>
+  <figcaption class="table-caption caption-bottom mt-0">
     Frontispiece from <em>The West India Atlas</em> (1775), credited to Thomas  Jeffreys and published posthumously by Sayer and Bennett
   </figcaption>
 </figure>
@@ -93,7 +93,7 @@ During the American Revolutionary War, Sayer published various maps that helped 
   <a href="/maps/commonwealth:z603vr778/">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vr78j/5087,2011,1603,1106/pct:50/0/default.jpg" alt="Hand colored engraved map imagage showing the Battle of Bunker Hill, with lines of soldiers firing on one another and several houses on fire" />
   </a>
-  <figcaption class="table-caption caption-bottom">
+  <figcaption class="table-caption caption-bottom mt-0">
     Detail from <em>The Seat of War in New England, by An American Volunteer</em>, published by Sayer and Bennett in 1775 depicting the Battle of Bunker Hill
   </figcaption>
 </figure>

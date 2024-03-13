@@ -46,7 +46,7 @@ The Fry-Jefferson map, officially titled _A Map of the Inhabited Part of Virgini
   <a href="/maps/commonwealth:0r96fq87q">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fq919/4607,2951,5935,4058/pct:50/0/default.jpg" alt="A map of the most inhabited part of Virginia containing the whole province of Maryland with part of Pensilvania, New Jersey and North Carolina" />
   </a>
-  <figcaption class="table-caption caption-bottom">
+  <figcaption class="table-caption caption-bottom mt-0">
     Close-up of the cartouche from the Fry-Jefferson map
   </figcaption>
 </figure>

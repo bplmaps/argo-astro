@@ -71,7 +71,7 @@ Holland’s maps helped the British achieve critical victories throughout the Se
   <a href="/maps/commonwealth:6t053n77m/">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6t053n78w/240,1040,8104,4069/900,/0/default.jpg" alt="Hand-colored printed map of the modern Canadian province of PEI, showing the island divided into parishes and individual plots of land" />
   </a>
-  <figcaption class="table-caption caption-bottom">
+  <figcaption class="table-caption caption-bottom mt-0">
     Deatil from Samuel Holland&#39;s 1775 <em>A plan of the island of St. John</em>
   </figcaption>
 </figure>

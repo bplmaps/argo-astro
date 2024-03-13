@@ -27,7 +27,7 @@ Jefferson’s most famous association was with [Joshua Fry](/people/joshua-fry),
   <a href="/maps/commonwealth:z603vr10w">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vr115/90,501,9046,5816/800,/0/default.jpg" alt="A printed, black-and-white map showing the colony of Virginia. Some topographical detail is shown, most notably the mountains in the west of the colony, as are rivers and land owners." />
   </a>
-  <figcaption class="table-caption caption-bottom">
+  <figcaption class="table-caption caption-bottom mt-0">
     Joshua Fry and Peter Jefferson&#39;s <em>A map of the most inhabited part of Virginia</em>, better known as the Fry-Jefferson Map.
   </figcaption>
 </figure>

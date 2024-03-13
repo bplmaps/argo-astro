@@ -33,7 +33,7 @@ Scull pursued politics in 1744 and was elected sheriff of Philadelphia County, a
   <a href="/maps/commonwealth:z603vq569/">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vq57k/128,1739,3615,1410/full/0/default.jpg" alt="Detail of a black and white map of the city of Philadelphia and its closest suburbs. The city appears as a tight rectangular grid while the suburbs consist of scattered houses labeled with the names of their owners." />
   </a>
-  <figcaption class="table-caption caption-bottom">
+  <figcaption class="table-caption caption-bottom mt-0">
     Detail from Scull&#39;s <em>A map of Philadelphia and parts adjacent</em>
   </figcaption>
 </figure>

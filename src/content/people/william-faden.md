@@ -99,7 +99,7 @@ William Faden was an accomplished engraver and publisher who produced over a hun
   <a href="/maps/commonwealth:z603vn23b/">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vn24m/1709,340,10335,6523/600,/0/default.jpg" alt="A black, white, and red map showing part of Lake Champlain and the movement of ships" />
   </a>
-  <figcaption>
+  <figcaption class="table-caption caption-bottom mt-0">
     Detail from William Faden&#39;s 1776 map <em>The Attack and defeat of the American fleet under Benedict Arnold</em>
   </figcaption>
 </figure>

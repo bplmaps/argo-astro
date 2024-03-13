@@ -23,7 +23,7 @@ Following the Revolutionary War, L'Enfant lived in New York City.  He worked on
   <a href="/maps/commonwealth:q524nk63w">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nk645/177,146,12282,7849/750,/0/default.jpg" alt="A manuscript sketch map showing plans for the future city of Washington, D.C. Topgraphy and waterways are shown, with the planned street layout represented by dotted lines intersecting at interesting and precise angles." />
   </a>
-  <figcaption class="table-caption caption-bottom">
+  <figcaption class="table-caption caption-bottom mt-0">
     Pierre Charles L&#39;Enfant&#39;s 1791 Dotted Line Map of Washington D.C.
   </figcaption>
 </figure>

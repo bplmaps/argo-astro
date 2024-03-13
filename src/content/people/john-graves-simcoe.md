@@ -36,7 +36,7 @@ Simcoe mapped another battle, just three days after the victory at Quintin’s B
   <a href="/maps/commonwealth:z603vv564">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vv57d/940,1165,5505,4326/650,/0/default.jpg" alt="A hand-colored, printed battle map depicting an ambush. Troop positions are shown by square and rectangular blocks and their movements are shown by dotted lines. The map demonstrates how the Queen&#39;s Rangers ambushed and pursued Stockbridge Mohican troops after luring them into the open." />
   </a>
-  <figcaption class="table-caption caption-bottom">
+  <figcaption class="table-caption caption-bottom mt-0">
     John Graves Simcoe&#39;s 1787 <em>Ambuscade of the Indians at Kingsbridge</em>, depicting the 1778 ambush of Stockbridge Mohican troops in what is now the Bronx
   </figcaption>
 </figure>

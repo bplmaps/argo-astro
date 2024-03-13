@@ -44,7 +44,7 @@ Norman published Carleton’s second map in 1791.[^9] Titled [_A Map of the Unit
   <a href="/maps/commonwealth:z603vh074/">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6108vt74f/3504,902,3871,2414/pct:50/0/default.jpg" alt="Close-up of New England from the aforementioned map, &quot;A Map of the United States of America, Laid Down from the Best Authorities Agreeable to the Peace of 1783&quot;" />
   </a>
-  <figcaption class="table-caption caption-bottom">
+  <figcaption class="table-caption caption-bottom mt-0">
     Close up of New England from Carleton&#39;s map mentioned in the above section
   </figcaption>
 </figure>
@@ -57,7 +57,7 @@ While working on his maps of Maine and Massachusetts, Carleton drafted maps of t
   <a href="/maps/commonwealth:4m90f364q/">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90f3650/107,513,3494,3603/pct:50/0/default.jpg" alt="Carleton&#39;s Plan of the Land at Prince Street and Snowhill Street" />
   </a>
-  <figcaption class="table-caption caption-bottom">
+  <figcaption class="table-caption caption-bottom mt-0">
     Carleton&#39;s <em>Plan of the Land at Prince Street and Snowhill Street</em>
   </figcaption>
 </figure>

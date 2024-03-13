@@ -50,7 +50,7 @@ In 1771, however, the colonial governor of Florida stripped De Brahm his positio
   <a href="/maps/commonwealth:q524nf00s">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nf012/full/648,/0/default.jpg" alt="A black-and-white manuscript map showing part of the coast of Florida. It includes soundings, notes on the kind of plants and trees growing in different areas, and other notes meant to aid navigation. There is little visual detail beyond sketches of trees hugging the coast and shading on different areas of the water." />
   </a>
-  <figcaption class="table-caption caption-bottom">
+  <figcaption class="table-caption caption-bottom mt-0">
     A map of part of Florida produced by De Brahm in 1765 as part of his survey work
   </figcaption>
 </figure>

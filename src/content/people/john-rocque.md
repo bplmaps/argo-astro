@@ -31,7 +31,7 @@ In 1751, Rocque married [Mary Ann Bew](/people/mary-ann-rocque) and trained her 
   <a href="/maps/commonwealth:9s161g59k/">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161g60b/1992,5484,3868,2067/full/0/default.jpg" alt="Detail of a hand-colored, printed map of North America. It includes many marginal notes on various aspects of the map and a small compass rose." />
   </a>
-  <figcaption class="table-caption caption-bottom">
+  <figcaption class="table-caption caption-bottom mt-0">
     Detail from Rocque’s <em>A General Map of North America</em> which was published after his death in 1762.
   </figcaption>
 </figure>

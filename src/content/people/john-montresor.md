@@ -84,7 +84,7 @@ Montresor was born on April 6, 1736, at Gibraltar, the firstborn son of Colonel 
   <a href="/maps/commonwealth:z603vs082/">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vs09b/full/663,/0/default.jpg" alt="Vividly hand-colored map of New York City from the 18th century. The city occupies only the tip of Manhattan island, with field and hills just beyond, which the map shows in detail." />
   </a>
-  <figcaption class="table-caption caption-bottom">
+  <figcaption class="table-caption caption-bottom mt-0">
     1775 map <em>A plan of the city of New-York &amp; its environs</em>, based off of his Montrésor&#39;s 1766 survey work.
   </figcaption>
 </figure>

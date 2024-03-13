@@ -48,7 +48,7 @@ Le Rouge traveled back and forth between Germany and France, completing various 
   <a href="/maps/commonwealth:dz010v79t">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:dz010v80k/17092,8875,4193,5382/pct:50/0/default.jpg" alt="An image of an elaborate map cartouche featuring cherubim, allegorical figures meant to represent Native Americans framed by a rococo border made of plants and animals. A  ship appears in the distance." />
   </a>
-  <figcaption class="table-caption caption-bottom">
+  <figcaption class="table-caption caption-bottom mt-0">
     Detail of the cartouche from Le Rouge's French edition of the Mitchell map
   </figcaption>
 </figure>
@@ -65,7 +65,7 @@ As word of Le Rouge’s maps spread across the Atlantic, he maintained a corresp
   <a href="/maps/commonwealth:cj82m272b">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82m273m/1400,443,4874,4404/pct:50/0/default.jpg" alt="black and white French language printed map showing the course and location of the gulf stream" />
   </a>
-  <figcaption class="table-caption caption-bottom">
+  <figcaption class="table-caption caption-bottom mt-0">
     George-Louis Le Rouge's map of the Gulf Stream, originally prepared for Benjamin Franklin
   </figcaption>
 </figure>

@@ -39,7 +39,7 @@ Following Bonne’s arrival at the _Dépôt_, he worked on several maps from aro
   <a href="/maps/commonwealth:x059cc901/">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x059cc919/4522,976,4015,4954/pct:50/0/default.jpg" alt="Section of Bonne&#39;s map entitled &quot;Partie de l&#39;Amérique Septentrionale, Qui Comprend le Canada, la Louisiane, le Labrador, le Groenland, la Nouvelle Angleterre, la Floride&quot; displaying northeast Canada and Greenland" />
   </a>
-  <figcaption class="table-caption caption-bottom">
+  <figcaption class="table-caption caption-bottom mt-0">
     Section of Bonne&#39;s map <em>Partie de l&#39;Amérique Septentrionale, Qui Comprend le Canada, la Louisiane, le Labrador, le Groenland, la Nouvelle Angleterre, la Floride</em> displaying northeast Canada and Greenland
   </figcaption>
 </figure>

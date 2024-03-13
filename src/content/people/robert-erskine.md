@@ -23,7 +23,7 @@ This arrangement lasted until 1760, when Swinton left with hopes of conducting b
 
 In 1764, Erskine followed that promise when William Cole, an instrument maker in London, sent his pump to the directors of the Salt Works of Westphalia to produce and manufacture the machine. Erskine continued to create new machines, including the platometer and the centrifugal hydraulic engine. His designs focused heavily on civic improvement, particularly as they related to rivers, which is reflected in his publication, _A Dissertation on Rivers and Tides_ (1770). In 1769, after learning about Erskine’s work in civic improvement projects, a representative from the London-based Hasenclever, Seton & Crofts Syndicate in London approached Erskine with an exciting career opportunity. The group, also known as “The American Iron Company,” purchased four pig iron mines throughout New Jersey and New York and offered him the position of director. Erskine accepted the position and learned both the mechanical and technical elements of mines and furnaces as well as the process of converting iron into steel. By 1771, his work caught the attention of Benjamin Franklin and fellow members of the Royal Society of London, which awarded Erskine the title of “A Gentleman well versed in Mathematics and Practical Mechanics.”[^1]
 
-<figure class="table float-left mr-5 mb-10">
+<figure class="table float-left mr-5 mb-10 mt-0">
   <a href="/maps/commonwealth:p8418t86q">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:p8418t870/144,96,5179,7329/567,/0/default.jpg" alt="A hand-drawn sketch map showing a road system. Towns and some other buildings are shown. Some limited topographical detail has been added in pencil." />
   </a>
