@@ -16,6 +16,10 @@ related_maps:
   - commonwealth:hx11z174f
   - commonwealth:0r96fq92k
   - commonwealth:q524nf00s
+  - commonwealth-oai:d791xf44c
+  - commonwealth-oai:ft84dp50w
+  - commonwealth-oai:9306xx57q
+  - commonwealth-oai:bz60ht038
 short_description: German-born British imperial surveyor, mapmaker, and religious
   mystic
 tags:
