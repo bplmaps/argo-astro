@@ -73,11 +73,11 @@ Banner image: detail from [Le Rouge, _Partie occidentale de la Virginie, Pensylv
 
 [^7]: Hays, "Mapping and ‘Natural’ Garden Design," 9.
 
-[8^]: Georges-Louis Le Rouge to Benjamin Franklin, 29 November 1780, _Founders Online_: National Archives, https://founders.archives.gov/documents/Franklin/01-34-02-0052. \[Original source: _The Papers of Benjamin Franklin_, vol. 34, _November 16, 1780, through April 30, 1781_, ed. Barbara B. Oberg. New Haven and London: Yale University Press, 1998, p. 89.\]
+[^8]: Georges-Louis Le Rouge to Benjamin Franklin, 29 November 1780, _Founders Online_: National Archives, https://founders.archives.gov/documents/Franklin/01-34-02-0052. \[Original source: _The Papers of Benjamin Franklin_, vol. 34, _November 16, 1780, through April 30, 1781_, ed. Barbara B. Oberg. New Haven and London: Yale University Press, 1998, p. 89.\]
 
 [^9]: Cohn, "Benjamin Franklin, Georges-Louis Le Rouge and the Franklin/Folger Chart," 125.
 
-[^10] Cohn, "Benjamin Franklin, Georges-Louis Le Rouge and the Franklin/Folger Chart," 125.
+[^10]: Cohn, "Benjamin Franklin, Georges-Louis Le Rouge and the Franklin/Folger Chart," 125.
 
 ### Bibliography
 
@@ -88,3 +88,5 @@ Hays, David L. “Mapping and ‘Natural’ Garden Design in Late Eighteenth-Cen
 Le Rouge, Georges-Louis. _Detail des Nouveaux Jardins á La Mode_. 21 vols. Paris, 1776. 
 
 Le Rouge, Georges-Louis to Benjamin Franklin, 29 November 1780, _Founders Online_: National Archives, https://founders.archives.gov/documents/Franklin/01-34-02-0052. \[Original source: _The Papers of Benjamin Franklin_, vol. 34, _November 16, 1780, through April 30, 1781_, ed. Barbara B. Oberg. New Haven and London: Yale University Press, 1998, p. 89.\]
+
+***
