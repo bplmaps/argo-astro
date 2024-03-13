@@ -15,6 +15,8 @@ related_maps:
   - commonwealth:3f462x693
   - commonwealth:z603vr69k
   - commonwealth:9s1618557
+  - commonwealth-oai:7w62k6509
+  - commonwealth-oai:0z70dt03h
 short_description: French imperial cartographer
 tags:
   - Academic
