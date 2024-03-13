@@ -22,7 +22,7 @@ tags:
   - Surveyor
 title: Charles Blaskowitz
 ---
-<figure style="float:left;margin-right: 10px;margin-top: 0px;margin-bottom: 5px;">
+<figure style="display: table;float:left;margin-right: 10px;margin-top: 0px;margin-bottom: 5px;">
   <a href="/maps/commonwealth:z603vw04k">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vw05v/5826,1380,5305,6883/550,/0/default.jpg" alt="Manuscript map showing part of Manhattan Island during the American Revolution. Only some areas have been colored and filled in with detail; others are left blank except for lines to show the shoreline. Almost the entire left half of the image is taken up by a box of text which contains explainations of the map, including the location of battles and troop locations. The colored sections are vivid and extremely detailed.">
   </a>
