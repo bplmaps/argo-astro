@@ -88,4 +88,20 @@ Banner image: detail from [Nathaniel Dance, _Captain James Cook_, c.1775-1775](
 
 ### Bibliography
 
+Barnett, James K. _Captain Cook in Alaska and the North Pacific_. Anchorage: Todd Communications, 2008. 
+
+Hough, Richard. _Captain James Cook: A Biography_. New York: W.W. Norton, 1995. 
+
+Journal of Capt. Cook’s Voyage in H.M.S. Endeavour, 1768–1771. National Library of Australia. 
+
+Macarthur, Antonia. _His Majesty’s Bark Endeavor: The Story of the Ship and Her People_. Sydney: Angus and Robertson, 1997.  
+
+McLynn, Frank. _Captain Cook: Master of the Seas_. New Haven: Yale University Press, 2011. 
+
+Kindred, Sheila Johnson. “James Cook: Cartographer in the Making 1758–1762.” _Journal of the Royal Nova Scotia Historical Society_ 12 \(2009\): 54–81. 
+
+Pritchard, J.S. “CHABERT DE COGOLIN, JOSEPH-BERNARD DE, Marquis de CHABERT.” In _Dictionary of Canadian Biography_. Vol. 5. University of Toronto/Université Laval, 1983–. http://www.biographi.ca/en/bio/chabert_de_cogolin_joseph_bernard_de_5E.html.
+
+Robson, John. _Captain Cook’s War and Peace: The Royal Navy Years, 1755–1768_. Annapolis: Naval Institute Press, 2009. 
+
 ***
