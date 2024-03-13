@@ -18,11 +18,11 @@ Cartography exploded in Europe during the seventeenth and eighteenth centuries. 
 The Haussard sisters are best known for their work for the de Vaugondy family of cartographers. Marie Catherine and Elizabeth signed nearly one third of the cartouches in the famous _Atlas Universel_, a collection of 108 maps by Gilles and Didier Robert de Vaugondy and the first atlas sold in France by subscription. With estimates of subscribers ranging from six hundred to one thousand, the Atlas was one of the most acclaimed works of its time, supporting Vaugondy’s appointment as Geographe Ordinaire du Roi. Among the subscribers was Jeanne Antoinette Poisson, Marquise de Pompadour, indicating its patronage by the royal court.
 
 
-<figure style="display: block;margin-left: auto;margin-right: auto;width: 75%;">
+<figure class="table justify-center mx-5 my-5">
   <a href="/maps/commonwealth:w9505s84p">
    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:w9505s85z/5568,3461,2502,2392/700,/0/default.jpg" alt="A decorative cartouche from a map. A small ruined boat sits on a mound of vegetation; the scale bar is on its hull, and the name of the map and details are displayed on the sail. In the background are a number of trees. To the right, a small furry animal, probably meant to represent a beaver, grimaces at the scene."/>
   </a>
-  <figcaption>
+  <figcaption class="table-caption caption-bottom">
     Detail from Gilles Robert de Vaugondy's 1755 map <em>Partie de l'Amerique septent</em> showing the cartouche engraved by Marie Catherine Haussard
   </figcaption>
 </figure>
