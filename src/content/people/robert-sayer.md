@@ -114,4 +114,4 @@ Fisher, Susanna. "Sayer, Robert (1724/5–1794), Print, Map, and Chart Publisher
 
 Reid-Walsh, Jacqueline. “Eighteenth-Century Flap Books for Children: Allegorical Metamorphosis and Spectacular Transformation.” _The Princeton University Library Chronicle_ 68, no. 3 \(2007\): 751–90. 
 
-
+***
