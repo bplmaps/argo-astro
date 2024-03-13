@@ -60,7 +60,7 @@ In New York, Sauthier became a prominent surveyor for Lord Governor Tryon, condu
   <a href="/maps/commonwealth:q524n8738">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n874j/full/433,/0/default.jpg" alt="Faded, colored manuscript map showing an American fort in rural upper Manhattan island during the American Revolution. Fields, roads, and the elevation of the land are shown in detail.">
   </a>
-  <figcaption class="table-caption">
+  <figcaption class="table-caption caption-bottom">
     Claude Joseph Sauthier&#39;s 1776 <em>A map of part of New-York Island showing a plan of Fort Washington</em>
   </figcaption>
 </figure>
