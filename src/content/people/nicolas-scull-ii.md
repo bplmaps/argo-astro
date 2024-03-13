@@ -8,6 +8,8 @@ related_maps:
   - commonwealth:q524mv11m
   - commonwealth:cj82m2470
   - commonwealth:0r96fq80s
+  - commonwealth-oai:bg25cd512
+  - commonwealth-oai:xg94nq64j
 short_description: British colonial surveyor and cartographer
 tags:
   - Mapmaker
