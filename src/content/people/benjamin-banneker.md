@@ -20,11 +20,13 @@ In 1791, President George Washington established a commission to survey the new 
 
 Because few recorded the specifics of Banneker’s involvement, it is difficult to establish the extent of his influence on the project.[^12] It is known, however, that Banneker likely made the astronomical calculations necessary to establish the south cornerstone of the city.[^13] In total, the land Andrew Ellicott and his team surveyed and mapped encompassed one hundred square miles and set boundary mile markers along the borders of what is now Washington, DC.[^14] Banneker’s contributions appeared in Ellicott’s 1792 _The Plan of the City of Washington in the Territory of Columbia_. 
 
-<figure>
+<figure class="table m-auto">
     <a href="/maps/commonwealth:z603vs02d/">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vs03p/140,128,6456,4635/pct:50/0/default.jpg" alt="a black and white engraved image of a city plan--Washington, DC--on the east bank of a river"/>
     </a>
-    <figcaption>Andrew Ellicott's plan of Washington, DC, which Banneker assisted in surveying.</figcaption>
+    <figcaption class="table-caption caption-bottom mt-0">
+      Andrew Ellicott's plan of Washington, DC, which Banneker assisted in surveying.
+    </figcaption>
 </figure>
 
 After returning from his work with Ellicott, Banneker did not let his health impede his pursuit of astronomy, writing, and the fight for racial equality. Between 1791 and 1797, he published an annual almanac to help farmers to predict weather patterns and included essays, farming recommendations, and testimonials from the independent editors who chose to review his work.[^15] Many testimonials couched praise for Banneker’s abilities in racial—and racist—terms, commenting on how exceptional he was in comparison to white notions of the capabilities of African Americans. Banneker was frequently, in his own words, “annoyed to find that the subject of \[his\] race \[was\] so much stressed.”[^16]

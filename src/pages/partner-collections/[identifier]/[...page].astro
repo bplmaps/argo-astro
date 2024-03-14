@@ -54,7 +54,7 @@ const nextLink = page.url.next;
         <span>{ title }</span>
       </span>
     </Title>
-    <div set:html={partnerEntry.data.abstract_tsi} />
+    <div class="prose max-w-none" set:html={partnerEntry.data.abstract_tsi} />
   </div>
   <CollectionGrid contentType="maps" columns={3} identifiers={page.data} />
   <Pagination start={page.start + 1} end={page.end + 1} total={page.total} prevLink={prevLink} nextLink={nextLink} />

@@ -80,13 +80,27 @@ Bellin was born in 1703 in Paris, France. Skilled in cartography and hydrography
 
 Bellin produced his first work, a maritime chart depicting the Mediterranean Sea, under the direction of the _Dépôt_ in 1737. In the accompanying _mémorie_ (the means of validating a map’s accuracy and usefulness), Bellin explained his Enlightenment methodology: to create maps of waterways on which he had not traveled, he referenced ancient and contemporary textual sources, first-hand accounts, and manuscript maps drawn by missionaries, explorers, and navigators.[^2] Bellin sought to implement this process throughout the _Dépôt_ to ensure that navigators, sailors, and merchants received the best resources from the office. One example of this method was his work in the 1755 [_Historie de la Nouvelle France_](/maps/commonwealth:w9505s88s/), in which Bellin used the twenty-year-old accounts of the Jesuit priest Pierre François Xavier de Charlevoix’s travels in North America to map French colonial and naval interests.[^3] Given the age of the information he was provided, Bellin added details from more recent navigational journals, astronomical observations, and expeditions.
 
-<a href="/maps/commonwealth:w9505s88s/"><img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:w9505s892/1671,3874,6373,2744/full/0/default.jpg" alt="Detail of a map showing what is now Nova Scotia, New Brunswick, and part of Quebec, as well as a decorative cartouche reading Partie Orientale de le Nouvelle France ou du Canada" style="display: block;margin-left: auto;margin-right: auto;width: 75%;" title="Detail from Bellin&#39;s 1755 map &quot;Partie orientale de la Nouvelle France ou du Canada&quot;"/></a>
+<figure class="table m-auto">
+  <a href="/maps/commonwealth:w9505s88s/">
+    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:w9505s892/1671,3874,6373,2744/full/0/default.jpg" alt="Detail of a map showing what is now Nova Scotia, New Brunswick, and part of Quebec, as well as a decorative cartouche reading Partie Orientale de le Nouvelle France ou du Canada" />
+  </a>
+  <figcaption class="table-caption caption-bottom mt-0">
+    Detail from Bellin&#39;s 1755 map <em>Partie orientale de la Nouvelle France ou du Canada</em>
+  </figcaption>
+</figure>
 
 Bellin’s maps of Acadia and Nova Scotia were used in a 1750 Boundary Commission in which the French and British Empires sought to determine a solidified boundary between their colonial holdings in what is now Canada.[^4] Following the tense Commission, Bellin published a letter warning the reader to avoid pride and politics when practicing science. His map had been used for a geo-political dispute, but Bellin wanted to ensure his personal non-partisan ideology was preserved. He explained his enlightened philosophy of seeking truth through reason and continually updating his work with new sources and geographical developments. As evidence of his non-partisan commitment to hydrography and navigation, Bellin was elected as a foreign member of the Royal Society of London in 1752.[^5]
 
 In 1758, Bellin produced _Description Géographique des Isles Antilles possédées par les Anglois_ depicting the British Empire’s Caribbean colonies.[^6] Bellin’s [maps of the Caribbean](/maps/commonwealth:6t053r360/) allowed the French navy and merchants to maintain activity in these waterways and deter British domination in North America and the Caribbean. Despite his official role working for the French Navy, Bellin implored sailors and merchants from all backgrounds, not just those with French connections, to record their voyages and supply them to the _Dépôt_. To ensure that the most accurate information was available to all navigators, Bellin’s maps of major ports in the Antilles included specific depths, anchorages, and hazards so that ships had the necessary instructions to safely navigate the waters.[^7]
 
-<a href="/maps/commonwealth:3f462v364/"><img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462v37d/1095,1085,3585,5031/full/0/default.jpg" alt="A map of Boston from Bellin&#39;s Petite atlas maritime" style="display: block;margin-left: auto;margin-right: auto;width: 75%;" title="A map of Boston from Bellin&#39;s &quot;Petite atlas maritime&quot;"/></a>
+<figure class="table m-auto">
+  <a href="/maps/commonwealth:3f462v364/">
+    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462v37d/1095,1085,3585,5031/full/0/default.jpg" alt="A map of Boston from Bellin&#39;s Petite atlas maritime" />
+  </a>
+  <figcaption class="table-caption caption-bottom mt-0">
+    A map of Boston from Bellin&#39;s <em>Petite atlas maritime</em>
+  </figcaption>
+</figure>
 
 Bellin’s most extensive work and largest commercial success was his _Le Petit Atlas Maritime_, which was published in 1764 in five volumes.[^8] _Le Petit Atlas_ contained over six hundred maps and charts and depicted four different regions of the world. _Le Petit Atlas_ represented a culmination of Bellin’s four decades of work in the _Dépôt_ and his continuously updating his earlier hydrographic charts in accordance with his Enlightenment practices. The atlas was marketed as a medium of study rather than a navigational tool, reaffirming the Enlightenment commitment to science and hydrography Bellin established in the _Dépôt_.
 

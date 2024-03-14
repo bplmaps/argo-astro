@@ -7,8 +7,16 @@ layout: "@layouts/SingletonPage.astro"
 
 * [**MacLean Collection**](https://www.macleancollection.com) - Expected Summer 2024
 * [**John Carter Brown Library**](https://jcblibrary.org) - Expected Summer 2024
+* [**The American Revolution Institute of the Society of the Cincinnati**](https://www.americanrevolutioninstitute.org/) - Expected late 2024
+* [**Bibliothe&#768;que Nationale de France**](https://www.bnf.fr/fr) - Expected early 2025
+* [**Bibliothe&#768;que Nationale du Que&#769;bec**](https://www.banq.qc.ca/) - Coming soon
+* [**Osher Map Library**](https://oshermaps.org/) - Coming soon
+* [**Museum of the American Revoilution**](https://www.amrevmuseum.org/) - Coming soon
+* [**Barry Lawrence Ruderman Antique Maps Inc.**](https://www.raremaps.com/) - Coming soon
 
 
 ## Become a Partner
 
-text text text
+ARGO focuses on maps and related graphic images documenting North America’s geography from 1740-1800, and we are always seeking to expand our collections through new partnerships. If you or your institution have maps that fall under this scope and would be interested in partnering with us, please contact Dr. Alexandra Montgomery, Manager of the Center for Digital History at the George Washington Presidential Library at Mount Vernon, at [cdh@mountvernon.org](mailto:cdh@mountvernon.org). We can pull images directly from your collections if they are hosted on a portal that utilizes a IIIF framework, or we can also provide hosting options.
+
+***

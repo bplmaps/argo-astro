@@ -17,7 +17,14 @@ title: Joshua Fry
 ---
 Joshua Fry was surveyor, soldier, politician, and professor in colonial Virginia. He is best known for co-creating the Fry-Jefferson Map of Virginia with [Peter Jefferson](/people/peter-jefferson), Thomas Jefferson’s father.
 
-<a href="/maps/commonwealth:0r96fq87q"><img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fq880/1561,1601,9077,5594/pct:50/0/default.jpg" alt="A map of the most inhabited part of Virginia containing the whole province of Maryland with part of Pensilvania, New Jersey and North Carolina" style="display: block;margin-left: auto;margin-right: auto;width: 75%;" title="Detail from the Fry-Jeffrosn map, showcasing part of the Appalchian Mountains"/></a>
+<figure class="table m-auto">
+  <a href="/maps/commonwealth:0r96fq87q">
+    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fq880/1561,1601,9077,5594/pct:50/0/default.jpg" alt="A map of the most inhabited part of Virginia containing the whole province of Maryland with part of Pensilvania, New Jersey and North Carolina" />
+  </a>
+  <figcaption class="table=caption caption-bottom">
+    Detail from the Fry-Jeffrosn map, showcasing part of the Appalachian Mountains
+  </figcaption>
+</figure>
 
 Fry was born in Somersetshire, England around 1700 and attended Oxford before coming to North America. Though the exact date of his migration is unknown, historians often place it around 1720. He first appears in colonial records as a vestryman and magistrate in Essex County, Virginia. In 1729, Fry became the master of a newly established grammar school associated with the College of William and Mary, and in 1731 he was made a professor of natural philosophy and mathematics at the college. By 1737, Fry resigned this position.[^1]
 
@@ -35,7 +42,14 @@ In 1750, Lewis Burwell—the acting governor of Virginia—commissioned Fry and 
 
 The Fry-Jefferson map, officially titled _A Map of the Inhabited Part of Virginia containing the whole Province of Maryland, with Part of Pensilvania, New Jersey, and North Carolina_, was presented to Colonel Burwell in 1751 before being sent to the Board of Trade and Plantations.
 
-<a href="/maps/commonwealth:0r96fq87q"><img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fq919/4607,2951,5935,4058/pct:50/0/default.jpg" alt="A map of the most inhabited part of Virginia containing the whole province of Maryland with part of Pensilvania, New Jersey and North Carolina" style="display: block;margin-left: auto;margin-right: auto;width: 75%;" title="Close-up of the cartouche from the Fry-Jefferon map"/></a>
+<figure class="table m-auto">
+  <a href="/maps/commonwealth:0r96fq87q">
+    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fq919/4607,2951,5935,4058/pct:50/0/default.jpg" alt="A map of the most inhabited part of Virginia containing the whole province of Maryland with part of Pensilvania, New Jersey and North Carolina" />
+  </a>
+  <figcaption class="table-caption caption-bottom mt-0">
+    Close-up of the cartouche from the Fry-Jefferson map
+  </figcaption>
+</figure>
 
 Soon after, Lieutenant Governor Robert Dinwiddie appointed Fry as one of the commissioners to negotiate with representatives of the Six Nations of the Haudenosaunee (Iroquois) Confederacy. The resulting Treaty of Logstown in 1752 aimed to strengthen ties between the British and the Six Nations and prevent Indigenous attacks on British settlements in the Ohio River region.[^9]
 

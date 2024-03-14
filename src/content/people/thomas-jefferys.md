@@ -47,11 +47,11 @@ Thomas Jefferys was the preeminent commercial cartographer, engraver, and publis
 
 The exact year of Jefferys’ birth is unknown; sources indicate that he was born in England as early as 1710. Almost nothing is recorded of his early life. He first appears in the historical record in 1732 when he published [_An Accurate Plan of the City’s \[sic\] of London and Westminster and the Borough of Southwark_](https://collections.leventhalmap.org/search/commonwealth:4m90fn31g). Three years later, he began apprenticing to London engraver and map-maker Emmanuel Bowen. By 1751, Jefferys established his own engraving practice in London. Between 1751 and his death in 1771, Jefferys earned his reputation as a prominent publisher of maps from North America, the West Indies in the Caribbean, and England. During that time, he advertised himself as “Engraver and Geographer to his Majesty.”.[^1]
 
-<figure class="table mx-5 my-5 w-3/4">
+<figure class="table m-auto">
   <a href="https://collections.leventhalmap.org/search/commonwealth:4m90fn31g">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fn32r/2219,4380,10194,3827/pct:50/0/default.jpg" alt="A new and exact plan of the city&#39;s of London and Westminster, the borough of Southwark : and the additional new buildings, churches &amp;c. to the present year 1735 laid down in such a manner, that any place may readily be found by inspection; the like no extant" />
   </a>
-  <figcaption class="table-caption caption-bottom">
+  <figcaption class="table-caption caption-bottom mt-0">
     A detail showing the river Thames from Jefferys&#39; map <em>A new and exact plan and the city&#39;s of London and Westminster, the borough of Southwark...</em>
   </figcaption>
 </figure>
@@ -64,12 +64,12 @@ Jefferys went bankrupt in 1766 after launching three surveys of counties in Engl
 
 In 1768, alongside Sayer, Jefferys used existing surveys that French geographers completed to compile his first major atlas, _A General Topography of North America and the West Indies_. This 106-sheet atlas included ninety-three maps, plans, and charts of North America, displaying Britain’s success after the Seven Years’ War. New maps in this atlas include _[A Large and Particular Plan of Shegnekto Bay](/maps/commonwealth:6t053n859/)_ and _[A New Map of Nova Scotia, and Cape Britain](/maps/commonwealth:cj82ks15w/)_. Through the maps compiled, Jefferys meant to convey British imperial superiority in North America.
 
-<figure class="table mx-5 my-5 w-3/4">
+<figure class="table m-auto">
   <a href="/maps/commonwealth:6t053n859/">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6t053n86k/879,2295,6914,3188/pct:50/0/default.jpg" alt="A large and particular plan of Shegnekto Bay, and the circumjacent country, with the forts and settlements of the French &#39;till dispossess&#39;d by the English in June 1755" />
   </a>
-  <figcaption class="table-caption caption-bottom">
-    A detail of Shegnetko Bay from Jefferys&#39; first major atlas"
+  <figcaption class="table-caption caption-bottom mt-0">
+    A detail of Shegnetko Bay from Jefferys&#39; first major atlas
   </figcaption>
 </figure>
 

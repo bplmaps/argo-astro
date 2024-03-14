@@ -19,7 +19,14 @@ L’Enfant would not remain a lieutenant for long. He was expeditiously promoted
 
 Following the Revolutionary War, L'Enfant lived in New York City.  He worked on a variety of projects, including Federal Hall, which was intended to be the place of government for the new nation. After the capital moved first to Philadelphia and then to the new federal district, Federal Hall was demolished in 1812.
 
-<a href="/maps/commonwealth:q524nk63w"><img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nk645/177,146,12282,7849/750,/0/default.jpg" alt="A manuscript sketch map showing plans for the future city of Washington, D.C. Topgraphy and waterways are shown, with the planned street layout represented by dotted lines intersecting at interesting and precise angles." style="display: block;margin-left: auto;margin-right: auto;width: 75%;" title="Pierre Charles L&#39;Enfant&#39;s 1791 Dotted Line Map of Washington D.C."/></a>
+<figure class="table m-auto">
+  <a href="/maps/commonwealth:q524nk63w">
+    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nk645/177,146,12282,7849/750,/0/default.jpg" alt="A manuscript sketch map showing plans for the future city of Washington, D.C. Topgraphy and waterways are shown, with the planned street layout represented by dotted lines intersecting at interesting and precise angles." />
+  </a>
+  <figcaption class="table-caption caption-bottom mt-0">
+    Pierre Charles L&#39;Enfant&#39;s 1791 Dotted Line Map of Washington D.C.
+  </figcaption>
+</figure>
 
 Even before the Residence Act of 1790 made the banks of the Potomac River the future location for the seat of government, L’Enfant lobbied President George Washington for a role in the building process: “The late determination of Congress to lay the Fundation of a City which is to become the Capital of this vast Empire, offer so great an occasion of acquiring reputation…, that your Excellency will not be surprised that my Embition and the desire I have of becoming a usefull Citizen should lead me to wish a share in the Undertaking.”[^1] In 1791, L’Enfant’s aspirations were fulfilled as Washington appointed him as the lead planner of the new federal district. Under the supervision of the Federal Commissioners of the District, a group of three supervisory commissioners, L’Enfant worked quickly to complete his _[Plan for the Seat of Government](/maps/commonwealth:q524nf90z)_.
 

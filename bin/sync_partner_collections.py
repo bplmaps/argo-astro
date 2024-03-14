@@ -17,11 +17,13 @@ partnerIDs = [
     "commonwealth:41688024w",
     "commonwealth:z603vr25h",
     "commonwealth:j3860802m",
-    "commonwealth-oai:1r66p075h"
+    "commonwealth-oai:1r66p075h",
+    "commonwealth:kh04p6570"
 ]
 
 for partner in partnerIDs:
     url = f'https://collections.leventhalmap.org/search/{partner}?format=json'
     r = requests.get(url)
-    with open(f'../src/content/partner-collections/{partner}.json', 'w+') as f:
+    partner_cleanid = partner.replace(":","__")
+    with open(f'../src/content/partner-collections/{partner_cleanid}.json', 'w+') as f:
         json.dump( r.json()['response']['document'], f )
