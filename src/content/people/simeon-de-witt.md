@@ -23,7 +23,7 @@ After the war, De Witt replaced General Philip Schuyler as Surveyor General for 
   <a href="/maps/commonwealth:z603vg68n/">
     <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6108vt35r/729,282,4389,2427/1000,/0/default.jpg" alt="Faded, black-and-white printed map of northwestern New York State. Roads and waterways are shown but there is no topographical detail. Instead, the map is divided up into a series of numbered squares representing townshipss and land plots. Owners of various tracts are also listed, as are lands reserved for some indigenous nations as well as the location of some indigenous towns, now surrounded by planned European settlements." />
   </a>
-  <figcaption class="table-caption caption-bottom">
+  <figcaption class="table-caption caption-bottom mt-0">
     Detail from Simeon De Witt&#39;s <em>State Map of New York</em>
   <figcaption>
 </figure>
