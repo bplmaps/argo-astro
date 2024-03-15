@@ -91,7 +91,7 @@ const metaImage = "https://iiif.digitalcommonwealth.org/iiif/2/" + data.dcMetada
             </ul>
           </div>
 
-          {data.dcMetadata.exemplary_image_ssi &&
+          { data.dcMetadata.exemplary_image_ssi && data.dcMetadata.identifier_iiif_manifest_ss.includes('ark.digitalcommonwealth') &&
             <div>
               <h2 class="text-xl mb-1">Downloads</h2>
               <div class="flex flex-wrap gap-x-1 gap-y-2">
