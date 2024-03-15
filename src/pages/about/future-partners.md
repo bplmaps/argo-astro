@@ -17,6 +17,6 @@ layout: "@layouts/SingletonPage.astro"
 
 ## Become a Partner
 
-ARGO focuses on maps and related graphic images documenting North America’s geography from 1740-1800, and we are always seeking to expand our collections through new partnerships. If you or your institution have maps that fall under this scope and would be interested in partnering with us, please contact Dr. Alexandra Montgomery, Manager of the Center for Digital History at the George Washington Presidential Library at Mount Vernon, at [cdh@mountvernon.org](mailto:cdh@mountvernon.org). We can pull images directly from your collections if they are hosted on a portal that utilizes a IIIF framework, or we can also provide hosting options.
+ARGO focuses on maps and related graphic images documenting North America’s geography from 1740-1800, and we are always seeking to expand our collections through new partnerships. If you or your institution have maps that fall under this scope and would be interested in partnering with us, please contact Dr. Alexandra Montgomery, Manager of the Center for Digital History at the George Washington Presidential Library at Mount Vernon, at [cdh@mountvernon.org](mailto:cdh@mountvernon.org). We can pull images directly from your collections if they are hosted on a portal that utilizes the [IIIF framework](https://iiif.io), or we can also provide hosting options.
 
 ***
