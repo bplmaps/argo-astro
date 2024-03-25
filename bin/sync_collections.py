@@ -40,7 +40,7 @@ while not complete:
     if j["response"]["pages"]["last_page?"]:
         complete = True
         
-        with open("../src/content/map-bboxes.json", "w") as f:
+        with open("../src/assets/map-bboxes.json", "w") as f:
             json.dump(bboxes, f, sort_keys=True, indent=4, separators=(',', ': '))
     else:
         page = page + 1
