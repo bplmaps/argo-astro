@@ -5,7 +5,7 @@ import os
 complete = False
 page = 1
 
-query = "https://collections.leventhalmap.org/search?utf8=✓&f_inclusive[destination_site_ssim][]=argo&format=json&per_page=100"
+query = "https://collections.leventhalmap.org/search?utf8=✓&f_inclusive[destination_site_ssim][]=argo&format=json"
 
 bboxes = []
 
@@ -28,7 +28,9 @@ def parse_collection_record(doc):
 
 while not complete:
     print ("Page")
-    r = requests.get("{}&per_page=100&page={}".format(query, page))
+    queryUrl = "{}&per_page=100&page={}".format(query, page)
+    print(queryUrl)
+    r = requests.get(queryUrl)
 
     j = r.json()
 
@@ -38,7 +40,7 @@ while not complete:
     if j["response"]["pages"]["last_page?"]:
         complete = True
         
-        with open("../src/content/map-bboxes.json", "w") as f:
+        with open("../src/assets/map-bboxes.json", "w") as f:
             json.dump(bboxes, f, sort_keys=True, indent=4, separators=(',', ': '))
     else:
         page = page + 1
