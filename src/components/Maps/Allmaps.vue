@@ -1,8 +1,8 @@
 <template>
   <h2 class="text-xl mb-1">Georeferencing</h2>
   <div class="flex flex-wrap gap-x-1 gap-y-2">
-    <a :href=editorURL target="_blank" class="button arrow">{{ existingGeoreference ? 'Improve georeferencing on this map' : 'Georeference this Map' }}</a>
     <a v-if="existingGeoreference" :href=georeferencedURL target="_blank" class="button arrow">View this georeferenced map</a>
+    <a :href=editorURL target="_blank" class="button arrow">{{ existingGeoreference ? 'Improve georeferencing on this map' : 'Georeference this Map' }}</a>
   </div>
 </template>
 
