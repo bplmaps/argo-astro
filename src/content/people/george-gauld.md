@@ -1,5 +1,5 @@
 ---
-banner_image: https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:8328:WCL008397/5160,452,9161,4394/,1200/0/default.jpg
+banner_image: https://quod.lib.umich.edu/cgi/i/image/api/tile/wcl1ic:8328:WCL008397/5132,390,8755,4317/pct:50/0/default.jpg
 bio_dates: 1731-1789
 credit: "Biography written by John Prather"
 related_maps:
