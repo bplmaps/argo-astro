@@ -1,5 +1,5 @@
 ---
-banner_image: https://quod.lib.umich.edu/cgi/i/image/api/tile/wcl1ic:8328:WCL008397/5132,390,8755,4317/pct:50/0/default.jpg
+banner_image: https://a-us.storyblok.com/f/1016535/684x433/a3c9dc8d10/george_gauld.jpeg
 bio_dates: 1731-1789
 credit: "Biography written by John Prather"
 related_maps:
