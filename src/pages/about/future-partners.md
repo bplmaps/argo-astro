@@ -14,6 +14,7 @@ layout: "@layouts/SingletonPage.astro"
 * [**Osher Map Library**](https://oshermaps.org/) - Coming soon
 * [**Museum of the American Revolution**](https://www.amrevmuseum.org/) - Coming soon
 * [**Barry Lawrence Ruderman Antique Maps Inc.**](https://www.raremaps.com/) - Coming soon
+* [**Det Kongelige Bibliotek (Royal Library, Denamrk)**](https://www.kb.dk/en) - Coming soon
 
 
 ## Become a Partner
