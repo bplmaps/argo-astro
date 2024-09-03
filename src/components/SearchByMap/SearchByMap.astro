@@ -36,6 +36,8 @@ import 'ol/ol.css';
   import { applyStyle } from 'ol-mapbox-style';
   import bboxes from '@assets/map-bboxes.json';
   import VectorTileLayer from 'ol/layer/VectorTile';
+  import { TileJSON } from 'ol/source';
+  import TileLayer from 'ol/layer/Tile';
 
   const wkt_transformer = (wkt) => {
     const clean = wkt
@@ -80,7 +82,21 @@ import 'ol/ol.css';
     }),
   });
 
-  const baseLayer = new VectorTileLayer({declutter: true});
+  const maptilerKey = 'E7YRymn4x0Im2NxjlLks'; // key specific to ARGO
+
+
+  // const baseLayer = new VectorTileLayer({declutter: true});
+  // const styleJson = `https://api.maptiler.com/maps/streets-v2/style.json?key=${maptilerKey}`;
+  // applyStyle(baseLayer, styleJson);
+
+  const baseSource = new TileJSON({
+        url: `https://api.maptiler.com/maps/dataviz/tiles.json?key=${maptilerKey}`, // source URL
+        tileSize: 512,
+        crossOrigin: 'anonymous'
+      });
+
+  const baseLayer = new TileLayer({source: baseSource});
+
   const view = new View();
 
   const map = new Map({
@@ -92,10 +108,9 @@ import 'ol/ol.css';
     view: view,
   });
 
-  const maptilerKey = 'E7YRymn4x0Im2NxjlLks';
-  const styleJson = `https://api.maptiler.com/maps/dataviz/style.json?key=${maptilerKey}`;
 
-  applyStyle(baseLayer, styleJson);
+
+
   
   view.fit(
     fromExtent(
