@@ -1,21 +1,21 @@
 ---
 import { SEO } from "astro-seo";
-import { GoogleAnalytics } from "astro-analytics";
-import Header from '@components/Layout/Header.astro';
-import Footer from '@components/Layout/Footer.astro';
-import '../../public/styles.css'
+import Header from "@components/Layout/Header.astro";
+import Footer from "@components/Layout/Footer.astro";
+import "../../public/styles.css";
 
 interface Props {
-	title: string;
-	description: string;
-	image: string;
-	noindex: boolean;
+  title: string;
+  description: string;
+  image: string;
+  noindex: boolean;
 }
 
 const { title, description, image, noindex } = Astro.props;
 
-const siteTitle = 'American Revolutionary Geographies Online';
-const siteImage = 'https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:w9505r968/250,72,15744,9720/,1200/0/default.jpg';
+const siteTitle = "American Revolutionary Geographies Online";
+const siteImage =
+  "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:w9505r968/250,72,15744,9720/,1200/0/default.jpg";
 
 const metaTitle = title ? `${title} - ${siteTitle}` : `${siteTitle}`;
 const metaDescription = description ? description : null;
@@ -24,33 +24,43 @@ const metaImage = image ? image : siteImage;
 
 <!doctype html>
 <html lang="en">
-	<head>
-		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.ico" />
-		<link rel="stylesheet" href="https://use.typekit.net/rok7eea.css">
-		<meta name="generator" content={Astro.generator} />
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
+    <link rel="stylesheet" href="https://use.typekit.net/rok7eea.css" />
+    <meta name="generator" content={Astro.generator} />
 
-		<SEO
-			title={metaTitle}
-			description={metaDescription}
-			noindex={noindex}
-			openGraph={{
-				basic: {
-					title: `${metaTitle}`,
-					type: "website",
-					image: `${metaImage}`
-				}
-			}}
-		/>
-		<GoogleAnalytics id="G-T1ML8DCC7K" />
-	</head>
-	<body class="bg-gray-50 flex flex-col min-h-screen">
-		<Header />
-		<slot name="hero" />
-		<div class="container mx-auto px-5 mt-5 mb-auto">
-			<slot />
-		</div>
-		<Footer />
-	</body>
+    <SEO
+      title={metaTitle}
+      description={metaDescription}
+      noindex={noindex}
+      openGraph={{
+        basic: {
+          title: `${metaTitle}`,
+          type: "website",
+          image: `${metaImage}`,
+        },
+      }}
+    />
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-T1ML8DCC7K"
+    ></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-T1ML8DCC7K");
+    </script>
+  </head>
+  <body class="bg-gray-50 flex flex-col min-h-screen">
+    <Header />
+    <slot name="hero" />
+    <div class="container mx-auto px-5 mt-5 mb-auto">
+      <slot />
+    </div>
+    <Footer />
+  </body>
 </html>
