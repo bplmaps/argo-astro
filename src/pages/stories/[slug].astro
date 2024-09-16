@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from "@layouts/BaseLayout.astro";
 import Title from '@components/Layout/Title.astro';
+import AuthorBlock from '@components/Layout/AuthorBlock.astro';
 
 // Generate a new path for every collection entry
 export async function getStaticPaths() {
@@ -24,7 +25,9 @@ const { Content } = await entry.render();
           <span>{ title }</span>
         </span>
       </Title>
-    <h2> Story by {entry.data.author}</h2>
+    <AuthorBlock>
+      { entry.data.author }
+    </AuthorBlock>
     <Content />
   </article>
   </div>

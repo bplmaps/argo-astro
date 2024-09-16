@@ -12,7 +12,7 @@
 }
 
 .heading-underlined > span {
-	@apply pb-2 -mb-[3px];
+	@apply pb-2 -mb-[3px] px-2;
 
   box-shadow: inset 0 1.1em theme("colors.gray.50"),
               inset 0.5px 0 theme("colors.bismark.500"),
