@@ -12,7 +12,8 @@
       />
     </div>
     <header class="relative w-full flex flex-grow flex-col items-start px-3 pt-3 pb-4">
-      <h3 v-if="title" class="text-lg leading-tight font-semibold overflow-hidden text-ellipsis text-bismark-900 line-clamp-2">{{title }}</h3>
+      <span v-if="badge" class="inline-flex items-center rounded-full px-2 py-1 text-xs font-medium text-gray-600 ring-1 ring-inset ring-clementine-600/50 mb-2">{{ badge }}</span>
+      <h3 v-if="title" class="text-lg leading-tight font-semibold overflow-hidden text-ellipsis text-bismark-900 line-clamp-2">{{ title }}</h3>
       <p v-if="subtitle" class="text-base leading-tight font-light overflow-hidden text-ellipsis line-clamp-3">{{ subtitle }}</p>
     </header>
     <div class="px-3 pb-3">
@@ -33,6 +34,7 @@ export default {
     'subtitle',
     'link',
     'image',
+    'badge'
   ],
   setup() {
     const loaded = ref(false);
