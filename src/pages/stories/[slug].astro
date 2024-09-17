@@ -14,12 +14,17 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const title = entry.data.title;
+const story_type = entry.data.story_type ? entry.data.story_type : "Story";
 const { Content } = await entry.render();
 
 ---
 <BaseLayout title={title}>
   <div>
     <article class="prose max-w-none">
+      <div class="pb-2">
+        <span class="inline-flex items-center rounded-full bg-gray-50 px-4 py-2 text-lg font-medium text-bismark-600 ring-2 ring-inset ring-clementine-600/20">{ story_type }</span>
+
+      </div>
       <Title>
         <span class="heading-underlined block text-bismark-950">
           <span>{ title }</span>

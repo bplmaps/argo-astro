@@ -87,6 +87,7 @@ const stories = defineCollection({
         banner_image: z.string().url(),
         author: z.string(),
         publish_date: z.date(),
+        story_type: z.string().optional()
     }),
 });
 
