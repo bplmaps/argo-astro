@@ -15,8 +15,9 @@ const subtitle = entry.data.short_description;
 const linkText = "Read more";
 const linkHref = `/stories/${entry.slug}`;
 const image = entry.data.banner_image;
----
+const story_type = entry.data.story_type ? entry.data.story_type : "Story";
 
+---
 <Card
   client:visible
   className={className}
@@ -27,4 +28,5 @@ const image = entry.data.banner_image;
     text: linkText
   }}
   image={image}
+  badge={story_type}
 />
