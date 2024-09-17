@@ -1,0 +1,15 @@
+---
+interface Props {
+  authorType?: string
+}
+
+const { authorType = "Author" } = Astro.props;
+
+---
+
+<div class="p-2 border-2 border-gray-100 rounded-lg mb-4">
+    <span class="inline-flex items-center uppercase tracking-wide px-2 py-1 text-xs font-medium text-gray-500">{authorType}</span>
+    <span class="inline-flex text-md font-semibold">
+        <slot />
+    </span>
+</div>
