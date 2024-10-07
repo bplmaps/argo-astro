@@ -28,7 +28,7 @@
         <span class="font-bold">{{ pages.total_count }}</span> results for search <span class="text-sm p-2 border rounded bg-clementine-50 text-gray-600 font-bold font-mono">{{ executedQueryString }}</span>
       </div>
       <div class="ml-4">
-        Page <span class="font-bold">{{  pages.current_page }}</span> of <span class="font-bold">{{ pages.total_pages }}</span>
+      Page <span class="font-bold">{{  pages.current_page }}</span> of <span class="font-bold">{{ pages.total_pages }}</span>
       <button v-if="pages.prev_page" @click="prevPage" class="button mx-2">Prev</button>
       <button v-if="pages.next_page" @click="nextPage" class="button mx-2">Next</button>
       </div>
@@ -42,7 +42,9 @@
             :image="`https://bpldcassets.blob.core.windows.net/derivatives/${r.exemplary_image_key_base_ss}/image_thumbnail_300.jpg`" />
     </div>
 
-    <nav v-if="results.length > 0" class="flex justify-center gap-4">
+    <nav v-if="results.length > 0" class="flex justify-center gap-4 items-center">
+      <p>Page <span class="font-bold">{{  pages.current_page }}</span> of <span class="font-bold">{{ pages.total_pages }}</span>
+      </p>
       <button v-if="pages.prev_page" @click="prevPage" class="button">Prev</button>
       <button v-if="pages.next_page" @click="nextPage" class="button">Next</button>
     </nav>
