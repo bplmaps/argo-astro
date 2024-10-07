@@ -23,7 +23,20 @@
     <p v-if="queryString.length < 1" class="text-lg">Enter a search term</p>
     <p v-if="queryString.length > 0 && results < 1" class="text-lg">{{ loading ? 'Loading results...' : 'No results found.' }}</p>
 
+    <div v-if="results.length > 0 " class="p-2 pl-6 text-lg border-l-8 flex items-center">
+      <div>
+        <span class="font-bold">{{ pages.total_count }}</span> results for search <span class="text-sm p-2 border rounded bg-clementine-50 text-gray-600 font-bold font-mono">{{ executedQueryString }}</span>
+      </div>
+      <div class="ml-4">
+        Page <span class="font-bold">{{  pages.current_page }}</span> of <span class="font-bold">{{ pages.total_pages }}</span>
+      <button v-if="pages.prev_page" @click="prevPage" class="button mx-2">Prev</button>
+      <button v-if="pages.next_page" @click="nextPage" class="button mx-2">Next</button>
+      </div>
+    </div>
+
+
     <div v-if="!loading && results.length > 0" class="grid grid-cols-2 md:grid-cols-5 gap-4 my-5">
+      
       <Card v-for="r in results" :key="r.id" :subtitle="r.admin_set_name_ssi"
             :title="r.title_info_primary_tsi" :link="{ href: `../maps/${r.id}`, text: 'See map' }"
             :image="`https://bpldcassets.blob.core.windows.net/derivatives/${r.exemplary_image_key_base_ss}/image_thumbnail_300.jpg`" />
@@ -50,6 +63,7 @@ export default {
     return {
       loading: false,
       queryString: '',
+      executedQueryString: '',
       results: [],
       pages: {}
     }
@@ -100,7 +114,7 @@ export default {
       const response = await (await fetch(searchUrl)).json();
 
       this.loading = false;
-
+      this.executedQueryString = this.queryString;
       this.results = response.response.docs;
       this.pages = response.response.pages;
     },
