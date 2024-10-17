@@ -5,7 +5,6 @@ layout: "@layouts/SingletonPage.astro"
 
 ## Future Partner Collections
 
-* [**MacLean Collection**](https://www.macleancollection.com) - Initial maps available now; Full collection expected Summer 2024
 * [**Filson Historical Society**](https://filsonhistorical.org/) - Expected late 2024
 * [**The American Revolution Institute of the Society of the Cincinnati**](https://www.americanrevolutioninstitute.org/) - Expected late 2024
 * [**John Carter Brown Library**](https://jcblibrary.org) - Expected early 2025
