@@ -1,5 +1,5 @@
 ---
-title: Using Maps for Reading Comprehension & Vocabulary-Building: A Plan of the Battle of Bunker Hill
+title: "Using Maps for Reading Comprehension & Vocabulary-Building: A Plan of the Battle of Bunker Hill"
 layout: "@layouts/SingletonPage.astro"
 ---
 
