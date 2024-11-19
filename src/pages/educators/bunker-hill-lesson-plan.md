@@ -48,7 +48,9 @@ layout: "@layouts/SingletonPage.astro"
 
 ***
 
-<a name="appendix1"> **Students' Reading Comprehension with a Map Note-catcher** </a>
+<a name="appendix1"></a> 
+
+**Students' Reading Comprehension with a Map Note-catcher**
 |Text from the right side of *A Plan of the Battle of Bunker Hill*: <br/><br/> *Rebel Forces On the ground at the time of the attack about 2000 (3 o’clock).  reinforced about 4:30 by about 1200. Informed 1st force led by one, Prescott. 2nd force by one, Putnam. Rebel forces cleared from Lexington about 5:15 o’clock leaving five guns, etc.Additions on Report \[unclear\]for Comm. \[Commanding\] Forces 4th Oct., 1775H. Clinton Maj. Gen.*|Why do you think this map was made, and who do you think it was made for?  What do you see that makes you say that?                            |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------|
 |What do the phrases and notes from the map show us about the patriot forces during this battle?                                                                                                                                                                                                                                                                                                                                                      |How would you describe the location of the battle from what you can see on the map?                                                            |
@@ -57,7 +59,9 @@ layout: "@layouts/SingletonPage.astro"
 |What did the rebel troops (patriots) leave behind?                                                                                                                                                                                                                                                                                                                                                                                                   |Why do you think the commanding officers “cleared rebel forces” from Lexington?                                                                |
 
 
-<a name="appendix2"> **Students' Vocabulary-building with a map worksheet** </a>
+<a name="appendix2"></a> 
+
+**Students' Vocabulary-building with a map worksheet**
 |Definitions of Vocabulary Terms:                                                                                          |                                                                                                                                                      |
 |:-------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|
 |**"Auxillary"** -- a navy ship designed to support war efforts                                                            |Where were the auxiliary ships located on the map? (HINT: use North, South, East, and West, landmarks, and description to answer this question!)      |
