@@ -3,6 +3,8 @@ title: "1777 Turning Point: The Battles of Saratoga"
 layout: "@layouts/SingletonPage.astro"
 ---
 
+<a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fmtv-drupal-assets.s3.amazonaws.com%2Ffiles%2Fs3fs-public%2F2024-11%2FARGO%2520Lesson-%2520Battles%2520of%2520Saratoga.docx%3FVersionId%3Dn650Kwis0xlEEs0.uFQ1B3lYTCDk1FoO&wdOrigin=BROWSELINK" class="button dark mt-1">Download Lesson Plan</a>
+
 **Grade Levels**: This lesson is intended for 5th – 8th Grade students with scaffolds for English-learners.
 
 **Essential Question**: Why are the Battles of Saratoga considered to have been an important turning point in the War for American Independence?  

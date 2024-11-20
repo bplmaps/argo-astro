@@ -3,6 +3,8 @@ title: "Using Maps for Reading Comprehension & Vocabulary-Building: A Plan of th
 layout: "@layouts/SingletonPage.astro"
 ---
 
+<a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fmtv-drupal-assets.s3.amazonaws.com%2Ffiles%2Fs3fs-public%2F2024-11%2FARGO%2520Lesson-%2520Bunker%2520Hill.docx%3FVersionId%3DdeYSFQueky5bmxKF.3vdFG.RRDaWVclg&wdOrigin=BROWSELINK" class="button dark mt-1">Download Lesson Plan</a>
+
 **Grade Level**: This lesson is intended for 3rd-6th grade students with scaffolds for English-learners.
 
 **Essential Question**: 
