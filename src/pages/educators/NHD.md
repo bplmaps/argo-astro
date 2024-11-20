@@ -3,7 +3,7 @@ title: "Using ARGO Maps for National History Day"
 layout: "@layouts/SingletonPage.astro"
 ---
 
-<a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fmtv-drupal-assets.s3.amazonaws.com%2Ffiles%2Fs3fs-public%2F2024-11%2FARGO%2520Guide%2520to%2520National%2520History%2520Day.docx%3FVersionId%3DvznDRI81A6fFyO5vmE.Jl0Yr1RQo61XQ&wdOrigin=BROWSELINK" class="button dark mt-1">Download Lesson Plan</a>
+<a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fmtv-drupal-assets.s3.amazonaws.com%2Ffiles%2Fs3fs-public%2F2024-11%2FARGO%2520Guide%2520to%2520National%2520History%2520Day.docx%3FVersionId%3DvznDRI81A6fFyO5vmE.Jl0Yr1RQo61XQ&wdOrigin=BROWSELINK" download="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fmtv-drupal-assets.s3.amazonaws.com%2Ffiles%2Fs3fs-public%2F2024-11%2FARGO%2520Guide%2520to%2520National%2520History%2520Day.docx%3FVersionId%3DvznDRI81A6fFyO5vmE.Jl0Yr1RQo61XQ&wdOrigin=BROWSELINK" class="button dark mt-1">Download Lesson Plan</a>
 
 ## Finding the right map
 
