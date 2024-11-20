@@ -3,6 +3,8 @@ title: "Two Revolutionary-era North American Maps: Who would they have helped, a
 layout: "@layouts/SingletonPage.astro"
 ---
 
+<a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fmtv-drupal-assets.s3.amazonaws.com%2Ffiles%2Fs3fs-public%2F2024-11%2FARGO%2520Lesson-%2520Washington%2520and%2520Gage.docx%3FVersionId%3DVVZSZWfAu24A3m6pd2xeJOVA9Nz2aEZw&wdOrigin=BROWSELINK" class="button dark mt-1">Download Lesson Plan</a>
+
 **Grade Level**: This lesson is intended for 5th-8th grade students with scaffolds for English-learners.
 
 **Essential Questions**: 
