@@ -1,0 +1,21 @@
+---
+interface Props {
+  src: string;
+  caption: string;
+  position: string;
+}
+
+const { src, caption, position } = Astro.props as Props;
+
+const floatClass = position === "left" ? "float-left mr-4" : "float-right ml-4"
+
+---
+
+<figure class=`flex flex-col items-center bg-gray-100 rounded-lg w-full md:w-1/3 p-4 my-4 ${floatClass}`>
+  <img
+    src={src}
+    alt={caption}
+    class="max-h-[40vh] mb-2 object-cover"
+  />
+  <figcaption class="text-sm text-gray-600 text-center">{caption}</figcaption>
+</figure>
