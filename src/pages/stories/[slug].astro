@@ -18,7 +18,7 @@ const story_type = entry.data.story_type ? entry.data.story_type : "Story";
 const { Content } = await entry.render();
 
 ---
-<BaseLayout title={title}>
+<BaseLayout title={title} image={entry.data.banner_image} description={entry.data.short_description}>
   <div>
     <article class="prose max-w-none">
       <div class="pb-2">
