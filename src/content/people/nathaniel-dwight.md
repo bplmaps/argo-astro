@@ -13,6 +13,8 @@ tags:
 title: Nathaniel Dwight
 ---
 
+import InlineMapViewer from "@components/Maps/InlineMapViewer.astro";
+
 Nathaniel Dwight was a scion of the [Connecticut Valley River Gods](/stories/river-gods), surveyor, militia captain in the Crown Point Expedition of 1755, and one of the earliest settlers of Cold Spring, Massachusetts (now Belchertown), where he held numerous local offices. Dwight’s enterprises, combined with his extensive land holdings, brought him to the furthest western, northern, southern, and eastern reaches of western Massachusetts, making him an integral provincial surveyor. 
 
 Dwight was born on June 20, 1712, in Northampton, Massachusetts, to Nathaniel Dwight and Mehetable Partridge Dwight. Both the Dwight and Partridge surnames bestowed the younger Nathaniel with the unexampled wealth and prestige of the Connecticut Valley River Gods. The River Gods were regarded by contemporaries as “the old established gentry of Western Massachusetts, connected by blood and friendship.”[^1] This tight-knit kinship network exercised near absolute control over the Connecticut Valley in western Massachusetts, occupying the pulpits of almost every town; controlling the region’s defense and recruiting officers based on shared elite interests; and governing the bench and bar to impose their values through adjudication.[^2] Part of what afforded the River Gods so much power was the political patronage of Crown-appointed royal governors seated in Boston. Far removed from Dwight’s native Hampshire County, governors made the River Gods their chief advisors in western matters by awarding them judicial, political, and military appointments, as well as generous land grants, which solidified the River Gods’ regional dominance.[^3] Dwight was born into this world of wealth and patronage, and his privileged family ties enabled him to become a prominent surveyor and militia captain, as well as inherit and receive tracts of land throughout western Massachusetts.
@@ -21,14 +23,7 @@ Likely sometime between 1731 and 1734, Dwight was deeded rights to lands in Cold
 
 Dwight’s acquisition of so much real estate was interconnected with his work as a surveyor, as were his frequent appointments to view, survey, and lay out highways throughout western Massachusetts that encompassed lands and townships in the westernmost Berkshire County, the length of the Connecticut River Valley, and the border of Hampshire and Worcester Counties.[^9] His familiarity with the topography, Native American territory, white settlements, and unsettled lands of western Massachusetts made him an invaluable asset to provincial surveying. The vast terrain Dwight traversed was comprehensively mapped by [Osgood Carleton](/people/osgood-carleton) in the 1790s as part of his larger map of Massachusetts and provides a useful visual in conceptualizing the areas Dwight’s surveyed.
 
-<figure class="table m-auto">
-  <a href="/maps/commonwealth:z603vg353">
-    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6108vt04r/604,522,2760,2539/pct:50/0/default.jpg" alt="Details from Osgood Carelton&#39;s map of the commonwealth of Massachusetts, showing the lands which Dwight surveyed. This section focuses on western Massachusetts, specifically highlighting Berkshire and Hampshire counties. Otherwise balck and white, the two counties are separated by a red line." />
-  </a>
-  <figcaption class="table-caption caption-bottom mt-0">
-    Detail from Osgood Carleton&#39;s map of the commonwealth of Massachusetts, utilizing the extenisve surveying work done by Dwight
-  </figcaption>
-</figure>
+<InlineMapViewer identifier="commonwealth__z603vg353" />
 
 Dwight’s first commission as a surveyor was from the Massachusetts House of Representatives in 1732. His surveying party traveled north to the present-day borders of western Massachusetts and New Hampshire along the Ashuelot and Miller Rivers, both of which join the mighty Connecticut. The survey mapped “A Plat containing two thousand three hundred and forty acres of Land. . . lying at a place called _Paquioag_ on _Miller_’s River.”[^10] In concert with another surveyor, Dwight also “platted” one of two new “Townships, each of the contents of six Miles square, situate[d] on each side of _Ashuelot River_ in the County of _Hampshire_,” thus pushing the boundaries of invasive white settlement farther north.[^11] Although not in the records of the Massachusetts House of Representatives, Dwight also surveyed and mapped the Berkshire County township of New Framingham (now Lanesborough, Massachusetts, which is just north of Pittsfield and close to the border of Massachusetts and New York) in 1761 and [Roads Town](https://www.shutesbury.org/sites/default/files/offices_committees/town_clerk/misc/1765%20Proprietors%20Shares%20Map.pdf) (now Shutesbury, Massachusetts, a town north of Belchertown and east of South Deerfield in present-day Franklin County) in 1765.[^12]
 

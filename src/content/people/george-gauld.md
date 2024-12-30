@@ -17,20 +17,16 @@ tags:
   - Surveyor
 title: George Gauld
 ---
+
+import InlineMapViewer from "@components/Maps/InlineMapViewer.astro";
+
 George Gauld was a British surveyor and cartographer who produced notable maps of the Gulf Coast and the Caribbean in the mid-eighteenth century. Though of great quality and possessing an incredible degree of accuracy, Gauld’s maps, much like the man himself, existed in relative obscurity on the margins of the British Empire until after his death in 1782.
 
 Born in Scotland in 1732, Gauld entered the world in a time of Enlightenment and British expansion overseas. While little is known of Gauld’s early years, he studied at Scotland’s King’s College, receiving high marks and displaying particular talent in mathematics, natural history, and philosophy. As a young man, Gauld became a naval schoolmaster aboard HMS Preston and toured the Mediterranean. Following his service as schoolmaster and discharge from the navy, Gauld labored to master cartography and pursued a respected and lucrative career as a surveyor-cartographer for the British Empire. Gauld’s official career as a cartographer coincided with the end of the Seven Years’ War and the British acquisition of Florida from the Spanish in 1763. The following year, the Admiralty dispatched Gauld to chart the new British territory.
 
 In August 1764, Gauld arrived and took residence at the capital of West Florida, Pensacola, where he would spend much of the rest of his life. In the same year, Gauld would survey and produce a [detailed plan](/maps/commonwealth:q524nd05z) for a harbor in his new residence of Pensacola. For the next seventeen years, he established himself as not only a masterful cartographer, but also as a staple of society and politics in Pensacola. Devoted to his cartography and possessing “a strong sense of duty,” according to his biographer John D. Ware, Gauld was neither a political partisan nor someone to abuse his position of power.[^1] In the eyes of his neighbors, Gauld was therefore the ideal politician to represent them. In 1769, he was selected to serve as a representative of the Pensacola delegation to the West Florida General Assembly.
 
-<figure class="table m-auto">
-  <a href="/maps/commonwealth:q524nd05z">
-    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nd067/full/790,/0/default.jpg" alt="A manuscript map with green and red accents showing a large harbor. The depth of the water in fathoms is shown and the shoreline is represented with shading. Limited detail is given in the land, but green shading is used to represent vegetation and points of interest such as an &#39;Indian Town,&#39; and brick kiln are shown outside a schematic representation of Pensacola." />
-  </a>
-  <figcaption class="table-caption caption-bottom mt-0">
-    <em>A plan of the harbour of Pensacola in West-Florida</em>, 1764
-  </figcaption>
-</figure>
+<InlineMapViewer identifier="commonwealth__q524nd05z" />
 
 Alongside his achievements in cartography and success in local politics, Gauld also proved to be financially savvy. Often being the first to judge and appraise the lands he surveyed, Gauld used his insider knowledge and his political connections to amass wealth. In May 1776, he successfully petitioned West Florida Governor Peter Chester for an additional two thousand acres of land, “having resided chiefly in this province since its first establishment and being desirous of making a settlement on the east branch of the Peral River.”[^2] Having established an impressive reputation in the British colonies as a cartographer and politician, Gauld married in 1776. Although little is known about Ann Gauld beyond speculation that she was a widow of a military officer, the couple lived an active and social life, engaging in West Florida high society and entertaining a continuous stream of guests.
 

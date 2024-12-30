@@ -27,18 +27,14 @@ tags:
   - Surveyor
 title: John Gerard De Brahm
 ---
+
+import InlineMapViewer from "@components/Maps/InlineMapViewer.astro";
+
 John Gerard De Brahm (also known as William De Brahm) was a German-born cartographer and military engineer. De Brahm achieved distinction in colonial Georgia and South Carolina for his expertly detailed maps, eventually rising through colonial ranks to become the surveyor general for the Southern District of North America between 1764 and 1775. His reputation was marred by several developments in his life, including his involvement in the emerging religious mysticism movement of the late eighteenth century. However, De Brahm’s contributions to early American geographical studies eventually proved massively influential.
 
 De Brahm was born in Koblenz, Germany in 1717. In his youth, he excelled at languages, mathematics, history, and experimental sciences, which proved auspicious for his later pursuits in North America. Before immigrating to North America, he served in the army of Holy Roman Emperor Charles VII, eventually resigning in 1748. After denouncing Roman Catholicism, De Brahm was expelled from Bavaria, the first but not last time he was ostracized for his religious views. In 1751, with the assistance of a German bishop, De Brahm managed to immigrate to Georgia with 156 other religious dissidents as part of a mission to settle the town of Ebenezer.
 
-<figure class="table m-auto">
-  <a href="/maps/commonwealth:z603vs34p">
-    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vs35z/239,5089,7753,4133/1000,/0/default.jpg" alt="Brightly hand-colored, printed map showing the Georgia coastline and the Atlantic ocean. Only the area of the map showing private land holdings has been colored and the map shows townships and the names of plantation owners in a large key at the bottom of the image. A decorative cartouche shows an idealized image of enslaved people laboring as well as vegetation and a coastal scene." />
-  </a>
-  <figcaption>
-    Detail from De Brahm&#39;s 1757 <em>A map of South Carolina and a part of Georgia</em>
-  </figcaption>
-</figure>
+<InlineMapViewer identifier="commonwealth__z603vs34p" />
 
 Upon arrival, De Brahm quickly gained recognition for his mapping skills and was appointed Surveyor General of Lands for the royal colony of Georgia. De Brahm began to map the colony and in 1757 published his first work, [_A Map of South Carolina and a Part of Georgia_](/maps/commonwealth:z603vs34p). De Brahm’s first map was praised by readers and considered a landmark in British cartography for its meticulous depiction of the leading plantations of the day. _A Map of South Carolina_ was also revolutionary due to De Brahm’s reliance on a scientific survey rather than popular belief. Between its presentation of the foremost planters and the opportunities for British westward expansion, the map reflected British imperial confidence by the mid-eighteenth century.
 
@@ -46,14 +42,7 @@ De Brahm soon rose to the position of surveyor general of the Southern District 
 
 In 1771, however, the colonial governor of Florida stripped De Brahm his position as surveyor general and charged the cartographer with neglecting his duties on questionable evidence. De Brahm was subsequently sent to London to answer these charges. While awaiting trial, he published his _Report of the General Survey in the Southern District of North America_. After a royal board reinstated his position in 1775, De Brahm returned to America to create a map of Charleston. Unfortunately, the Cherokee, the ship on which he was traveling on, was captured by the British navy. De Brahm became a political prisoner and lived in London after the war.
 
-<figure class="table m-auto">
-  <a href="/maps/commonwealth:q524nf00s">
-    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nf012/full/648,/0/default.jpg" alt="A black-and-white manuscript map showing part of the coast of Florida. It includes soundings, notes on the kind of plants and trees growing in different areas, and other notes meant to aid navigation. There is little visual detail beyond sketches of trees hugging the coast and shading on different areas of the water." />
-  </a>
-  <figcaption class="table-caption caption-bottom mt-0">
-    A map of part of Florida produced by De Brahm in 1765 as part of his survey work
-  </figcaption>
-</figure>
+<InlineMapViewer identifier="commonwealth__q524nf00s" />
 
 In 1791, De Brahm moved back to America and settled in Philadelphia, where he became involved in religious mysticism. He published three religious tracts: _Time an Apparition of Eternity_ (1791), _Voice of the Everlasting Gospel_ (1791), and _Apocalyptic Gnomon Points out Eternity’s Divisibility Rated with Time Pointed at by Gnomons Sidereal_ (1795)—the last of which outlined his prophecy regarding the end of humanity.[^1] Many of De Brahm’s writings regarding human history were grounded in his knowledge of astronomy and earth sciences. During this period, he also wrote President George Washington several letters that detailed his prophecies.[^2] Washington’s attitude toward De Brahm’s views remains unknown, as he never responded.
 

@@ -24,6 +24,9 @@ tags:
   - Surveyor
 title: John Graves Simcoe
 ---
+
+import InlineMapViewer from "@components/Maps/InlineMapViewer.astro";
+
 John Graves Simcoe (1752-1806) was a British cartographer, soldier, and lieutenant governor of Upper Canada from 1791 to 1796. Named after his godfather, Captain Samuel Graves, John Graves Simcoe often distinguished himself from his father, also named John, by using his middle name of Graves. The third son of Captain John Simcoe, Royal Navy, and Katherine Stamford Simcoe, John Graves Simcoe was the first to survive to adulthood. His father was a decorated naval officer, commanding both the frigate Prince Edward and later HMS Pembroke. Captain John Simcoe died in 1759 during the siege of Quebec from pneumonia and was buried off the coast of Anticosti in the Gulf of Saint Lawrence.
 
 After the death of his father, John Graves Simcoe and his family moved from near Chelsea to the city of Exeter in County Devon. During this time, Katherine Simcoe enrolled her son in the first of a series of educational institutions, which later included Eaton and Oxford. After completing his schooling, Simcoe enlisted in the British Army, being commissioned as an ensign in the 35th Regiment of Foot in April 1770. Eventually, Simcoe went with his regiment to the Americas in 1775, taking part in the Battle of Bunker Hill in June 1775. Shortly after Christmas in 1775, Simcoe purchased a captaincy of the grenadier company of the 40th Regiment of Foot, likely with the help of now Admiral Samuel Graves. Graves served with the 40th at Brandywine, where he was wounded in the fighting. During his recovery, General William Howe awarded command of the Queen’s Rangers to Simcoe with the provisional rank of major. During the winter, the regiment returned to its full complement, while also adding a company of cavalry and a company of Highlanders to their number. This period also saw the regiment impose a greater deal of discipline, with Simcoe cautioning his men against the atrocities that would cause the local populace to resent their presence.
@@ -32,14 +35,7 @@ Trained and with experience in warfare in the Americas, Simcoe was prepared for 
 
 Simcoe mapped another battle, just three days after the victory at Quintin’s Bridge. After threats of violence against civilians on both sides, the siege of Salem, New Jersey, appeared to be at a standstill. However, [a map drawn by Simcoe](/maps/commonwealth:z603vv54k) showed the approach of the Queen’s Rangers on the opposite side of Alloway Creek and their general position surrounding the house. In the early hours of the morning of March 21, Simcoe and his company struck the American position, killing several inside, including Judge William Hancock and his brother.  Although he had been assured that Judge Hancock no longer lived in the home, Simcoe’s attack created a great deal of fuel for American propaganda presses. Simcoe criticized his troops for adding another civilian death to the growing list of those caught in the middle of the warring forces.[^2]
 
-<figure class="table m-auto">
-  <a href="/maps/commonwealth:z603vv564">
-    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vv57d/940,1165,5505,4326/650,/0/default.jpg" alt="A hand-colored, printed battle map depicting an ambush. Troop positions are shown by square and rectangular blocks and their movements are shown by dotted lines. The map demonstrates how the Queen&#39;s Rangers ambushed and pursued Stockbridge Mohican troops after luring them into the open." />
-  </a>
-  <figcaption class="table-caption caption-bottom mt-0">
-    John Graves Simcoe&#39;s 1787 <em>Ambuscade of the Indians at Kingsbridge</em>, depicting the 1778 ambush of Stockbridge Mohican troops in what is now the Bronx
-  </figcaption>
-</figure>
+<InlineMapViewer identifier="commonwealth__z603vv564" />
 
 While Simcoe regretted the death of Hancock, he continued to inflict atrocities during the war. In August 1778, the Queen’s Rangers slaughtered a company of Stockbridge Indians loyal to the American cause in what would become known as the Stockbridge Indian Massacre. [Mapped by Simcoe](/maps/commonwealth:z603vv564), the battle shows both an understanding of light infantry tactics and a ruthless plan in which the ambush turned to slaughter.[^3]
 

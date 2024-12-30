@@ -11,6 +11,9 @@ tags:
   - Visual Makers
 title: "Pierre Charles L\u2019Enfant"
 ---
+
+import InlineMapViewer from "@components/Maps/InlineMapViewer.astro";
+
 Pierre (Peter) Charles L’Enfant (1754-1825) was an American Revolutionary War veteran and Franco-American engineer. L’Enfant designed and constructed buildings during and after the Revolutionary War; however, he is best known for his design of the Federal City, which became Washington, D.C. His plan had no equivalent in the new United States, incorporating elements of European cities and a layout that placed the Capitol Building at the heart of the metropolis. Unfortunately, L’Enfant clashed with other officials, leading to his resignation before construction of the Federal City had hardly begun. He died in poverty, and his vision for the federal district did not come to fruition until the McMillan Commission--a group of architects and planners appointed by the U.S. Senate–salvaged his plan at the turn of the twentieth century.  
 
 L’Enfant was born in Paris on August 2, 1754 to an aristocratic family in the French Court. His father was an artist, under whom L’Enfant studied at the Royal Academy of Painting and Sculpture. He initially focused on architecture and drawing but felt unfulfilled in these pursuits. As his schooling concluded, an American secret agent in Paris offered L’Enfant a lieutenancy in the Continental Army Corps of Engineers, which L’Enfant accepted. This opportunity allowed him to use the skills he acquired at the Royal Academy, and L’Enfant arrived in America in 1777, taking the name “Peter.”
@@ -19,14 +22,7 @@ L’Enfant would not remain a lieutenant for long. He was expeditiously promoted
 
 Following the Revolutionary War, L'Enfant lived in New York City.  He worked on a variety of projects, including Federal Hall, which was intended to be the place of government for the new nation. After the capital moved first to Philadelphia and then to the new federal district, Federal Hall was demolished in 1812.
 
-<figure class="table m-auto">
-  <a href="/maps/commonwealth:q524nk63w">
-    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nk645/177,146,12282,7849/750,/0/default.jpg" alt="A manuscript sketch map showing plans for the future city of Washington, D.C. Topgraphy and waterways are shown, with the planned street layout represented by dotted lines intersecting at interesting and precise angles." />
-  </a>
-  <figcaption class="table-caption caption-bottom mt-0">
-    Pierre Charles L&#39;Enfant&#39;s 1791 Dotted Line Map of Washington D.C.
-  </figcaption>
-</figure>
+<InlineMapViewer identifier="commonwealth__q524nk63w" />
 
 Even before the Residence Act of 1790 made the banks of the Potomac River the future location for the seat of government, L’Enfant lobbied President George Washington for a role in the building process: “The late determination of Congress to lay the Fundation of a City which is to become the Capital of this vast Empire, offer so great an occasion of acquiring reputation…, that your Excellency will not be surprised that my Embition and the desire I have of becoming a usefull Citizen should lead me to wish a share in the Undertaking.”[^1] In 1791, L’Enfant’s aspirations were fulfilled as Washington appointed him as the lead planner of the new federal district. Under the supervision of the Federal Commissioners of the District, a group of three supervisory commissioners, L’Enfant worked quickly to complete his _[Plan for the Seat of Government](/maps/commonwealth:q524nf90z)_.
 

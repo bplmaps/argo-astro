@@ -74,6 +74,9 @@ tags:
   - Mapmaker
 title: Jacques-Nicolas Bellin
 ---
+
+import InlineMapViewer from "@components/Maps/InlineMapViewer.astro";
+
 Jacques Nicolas Bellin was a French cartographer, geographer, and hydrographer. He worked during the French Enlightenment in the early eighteenth century in the royal hydrography _Dépôt des Cartes et Plans_, the official map makers of the French Navy. Enlightenment ideology highly influenced Bellin’s work, emphasizing the importance of reason and standardization when making maps for a global audience.
 
 Bellin was born in 1703 in Paris, France. Skilled in cartography and hydrography from an early age, he began to clerk for the French Navy’s _Dépôt des Cartes et Plans_ in 1721. Twenty years later, King Louis XV awarded Bellin the title of _ingenieur-hydrographe de le Marine_, and he assumed the position of chief hydrographer of the Royal Navy.[^1] Bellin’s most significant contribution was his _Le Petit Atlas Maritime_, which depicted nearly six hundred maritime charts, maps, and plans relevant to the global French Empire. Even though Bellin never left France to work on maps of North America and the Caribbean, he completed dozens depicting the waterways around present-day Canada, major port cities in the British colonies, and French commercial interests in the Caribbean.
@@ -93,14 +96,7 @@ Bellin’s maps of Acadia and Nova Scotia were used in a 1750 Boundary Commissio
 
 In 1758, Bellin produced _Description Géographique des Isles Antilles possédées par les Anglois_ depicting the British Empire’s Caribbean colonies.[^6] Bellin’s [maps of the Caribbean](/maps/commonwealth:6t053r360/) allowed the French navy and merchants to maintain activity in these waterways and deter British domination in North America and the Caribbean. Despite his official role working for the French Navy, Bellin implored sailors and merchants from all backgrounds, not just those with French connections, to record their voyages and supply them to the _Dépôt_. To ensure that the most accurate information was available to all navigators, Bellin’s maps of major ports in the Antilles included specific depths, anchorages, and hazards so that ships had the necessary instructions to safely navigate the waters.[^7]
 
-<figure class="table m-auto">
-  <a href="/maps/commonwealth:3f462v364/">
-    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462v37d/1095,1085,3585,5031/full/0/default.jpg" alt="A map of Boston from Bellin&#39;s Petite atlas maritime" />
-  </a>
-  <figcaption class="table-caption caption-bottom mt-0">
-    A map of Boston from Bellin&#39;s <em>Petite atlas maritime</em>
-  </figcaption>
-</figure>
+<InlineMapViewer identifier="commonwealth__3f462v364" />
 
 Bellin’s most extensive work and largest commercial success was his _Le Petit Atlas Maritime_, which was published in 1764 in five volumes.[^8] _Le Petit Atlas_ contained over six hundred maps and charts and depicted four different regions of the world. _Le Petit Atlas_ represented a culmination of Bellin’s four decades of work in the _Dépôt_ and his continuously updating his earlier hydrographic charts in accordance with his Enlightenment practices. The atlas was marketed as a medium of study rather than a navigational tool, reaffirming the Enlightenment commitment to science and hydrography Bellin established in the _Dépôt_.
 

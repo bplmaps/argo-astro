@@ -70,6 +70,9 @@ tags:
   - Map Publisher
 title: Robert Sayer
 ---
+
+import InlineMapViewer from "@components/Maps/InlineMapViewer.astro";
+
 Robert Sayer was one of the most successful publishers of maps and atlases in eighteenth-century Britain. While not a mapmaker himself, Sayer’s publishing company produced numerous books, paintings, and maps of the British Empire. He is also remembered for his children’s books, which were among the first flap books for children created, and providing military maps and geographical aids for the British army during the American Revolutionary War \(1775–1783\).
 
 Sayer was born in either 1724 or 1725 in Sunderland, England, as the youngest of three children. He became involved in publishing in 1747 when his oldest brother, James, married Mary Overton, who was the beneficiary of her late husband’s printing business in London. In 1754, Sayer married his first wife, Dorothy Carlos, who died twenty years later.
@@ -78,14 +81,7 @@ In the mid-eighteenth century, London was the epicenter for the growing print tr
 
 In 1774, Sayer took on Jefferys’s former apprentice, John Bennett, into partnership to form the Sayer and Bennett Publishing Company. From 1775 to 1778, Sayer and Bennett published a series of atlases based on Jefferys’s work. Had it not been for Sayer and Bennet’s efforts, many of Jefferys’s personal surveys may have gone unpublished. Sayer and Bennett’s series of maps and atlases derived from Jefferys’s materials included [_Tobago from Actual Surveys and Observations_](/maps/commonwealth:6t053r203/), _The West India Atlas_ \(1775\), _The North American Pilot_ \(1775\), and [_The American Atlas_](/maps/commonwealth:zk51wc63t/) \(1775\). The atlases in which these maps were published demonstrated the expansion of British North America and the reconfiguration of colonial borders following Britain’s decisive victory over France in the Seven Years’ War (1756–1763).[^2] 
 
-<figure class="table m-auto">
-  <a href="/maps/commonwealth:3f462x82n">
-    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462x83x/548,433,6933,5245/pct:50/0/default.jpg" alt="An engraved image showing a romanticised image of life in the West Indies, including enslaved people, sugar cane, and several boats and ships in a bay." />
-  </a>
-  <figcaption class="table-caption caption-bottom mt-0">
-    Frontispiece from <em>The West India Atlas</em> (1775), credited to Thomas  Jeffreys and published posthumously by Sayer and Bennett
-  </figcaption>
-</figure>
+<InlineMapViewer identifier="commonwealth__3f462x82n" />
 
 During the American Revolutionary War, Sayer published various maps that helped the British carry out operations in their territories across their North American colonies. In 1775, Sayer published a map of the first major battle of the Revolutionary War, the [_Plan of the Battle, on Bunker’s Hill: Fought on the 17th of June 1775_](/maps/commonwealth:3f462v941/). Early in the war, senior British officials pressured Sayer to publish a new atlas of North America in the hopes that his years of experience in printing maps of the North American colonies could help the British achieve victory. To assist the war effort, Sayer and Bennett condensed the American geographic landscape into six maps in _The American Military Pocket Atlas_, published in 1776. The atlas folded out in a six-by-nine-inch octavo volume ideal for battlefield use. Known for its practicality and accuracy, the atlas was so widely consulted that it was known as the “Holster Atlas” because British officers wore it in the leather case attached to their belts.[^3]
 

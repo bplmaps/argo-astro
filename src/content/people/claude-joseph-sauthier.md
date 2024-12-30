@@ -39,16 +39,12 @@ tags:
   - Surveyor
 title: Claude Joseph Sauthier
 ---
+
+import InlineMapViewer from "@components/Maps/InlineMapViewer.astro";
+
 Claude Joseph Sauthier was a surveyor in the British Army during the American Revolution. He was born on November 10, 1736, in Strasbourg, on the Franco-German border, to Joseph Philippe, a saddler, and Barbe Primat Sauthier. Early in his life, Sauthier took an interest in surveying and draftsmanship. By the time he was twenty-three years old, Sauthier had completed one of the most impressive surveys of Alsace, assisted by Cassini De Thury, a French intellectual who revolutionized mapmaking in the region with his innovation of triangulation. In the mid-1760s, Sauthier arrived in North Carolina on a royal commission from the British Crown to survey and map the colony, where he worked under the eighth royal governor of Virginia, Lord William Tryon. During his tenure in the North Carolina colony, Sauthier completed twelve detailed maps of different localities.
 
-<figure class="table m-auto">
-  <a href="/maps/commonwealth:hx11z441h">
-    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx11z442s/full/800,/0/default.jpg" alt="A black, white, and red manuscript map of the town of Newburn, North Carolina, showing buildings, roads, a race ground, and other features"/>
-  </a>
-  <figcaption class="table-caption caption-bottom mt-0">
-    Claude Joseph Sauthier&#39;s 1769 manuscript map <em>PLAN of the Town of NEWBERN in Craven County NORTH CAROLINA</em>
-  <figcaption>
-</figure>
+<InlineMapViewer identifier="commonwealth__hx11z441h" />
 
 The most famous of these maps was the 1769 map of New Bern, which served as the seat of the royal government in North Carolina. This map, entitled [_A Plan of the Town of New Bern in Craven County North Carolina_](/maps/commonwealth:hx11z441h), depicts a detailed view of the colonial capital, complete with labeled roads, natural features, and the governor’s palace at the southern center, above the banks of the Trent River. The cartouche lists the important landmarks and their corresponding letters, including the wharfs (G) in the east and south, a church (A) in between Tryon Palace (B) and the eastern wharves (G), and the “Tann Yard” (E) just west of the Neuse River. The most prominent detail in the map is Tryon Palace, the royal governor’s private residence, which was completed with a prominent “Flag Staff” and featured a garden in the northern part of the property bisected by a walkway or a wall.
 

@@ -25,6 +25,9 @@ tags:
   - Surveyor
 title: James Cook
 ---
+
+import InlineMapViewer from "@components/Maps/InlineMapViewer.astro";
+
 James Cook \(1728–1779\) was a celebrated British maritime explorer and cartographer. He is best known for his captaincy of the HMS _Endeavor_ and _Resolution_ in three expeditions to the South and North Pacific; circumnavigation of the globe; and exploration of Hawai’i, which was previously unknown to Europeans. He charted the coastlines of modern-day New Zealand, Australia, and Pacific islands, including Easter Island and Tasmania. He was also a Royal Navy officer during the Seven Years’ War \(1756–1763\) and mapped the northeast Atlantic seaboard—most notably Newfoundland and the Gulf of St. Lawrence—to advance British naval strategy.
 
 Cook was born on October 27, 1728, in Yorkshire, England, to Grace and James Cook. James Sr. was a land laborer, and James Jr. assisted his father in his work. The Lord of the Manor of Great Ayton recognized young James’ work ethic and financially supported his early education. Seeing a future beyond landed labor, Cook apprenticed with a shopkeeper in 1745 and shipowner John Walker the following year. The latter opportunity gave him maritime experience in Western European ports.[^1] On June 17, 1755, Cook volunteered for the Royal Navy.[^2]
@@ -33,14 +36,7 @@ Cook’s naval service began patrolling the English Channel on the HMS _Eagle_. 
 
 Between 1762 and 1768, Cook divided his time between England and Newfoundland, where he continued to gain significant surveying and mapmaking experience.[^5] Upon the _Northumberland_’s return to England, Cook married Elizabeth Batts on December 21, 1762.[^6] The couple had six children; Elizabeth, who lived to be ninety-three, survived all her children and her husband.[^7] Shortly after his marriage, Cook sailed back to Newfoundland as an official king’s surveyor on the HMS _Antelope_ with the Newfoundland governor, Thomas Graves.[^8] From 1763 to 1766, Cook produced numerous charts and drawings of Newfoundland.[^9] One map, dated 1765, is [_A Chart of the Sea-coast of Newfoundland between St. Laurence and Point May_](/maps/commonwealth:d504vk225/). 
 
-<figure class="table m-auto">
-  <a href="/maps/commonwealth:d504vk225">
-  <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6t056g374/9361,182,7806,3876/pct:50/0/default.jpg" alt="Portion of a manuscript map with a simple box cartouche and part of a coastline with water depth. The land is shaded to show elevation."/>
-  </a>
-  <figcaption class="mt-0 table-caption caption-bottom">
-    Detail from Cook's <em>A chart of the sea-coast of Newfoundland between St. Laurence and Point May</em>, 1765, showing potential locations for fishing stages in yellow
-  <figcaption>
-</figure>
+<InlineMapViewer identifier="commonwealth__d504vk225" />
 
 In May 1768, Cook was promoted to lieutenant in the Royal Navy and led the HMS Endeavour to the South Pacific, where he and his crew explored the coastlines of New Zealand and Australia.[^10] Cook kept [detailed journals of his voyages](https://www.nma.gov.au/exhibitions/endeavour-voyage/cooks-journal/may-1770) and recorded thousands of miles of coastline. On May 30, 1770, while sailing along present-day Queensland, Australia, he noted, “This inlet which I have named Thirsty Sound by reason we could find no fresh water.”[^11] Much fanfare greeted Cook and his crew when the _Endeavour_ returned to England.
 

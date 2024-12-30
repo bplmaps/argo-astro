@@ -12,6 +12,9 @@ tags:
   - Visual Makers
 title: Elizabeth Simcoe
 ---
+
+import InlineMapViewer from "@components/Maps/InlineMapViewer.astro";
+
 Elizabeth Posthuma Simcoe (nee Gwillim) was a British writer, artist, and wife of [John Graves Simcoe](/people/john-graves-simcoe) (1752-1806), the first lieutenant governor of Upper Canada (1791-1798). She is best known for her diary entries, watercolors, sketches, and maps of the frontier of Upper and Lower Canada from 1791 to 1796. Simcoe’s various works provide a unique insight into her life as a female cartographer and artist as well as a British explorer of Canada in the late eighteenth and early nineteenth centuries.
 
 Simcoe was born in Aldwincle, Northamptonshire, England in 1762. Orphaned at birth, she inherited her family’s fortune as the sole heir of her father Colonel Thomas Gwillim. She was adopted by her aunt and uncle, Margaret Spinckles and Admiral Samuel Graves, and eventually married John Graves Simcoe, Admiral Graves’ godson, with whom she had eleven children. As a young girl, Simcoe likely received instruction in various art forms through her formal education, typical of the period’s standards for young women. By the time she reached young adulthood, she was especially talented in watercolor painting and sketching. John Simcoe was a cartographer by trade, and although it is not known who exactly taught her how to draw maps, Elizabeth was likely mentored by her husband in the practice.
