@@ -43,8 +43,6 @@ tags:
 title: Thomas Jefferys
 ---
 
-import InlineMapViewer from "@components/Maps/InlineMapViewer.astro";
-
 Thomas Jefferys was the preeminent commercial cartographer, engraver, and publisher for the British Empire in the mid-eighteenth century. Known as the “Geographer to King George III,” Jefferys is best remembered for his maps of British North America and the Caribbean. He was a leading figure in the private-public collaboration between the British Crown and commercial publishing, compiling maps from various sources into atlases that displayed British imperial dominance in North America and the Caribbean after the Seven Years’ War.
 
 The exact year of Jefferys’ birth is unknown; sources indicate that he was born in England as early as 1710. Almost nothing is recorded of his early life. He first appears in the historical record in 1732 when he published [_An Accurate Plan of the City’s \[sic\] of London and Westminster and the Borough of Southwark_](https://collections.leventhalmap.org/search/commonwealth:4m90fn31g). Three years later, he began apprenticing to London engraver and map-maker Emmanuel Bowen. By 1751, Jefferys established his own engraving practice in London. Between 1751 and his death in 1771, Jefferys earned his reputation as a prominent publisher of maps from North America, the West Indies in the Caribbean, and England. During that time, he advertised himself as “Engraver and Geographer to his Majesty.”.[^1]
@@ -66,7 +64,14 @@ Jefferys went bankrupt in 1766 after launching three surveys of counties in Engl
 
 In 1768, alongside Sayer, Jefferys used existing surveys that French geographers completed to compile his first major atlas, _A General Topography of North America and the West Indies_. This 106-sheet atlas included ninety-three maps, plans, and charts of North America, displaying Britain’s success after the Seven Years’ War. New maps in this atlas include _[A Large and Particular Plan of Shegnekto Bay](/maps/commonwealth:6t053n859/)_ and _[A New Map of Nova Scotia, and Cape Britain](/maps/commonwealth:cj82ks15w/)_. Through the maps compiled, Jefferys meant to convey British imperial superiority in North America.
 
-<InlineMapViewer identifier="commonwealth__6t053n859" />
+<figure class="table m-auto">
+  <a href="/maps/commonwealth:6t053n859/">
+    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6t053n86k/879,2295,6914,3188/pct:50/0/default.jpg" alt="A large and particular plan of Shegnekto Bay, and the circumjacent country, with the forts and settlements of the French &#39;till dispossess&#39;d by the English in June 1755" />
+  </a>
+  <figcaption class="table-caption caption-bottom mt-0">
+    A detail of Shegnetko Bay from Jefferys&#39; first major atlas
+  </figcaption>
+</figure>
 
 Thomas Jefferys died in 1771, leaving his booming commercial enterprise in the hands of [William Faden](/people/william-faden/), a mapmaker and Jefferys’ business partner. Posthumously, friends and London-based printers Sayer and John Bennett published many of Jefferys’ maps.[^4] For example, Sayer and Bennett used sixty charts over thirty-six copper plates that Jefferys engraved before his death in their 1775 publication of _The North-American Pilot for Newfoundland, Labrador, the Gulf and River St. Laurence_.[^5] That same year, Sayer and Bennett published Jefferys’ _The West-India Atlas_, which exhibited a complete image of the Caribbean. Specifically, this atlas presented an updated compilation of the surveys done as part of the British government’s efforts to survey the Caribbean islands following the Seven Years’ War and included maps of islands like Tobago, St. Vincent, Grenada, Antigua, Dominica, Barbados, St. Kitts, and Jamaica.[^6] In 1776, Sayer and Bennett published Jefferys’ _American Atlas_, showing how the 1763 Peace of Paris, which ended the Seven Years’ War, changed the geopolitical layout of colonial claims in North America.
 

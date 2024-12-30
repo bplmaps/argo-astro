@@ -23,10 +23,14 @@ tags:
   - Mapmaker
 title: John Mitchell
 ---
-
-import InlineMapViewer from "@components/Maps/InlineMapViewer.astro";
-
-<InlineMapViewer identifier="commonwealth__hx11z549x" />
+<figure class="table w-1/2 float-left mr-5 mb-10">
+  <a href="/maps/commonwealth:hx11z549x">
+    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx11z550p/3474,1046,8312,7238/pct:50/0/default.jpg" alt="A MAP of the BRITISH COLONIES in North America : WITH THE Roads, Distances, Limits, and Extent of the SETTLEMENTS, Humbly Inscribed to the Right Honourable The Early of Halifax, and the other Right Honourable The Lords Commissioners for Trade &amp; Plantations" />
+  </a>
+  <figcaption class="table-caption caption-bottom mt-0">
+    Detail from King George III&#39;s copy of Mitchell&#39;s map <em>A MAP of the BRITISH COLONIES in North America&quot; showing the eastern seaboard of North America</em>
+  </figcaption>
+</figure>
 
 John Mitchell was an American physician, botanist, and cartographer who produced maps of North America during the mid-eighteenth century. His most significant work, commonly referred to as the “Mitchell Map,” was published in 1755 and is considered one of the most influential maps of colonial North America.
 

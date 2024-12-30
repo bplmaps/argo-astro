@@ -32,8 +32,6 @@ tags:
 title: Osgood Carleton
 ---
 
-import InlineMapViewer from "@components/Maps/InlineMapViewer.astro";
-
 Osgood Carleton was an accomplished mapmaker and polymath proficient in cartography, astronomy, and mathematics. He published around twenty maps, including the first map of the district of Maine and the earliest accurate map of Massachusetts. His name was a mark of quality for maps and charts in the late-eighteenth and early-nineteenth centuries. Despite his accomplishments, his notoriety did not translate into the monetary success other major cartographers of his era enjoyed.
 
 Carleton was born on June 17, 1742, in Nottingham West, New Hampshire—one of seven children.[^1] At the age of sixteen, he joined the military to fight in the Seven Years’ War (1756-1763).[^2] After the war, Carleton began his first forays into cartography when he surveyed a road in Lyndeborough, New Hampshire, in 1770 and laid out town lots.[^3] He continued surveying in Lyndeborough through 1773.[^4] Although making decent money as a surveyor, he decided to enlist in the Continental Army in 1775.[^5] Carleton served the entirety of the American Revolutionary War from 1775 to 1783; he began as a sergeant, was promoted to lieutenant in 1777, and became quartermaster of the Invalid Corps in 1782.[^6]  Following the war and before he published his first maps, Carleton made a name for himself as a mathematician and an astronomer. He held lectures on astronomy and opened a school in 1787 at Oliver’s Dock in Boston, where he taught applied mathematics, surveying, and navigation.[^7]
@@ -42,13 +40,27 @@ Carleton first ventured into commercial cartography in 1789 with his first map, 
 
 Norman published Carleton’s second map in 1791.[^9] Titled [_A Map of the United States of America, Laid Down from the Best Authorities Agreeable to the Peace of 1783_](/maps/commonwealth:z603vh074/), the map depicts the territorial extent of the new United States following the Treaty of Paris in excellent detail. In advertisements for the map, Carleton explained at length how it utilized and combined modern techniques to create a unique projection.[^10] 
 
-<InlineMapViewer identifier="commonwealth__z603vh074" />
+<figure class="table m-auto">
+  <a href="/maps/commonwealth:z603vh074/">
+    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6108vt74f/3504,902,3871,2414/pct:50/0/default.jpg" alt="Close-up of New England from the aforementioned map, &quot;A Map of the United States of America, Laid Down from the Best Authorities Agreeable to the Peace of 1783&quot;" />
+  </a>
+  <figcaption class="table-caption caption-bottom mt-0">
+    Close up of New England from Carleton&#39;s map mentioned in the above section
+  </figcaption>
+</figure>
 
 One of Carleton’s major contributions to cartography was his [_Map of the Commonwealth of Massachusetts_](/maps/commonwealth:wd376568q/) and [_An Accurate Map, of the District of Maine: Being Part of the Commonwealth of Massachusetts_](/maps/commonwealth:z603vg27d/). Because there was a noted need for an accurate map of Massachusetts, Carleton and Norman proposed a project in 1791 to make a large-scale map of Massachusetts, Rhode Island, and Connecticut.[^11] This plan was dormant until 1793 when the Massachusetts legislature resolved to fund a scaled-down version of the project that only focused on Massachusetts and the district of Maine.[^12] The legislature subsequently directed districts to submit land surveys to Carleton, who would then compile the surveys into a comprehensive map.[^13]
 
 While working on his maps of Maine and Massachusetts, Carleton drafted maps of the Boston area in the 1790s. As Boston’s population expanded, various individuals employed Carleton to make cadastral maps—which show the boundaries of land parcels for real estate—that were based on his previous surveys.[^14] One commission was the [_Plan of the Land at Prince Street and Snowhill Street_](/maps/commonwealth:4m90f364q/), which demarcates property ownership in Boston’s North End. Recognized for his cartography talents in Boston, Carleton’s background in mathematics and astronomy earned him opportunities to contribute to several almanacs, which made up one of many income streams.[^15]
 
-<InlineMapViewer identifier="commonwealth__4m90f364q" />
+<figure class="table m-auto">
+  <a href="/maps/commonwealth:4m90f364q/">
+    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90f3650/107,513,3494,3603/pct:50/0/default.jpg" alt="Carleton&#39;s Plan of the Land at Prince Street and Snowhill Street" />
+  </a>
+  <figcaption class="table-caption caption-bottom mt-0">
+    Carleton&#39;s <em>Plan of the Land at Prince Street and Snowhill Street</em>
+  </figcaption>
+</figure>
 
 Carleton combined his surveys of various parts of Boston to make [a full map of the town](/maps/commonwealth:z603vg07x/), which was issued on May 16, 1797 and engraved by Norman. This map was the largest plan of Boston to date. The detailed map included the names of all the wharves, streets, alleys, public buildings, and wards in the growing town.
 

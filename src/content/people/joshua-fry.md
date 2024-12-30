@@ -15,12 +15,16 @@ tags:
   - Surveyor
 title: Joshua Fry
 ---
-
-import InlineMapViewer from "@components/Maps/InlineMapViewer.astro";
-
 Joshua Fry was surveyor, soldier, politician, and professor in colonial Virginia. He is best known for co-creating the Fry-Jefferson Map of Virginia with [Peter Jefferson](/people/peter-jefferson), Thomas Jefferson’s father.
 
-<InlineMapViewer identifier="commonwealth__0r96fq87q" />
+<figure class="table m-auto">
+  <a href="/maps/commonwealth:0r96fq87q">
+    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fq880/1561,1601,9077,5594/pct:50/0/default.jpg" alt="A map of the most inhabited part of Virginia containing the whole province of Maryland with part of Pensilvania, New Jersey and North Carolina" />
+  </a>
+  <figcaption class="table=caption caption-bottom">
+    Detail from the Fry-Jeffrosn map, showcasing part of the Appalachian Mountains
+  </figcaption>
+</figure>
 
 Fry was born in Somersetshire, England around 1700 and attended Oxford before coming to North America. Though the exact date of his migration is unknown, historians often place it around 1720. He first appears in colonial records as a vestryman and magistrate in Essex County, Virginia. In 1729, Fry became the master of a newly established grammar school associated with the College of William and Mary, and in 1731 he was made a professor of natural philosophy and mathematics at the college. By 1737, Fry resigned this position.[^1]
 

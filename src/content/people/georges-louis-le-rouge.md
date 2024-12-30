@@ -38,9 +38,6 @@ tags:
   - Military
 title: Georges-Louis Le Rouge
 ---
-
-import InlineMapViewer from "@components/Maps/InlineMapViewer.astro";
-
 Georges-Louis Le Rouge was a German-born French military engineer, surveyor, cartographer, and publisher during the eighteenth century. His career spanned continents and talents. Known as the “King’s Geographer” throughout France, Le Rouge’s work emphasized globalization and the New World across the Atlantic. 
 
 Although the exact year of Georges-Louis Le Rouge’s birth is unknown, sources indicate that he was born in the City of Hanover, in the the Electorate of Brunswick-Lüneburg (now Germany), sometime between 1707 and 1712.[^1] He was originally named Georg Ludwig, but he or others later francized his name.[^2]  Little is also known about his family life and early childhood. In his early career, while living in Germany, Le Rouge worked as an _ingénieur géographe_ \(geographical engineer\) for the French army stationed there as his fluency in German enabled him to translate maps and create new ones for military purposes. Within the French Army, the use of mapping and the position of an _ingénieur géographe_ was fairly new but found to be effective in terms of reconnaissance operations. Le Rouge surveyed battlegrounds and landscapes for his drawings to be used as strategic tactical tools for warfare.[^3]  
@@ -64,7 +61,14 @@ When the American Revolutionary War began in 1775, Le Rouge again turned to mili
 
 As word of Le Rouge’s maps spread across the Atlantic, he maintained a correspondence with Benjamin Franklin. In September 1780, the two men met for the first time when Le Rouge was delivering a parcel of fellow cartographer Thomas Hutchins' maps to Franklin.[^8] Le Rouge translated Hutchin’s 1778 map [_A New Map of the Western Parts of Virginia, Pennsylvania, Maryland, and North Carolina_](/maps/commonwealth:z603vv18q/) for French purposes with his 1781 map, [_Partie occidentale de la Virginie, Pensylvanie, Maryland, et Caroline septle_](/maps/commonwealth:z603vs570/) \(Western Virginia, Pennsylvania, Maryland, and North Carolina\). In 1785, Franklin commissioned Le Rouge to [engrave a chart of the Atlantic Gulf Stream](/maps/commonwealth:cj82m272b), a preferred sailing route from North America to England. Franklin initially charted the transatlantic voyage in 1768, and hired Le Rouge to illustrate a French adaptation of his original findings.   
 
-<InlineMapViewer identifier="commonwealth__cj82m272b" />
+<figure class="table m-auto">
+  <a href="/maps/commonwealth:cj82m272b">
+    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82m273m/1400,443,4874,4404/pct:50/0/default.jpg" alt="black and white French language printed map showing the course and location of the gulf stream" />
+  </a>
+  <figcaption class="table-caption caption-bottom mt-0">
+    George-Louis Le Rouge's map of the Gulf Stream, originally prepared for Benjamin Franklin
+  </figcaption>
+</figure>
 
 After contributing to Franklin’s map collection, Le Rouge did not publish additional works. An exact death date has not been established; premature announcements of his death appeared as early as 1780.[^9] In 1789, Le Rouge’s Parisian printing shop was put up for sale.[^10] Despite the obscure end to his life, Georges-Louis Le Rouge is remembered today as a prolific publisher and surveyor who connected France and America through his maps, translations, and personal associations.
 

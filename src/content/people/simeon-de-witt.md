@@ -13,16 +13,20 @@ tags:
   - Surveyor
 title: Simeon De Witt
 ---
-
-import InlineMapViewer from "@components/Maps/InlineMapViewer.astro";
-
 Simeon De Witt was a geographer who served as the Surveyor General for the Continental Army during the American Revolutionary War and afterwards held the same title for the State of New York for fifty years. He was part of a three-person commission resulting in the Commissioners Plan of 1811 that determined the gridiron street system of Manhattan. De Witt’s survey work also helped to develop several of New York’s other major cities, including Ithaca and Albany.
 
 De Witt was born in 1756 in Ulster County, New York (now Orange County), to an affluent family of Dutch ancestry. He graduated from Queen’s College (today Rutgers University) in 1776. After graduating, De Witt’s uncle, Colonel James Clinton, trained and helped him obtain a surveyor position for the Continental Army. While stationed in New Jersey, De Witt drew what is considered [the oldest surviving Anglo-American star map](https://americanhistory.si.edu/documentsgallery/exhibitions/dewitt_1.html).[^1] Mapping stars was a training exercise for many surveyors, and it developed into a passion for De Witt. Later in life, when he lived in Albany, he sent “Observations on the Eclipse of 16 June 1806, at Albany” to the American Philosophical Society, of which he was a member.[^2] In December 1780, George Washington appointed DeWitt as Surveyor of the Army after the death of the previous Surveyor General, Colonel [Robert Erskine](/people/robert-erskine/). During the march to Yorktown in 1781, De Witt and his assistants surveyed the country along the army's route and were present during the siege and surrender.[^3] In 1783, he also mapped the [last cantonment of the American army](/maps/commonwealth:p8418t802/) within and surrounding the townships of Newburgh and New Windsor, New York. 
 
 After the war, De Witt replaced General Philip Schuyler as Surveyor General for the State of New York and held the position for the rest of his life.[^4] In De Witt’s resignation letter to Washington, he asked for help with “the publication of Maps from the Surveys we have made during the War,” in hopes of creating a collective of accurate maps of the United States.[^5] Washington supported this idea as “exceedingly reasonable & just,” and commended De Witt to Thomas Jefferson as, “a Modest, sensible, sober, and deserving young Man, Esteemed a very good Mathematician, and well worthy \[sic\] encouragement.”[^6] However, the project failed to secure congressional funding and never materialized. In 1796, unbeknownst to De Witt, Washington nominated him to the Senate as Surveyor-General to the United States, and the appointment was ratified. De Witt was flattered but declined. Instead, he chose to continue cartography projects for New York, including [his map of the state](https://collections.leventhalmap.org/search/commonwealth:6t053q20w) first published in 1802 and republished in 1804.
 
-<InlineMapViewer identifier="commonwealth__z603vg68n" />
+<figure class="table m-auto">
+  <a href="/maps/commonwealth:z603vg68n/">
+    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6108vt35r/729,282,4389,2427/1000,/0/default.jpg" alt="Faded, black-and-white printed map of northwestern New York State. Roads and waterways are shown but there is no topographical detail. Instead, the map is divided up into a series of numbered squares representing townshipss and land plots. Owners of various tracts are also listed, as are lands reserved for some indigenous nations as well as the location of some indigenous towns, now surrounded by planned European settlements." />
+  </a>
+  <figcaption class="table-caption caption-bottom mt-0">
+    Detail from Simeon De Witt&#39;s <em>State Map of New York</em>
+  <figcaption>
+</figure>
 
 In 1807, the New York City Common Council appointed De Witt to a three-person commission to determine the layout of the city. By law, the commissioners had “exclusive power to lay out streets, roads, and public squares, of such width, extent, and direction, as to them shall seem most conducive to public good.”[^7] De Witt never lived in Manhattan, preferring to complete as much of the work as possible from his home in Albany. The Commissioners Plan of 1811 took four years to create, ultimately determining that a gridiron layout was the most practical since “straight-sided and right-angled houses are the most cheap to build and the most convenient to live in.”[^8]
 

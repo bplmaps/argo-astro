@@ -22,11 +22,16 @@ tags:
 title: John Reid
 ---
 
-import InlineMapViewer from "@components/Maps/InlineMapViewer.astro";
-
 John Reid was a leading cartographer and publisher in the early United States. Unfortunately, very little is known about Reid except that he resided in New York during the time period where he produced the American Atlas, only the second atlas published in the United States.[^1] At the front of the Atlas was John Reid’s _A General Map of North America 1796_, also referred to as “the national map.”[^2] His other works can be found in our collections on ARGO.
 
-<InlineMapViewer identifier="commonwealth__z603vg49f" />
+<figure class="table m-auto">
+  <a href="/maps/commonwealth:z603vg49f">
+    <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6108vt183/1759,1060,1503,1067/pct:50/0/default.jpg" alt="Detail from John Reid&#39;s _A General Map of North America 1796_, showing the eastern coast of North America from Newfoundland to Florida, and westward slightly past the Mississippi River" />
+  </a>
+  <figcaption class="table-caption caption-bottom mt-0">
+    "Detail from John Reid&#39;s <em>A General Map of North America 1796,&quot; showing the eastern part of North America</em>
+  </figcaption>
+</figure>
 
 
 Banner image: detail from [_Plan of the city of Washington in the territory of Columbia, 1795?_](/maps/commonwealth:z603vp04b)
