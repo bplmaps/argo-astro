@@ -4,7 +4,10 @@ short_description: "Learn more about the kinds of maps included in the ARGO port
 banner_image: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vw05v/5855,8369,2875,968/pct:50/0/default.jpg"
 author: "Ron Grim"
 publish_date: 2024-04-04
+story_type: "Article"
 ---
+
+import InlineMapViewer from "@components/Maps/InlineMapViewer.astro";
 
 The *American Revolutionary Geographies Online* \(*ARGO*\) portal contains a digital collection of maps and related graphic images from various libraries, archives, and map collections documenting North America’s geography from 1740-1800. By including a wide range of visual materials, the portal provides an unparalleled resource for researching and understanding the spatial components of America’s journey for independence and founding a new nation.
 
@@ -36,27 +39,13 @@ Intelligence gathering and operational maps are generally manuscript in format a
 
 Campaign and battle maps show the actual position of troops during a campaign or individual battle \(Dunnigan 2019a\). A few examples of pencil drawings compiled during the battle or shortly thereafter have survived. However, the vast majority of battle maps \(constituting the largest number of military maps\) were prepared after a battle based on officers’ official reports \(Nebenzahl 1975\). These maps were mostly published in London, but also other European countries, for a record and analysis of the military actions. (Illustration 3)
 
-<figure style="display: block;margin-left: auto;margin-right: auto;width: 75%;">
-  <a href="/maps/commonwealth:p8418t55q">
-   <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:p8418t560/134,1001,2603,1828/pct:50/0/default.jpg" alt="Detail from a map displaying troop encampments around the city of Yorktown. General Washington's tent location can be seen near the bottom." />
-  </a>
-  <figcaption>
-    Detail from a 1782 map depicting British and American troop locations in and around the city of Yorktown. George Washington's tent can be seen along the bottom of the image
-  </figcaption>
-</figure>
+<InlineMapViewer identifier="commonwealth__p8418t55q" />
 
 ### Fortification Plans and Maps
 
 The third type of military activity that is documented in the portal are maps and plans showing fortifications and related embankments, whether permanent or temporary \(Dunnigan 2019b\). Such graphics often incorporate plans that are primarily of architectural or engineering interest. Our selection, however, has focused on site or ground plans showing the footprint of fortifications and embankments in relation to surrounding terrain. While *ARGO* includes a selection of plans for major buildings, it generally does not include floor plans of individual structures or cross sections of embankments.
 
-<figure style="display: block;margin-left: auto;margin-right: auto;width: 75%;">
-  <a href="/maps/commonwealth:hx11z523s">
-   <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx11z5242/198,257,6210,5156/pct:50/0/default.jpg" alt="A 1745 map displaying the town and fortifications of Louisbourg" />
-  </a>
-  <figcaption>
-    A 1745 map detailing the town and fortifications of Louisbourg
-  </figcaption>
-</figure>
+<InlineMapViewer identifier="commonwealth__hx11z523s" />
 
 ***
 
@@ -68,14 +57,7 @@ Other popular maps of the eighteenth century included government authorized maps
 
 A large number of maps published in the third quarter of the century following the Seven Years' War could be termed “maps of empire,” since they were prepared by authorization of the British Board of Trade \(Edelson 2017, Johnson 2019a\). Many were large-sized maps, published on multiple adjoining sheets, depicting a moderate amount of detail at intermediate and small scales. Some depicted the eastern portion of North America, showing European imperial claims. Others depicted individual colonies or several neighboring ones, as well as individual West Indian islands. Boundaries delimiting imperial claims or areas occupied by native peoples were often featured on these maps. In addition, maps of individual colonies depicted major towns, roads, county names or boundaries, and sometimes property boundaries \(especially for the West Indian islands\). After United States independence, state governments quickly authorized mapping projects of their respective jurisdictions. These maps also delineated county and township boundaries, as well as roads and major towns and cities.
 
-<figure style="display: block;margin-left: auto;margin-right: auto;width: 75%;">
-  <a href="/maps/commonwealth:cj82kn17m">
-   <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kn18w/1613,1447,6500,5993/pct:50/0/default.jpg" alt="A black and white map of New England, on which such labels can be seen as the Colony of Connecticut, the Province of Massachusetts Bay, and the Province of New Hampshire" />
-  </a>
-  <figcaption>
-    A map displaying New England in the mid-1760s, labeling land division on a colony scale as well as individual counties and cities
-  </figcaption>
-</figure>
+<InlineMapViewer identifier="commonwealth__cj82kn17m" />
 
 ### Nautical Charts
 
@@ -94,14 +76,7 @@ Another important aspect of the British colonization of North America was mercan
 
 Town plans and maps, many of which originated as part of government and administrative activities, constitute another distinctive map genre. These maps were drawn at large scales and often only in one or a few manuscript copies. They were used for planning the layout of a town, recording the sale of lots and property ownership, and promotional purposes. As cities such as Boston, Newport, New York, Philadelphia, Baltimore, Charleston, and Savannah emerged, commercial publishers issued printed editions showing the growth of these cities, focusing on street pattern, major buildings, and harbor facilities. Such geographic information would be useful for government, commercial, travel, and real estate interests \(Grim 2019a\)
 
-<figure style="display: block;margin-left: auto;margin-right: auto;width: 75%;">
-  <a href="/maps/commonwealth:3f462v496">
-   <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462v50z/129,83,9179,6746/pct:50/0/default.jpg" alt="A map showing the city of Boston in 1769, on which are labeled various city streets, important landmarks, churches, docks & wharves, military fortifications, among others." />
-  </a>
-  <figcaption>
-    This map from 1769 shows the city of Boston, on which is labeled much of the important geographical information detailed above
-  </figcaption>
-</figure>
+<InlineMapViewer identifier="commonwealth__3f462v496" />
 
 ### Property Surveys
 
@@ -126,40 +101,19 @@ A more miscellaneous grouping of graphics in the portal are small-scale and smal
 
 Journalistic and educational maps were generally small in size and depicted a limited amount of information. What we label as journalistic maps today appeared as illustrations for articles published in eighteenth century newspapers or magazines. They provided the literate public with information about important locations or summary depictions of major battles and campaigns \(Mayhew 2019\). Educational maps, as we know them today, were prepared for inclusion in smaller sized atlases \(such as quarto, octavo, or duodecimo\), which appeared primarily during the last two decades of the eighteenth century. They served as basic reference tools for general or educational audiences illustrating the rudimentary geography of the United States and its individual states \(Ristow 1997, Brückner 2017\). 
 
-<figure style="display: block;margin-left: auto;margin-right: auto;width: 75%;">
-  <a href="/maps/commonwealth:z603vq60w">
-   <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vq615/156,134,3728,2893/pct:50/0/default.jpg" alt="A black and withe map titled <em>Seat of War in the Environs of Phildelphia</em>, showing southeast Pennsylvania alongisde parts of Maryland, Delaware, and New Jersey" />
-  </a>
-  <figcaption>
-    This educational map of Philadelphia and its surroundings shows the basic geographical layout of the area
-  </figcaption>
-</figure>
+<InlineMapViewer identifier="commonwealth__z603vq60w" />
 
 ### Thematic and Pictorial Maps
 
 Thematic and pictorial maps were common during the nineteenth and twentieth centuries, but rarer in the eighteenth century. Thematic maps, which depict statistical data showing the spatial distribution of a single or several closely related sets of data, are very rare for the Revolutionary War period \(Johnson 2019b, Delaney 2012\). However, several unusual, but significant examples of thematic maps include a set of manuscript maps showing the number of British troops stationed in North America following the Seven Years’ War, as well as the first maps of the Gulf Stream. Similarly, pictorial maps, which gained wide popularity during the first half of the 20th century, were uncommon during the eighteenth century. Such maps creatively employ realistic or stereotypical representations as symbols for such features as people or structures. Two battle-related maps — one of the 1755 battle at Lake George and another of the opening battle of the Revolutionary War at Lexington and Concord — are excellent examples of pictorial maps. 
 
-<figure style="display: block;margin-left: auto;margin-right: auto;width: 75%;">
-  <a href="/maps/commonwealth:q524mv34x">
-   <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149z696/220,144,3837,2162/pct:50/0/default.jpg" alt="A map of the 1755 battle at Lake George, depicting individual troops engaged in comabt from a birds-eye perspective." />
-  </a>
-  <figcaption>
-    A pictorial map of the 1755 battle at Lake George, mentioned above, in which individual troops are depcited engaging in combat
-  </figcaption>
-</figure>
+<InlineMapViewer identifier="commonwealth__q524mv34x" />
 
 ### Landscape Views
 
 A final type of graphic that is not often included in discussions of eighteenth-century mapping are manuscript and printed views, whether of landscape or urban settings. While these are not technically considered maps, a selection appear in *ARGO* because they provide graphic information about the geographic landscape, particularly from a horizontal perspective \(Cresswell 1975, Daniels and Bonehill 2019\). Prepared for a variety of purposes, they are often found as manuscript sketches or drawings prepared to supplement reconnaissance mapping surveys or published views depicting individual battles and major towns or strategic locations.
 
-<figure style="display: block;margin-left: auto;margin-right: auto;width: 75%;">
-  <a href="/maps/commonwealth:dz010v603">
-   <img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:dz010v61c/275,812,3318,1260/pct:50/0/default.jpg" alt="A color landscape view of the area around boston. Two figures are shown looking out over John Hancock's house and the river beyond, with troop encampments depicted to their left." />
-  </a>
-  <figcaption>
-    A landscape view depicting the area around Boston, with John Hancock's house in the center of the image. Troop encampments can be seen in the bottom left, as well as on the far side of the river
-  </figcaption>
-</figure>
+<InlineMapViewer identifier="commonwealth__dz010v603" />
 
 [^1]: A large number of manuscript maps, many not previously illustrated, are included in Brown and Cohen, 2015.  
 
