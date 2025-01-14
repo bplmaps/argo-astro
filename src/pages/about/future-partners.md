@@ -5,16 +5,16 @@ layout: "@layouts/SingletonPage.astro"
 
 ## Future Partner Collections
 
-* [**Filson Historical Society**](https://filsonhistorical.org/) - Expected late 2024
-* [**The American Revolution Institute of the Society of the Cincinnati**](https://www.americanrevolutioninstitute.org/) - Expected late 2024
-* [**John Carter Brown Library**](https://jcblibrary.org) - Expected early 2025
+* [**Filson Historical Society**](https://filsonhistorical.org/) - Expected early 2025
+* [**The American Revolution Institute of the Society of the Cincinnati**](https://www.americanrevolutioninstitute.org/) - Expected early 2025
 * [**Det Kongelige Bibliotek (Royal Library, Denmark)**](https://www.kb.dk/en) - Expected early 2025
-* [**Bibliothe&#768;que Nationale de France**](https://www.bnf.fr/fr) - Expected early 2025
+* [**Bibliothe&#768;que Nationale de France**](https://www.bnf.fr/fr) - Expected mid-2025
 * [**Bibliothe&#768;que Nationale du Que&#769;bec**](https://www.banq.qc.ca/) - Coming soon
 * [**Osher Map Library**](https://oshermaps.org/) - Coming soon
 * [**Museum of the American Revolution**](https://www.amrevmuseum.org/) - Coming soon
 * [**Barry Lawrence Ruderman Antique Maps Inc.**](https://www.raremaps.com/) - Coming soon
 * [**Beinecke Rare Book & Manuscript Library, Yale University**](https://beinecke.library.yale.edu/) - Coming soon
+* [**John Carter Brown Library**](https://jcblibrary.org) - Coming soon
 
 
 ## Become a Partner
