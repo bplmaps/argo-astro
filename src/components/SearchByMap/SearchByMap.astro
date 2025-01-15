@@ -28,7 +28,7 @@ import 'ol/ol.css';
 
 <script>
   import { isDrawerOpen, drawerIdentifiers } from '../../drawerStore';
-import { useStore } from '@nanostores/vue';
+  import { useStore } from '@nanostores/vue';
   import Map from 'ol/Map.js';
   import View from 'ol/View.js';
   import VectorLayer from 'ol/layer/Vector.js';
@@ -155,5 +155,42 @@ import { useStore } from '@nanostores/vue';
       isDrawerOpen.set(true);
       drawerIdentifiers.set(s.map(a => a.get('collection_identifier')));
     }
+  });
+
+  let selectedFeatures = null;
+  const selectStyle = new Style({
+    fill: new Fill({
+      color: 'rgba(234, 101, 1, 0.25)',
+    }),
+    stroke: new Stroke({
+      color: '#4e798d',
+      width: 1,
+    })
+  });
+
+  map.on('pointermove', (e) => {
+    if (e.dragging) {
+      return;
+    }
+
+    if (selectedFeatures !== null) {
+      selectedFeatures.forEach((f) => {
+        f.setStyle(undefined);
+      });
+      selectedFeatures = null;
+    }
+
+    let features = [];
+
+    map.forEachFeatureAtPixel(e.pixel, (f) => {
+      features.push(f);
+    });
+
+    selectedFeatures = features;
+
+    features.forEach((f) => {
+      selectStyle.getStroke().setColor('#ea6501');
+      f.setStyle(selectStyle);
+    });
   });
 </script>
