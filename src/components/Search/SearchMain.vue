@@ -115,6 +115,10 @@ export default {
       const searchUrl = this.getSearchUrl();
       const response = await (await fetch(searchUrl)).json();
 
+      var queryParams = new URLSearchParams(window.location.search);
+      queryParams.set('q', this.queryString);
+      history.replaceState(null, null, '?' + queryParams.toString());
+
       this.loading = false;
       this.executedQueryString = this.queryString;
       this.results = response.response.docs;
