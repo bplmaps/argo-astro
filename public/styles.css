@@ -49,3 +49,50 @@
 .clover-viewer-painting {
 	@apply rounded-md overflow-hidden;
 }
+
+/* Swipers */
+.collection-swiper {
+	--swiper-navigation-top-offset: 28vw;
+	--swiper-navigation-size: 24px;
+	--swiper-navigation-sides-offset: 12px;
+	--swiper-navigation-color: theme("colors.bismark.500");
+	
+	@screen sm {
+		--swiper-navigation-top-offset: 6rem;
+	}
+
+	@screen md {
+		--swiper-navigation-top-offset: 7rem;
+	}
+
+	@screen lg {
+		--swiper-navigation-top-offset: 5rem;
+	}
+
+	@screen xl {
+		--swiper-navigation-top-offset: 6rem;
+	}
+
+	@screen 2xl {
+		--swiper-navigation-top-offset: 7rem;
+	}
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+	@apply bg-white rounded-lg border-2;
+
+	width: calc(var(--swiper-navigation-size) / 44 * 27 * 3) !important;
+    height: calc(var(--swiper-navigation-size) * 2) !important;
+	border-color: var(--swiper-navigation-color);
+}
+
+.swiper-button-next {
+    right: var(--swiper-navigation-sides-offset, 10px) !important;
+    left: auto !important;
+}
+
+.swiper-button-prev {
+    left: var(--swiper-navigation-sides-offset, 10px) !important;
+    right: auto !important;
+}
