@@ -1,0 +1,110 @@
+---
+import FacetCard from "@components/Cards/Facet.astro";
+import FacetCategoryCards from "@components/Cards/FacetCategories.astro";
+import MapCard from "@components/Cards/Map.astro";
+import PartnerCollectionCard from "@components/Cards/PartnerCollection.astro";
+import PersonCard from "@components/Cards/Person.astro";
+import StoryCard from "@components/Cards/Story.astro";
+
+interface Props {
+  className: string;
+  cardClassName: string;
+  title: string;
+  contentType: string;
+  identifiers: array;
+  maxCards: number;
+  morePage: string;
+}
+
+const { className, cardClassName, title, contentType, identifiers, maxCards, morePage } = Astro.props;
+---
+
+{title &&
+  <h2 class="not-prose flex justify-between items-end gap-2 heading-underlined font-heading font-medium text-bismark-950 text-xl mb-4 md:text-3xl">
+    <span>
+      {title}
+    </span>
+    {morePage &&
+      <a href={morePage} class="button button-outline whitespace-nowrap sm:m-1">
+        View all
+      </a>
+    }
+  </h2>
+}
+
+<div class="overflow-hidden px-2 -mx-2 py-4 -my-4">
+  <div class={`swiper collection-swiper !overflow-visible ${className}`}>
+    <ul class="swiper-wrapper p-0">
+      {contentType === 'facetCategories' &&
+        <FacetCategoryCards
+          className={'w-full h-full ' + cardClassName}
+          columnClassName="p-0 !h-auto"
+          identifiers={identifiers}
+          maxCards={maxCards}
+        />
+      }
+      {identifiers.slice(0, maxCards).map((identifier) => (
+        <li class="swiper-slide p-0 !h-auto">
+          {contentType === 'facets' &&
+            <FacetCard
+              className={'w-full h-full ' + cardClassName}
+              identifier={identifier}
+            />
+          }
+          {contentType === 'maps' &&
+            <MapCard
+              className={'w-full h-full ' + cardClassName}
+              identifier={identifier}
+            />
+          }
+          {contentType === 'partner-collection' &&
+            <PartnerCollectionCard
+              className={'w-full h-full ' + cardClassName}
+              identifier={identifier}
+            />
+          }
+          {contentType === 'people' &&
+            <PersonCard
+              className={'w-full h-full ' + cardClassName}
+              identifier={identifier}
+            />
+          }
+          {contentType === 'stories' &&
+            <StoryCard
+              className={'w-full h-full ' + cardClassName}
+              identifier={identifier}
+            />
+          }
+        </li>
+      ))}
+    </ul>
+
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+  </div>
+</div>
+
+<script>
+  import Swiper from 'swiper';
+  import { Navigation } from 'swiper/modules';
+  import 'swiper/css';
+  import 'swiper/css/navigation';
+
+  new Swiper('.collection-swiper', {
+    modules: [Navigation],
+    slidesPerView: 1,
+    spaceBetween: 16,
+    navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev",
+    },
+    breakpoints: {
+      640: {
+        slidesPerView: 2,
+      },
+      1024: {
+        slidesPerView: 4,
+      },
+    },
+  });
+</script>
