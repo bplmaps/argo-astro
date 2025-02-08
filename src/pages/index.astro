@@ -10,7 +10,6 @@ import SearchByMap from "@components/SearchByMap/SearchByMap.astro"
 
 const title = 'Home';
 const description = 'American Revolutionary Geographies Online (ARGO) is a portal containing thousands of maps from dozens of institutions that bring to life the history and geography of the American Revolutionary War era.'
-const timelineData = await getEntry("timeline", "timeline");
 
 const storyEntries = await getCollection('stories');
 const storyIdentifiers = storyEntries.map((entry) => (
@@ -46,7 +45,7 @@ mapEntriesSanitized.forEach((entry) => (
   <SearchHero slot="hero" />
   <CollectionGrid className="mb-12" title="Explore by Story" contentType="stories" columns={3} identifiers={storyIdentifiers}, maxCards="3" morePage="/stories/" />
   <CollectionGrid className="mb-12" title="Explore by Theme" contentType="facets" columns={4} identifiers={facetIdentifiers}, maxCards="4" morePage="/facets/" />
-  <Timeline data={timelineData.data} client:load />
+  <Timeline jsonSrc="/content/timeline/timeline.json" client:load />
   <SearchByMap />
   <CollectionGrid className="mb-12" title="Explore by Empires & Nations" contentType="facetCategories" columns={5} identifiers={['empires-and-nations']}, maxCards="5"  morePage="/facets/empires-and-nations/" />
   <CollectionGrid className="mb-12" title="Explore by Features" contentType="facetCategories" columns={5} identifiers={['features']}, maxCards="5"  morePage="/facets/features/" />
