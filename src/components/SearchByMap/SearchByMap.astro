@@ -27,6 +27,8 @@ import 'ol/ol.css';
 </section>
 
 <script>
+  import { isDrawerOpen, drawerIdentifiers } from '../../drawerStore';
+  import { useStore } from '@nanostores/vue';
   import Map from 'ol/Map.js';
   import View from 'ol/View.js';
   import VectorLayer from 'ol/layer/Vector.js';
@@ -41,6 +43,8 @@ import 'ol/ol.css';
   import VectorTileLayer from 'ol/layer/VectorTile';
   import { TileJSON } from 'ol/source';
   import TileLayer from 'ol/layer/Tile';
+
+  const $isDrawerOpen = useStore(isDrawerOpen);
 
   const wkt_transformer = (wkt) => {
     const clean = wkt
@@ -148,7 +152,45 @@ import 'ol/ol.css';
   map.on('click', (e) => {
     const s = source.getFeaturesAtCoordinate(e.coordinate);
     if (s.length > 0) {
-      window.location.href = `./maps/${s[0].get('collection_identifier')}`;
-    } 
+      isDrawerOpen.set(true);
+      drawerIdentifiers.set(s.map(a => a.get('collection_identifier')));
+    }
+  });
+
+  let selectedFeatures = null;
+  const selectStyle = new Style({
+    fill: new Fill({
+      color: 'rgba(234, 101, 1, 0.25)',
+    }),
+    stroke: new Stroke({
+      color: '#4e798d',
+      width: 1,
+    })
+  });
+
+  map.on('pointermove', (e) => {
+    if (e.dragging) {
+      return;
+    }
+
+    if (selectedFeatures !== null) {
+      selectedFeatures.forEach((f) => {
+        f.setStyle(undefined);
+      });
+      selectedFeatures = null;
+    }
+
+    let features = [];
+
+    map.forEachFeatureAtPixel(e.pixel, (f) => {
+      features.push(f);
+    });
+
+    selectedFeatures = features;
+
+    features.forEach((f) => {
+      selectStyle.getStroke().setColor('#ea6501');
+      f.setStyle(selectStyle);
+    });
   });
 </script>

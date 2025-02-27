@@ -33,18 +33,24 @@
               <summary class="event-name">
                 <div class="event-right">
                   <div v-if="event.solr_ids_array" class="map-count">
-                    <a @click="openDrawer(event.solr_ids_array)" class="tooltip">
-                    <div class="top">
-                      {{ event.solr_ids_array.length }} Related Maps<i></i>
+                    <div class="tooltip">
+                      <div class="top">
+                        {{ event.solr_ids_array.length }} Related Maps<i></i>
+                      </div>
+                      {{ event.solr_ids_array.length }}
                     </div>
-                    {{ event.solr_ids_array.length }}
-                    </a>
                   </div>
                 </div>
                 {{ event.name }} {{ event.end_year }}
               </summary>
               <div class="event-notes">
                 {{ event.event_date_range }}<br /><br />{{ event.notes }}
+                <div v-if="event.solr_ids_array">
+                  <br />
+                  <button @click="openDrawer(event.solr_ids_array)" class="button dark mt-auto">
+                    See {{ event.solr_ids_array.length }} related maps
+                  </button>
+                </div>
               </div>
             </details>
           </div>
@@ -260,7 +266,7 @@ export default {
 	max-width: 100%;
 }
 .timeline-years .years .year .map-count > span,
-.map-count > a, #selected-location-icon {
+.map-count > .tooltip, #selected-location-icon {
 	display: flex;
 	width: 22px;
 	height: 22px;
@@ -481,7 +487,7 @@ summary::-webkit-details-marker {display: none; }
 	.timeline-years .years .year .year-orient .era {
 		width: 88vw;
 	}
-	.timeline-years .years .year .event-name .map-count a {
+	.timeline-years .years .year .event-name .map-count .tooltip {
 		box-shadow: none;
 		background: #E0E0E0;
 		font-weight: 400;

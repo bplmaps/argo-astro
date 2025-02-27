@@ -16,8 +16,18 @@ const linkText = "Read more";
 const linkHref = `/stories/${entry.slug}`;
 const image = entry.data.banner_image;
 const story_type = entry.data.story_type ? entry.data.story_type : "Story";
-
+const meta_line = `${entry.data.author ? entry.data.author + " · " : ""}${
+  entry.data.publish_date
+    ? entry.data.publish_date.toLocaleDateString("en-US", {
+        year: "numeric",
+        month: "long",
+        day: "numeric",
+        timeZone: 'UTC'
+      })
+    : ""
+}`;
 ---
+
 <Card
   client:visible
   className={className}
@@ -25,8 +35,9 @@ const story_type = entry.data.story_type ? entry.data.story_type : "Story";
   subtitle={subtitle}
   link={{
     href: linkHref,
-    text: linkText
+    text: linkText,
   }}
   image={image}
-  badge={story_type}
+  badge={[story_type]}
+  meta_line={meta_line}
 />
