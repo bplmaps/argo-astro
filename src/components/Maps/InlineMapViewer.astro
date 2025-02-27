@@ -1,0 +1,33 @@
+---
+import MapViewer from "@components/Maps/MapViewer.jsx";
+import { getEntry } from "astro:content";
+
+interface Props {
+  identifier: string;
+}
+
+const { identifier } = Astro.props;
+const recordData = await getEntry("maps", identifier);
+const manifestURI = recordData.data.dcMetadata.identifier_iiif_manifest_ss;
+const viewerManifest = manifestURI.includes("ark.digitalcommonwealth")
+  ? "https://collections.leventhalmap.org/search/" +
+    recordData.data.dcMetadata.id +
+    "/manifest.json"
+  : manifestURI;
+const collectionURI = `/maps/${identifier.replace("__", ":")}`;
+
+---
+
+<div class="px-4">
+  <div class="bg-gray-100 w-full rounded">
+    <div class="flex p-4">
+      <div class="text-bold flex-grow font-heading mr-4">
+        {recordData.data.dcMetadata.title_info_primary_tsi}
+      </div>
+      <div>
+        <a href={collectionURI} class="button dark text-sm text-nowrap">Full record</a>
+      </div>
+    </div>
+    <MapViewer manifest={viewerManifest} client:only="react" />
+  </div>
+</div>
