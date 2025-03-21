@@ -57,7 +57,7 @@ switch (columns) {
   {contentType === 'facetCategories' &&
     <FacetCategoryCards
       className={cardClassName}
-      columnClassName={columnClassName}
+      columnClassName={'flex w-full px-2 ' + columnClassName}
       identifiers={identifiers}
       maxCards={maxCards}
     />
