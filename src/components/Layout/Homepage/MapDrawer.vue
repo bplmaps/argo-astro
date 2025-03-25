@@ -21,14 +21,19 @@
             <div class="flex gap-3 flex-col" v-for="id in $drawerIdentifiers" :key="id">
               <template v-if="maps[id]">
                 <img v-if="maps[id].image" :src="maps[id].image" class="block w-full aspect-video object-cover object-center rounded" />
-                <div>
-                  <h3 v-if="maps[id].title" class="font-bold leading-tight text-bismark-900">
-                    {{ maps[id].title }}
-                  </h3>
-                  <h4 v-if="maps[id].subtitle" class="italic text-gray-500">
-                    {{ maps[id].subtitle }}
-                  </h4>
-                  <a :href="maps[id].link" class="button dark mt-1">See map</a>
+                <div class="flex flex-row gap-2">
+                  <div class="">
+                    <h3 v-if="maps[id].title" class="font-bold leading-tight text-bismark-900">
+                      {{ maps[id].title }}
+                    </h3>
+                    <h4 v-if="maps[id].subtitle" class="italic text-gray-500">
+                      {{ maps[id].subtitle }}
+                    </h4>
+                    <a :href="maps[id].link" class="button dark mt-1" v-if="!kiosk">See map</a>
+                  </div>
+                  <div v-if="kiosk" class="w-1/2 flex-grow">
+                    <VueQrcode :value="`https://www.argomaps.org${maps[id].link}`" :size="100"/>
+                  </div>
                 </div>
               </template>
             </div>
@@ -48,9 +53,15 @@ const $drawerIdentifiers = useStore(drawerIdentifiers);
 </script>
 
 <script>
+import VueQrcode from 'vue-qrcode';
+
 export default {
   props: {
-		maps: Object
+		maps: Object,
+    kiosk: {
+      type: Boolean,
+      default: false
+    }
 	},
 	methods: {
     closeDrawer() {
