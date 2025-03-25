@@ -31,6 +31,8 @@ mapEntriesSanitized.forEach((entry) => (
 ---
 
 <BaseLayout title={title} description={description} kiosk={true}>
-   <SearchByMap />
-   <MapDrawer maps={drawerMaps} client:load />
+  <div class="w-window-width h-window-height absolute inset-0 p-8">
+    <SearchByMap />
+    <MapDrawer maps={drawerMaps} kiosk={true} client:load />
+  </div>
 </BaseLayout>
