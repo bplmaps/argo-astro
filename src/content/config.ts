@@ -85,7 +85,7 @@ const stories = defineCollection({
         title: z.string(),
         short_description: z.string(),
         banner_image: z.string().url(),
-        author: z.string(),
+        author: z.string().optional(),
         publish_date: z.date(),
         story_type: z.string().optional()
     }),
