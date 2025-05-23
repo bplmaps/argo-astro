@@ -19,7 +19,9 @@ partnerIDs = [
     "commonwealth:j3860802m",
     "commonwealth-oai:1r66p075h",
     "commonwealth:kh04p6570",
-    "commonwealth:2227ng27z"
+    "commonwealth:2227ng27z",
+    "commonwealth:qn59z056g",
+    "commonwealth:cz30xk43k"
 ]
 
 for partner in partnerIDs:
