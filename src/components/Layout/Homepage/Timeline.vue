@@ -6,7 +6,7 @@
 			Explore by Timelines
 		</span>
 	  </h2>
-      <ul class="flex flex-wrap gap-1">
+      <ul class="flex flex-wrap gap-1" v-if="data">
         <li v-for="(era, eraYear) in data.timeline_eras" :key="eraYear">
           <a @click="scrollTo(eraYear)" :class="['pill', 'cursor-pointer', { 'pill-active': showEra == eraYear }]">{{ era.era }}</a>
         </li>
@@ -114,17 +114,19 @@ const $drawerIdentifiers = useStore(drawerIdentifiers);
 <script>
 export default {
 	props: {
-		data: Object
+		jsonSrc: String
 	},
 	data() {
 		return {
 			ready: false,
 			isMobile: false,
-			showEra: Object.keys(this.data.timeline_eras)[0],
 		};
 	},
-	beforeMount() {
-		this.resize();
+	async beforeMount() {
+    const response = await fetch(this.jsonSrc);
+    this.data = await response.json();
+    this.showEra = Object.keys(this.data.timeline_eras)[0],
+    this.resize();
     this.ready = true; // prevent painting before data is available
 	},
 	mounted() {
