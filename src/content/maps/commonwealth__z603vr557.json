@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750147027533824,
+        "_version_": 1842457982833524736,
         "abstract_tsi": "This map and battle plan immortalized what came to be known as the Battle of Bunker Hill. The alphabetic key identifies British regiments and ships and narrates their actions. The plan also shows earthworks held by the Colonial troops. This detailed plan was published in London only five days after news of the battle itself reached England. Given the haste with which it was prepared, its geographic vagueness in the rendering of Charlestown is less surprising than its overall accuracy and detail.",
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
@@ -27,7 +27,7 @@
             "1775"
         ],
         "date_type_ssm": [
-            "dateIssued"
+            "dateCreated"
         ],
         "destination_site_ssim": [
             "nblmc",
@@ -44,7 +44,9 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vr557",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vr557/manifest",
@@ -57,27 +59,22 @@
         "identifier_uri_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vr557",
         "institution_ark_id_ssi": "commonwealth:z603vr247",
         "institution_name_ssi": "George Washington's Mount Vernon",
-        "issuance_tsi": "monographic",
         "lang_term_ssim": [
             "English"
         ],
-        "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
-        "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "license_ss": "No known restrictions on use.",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
-            "Faden, William, 1749-1836",
-            "Jefferys, Thomas, d. 1771"
+            "Jefferys & Faden (London, England)"
         ],
         "name_role_tsim": [
-            "Creator",
-            "Creator"
+            "Cartographer"
         ],
         "name_tsim": [
-            "Faden, William, 1749-1836",
-            "Jefferys, Thomas, d. 1771"
+            "Jefferys & Faden (London, England)"
         ],
         "note_resp_tsim": [
-            "engravd by Jefferys & Faden."
+            "engravd by Jefferys & Faden"
         ],
         "note_tsim": [
             "Relief shown by hachures.",
@@ -97,17 +94,17 @@
             "{\"url\":\"http://catalog.mountvernon.org/digital/collection/p16829coll42/id/38\",\"label\":\"MVLA record\"}"
         ],
         "resource_type_manuscript_bsi": false,
-        "reuse_allowed_ssi": "creative commons",
+        "reuse_allowed_ssi": "no restrictions",
         "rights_ss": "No known copyright restrictions.",
         "scale_tsim": [
             "Scale [ca. 1:13,800]"
         ],
         "score": 1.0,
         "subject_bbox_geospatial": [
-            "ENVELOPE(-71.0506, -71.0212, 42.234, 42.2148)"
+            "ENVELOPE(-71.0885, -71.043, 42.391, 42.3559)"
         ],
         "subject_coordinates_geospatial": [
-            "ENVELOPE(-71.0506, -71.0212, 42.234, 42.2148)"
+            "ENVELOPE(-71.0885, -71.043, 42.391, 42.3559)"
         ],
         "subject_facet_ssim": [
             "Bunker Hill, Battle of, Boston, Mass., 1775--Maps--Early works to 1800",
@@ -116,23 +113,24 @@
         "subject_geographic_sim": [
             "Boston",
             "Bunker Hill",
+            "Massachusetts",
             "North and Central America",
             "Suffolk (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-71.0506,42.2148],[-71.0212,42.2148],[-71.0212,42.234],[-71.0506,42.234],[-71.0506,42.2148]]]},\"bbox\":[-71.0506,42.2148,-71.0212,42.234]}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-71.0885,42.3559],[-71.043,42.3559],[-71.043,42.391],[-71.0885,42.391],[-71.0885,42.3559]]]},\"bbox\":[-71.0885,42.3559,-71.043,42.391]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Suffolk\",\"city\":\"Boston\",\"city_section\":\"Bunker Hill\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Massachusetts\",\"county\":\"Suffolk\",\"city\":\"Boston\",\"city_section\":\"Bunker Hill\"}}"
         ],
         "subject_topic_tsim": [
             "Bunker Hill, Battle of, Boston, Mass., 1775--Maps--Early works to 1800",
             "Boston (Mass.)--History--Revolution, 1775-1783--Maps--Early works to 1800"
         ],
         "system_create_dtsi": "2016-11-20T05:10:36Z",
-        "system_modified_dtsi": "2023-09-15T14:48:21Z",
-        "timestamp": "2023-10-03T15:52:10.524Z",
+        "system_modified_dtsi": "2025-09-05T20:40:48Z",
+        "timestamp": "2025-09-05T20:40:57.286Z",
         "title_info_primary_tsi": "A sketch of the action between the British forces and the American provincials, on the heights of the peninsula of Charlestown, the 17th of June 1775",
         "type_of_resource_ssim": [
             "Cartographic"

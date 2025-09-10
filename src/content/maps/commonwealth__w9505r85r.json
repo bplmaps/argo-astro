@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1799601083492859904,
+        "_version_": 1842455989914173440,
         "admin_set_ark_id_ssi": "commonwealth:41688024w",
         "admin_set_name_ssi": "Norman B. Leventhal Map & Education Center Collection",
         "collection_ark_id_ssim": [
@@ -45,12 +45,15 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:w9505r85r",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/w9505r85r/manifest",
         "identifier_local_barcode_tsim": [
-            "39999059019529"
+            "39999059019529",
+            "39999059030302"
         ],
         "identifier_local_call_tsim": [
             "G3300 1755 .M655x"
@@ -61,26 +64,31 @@
         "identifier_uri_ss": "https://ark.digitalcommonwealth.org/ark:/50959/w9505r85r",
         "institution_ark_id_ssi": "commonwealth:sf268508b",
         "institution_name_ssi": "Boston Public Library",
-        "issuance_tsi": "monographic",
         "lang_term_ssim": [
             "English"
         ],
         "license_ss": "No known restrictions on use.",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
-            "Moll, Herman, d. 1732"
+            "Moll, Herman, -1732",
+            "Bowles, Thomas, 1694-1773",
+            "Bowles, John, 1701-1779"
         ],
         "name_role_tsim": [
-            "Creator"
+            "Cartographer",
+            "Publisher",
+            "Publisher"
         ],
         "name_tsim": [
-            "Moll, Herman, d. 1732"
+            "Moll, Herman, -1732",
+            "Bowles, Thomas, 1694-1773",
+            "Bowles, John, 1701-1779"
         ],
         "note_date_tsim": [
             "This date is inferred."
         ],
         "note_resp_tsim": [
-            "according to the newest and most exact observations by Herman Moll."
+            "according to the newest and most exact observations by Herman Moll"
         ],
         "note_tsim": [
             "Relief shown pictorially.",
@@ -102,7 +110,7 @@
         "reuse_allowed_ssi": "no restrictions",
         "rights_ss": "No known copyright restrictions.",
         "scale_tsim": [
-            "Scale ca. 1:3,168,000."
+            "Scale ca. 1:3,168,000"
         ],
         "score": 1.0,
         "sub_location_tsi": "Norman B. Leventhal Map & Education Center",
@@ -129,9 +137,9 @@
             "North America--Maps--Early works to 1800"
         ],
         "system_create_dtsi": "2015-01-23T21:33:33Z",
-        "system_modified_dtsi": "2024-05-20T19:05:57Z",
-        "timestamp": "2024-05-20T19:28:53.103Z",
-        "title_info_primary_subtitle_tsi": "containing Newfoundland, New Scotalnd, New England, New York, New Jersey, Pensilvania, Maryland, Virginia and Carolina",
+        "system_modified_dtsi": "2025-09-05T20:09:08Z",
+        "timestamp": "2025-09-05T20:09:16.690Z",
+        "title_info_primary_subtitle_tsi": "containing Newfoundland, New Scotland, New England, New York, New Jersey, Pensilvania, Maryland, Virginia and Carolina",
         "title_info_primary_tsi": "A new and exact map of the dominions of the King of Great Britain on ye continent of North America",
         "type_of_resource_ssim": [
             "Cartographic"

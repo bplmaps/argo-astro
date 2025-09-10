@@ -1,8 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1817342162027675648,
-        "abstract_tsi": "Bowen, a leading British map seller and engraver during the mid-18th century, published his first maps of the Americas in the 1740s. This beautifully colored example, which was issued in 1772, was updated to reflect the changes in European colonial claims following the French and Indian War. As indicated in the title, a major purpose of this work was to differentiate the British and Spanish possessions. Consequently, the eastern part of the continent was outlined in red to indicate British control while the western part extending south through Mexico and Central America was outlined in yellow, reflecting Spanish control. The map's ornate title cartouche focuses on two Native American figures identified by their headdresses. One carries a bow while the other sits near a fishing net, suggesting European exploitation of the continent's rich resources. Native fauna, including a parrot, monkeys, a beaver, and a crocodile, have been incorporated into the decorative border.",
+        "_version_": 1842455989957165056,
         "admin_set_ark_id_ssi": "commonwealth:41688024w",
         "admin_set_name_ssi": "Norman B. Leventhal Map & Education Center Collection",
         "collection_ark_id_ssim": [
@@ -40,7 +39,7 @@
         "digital_origin_ssi": "reformatted_digital",
         "exemplary_image_key_base_ss": "images/commonwealth:8k71nt54v",
         "exemplary_image_ssi": "commonwealth:8k71nt54v",
-        "extent_tsi": "102 x 118 cm.",
+        "extent_tsi": "1 map : hand colored ; 102 x 116 cm",
         "filenames_ssim": [
             "05_04_000136",
             "commonwealth:x633f864h_metadata"
@@ -48,12 +47,17 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:x633f864h",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/x633f864h/manifest",
         "identifier_local_barcode_tsim": [
             "39999058992486"
+        ],
+        "identifier_local_call_tsim": [
+            "G3300 1763 .B69"
         ],
         "identifier_local_other_tsim": [
             "05_04_000136"
@@ -61,31 +65,35 @@
         "identifier_uri_ss": "https://ark.digitalcommonwealth.org/ark:/50959/x633f864h",
         "institution_ark_id_ssi": "commonwealth:sf268508b",
         "institution_name_ssi": "Boston Public Library",
-        "issuance_tsi": "monographic",
         "lang_term_ssim": [
             "English"
         ],
         "license_ss": "No known restrictions on use.",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJzVWWtv2zgW/d5fQejD7gxgS/IztqfRoMkkbWaTbdFksItdLApaoiU2EimQdBz/+z2kJVuynTSZ7gNTpE5C3ve95D2XefvzY5GTB6Y0l+LU6/mhR5iIZcJFeur9dnfZnXg/R2/eFjLRM/tBQC/07DHn4v7Uy4wpZ0GwWq381cCXKg160+k0cLteTar5McJ+GPaCv99c38YZK2iXC22oiFnNZXW12HIZ+6l8COxG8DDwdkYP/BNwaT7TTtS1jKlxG09zkyNbVn9CFfYrIve9O+ie+I868aI3hGzCYLjJ2ZVYSLLUNGWnXql4QdXaIwnXZU7X13TO8u3yl2rVSahlCClupTLRO0HeBq2VBpFTFNE4XipqGCloSeSC/BVUGXlXMMVjWjFvKBusejm/c2sJ07Hic6STwD1rocHPS64zu2QyRs4UN/jVbd+WVNifE1lwgRhqIgWIuCapYtSQWAqwM2HIjMAuqRInRTpBCVuAyfAHRoylXlvyOF8mLCHg/UQV5PRCGH/J5muf9E7GAysn1xIfuZPxN6YNuRIJp+RK5zBJE8RSinSjp+OsLKXWDF8Jma8dl2YoBpqTi6WSJaOCIPSoJe2okVfDdBWobVxsNoN2OncZFrSAD+vS5hZVJgXNPUKXJpOI1frUE3TR+P23z1fbWuPJtp7qfc50YAVqlCzNl+yl5IGQ/bDf7/WnvcGoXTzYRjRNdCZXTHTIRVFQsWR5XUn19hGWyqsEIfGi3ng67CILJ88wKlkXVnPljqmiEmXYo2kFBzUfK5ZTI9W3g/SAwzpf5jgmQcXzjTAdYQhik3rROQyXqaJlxlTlT21p5U/Qcqjh88sTDyuwcjQX7/kc9B3yq8wE+eFCwBQU5Y9/8NCyVHlR7cx/Laz/o/M0CcPxeDoeHk/gLV0z1SGf5Zwp8+qjdNIf4ShNh3/wfJdzlPen5TxHF/iOhFt/Pi4+My2XKmaNs8nj+tZtU2w5UyYUa8YgLdIyfpX3laIbJEZxdJcXR2GfMTBpgZLpj3v7rR1W2objRTe0rFuLs3znCIxF06r7Sr0KGfFeEbil/SqIrqVIpKhEb0laGWjIqiTVeYs+of8Z9MeFVFVBE1feNeeWsMFtC/nc9m3w7SDgahAnBqfznq1/wdapt8bBQ7mf9CtZDbZGObS93yhAO0+XAExNpfXac6eAazkeTLv9+auqoOZ6cfZrhoCJ1N15NkSVO00zG142PapSkK01YFn+i4NdpcWhrRgjKobmH110IsWQn4IaG/Fqpw5qi64hALEB+op6DgzOSGYBTixzqSDiJ4CrPnkkvd6YxEUlqWJoiLCVoQQzNwwo6w4hjwBTUxZ8LVlaMR2SvIDf8MXie/i/lv3n2OvSPR7gGlUbFn1mOWcLojO5AhDkMe41HOZ87W+BtmF7LB8aYXyGzLu2QNT4ZOWThZIFcKxS0vee5rja4F9NAKGtHTCc2A3d2Xxz8BpC+MZIEueUF3qDcjERMaMt4vfekRI3KI9todZjwBldAG47yg/LBD31zxprGELsincHVFxSbecTC5ItkrYw/ZzmHDUnOH3O6kuc5qWtKC4cvL6kFkv/iRblT+RT7n65eMwwVJgO+QuQAWD9ObM56wDk5wU5YzTOOuTyukO0xeEEs97IJzdn5Iezz9c/Pqm4ugAcYC/skAE3FdMl5hAoy3Hsvcjas8rQe+ATx7GxST6YRHKL+I2LRCHtD7g2II/H94QXpZIPTjzijNBcADv7pELSKUOb8q2YD3Dqhn6FmPUmHQ7X1SCPtRFR2xXMGF9ZbFq4MdbZ6xBOJeQVIKfmCHSGeE9wCwwm0xbUMRLHIWrNj92u7WDd7gVV+ZqspLrX1vseoFLdqB3T7gBWap5116TiCW/dfeunzJi1z5Jl4CgPPDxCFZyE/elwGLYcyji6sIoze67esxphtNsrRW+Kjs3MbqNFup1uK3qbdlvYdrRs8+4omw35OXMqDQ0gpPeVuxq2lRuNJn5vPO50e+HQH47HW6U7iqbaA6HfyNQLDdLwgkW39pP8M6aY12ejzigMO2EY/qtW4Wh+lzEOcrLkCke9OvcZjmq7XpuT+f6zCOq2tEf+DFy4Rc9lnkM+32Km5pPIsUE/2LdiZxpP7GWxQDYry5aKe5GtTY3ipOrer/pzLItCihWjucncoxb2ZsEonI6mweN4MFhMxsMaQuyEPqPIzZddidsKY1c4+hIOvyDavcH49ULwH/j0/WAQhpuXFv9sPH29mDkKWiaYcAZT/AtHk+m0P5w8Z09evb+1kGnVteu3OQtQH+yb1kHaDigbaKu59KSqpcoP3uXQIJjWp57c3FRoa/YAO5z9nVmFtn3ltbJSsQfOVr9fRWCyZTEXlOdPK7OdBwiZ80UXfYwvmP4On4JaRFvfk+HfeHqOSYXbjfqwaOZuTsXQaZOlS+7+/JTzmAHeeLhoyb2wPRx93uCCNfWjI6TUSGxPzX9CP3B1ht66Ux/Lcu0WW4Z80wLFLPLYH/I2q+e2xIS53Qy41TXlRuuYXPM5OsV6ewkd0h+KszMWlNsp7HA+i/phv9ft2a+7cDgbTmbh4B9t8Q3+I9IxSaTsadmjbjjthqO7fjgLp7Nwsid7y30ouZphUMruXZYBybKkxX045dRz1cfFOUXxSvv62+4BR+ZGd0393+dGfDwxMx5MjYfeVUPibrS5rf4msf8o1CDxIkrjGogeYW01u121Vkv2I3rzb/8F9AQ=",
         "name_facet_ssim": [
-            "Bowen, Emanuel, d. 1767"
+            "Bowen, Emmanuel, 1694-1767",
+            "Gibson, John (Engraver)",
+            "Sayer, Robert, 1725-1794"
         ],
         "name_role_tsim": [
-            "Creator"
+            "Cartographer",
+            "Engraver",
+            "Publisher"
         ],
         "name_tsim": [
-            "Bowen, Emanuel, d. 1767"
+            "Bowen, Emmanuel, 1694-1767",
+            "Gibson, John (Engraver)",
+            "Sayer, Robert, 1725-1794"
         ],
         "note_resp_tsim": [
-            "the whole laid down according to the latest and most authentick improvements, by Eman. Bowen, geogr. to His Majesty, and John Gibson, engraver."
+            "the whole laid down according to the latest and most authentick improvements, by Eman. Bowen, geogr. to His Majesty, and John Gibson, engraver"
         ],
         "note_tsim": [
             "Relief shown pictorially.",
             "Hand colored.",
             "\"Longit. w. from Ferro.\"",
             "Includes historical notes, notes on territorial claims, and insets of \"A particular map of Baffin and Hudson's Bay\" and \"The passage by land to California.\"",
-            "Featured in the Faces & Places Exhibit, Kravis Center, Palm Beach, FL, since 2005. MB (BRL)",
-            "3rd state."
+            "Featured in the Faces & Places Exhibit, Kravis Center, Palm Beach, FL, since 2005. MB (BRL)"
         ],
         "physical_location_ssim": [
             "Private Collection"
@@ -101,7 +109,7 @@
         "reuse_allowed_ssi": "no restrictions",
         "rights_ss": "No known copyright restrictions.",
         "scale_tsim": [
-            "Scale [ca. 1:550,000]."
+            "Scale [ca. 1:5,500,000]"
         ],
         "score": 1.0,
         "subject_coordinates_geospatial": [
@@ -127,8 +135,8 @@
             "North America--Maps--Early works to 1800"
         ],
         "system_create_dtsi": "2015-01-23T18:49:57Z",
-        "system_modified_dtsi": "2024-12-02T15:15:37Z",
-        "timestamp": "2024-12-02T15:15:44.047Z",
+        "system_modified_dtsi": "2025-09-05T20:09:08Z",
+        "timestamp": "2025-09-05T20:09:16.731Z",
         "title_info_primary_subtitle_tsi": "describing and distinguishing the British and Spanish dominions on this great continent : according to the definitive treaty concluded at Paris 10th Feby. 1763 : also all the West India Islands belonging to, and possessed by the several European princes and states",
         "title_info_primary_tsi": "An accurate map of North America",
         "type_of_resource_ssim": [
