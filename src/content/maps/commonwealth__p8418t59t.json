@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1832306728464547840,
+        "_version_": 1842457869303152640,
         "admin_set_ark_id_ssi": "commonwealth:p8418t36h",
         "admin_set_name_ssi": "The New York Historical Collection",
         "collection_ark_id_ssim": [
@@ -41,10 +41,11 @@
             "commonwealth:p8418t59t_metadata"
         ],
         "genre_basic_ssim": [
-            "Maps",
-            "Manuscripts"
+            "Maps"
         ],
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:p8418t59t",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/p8418t59t/manifest",
@@ -58,7 +59,7 @@
             "English"
         ],
         "license_ss": "No known restrictions on use.",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Butler, Richard, 1743-1791"
         ],
@@ -84,13 +85,13 @@
             "New-York Historical Society Collection"
         ],
         "related_item_isreferencedby_ssm": [
-            "{\"url\":\"https://library.nyu.edu/persistent/lcn/nyu_aleph001480179?institution=NYU\\u0026persistent\"}"
+            "{\"url\":\"https://library.nyu.edu/persistent/lcn/nyu_aleph001480179?institution=NYU\\u0026persistent\",\"label\":\"Catalog record\"}"
         ],
         "resource_type_manuscript_bsi": true,
         "reuse_allowed_ssi": "no restrictions",
         "rights_ss": "No known copyright restrictions.",
         "scale_tsim": [
-            "Scale [ca. 1:3,000] 100 p[ace]s to an in."
+            "Scale [ca. 1:19,800] 100 p[ole]s to an in."
         ],
         "score": 1.0,
         "subject_coordinates_geospatial": [
@@ -132,8 +133,8 @@
             "Landforms--New Jersey--Freehold--Maps"
         ],
         "system_create_dtsi": "2017-11-02T17:38:41Z",
-        "system_modified_dtsi": "2023-09-15T14:47:12Z",
-        "timestamp": "2025-05-16T19:31:06.713Z",
+        "system_modified_dtsi": "2025-09-05T20:39:05Z",
+        "timestamp": "2025-09-05T20:39:09.014Z",
         "title_info_alternative_tsim": [
             "Plan of the battle of Monmouth, Twenty-eighth of June, 1778"
         ],

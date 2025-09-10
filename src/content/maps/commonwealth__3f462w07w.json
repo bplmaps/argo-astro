@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1799601775520514048,
+        "_version_": 1842456556003655680,
         "admin_set_ark_id_ssi": "commonwealth:41688024w",
         "admin_set_name_ssi": "Norman B. Leventhal Map & Education Center Collection",
         "collection_ark_id_ssim": [
@@ -42,7 +42,7 @@
         "edition_name_tsi": "1st state.",
         "exemplary_image_key_base_ss": "images/commonwealth:3f462w085",
         "exemplary_image_ssi": "commonwealth:3f462w085",
-        "extent_tsi": "1 chart : col. ; 70 x 103 cm. + text (1 page ; 78 x 57 cm)",
+        "extent_tsi": "1 chart : col. ; 70 x 103 cm.",
         "filenames_ssim": [
             "06_01_004985",
             "06_01_008397",
@@ -51,7 +51,9 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:3f462w07w",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/3f462w07w/manifest",
@@ -59,11 +61,10 @@
             "30000002807418"
         ],
         "identifier_local_call_tsim": [
-            "G1106.P5 D4 1777"
+            "G1106.P5 D4 1777 pl.47"
         ],
         "identifier_local_other_tsim": [
-            "06_01_004985",
-            "06_01_008397"
+            "06_01_004985"
         ],
         "identifier_uri_ss": "https://ark.digitalcommonwealth.org/ark:/50959/3f462w07w",
         "institution_ark_id_ssi": "commonwealth:sf268508b",
@@ -72,14 +73,14 @@
             "English"
         ],
         "license_ss": "No known restrictions on use.",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1729-1824",
             "Callendar, George"
         ],
         "name_role_tsim": [
             "Cartographer",
-            "Writer of added text"
+            "Contributor"
         ],
         "name_tsim": [
             "Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1729-1824",
@@ -90,8 +91,7 @@
             "Relief shown by hachures and shading. Depths shown by soundings.",
             "Table of references identifies major pre-Revolutionary fortification features of Boston.",
             "Chart principally taken from surveys by George Callendar in 1769.",
-            "From the author's Atlantic Neptune.",
-            "Accompanied by nautical remarks and directions (1 page ; 78 x 57 cm)"
+            "From the author's Atlantic Neptune."
         ],
         "physical_location_ssim": [
             "Boston Public Library"
@@ -112,12 +112,12 @@
         "score": 1.0,
         "sub_location_tsi": "Norman B. Leventhal Map & Education Center",
         "subject_bbox_geospatial": [
-            "ENVELOPE(-71.15, -70.83, 42.42, 42.27)"
+            "ENVELOPE(-71.0536, -70.5001, 42.2417, 42.1418)"
         ],
         "subject_coordinates_geospatial": [
             "42.3333,-70.9667",
-            "ENVELOPE(-71.15, -70.83, 42.42, 42.27)",
-            "42.35,-71.05"
+            "42.35,-71.05",
+            "ENVELOPE(-71.0536, -70.5001, 42.2417, 42.1418)"
         ],
         "subject_facet_ssim": [
             "Nautical charts--Massachusetts--Boston Harbor--Early works to 1800",
@@ -134,8 +134,8 @@
         ],
         "subject_geojson_facet_ssim": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.9667,42.3333]},\"properties\":{\"placename\":\"Boston Harbor, MA\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-71.15,42.27],[-70.83,42.27],[-70.83,42.42],[-71.15,42.42],[-71.15,42.27]]]},\"bbox\":[-71.15,42.27,-70.83,42.42]}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"placename\":\"Boston, MA\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"placename\":\"Boston, MA\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-71.0536,42.1418],[-70.5001,42.1418],[-70.5001,42.2417],[-71.0536,42.2417],[-71.0536,42.1418]]]},\"bbox\":[-71.0536,42.1418,-70.5001,42.2417]}"
         ],
         "subject_hiergeo_geojson_ssm": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.9667,42.3333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Massachusetts\",\"other\":\"Boston Harbor\"}}",
@@ -151,8 +151,8 @@
             "Boston Harbor (Mass.)--Maps--Early works to 1800"
         ],
         "system_create_dtsi": "2020-06-24T21:50:17Z",
-        "system_modified_dtsi": "2024-05-20T19:20:25Z",
-        "timestamp": "2024-05-20T19:39:53.073Z",
+        "system_modified_dtsi": "2025-09-05T20:17:58Z",
+        "timestamp": "2025-09-05T20:18:16.555Z",
         "title_info_primary_tsi": "A chart of the harbour of Boston",
         "type_of_resource_ssim": [
             "Cartographic"
