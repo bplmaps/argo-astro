@@ -6,9 +6,9 @@ import CollectionGrid from "@components/CollectionGrid.astro";
 
 const title = 'Partner Collections';
 const entries = await getCollection('partner-collections');
-const identifiers = entries.map((entry) => (
-  entry.id
-));
+const identifiers = entries
+  .sort((a, b) => a.data.title_info_primary_ssi.localeCompare(b.data.title_info_primary_ssi))
+  .map((entry) => entry.id);
 
 ---
 <BaseLayout title={title}>

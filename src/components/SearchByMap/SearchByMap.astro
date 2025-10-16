@@ -103,8 +103,18 @@ import 'ol/ol.css';
       });
 
   const baseLayer = new TileLayer({source: baseSource});
+  const northAmericaExtent = transformExtent(
+    [-106.2,15.5,-51.9,58.4],
+    'EPSG:4326',
+    'EPSG:3857',
+  );
 
-  const view = new View();
+  const view = new View({
+    enableRotation: false,
+    maxZoom: 13,
+    extent: northAmericaExtent,
+  });
+
 
   const map = new Map({
     target: 'search-map',
@@ -117,11 +127,7 @@ import 'ol/ol.css';
   
   view.fit(
     fromExtent(
-      transformExtent(
-        [-105.42, 19.18, -62.53, 50.42],
-        'EPSG:4326',
-        'EPSG:3857',
-      ),
+      northAmericaExtent
     ),
   );
 

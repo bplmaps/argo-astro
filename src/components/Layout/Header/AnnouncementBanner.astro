@@ -1,0 +1,29 @@
+---
+import siteConfig from "site_config.json";
+---
+
+<div id="announcement-banner" class="bg-bismark-950 text-white px-6 py-2 flex items-center justify-between">
+    <div class="flex-1 text-center">
+        {siteConfig.announcementBanner.message}
+    </div>
+    <button 
+        id="close-banner" 
+        class="ml-4 text-red-600 hover:text-red-800 font-bold text-xl leading-none"
+        aria-label="Close announcement banner"
+    >
+        ×
+    </button>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const banner = document.getElementById('announcement-banner');
+        const closeButton = document.getElementById('close-banner');
+        
+        if (closeButton && banner) {
+            closeButton.addEventListener('click', () => {
+                banner.style.display = 'none';
+            });
+        }
+    });
+</script>

@@ -1,0 +1,38 @@
+---
+import { getCollection } from 'astro:content';
+
+
+import BaseLayout from "@layouts/BaseLayout.astro";
+import MapDrawer from '@components/Layout/Homepage/MapDrawer.vue'
+import SearchByMap from "@components/SearchByMap/SearchByMap.astro"
+
+const title = 'Search By Map';
+const description = 'American Revolutionary Geographies Online (ARGO) is a portal containing thousands of maps from dozens of institutions that bring to life the history and geography of the American Revolutionary War era.'
+
+const drawerMaps = {};
+const mapEntries = await getCollection('maps');
+const mapEntriesSanitized = mapEntries.map((entry) => (
+  {
+    id: entry.id.replace("__",":"),
+    data: entry.data,
+  }
+));
+
+mapEntriesSanitized.forEach((entry) => (
+  drawerMaps[entry.id] = {
+    id: entry.id,
+    image: `https://bpldcassets.blob.core.windows.net/derivatives/${entry.data.dcMetadata.exemplary_image_key_base_ss}/image_thumbnail_300.jpg`,
+    link: `/maps/${entry.id}`,
+    title: entry.data.dcMetadata.title_info_primary_tsi,
+    subtitle: entry.data.dcMetadata.admin_set_name_ssi,
+  }
+));
+
+---
+
+<BaseLayout title={title} description={description} kiosk={true}>
+  <div class="w-window-width h-window-height absolute inset-0 p-8">
+    <SearchByMap />
+    <MapDrawer maps={drawerMaps} kiosk={true} client:load />
+  </div>
+</BaseLayout>

@@ -9,9 +9,10 @@ interface Props {
   description: string;
   image: string;
   noindex?: boolean;
+  kiosk?: boolean;
 }
 
-const { title, description, image, noindex } = Astro.props;
+const { title, description, image, noindex, kiosk } = Astro.props;
 
 const siteTitle = "American Revolutionary Geographies Online";
 const siteImage =
@@ -59,11 +60,12 @@ const metaImage = image ? image : siteImage;
     </script>
   </head>
   <body class="bg-gray-50 flex flex-col min-h-screen">
-    <Header />
+    
+    {!kiosk  && <Header />}
     <slot name="hero" />
     <div class="container mx-auto px-5 mt-5 mb-auto">
       <slot />
     </div>
-    <Footer />
+    {!kiosk  && <Footer />}
   </body>
 </html>
