@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749527178608640,
+        "_version_": 1847512836363780096,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vp007",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vp007/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJzFWFtz0zgUfudXaPywAzP1JUnbNIWagcDudqYtDC3Lsi87iqzYorJkJLlp+PV7pMiOnUsp8LAvSSudu75zy4uX9yVHd1RpJsVZMIiSAFFBZMZEfhZ8vPk9PAlepk9elDLTp/YDAb3Qp/eciduzoDCmOo3jxWIRLUaRVHk8mEwmsbsNGlLNdhEOk2QQ/315cU0KWuKQCW2wILThsrp6bFySKJd3sb2I70bB2uhRNAYuzU61E3UhCTbuYj832nFl9WdYwb0nct/hKBxH9zoL0icIrcJgmOH0XMwlqjXO6VlQKVZitQxQxnTF8fICzyhvj//1p05CT0b6nmOB5ByZgiLCzNL+/QnrAoJvpHgRd0it9rivfm2RwCVFZlmBLUSqSipsaE+dJXiPlUlvCkxuscLoN1xWz9FfmHMbdS+6JeuwKrnS3j+5oar0Gg29NwHCtSmkAh/OAnCaKMqxkapz/vHDefsiLGujfgevNas5xCn2PBqeFvOaPp4hJmYWpFMpjGKzGk68O42h3p2450/H5c7Tgkfv5h+olrUiNJ1CLGSucFUw0kS/T9Fy5lQo2o1CXuYV+SH/vaJLeDzFMH98HDYZY5OXSXI8PB5sQhKspArzIL3ElfYeOcvXjoCxORMNvppTkEE2YOCONnGQvi8YxxnlYBB+6TW0lL2H6Ij0AusZZ7qgKv0Uoc+yFnkroL3pkDOta4vdtJRi45Haqw55BtE5h3OadQrcYkQyMw/QLV2+gfuzYEkh7F9rzNmcUXUWfK2ptsUEzzhk1GA8GXoVa3EdMPVjt9IL+ZXXUCa6tjRnD2UR0/J4NAmHsx/CUMP1aOw0DDEVeZC+FbkNtHena2bHy65H/uWKpWYE8zdUE8UqG7Be6CEqBvN3LjqponOpSmwMvIS/aWLao+sIgNhQYdIBKnGFnqPhEN2j4TEiZeQ5PUEXHQKSQVBzSTOGbyDEKRTjnMZfKpo3KNkieQS/YfP5r/B/qYYPsTeA3x1QX8ylgdah5AxAuURzJUvXQD4KZlsi5gjrJa/LAwT9DE0l/Dlj0GdAPf7GBD1AdxE6PECXUKYLZCHdRNEJ7qnx4ITWaGgJEbYNSlFdSaHZjHGAZLCvpRwgTXYL1vXsCyWmC3ZOdPF9nDf3jOrYC9H9riorRtJ1B0VP30TT6FkY2nIXhm+xgoAtpLrVyEg0OEmSpqo7xnX8vfQHbTa52GOyS68op8YsI5rVsaPcyscdVPE4GYwmx8OeUwUUIvtUFg9/0KbS9WsxgWpp1DIFDNi0urbv1dT35m6DQRjAAuTMlVSmWEEF/oXmgF6V0EYIbtkbyp4AB4n0DdPQc4nDRYO0JoSOoK8U4pRuzTfutNsYHnLYC+r0Zb3pmFRQ263/6egkOjkZjQ7C8ThKRqNR69GapKt3S+p3wPBIizS4QdNr+4kgEVAOadr4vrr7KSPc8EOzc0hMn6WF1GZ7yFx38v7seYEXChohRX9G6JrjOi+gHNlH5KAG6o19Ut8ObNnVB4gUYBt851zOKHzPpIREssjBhmPdAq4dWPeMrPGm/Q85xfQHOqfO0uw1jNhutTgtoImsEklDJvm+QVrbdSSWFXdrBuRDqeOjQZIdjjMczpMxDfEom4Q0OUzgI8FQBo4P8WQSxGs7WAaAdyOAN6NWLEgbfVjdRq3OEsaPBcXcFE4f3J3GR8nkaBJ/O05Gd1WSjJuC3wrtTAd+WenNQb74N4tMekUXMA+pW/TezkEEXbAZJMhyo1dcdEQ1nbp7tFdfrfjWJoMJoRoWMLkqe0wgWwfchPeLUQBtm8obZZWid4wufl5FbAooQQIzvl+Z7UUAK8bmYYkFm1P9Cz7FjYi+vr3hX3kKm0rGXI7tQjPsTsB1R1cGaKcbXp0KyLB4tgwFCTWOD6MkDhpwaurSUNFKyax2KbA5+XsJtl0z7Xoggm9/miEYyZAVU4sMMI/R1BsBBcFZgV6Z1XJlrb6SIrTnVBFYN9A11AWKXnF2SwGaTiB6Op2i15/Dq2l4/epZMwZseL8/LI93C0bFwg4BVxLdCrmwMK2W7tDOKa43uXrwPQsUhFtlm1vP6tQulpC516uN7zVUWTBxZyruot8W50IrhV04tleRdJgMB2EyCQdHN8nwdHR0moz/6Yvv8O+QXsB0Tn9adsu9LdmP5ZBhMExCqlbw6lmPe3twb1aFd/MphpyScJ33m9GOVQispv//KgQfe9agrUVo2zu/96yn92v/49Lm7yQdkiDFmDQ/Xexg7fXONVr9kf1In/wHOLHTfA==",
         "name_facet_ssim": [
             "Thackara & Vallance"
         ],
@@ -99,15 +102,16 @@
             "Washington (D.C.)--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "District of Columbia",
             "North and Central America",
             "United States",
             "Washington"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.0333,38.8833]},\"properties\":{\"placename\":\"Washington\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.0333,38.8833]},\"properties\":{\"placename\":\"Washington, DC\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.0333,38.8833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"city\":\"Washington\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.0333,38.8833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"District of Columbia\",\"city\":\"Washington\"}}"
         ],
         "subject_point_geospatial": [
             "38.8833,-77.0333"
@@ -117,7 +121,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:31:35Z",
         "system_modified_dtsi": "2023-09-15T14:47:10Z",
-        "timestamp": "2023-10-03T15:42:19.390Z",
+        "timestamp": "2025-10-31T15:45:41.271Z",
         "title_info_primary_tsi": "Plan of the city of Washington",
         "type_of_resource_ssim": [
             "Cartographic"

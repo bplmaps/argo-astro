@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1811902183230144512,
+        "_version_": 1847512859606515712,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vq020",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vq020/manifest",
@@ -126,7 +129,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:45:58Z",
         "system_modified_dtsi": "2023-09-15T14:47:13Z",
-        "timestamp": "2024-10-03T14:09:35.986Z",
+        "timestamp": "2025-10-31T15:46:03.437Z",
         "title_info_primary_tsi": "North America drawn from the latest and best authorities",
         "type_of_resource_ssim": [
             "Cartographic"

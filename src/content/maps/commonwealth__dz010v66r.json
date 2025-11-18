@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750242129182720,
+        "_version_": 1847513050226098176,
         "abstract_tsi": "Ink and watercolor manuscript panoramic view depicting the area around Boston during the siege after the Battle of Bunker Hill, as seen from Beacon Hill.",
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
@@ -10,7 +10,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -48,7 +48,10 @@
         "genre_specific_ssim": [
             "Views"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:dz010v66r",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/dz010v66r/manifest",
@@ -64,7 +67,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Williams, Richard, active 1750-1776"
         ],
@@ -116,16 +119,17 @@
         ],
         "subject_geographic_sim": [
             "Boston",
+            "Massachusetts",
             "North and Central America",
             "Suffolk (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"placename\":\"Boston\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"placename\":\"Boston, MA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-71.08,42.33],[-71.01,42.33],[-71.01,42.39],[-71.08,42.39],[-71.08,42.33]]]},\"bbox\":[-71.08,42.33,-71.01,42.39]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Suffolk\",\"city\":\"Boston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Massachusetts\",\"county\":\"Suffolk\",\"city\":\"Boston\"}}"
         ],
         "subject_point_geospatial": [
             "42.35,-71.05"
@@ -138,7 +142,7 @@
         ],
         "system_create_dtsi": "2016-11-30T18:41:50Z",
         "system_modified_dtsi": "2023-09-15T14:48:34Z",
-        "timestamp": "2023-10-03T15:53:41.220Z",
+        "timestamp": "2025-10-31T15:49:05.226Z",
         "title_info_primary_tsi": "[Noddle Island and the Mill Pond]",
         "type_of_resource_ssim": [
             "Cartographic"

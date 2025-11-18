@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749931373199360,
+        "_version_": 1847512953126912000,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nh227",
         "extent_tsi": "1 map : ms. ; on sheet 38 x 53 cm.",
         "filenames_ssim": [
-            "lh000773",
-            "commonwealth:q524nh21z_metadata"
+            "commonwealth:q524nh21z_metadata",
+            "lh000773"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nh21z",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nh21z/manifest",
@@ -120,7 +123,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:36:16Z",
         "system_modified_dtsi": "2023-09-15T14:47:52Z",
-        "timestamp": "2023-10-03T15:48:44.860Z",
+        "timestamp": "2025-10-31T15:47:32.625Z",
         "title_info_primary_tsi": "Puerto Rico",
         "type_of_resource_ssim": [
             "Cartographic"

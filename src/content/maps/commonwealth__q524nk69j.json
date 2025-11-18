@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749968456089600,
+        "_version_": 1847512968247377920,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nk709",
         "extent_tsi": "2 maps on 1 sheet : both sides, ms. ; 51 x 34 cm. and 75 x 54 cm., sheet 54 x 75 cm.",
         "filenames_ssim": [
-            "ct000473rZZ",
-            "commonwealth:q524nk69j_metadata"
+            "commonwealth:q524nk69j_metadata",
+            "ct000473rZZ"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nk69j",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nk69j/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzNWW1v27YW/t5fQejDugGRJTuJE3uNhtTtugBJWjTpdl9wcUFLtMRGIjWSjuP9+vuQkmzJb03XAXdf3Ig85/C8n4fsq5+eipw8MqW5FBdevxd6hIlYJlykF96n+5/9c++n6MWrQiZ6bH8I6IUeP+VcPFx4mTHlOAgWi0VvcdyTKg36o9EocLteQ6r5LsJBGPaDf9xc38UZK6jPhTZUxKzhsmd12HIZ91L5GNiN4PHYWyt93DsDl+Zj7URdy5gat7Gfm+zYsucnVGG/JnL/+sf+We9JJ170gpDKDYabnF2JmSRzTVN24ZWKF1QtPZJwXeZ0eU2nLF8t/7dedRIaGUKKO6lMdEleBZ2FFo07JwKrIHJGblSPTHI+M1K81ESw+IFgJyHYN4YlZLoklOiY5sxSn4aklDnTxEhiMka4iLP6pEps6xw9n967NcViI2uq1aI1O+javcsVZlnCEzQ3TAm4/5F526Z8+MtM6ZH3eUVvKexqquRcID25cJ+3b0lJ1Wq3pNrMlRN3AzpDfoWaUpCZkoUj0POi4CvyjOe5JthfZDzO3FIu05cJiel0ikwlVLFNb+53kqAFq/1TImeloLlH6NxkUnGzvPAEnbW+P328WmUuT1bZ2exzpgMrUKMAaD5nzyUPxPmwfxKORsNuHmLvAxwV/UZ1hppHSI7IO4YCbQxcUezgqq1KqEG4+2fHA79/NhodYFSySb32yj1TRS3KsCfTcQ4qKFYMgZbqy056ROlP5zmKLqh5vuCmHQwBjvOiiWL2qzalUbI2JejY0jK3VRiw5v3sI9NyrmJGCirmOla8NBfeErGLJnCMTBUtkWBN5nRY1qJSJpC5LZekRVrGX+WM+qAbxElxmj/fKZuMgUmLMBwOhv3NZgctmUJiRze01LVFTvO/sSH9weB8eMCQJmZ77IHOKRdNrTerthhc9qCRrSfp4jhODMr8gS3fYKvOgv7ZMKxlt9haSdU9ojoArTKdY+60D23WDlUS13J4PPIH06/yeMP1bE83DAETqRe9FWnOdTN62mq2rGxbVNlTZkvNMQDesCoCGOcdH8MrhubvnXcwtmZSFdXoqHcap3boWgLgGyZMNEBhlq7R94nOGDNkTKbSZETzhOkjUuge+ZGc9skTOT4hcdEjdkydneL71H0f1Wz4erLrWKqPrk9oncmFnY3M3LCE03vEKAI8SFnwuWRpzbRN8gx+w2ezb+H/XA4Osdd7eyLSoBnDIgcXNgcu/FsN2TKTRsayXFqKXC6YIohKZsjvc5ooKkxvBYQM25B853wMfMYFQowJr9mjrVELAGIbp5nME7cDiKA5PA/XZ9oFSzPgAFeMNJciJVpiGFt6AozKEN/rHbqQgmuNuj2g0wcmfMgHbn04QHUl4nyOVCIL23gwyx6OAGYge5ovK79MeuQ7WpQ/kqse+UUKfujMyziWRUkFbzBSx6nW7RAJ7W32Niu1JSvTjmpMw5H2C1EJsnQdWHRNEwCHl+RSaxlzh6YbeZ8EPnrkPoMADbxot3hjJbV/a+ZwFP4GSgKOm6tHtsRBILyVjz0y9M9tDC1SeI7nBpVIRBmNxEmOMSC1DbuNb7PYxZSoPdiqD8q3QsfkkjQAe0JLA8s+IDxsqSFkIWXicGmFLWvHwQdTObfZAp5iSaZK4uSMIpXWGIr4PrEWSG2LIF/aCCyYXqNV3DOY2K9e3cOR8oYVSGbLp5gupUDq8Byd24sQuPtf4MbT0zqDkAh1Zrwjv/nWw8Pw7wOUu0bievEZ2dOeT3mss6/DwbUQ3b1qwAtx1FH++19pD539rXPnD75/51JS+77FKkdkPeh9/y1VqMyFVA/uvtE/D5sBXcldN8T68IMmmVTsscgNzF7KjFn2WDIPHOXWhN1BFZyFiOsg3IQtqEfgVR6j+E337pWyBmh2vLLCNKvdFk/G0V9VnNmO/26DoqGJrbBl9DPlakafanH14jahWkZoHbYP39ko6Da92mIQBs0Z4/MWV+LM1fkEn7blXxYAcDFdsTeUbWS+X/svxK7tgriF0HVXP3c1je7cBfXf/fHoaBiG/2lEu722NluC/nolUFskxZ1bfLsS7hrEkiv0nboJZVKb7cv8GvZ27/jXfArfu4E0wbxF09L4I8+rUbHjCWLXtTnYVOWQflx/ZDOmgLVZ8nrpEff4NM6ACqs60iikPI7FqoWMRifDk/B8QLxgLRcjE6k0Q+bUYueKe1HDj8Hdq8EkRnAhxYLR3GTuIQt74+A0HJ2Ogt9PByfiYTj63ACqldADB0EtmvtAnUx5UWzCMDw5O1Z//HFARl4/cbWj0gC05vlrZySaali6mkL7I2/4I9fryGxJaaH09tJeNeYq33oWozFQmr7wZNUgMXls3dr7ybc6GKdtHt4cVir2yNnizx8RmGxeTAXl+f7D7FBDBnI+83HF5zOmv8GmoBHRPW+v+ytLEduEOxi2K/Fje6VEZ6gU0O7snMcM6EcH06UvYl/T4KQXBl6T95q55FCsVDKZu7LdHDa1BC9yMNBOS4sn69UE8FoRKwY4A1lOyaRWAnnotCCXxig+nTutb6Xw7TpTQJo5ucsAGchlzh8Yua4Eku8nE/L6n/7txL+7/KEBTRvW73fL881ylwCgiVtJHgTQsUVUy+pmgOqByo5Lf1EDBXerZPNhoFqd2MwX5q565HmN3goVP8yncB6pK3bV/rbpt8U510phHxW2nxuiQTjo+yFu46P78GR8ejLuD/7VFd/i3yE9w82c/WnZK+5tyfWVHBUG8I1SBQZlSYd7+9LePBO8n00oakpiO+2OoB3PINCa/f+fQfCz5wlk6xFk27r6zWN98b6r/6di8520ReJFlMbN8+UO1s6YXWdrvWR/ohf/A4HBBvc=",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Washington, George, 1732-1799"
         ],
@@ -107,17 +110,18 @@
             "Fairfax (county)",
             "Mount Vernon",
             "North and Central America",
-            "United States"
+            "United States",
+            "Virginia"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Fairfax\",\"other\":\"Mount Vernon (historic site)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\",\"county\":\"Fairfax\",\"other\":\"Mount Vernon (historic site)\"}}"
         ],
         "subject_topic_tsim": [
             "Mount Vernon (Va. : Estate)--Surveys--Maps, Manuscript--Early works to 1800"
         ],
         "system_create_dtsi": "2017-05-26T15:42:54Z",
         "system_modified_dtsi": "2023-09-15T14:47:56Z",
-        "timestamp": "2023-10-03T15:49:20.224Z",
+        "timestamp": "2025-10-31T15:47:47.045Z",
         "title_info_alternative_tsim": [
             "Plan of Mr. Clifton's neck land platted by a scale of 50 poles to the inch. Old plat of the grounds in the NE part of the pasture of Mount Vernon from the summit of the hills on which the log'd cabbins are"
         ],

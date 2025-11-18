@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749568451608576,
+        "_version_": 1847512850489147392,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vp60p",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vp60p/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Jefferys, Thomas, -1771"
         ],
@@ -110,14 +113,15 @@
             "North America--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
-            "North America"
+            "North America",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-150.0,10.0],[-20.0,10.0],[-20.0,80.0],[-150.0,80.0],[-150.0,10.0]]]},\"bbox\":[-150.0,10.0,-20.0,80.0]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"area\":\"North America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"North America\"}}"
         ],
         "subject_point_geospatial": [
             "58.166,-104.466"
@@ -127,7 +131,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:40:38Z",
         "system_modified_dtsi": "2023-09-15T14:47:11Z",
-        "timestamp": "2023-10-03T15:42:58.751Z",
+        "timestamp": "2025-10-31T15:45:54.741Z",
         "title_info_primary_tsi": "North America",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749882184499200,
+        "_version_": 1847512929349402624,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -10,8 +10,8 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
-            "Maritime Charts and Atlases (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
+            "Maritime Charts and Atlases",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -46,7 +46,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nc966",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nc966/manifest",
@@ -61,7 +64,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Slowley, Robert"
         ],
@@ -114,13 +117,14 @@
         ],
         "subject_geographic_sim": [
             "Florida",
-            "North and Central America"
+            "North and Central America",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,28.0]},\"properties\":{\"placename\":\"Florida, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,28.0]},\"properties\":{\"placename\":\"Florida\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,28.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Florida\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,28.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Florida\"}}"
         ],
         "subject_point_geospatial": [
             "28,-82"
@@ -133,7 +137,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:17:38Z",
         "system_modified_dtsi": "2023-09-15T14:47:41Z",
-        "timestamp": "2023-10-03T15:47:57.950Z",
+        "timestamp": "2025-10-31T15:47:09.949Z",
         "title_info_alternative_tsim": [
             "Florida coast from Cape Blaise to Apalachie"
         ],

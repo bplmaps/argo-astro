@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749526530588672,
+        "_version_": 1847512836050255872,
         "admin_set_ark_id_ssi": "commonwealth:z603vh48c",
         "admin_set_name_ssi": "Harvard Map Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh48c"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Harvard Map Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vh61x",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vh61x/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Aitken, Robert, 1735-1802",
             "Gage, Thomas, 1721-1787"
@@ -112,15 +115,16 @@
         ],
         "subject_geographic_sim": [
             "Boston",
+            "Massachusetts",
             "North and Central America",
             "Suffolk (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"placename\":\"Boston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"placename\":\"Boston, MA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Suffolk\",\"city\":\"Boston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Massachusetts\",\"county\":\"Suffolk\",\"city\":\"Boston\"}}"
         ],
         "subject_point_geospatial": [
             "42.35,-71.05"
@@ -132,7 +136,7 @@
         ],
         "system_create_dtsi": "2016-11-20T02:04:17Z",
         "system_modified_dtsi": "2023-09-15T14:47:10Z",
-        "timestamp": "2023-10-03T15:42:18.771Z",
+        "timestamp": "2025-10-31T15:45:40.971Z",
         "title_info_alternative_tsim": [
             "General Gage's lines on Boston Neck",
             "Boston Neck in America"

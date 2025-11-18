@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1832306728644902912,
+        "_version_": 1847512847602417664,
         "admin_set_ark_id_ssi": "commonwealth:p8418t36h",
         "admin_set_name_ssi": "The New York Historical Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:p8418t36h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "The New York Historical Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:p8418t63d",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/p8418t63d/manifest",
@@ -134,7 +137,7 @@
         ],
         "system_create_dtsi": "2017-11-02T17:39:35Z",
         "system_modified_dtsi": "2023-09-15T14:47:12Z",
-        "timestamp": "2025-05-16T19:31:06.887Z",
+        "timestamp": "2025-10-31T15:45:51.989Z",
         "title_info_primary_subtitle_tsi": "wherein are shown the respective positions (in the beginning of October) 1\u00b0 of the British army commanded by Lord Cornwallis, at Gloucester and York in Virginia; : 2\u00b0 of the American and French forces under General Washington, : 3\u00b0 and of the French fleet under Count de Grasse",
         "title_info_primary_tsi": "A plan of the entrance of Chesapeak Bay, with James and York Rivers",
         "type_of_resource_ssim": [

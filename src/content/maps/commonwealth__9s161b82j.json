@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1799601022552768512,
+        "_version_": 1847513086436573184,
         "admin_set_ark_id_ssi": "commonwealth:41688024w",
         "admin_set_name_ssi": "Norman B. Leventhal Map & Education Center Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:41688024w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Norman B. Leventhal Map & Education Center Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -45,7 +45,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:9s161b82j",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/9s161b82j/manifest",
@@ -69,7 +72,7 @@
             "English"
         ],
         "license_ss": "No known restrictions on use.",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Russell, John, fl. 1733-1795"
         ],
@@ -122,14 +125,13 @@
             "District of Columbia",
             "Georgetown",
             "North and Central America",
-            "United States",
-            "Washington"
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.05,38.9]},\"properties\":{\"placename\":\"Georgetown, DC\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.05,38.9]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"District of Columbia\",\"city\":\"Washington\",\"city_section\":\"Georgetown\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.05,38.9]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"District of Columbia\",\"city_section\":\"Georgetown\"}}"
         ],
         "subject_point_geospatial": [
             "38.9,-77.05"
@@ -140,7 +142,7 @@
         ],
         "system_create_dtsi": "2015-01-23T20:26:27Z",
         "system_modified_dtsi": "2024-05-20T19:04:28Z",
-        "timestamp": "2024-05-20T19:27:54.987Z",
+        "timestamp": "2025-10-31T15:49:39.759Z",
         "title_info_primary_tsi": "Plan of the city of Washington, in the territory of Columbia, ceded by the States of Virginia and Maryland to the United States of America, and by them established as the seat of their government after the year 1800",
         "type_of_resource_ssim": [
             "Cartographic"

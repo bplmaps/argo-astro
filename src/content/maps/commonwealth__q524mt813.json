@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750250583851008,
+        "_version_": 1847513052514091008,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524mt813",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524mt813/manifest",
@@ -61,7 +64,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Le Rouge, Georges-Louis",
             "Jefferys, Thomas, -1771"
@@ -120,14 +123,15 @@
         "subject_geographic_sim": [
             "Bequia",
             "Grenadines (county)",
-            "North and Central America"
+            "North and Central America",
+            "Saint Vincent and the Grenadines"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-61.25,13.0]},\"properties\":{\"placename\":\"Bequia, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-61.25,13.0]},\"properties\":{\"placename\":\"Bequia, Saint Vincent and the Grenadines\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-61.3,12.98],[-61.2,12.98],[-61.2,13.05],[-61.3,13.05],[-61.3,12.98]]]},\"bbox\":[-61.3,12.98,-61.2,13.05]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-61.25,13.0]},\"properties\":{\"continent\":\"North and Central America\",\"county\":\"Grenadines\",\"island\":\"Bequia\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-61.25,13.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Saint Vincent and the Grenadines\",\"county\":\"Grenadines\",\"island\":\"Bequia\"}}"
         ],
         "subject_point_geospatial": [
             "13,-61.25"
@@ -137,7 +141,7 @@
         ],
         "system_create_dtsi": "2017-05-24T19:50:49Z",
         "system_modified_dtsi": "2023-07-13T13:46:43Z",
-        "timestamp": "2023-10-03T15:53:49.283Z",
+        "timestamp": "2025-10-31T15:49:07.408Z",
         "title_info_primary_subtitle_tsi": "leve\u0301 en 1763",
         "title_info_primary_tsi": "Bequia ou Becouya, le plus septentrionale des Granadilles",
         "type_of_resource_ssim": [

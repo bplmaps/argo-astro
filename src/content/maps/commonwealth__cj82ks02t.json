@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750128801185792,
+        "_version_": 1847513019240677376,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -11,9 +11,9 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
-            "Boston and New England Maps (Collection of Distinction)",
-            "Maritime Charts and Atlases (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
+            "Boston and New England Maps",
+            "Maritime Charts and Atlases",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -47,7 +47,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:cj82ks02t",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/cj82ks02t/manifest",
@@ -66,7 +69,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Blaskowitz, Charles."
         ],
@@ -121,14 +124,15 @@
             "Bristol (county)",
             "Narragansett Bay",
             "North and Central America",
+            "Rhode Island",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.3167,41.6]},\"properties\":{\"placename\":\"Narragansett Bay\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.3167,41.6]},\"properties\":{\"placename\":\"Narragansett Bay, RI\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-71.46,41.44],[-71.15,41.44],[-71.15,41.85],[-71.46,41.85],[-71.46,41.44]]]},\"bbox\":[-71.46,41.44,-71.15,41.85]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.3167,41.6]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Bristol\",\"other\":\"Narragansett Bay\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.3167,41.6]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Rhode Island\",\"county\":\"Bristol\",\"other\":\"Narragansett Bay\"}}"
         ],
         "subject_point_geospatial": [
             "41.6,-71.3167"
@@ -140,7 +144,7 @@
         ],
         "system_create_dtsi": "2015-01-24T00:19:32Z",
         "system_modified_dtsi": "2023-09-15T14:48:16Z",
-        "timestamp": "2023-10-03T15:51:53.142Z",
+        "timestamp": "2025-10-31T15:48:35.676Z",
         "title_info_primary_subtitle_tsi": "with all the isles contained therein, among which Rhode Island and Connonicut have been particularly surveyed ; shewing the true position & bearings of the banks, shoals, rocks &c. as likewise the soundings ; to which have been added the several works & batteries raised by the Americans ; taken by order of the principal farmers on Rhode Island",
         "title_info_primary_tsi": "A topographical chart of the bay of Narraganset in the province of New England",
         "type_of_resource_ssim": [

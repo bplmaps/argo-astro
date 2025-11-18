@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749958958088192,
+        "_version_": 1847512964551147520,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nk19b",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nk19b/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Hunter, John, 1737-1821"
         ],
@@ -107,13 +110,14 @@
         ],
         "subject_geographic_sim": [
             "Delaware River",
-            "North and Central America"
+            "North and Central America",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.2667,41.9333]},\"properties\":{\"placename\":\"Delaware River, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.2667,41.9333]},\"properties\":{\"placename\":\"Delaware River\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.2667,41.9333]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Delaware River\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.2667,41.9333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Delaware River\"}}"
         ],
         "subject_point_geospatial": [
             "41.9333,-75.2667"
@@ -123,7 +127,7 @@
         ],
         "system_create_dtsi": "2017-05-26T15:17:45Z",
         "system_modified_dtsi": "2023-09-15T14:47:55Z",
-        "timestamp": "2023-10-03T15:49:11.167Z",
+        "timestamp": "2025-10-31T15:47:43.520Z",
         "title_info_primary_subtitle_tsi": "in which is mark'd the position of His Majs. ships on the 15th. of November 1777. The obstructions to the navigation of the river, laid down by the rebels, are also mark'd",
         "title_info_primary_tsi": "Plan of part of the River Delaware from Chester to Philadelphia",
         "type_of_resource_ssim": [

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749956299948032,
+        "_version_": 1847512963423928320,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nk03f",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nk03f/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1245"
         ],
@@ -100,15 +103,16 @@
         "subject_geographic_sim": [
             "New Jersey",
             "New York",
-            "North and Central America"
+            "North and Central America",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"placename\":\"New York, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"placename\":\"New Jersey, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"placename\":\"New York\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"placename\":\"New Jersey\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"New York\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"New Jersey\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\"}}"
         ],
         "subject_point_geospatial": [
             "43,-75",
@@ -121,7 +125,7 @@
         ],
         "system_create_dtsi": "2017-05-26T15:10:44Z",
         "system_modified_dtsi": "2023-09-15T14:47:55Z",
-        "timestamp": "2023-10-03T15:49:08.632Z",
+        "timestamp": "2025-10-31T15:47:42.445Z",
         "title_info_alternative_tsim": [
             "Three maps of northern New Jersey, with reference to the boundary between New York and New Jersey"
         ],

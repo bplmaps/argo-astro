@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750012462727168,
+        "_version_": 1847512981641887744,
         "abstract_tsi": "Shows the present-day Oswego River from its junction with the Saint Lawrence River at Oswego (New York) in the north to its junction with the Oneida River in the south.",
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
@@ -10,7 +10,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z1468",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z1468/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Sowers, Thomas",
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
@@ -122,17 +125,18 @@
             "Oswego River (N.Y.)--Maps, Manuscript--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "New York",
             "North and Central America",
             "Oswego",
             "Oswego (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.4167,43.35]},\"properties\":{\"placename\":\"Oswego (river)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.4167,43.35]},\"properties\":{\"placename\":\"Oswego (river), NY\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-76.5225,43.198611],[-76.2775,43.198611],[-76.2775,43.481389],[-76.5225,43.481389],[-76.5225,43.198611]]]},\"bbox\":[-76.5225,43.198611,-76.2775,43.481389]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.4167,43.35]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Oswego\",\"other\":\"Oswego (river)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.4167,43.35]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Oswego\",\"other\":\"Oswego (river)\"}}"
         ],
         "subject_point_geospatial": [
             "43.35,-76.4167"
@@ -144,7 +148,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:07:41Z",
         "system_modified_dtsi": "2023-09-15T14:48:04Z",
-        "timestamp": "2023-10-03T15:50:02.193Z",
+        "timestamp": "2025-10-31T15:47:59.818Z",
         "title_info_primary_tsi": "COURS of ye ONONDAGA RIVER from ye three RIVERS to OSWEGO",
         "type_of_resource_ssim": [
             "Cartographic"

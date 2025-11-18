@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749807796420608,
+        "_version_": 1847512899133636608,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:t722hs667",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/t722hs667/manifest",
@@ -60,7 +63,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Montre\u0301sor, John, 1736-1799"
         ],
@@ -107,15 +110,16 @@
         ],
         "subject_geographic_sim": [
             "Castle Island",
+            "Massachusetts",
             "North and Central America",
             "Suffolk (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.0,42.3333]},\"properties\":{\"placename\":\"Castle Island (cape)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.0,42.3333]},\"properties\":{\"placename\":\"Castle Island (cape), MA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.0,42.3333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Suffolk\",\"other\":\"Castle Island (cape)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.0,42.3333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Massachusetts\",\"county\":\"Suffolk\",\"other\":\"Castle Island (cape)\"}}"
         ],
         "subject_point_geospatial": [
             "42.3333,-71"
@@ -126,7 +130,7 @@
         ],
         "system_create_dtsi": "2016-11-22T20:03:56Z",
         "system_modified_dtsi": "2023-09-15T14:47:27Z",
-        "timestamp": "2023-10-03T15:46:47.007Z",
+        "timestamp": "2025-10-31T15:46:41.132Z",
         "title_info_alternative_tsim": [
             "Castle William near Boston"
         ],

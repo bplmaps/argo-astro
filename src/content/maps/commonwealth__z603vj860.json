@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749779434536960,
+        "_version_": 1847512888007196672,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,13 +37,16 @@
         "exemplary_image_ssi": "commonwealth:z603vj878",
         "extent_tsi": "1 map ; 75 x 160 cm",
         "filenames_ssim": [
-            "gan00021an012006",
-            "commonwealth:z603vj860_metadata"
+            "commonwealth:z603vj860_metadata",
+            "gan00021an012006"
         ],
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vj860",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vj860/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1722-1824"
         ],
@@ -97,13 +100,14 @@
         ],
         "subject_geographic_sim": [
             "Canada",
-            "Chignecto Bay"
+            "Chignecto Bay",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.742744,45.572466]},\"properties\":{\"placename\":\"Chignecto Bay\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.742744,45.572466]},\"properties\":{\"country\":\"Canada\",\"other\":\"Chignecto Bay\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.742744,45.572466]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"other\":\"Chignecto Bay\"}}"
         ],
         "subject_point_geospatial": [
             "45.572466,-64.742744"
@@ -113,7 +117,7 @@
         ],
         "system_create_dtsi": "2016-11-20T02:40:14Z",
         "system_modified_dtsi": "2023-09-15T14:47:22Z",
-        "timestamp": "2023-10-03T15:46:19.960Z",
+        "timestamp": "2025-10-31T15:46:30.522Z",
         "title_info_primary_tsi": "[Chignecto Bay and vicinity]",
         "type_of_resource_ssim": [
             "Cartographic"

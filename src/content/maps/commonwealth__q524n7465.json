@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749818131185664,
+        "_version_": 1847512903806091264,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n7465",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n7465/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Greenleaf, S., Captain"
         ],
@@ -110,14 +113,15 @@
         ],
         "subject_geographic_sim": [
             "Cumberland (county)",
+            "Maine",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.3333,43.85]},\"properties\":{\"placename\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.3333,43.85]},\"properties\":{\"placename\":\"Cumberland (county), ME\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.3333,43.85]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Cumberland\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.3333,43.85]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Maine\",\"county\":\"Cumberland\"}}"
         ],
         "subject_point_geospatial": [
             "43.85,-70.3333"
@@ -129,7 +133,7 @@
         ],
         "system_create_dtsi": "2017-05-25T15:49:52Z",
         "system_modified_dtsi": "2023-09-15T14:47:29Z",
-        "timestamp": "2023-10-03T15:46:56.864Z",
+        "timestamp": "2025-10-31T15:46:45.589Z",
         "title_info_alternative_tsim": [
             "Oxford and Cumberland counties, Me"
         ],

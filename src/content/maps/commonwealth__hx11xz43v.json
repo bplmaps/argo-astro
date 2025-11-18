@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749982019420160,
+        "_version_": 1847512970388570112,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11xz43v",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11xz43v/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Eyre, William, active 1755"
         ],
@@ -111,16 +114,17 @@
         ],
         "subject_geographic_sim": [
             "Fort William Henry",
+            "New York",
             "North and Central America",
             "United States",
             "Warren (county)"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.711,43.42]},\"properties\":{\"placename\":\"Fort William Henry\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.711,43.42]},\"properties\":{\"placename\":\"Fort William Henry, NY\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-73.721111,43.411389],[-73.694722,43.411389],[-73.694722,43.424722],[-73.721111,43.424722],[-73.721111,43.411389]]]},\"bbox\":[-73.721111,43.411389,-73.694722,43.424722]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.711,43.42]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Warren\",\"area\":\"Fort William Henry\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.711,43.42]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Warren\",\"area\":\"Fort William Henry\"}}"
         ],
         "subject_point_geospatial": [
             "43.42,-73.711"
@@ -132,7 +136,7 @@
         ],
         "system_create_dtsi": "2016-11-17T22:23:21Z",
         "system_modified_dtsi": "2023-09-15T14:47:58Z",
-        "timestamp": "2023-10-03T15:49:33.160Z",
+        "timestamp": "2025-10-31T15:47:49.087Z",
         "title_info_primary_tsi": "Plan of Fort William Henry and Camp at Lake George",
         "type_of_resource_ssim": [
             "Cartographic"

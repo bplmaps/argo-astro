@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749631213076480,
+        "_version_": 1847512873030385664,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vq94q",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vq94q/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Tardieu, P. F. (Pierre Franc\u0327ois), 1757-1822",
             "Andre\u0301."
@@ -102,13 +105,14 @@
             "United States--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-98.0,38.0]},\"properties\":{\"placename\":\"United States\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-98.0,38.0]},\"properties\":{\"country\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-98.0,38.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\"}}"
         ],
         "subject_point_geospatial": [
             "38,-98"
@@ -118,7 +122,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:58:02Z",
         "system_modified_dtsi": "2023-09-15T14:47:16Z",
-        "timestamp": "2023-10-03T15:43:58.605Z",
+        "timestamp": "2025-10-31T15:46:16.239Z",
         "title_info_primary_subtitle_tsi": "renfermant aussi quelques provinces Angloises adjacentes",
         "title_info_primary_tsi": "Carte ge\u0301ne\u0301rale des Etats Unis de l'Ame\u0301rique Septentrionale",
         "type_of_resource_ssim": [

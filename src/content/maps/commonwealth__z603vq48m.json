@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749607238434816,
+        "_version_": 1847512864090226688,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,13 +37,16 @@
         "exemplary_image_ssi": "commonwealth:z603vq49w",
         "extent_tsi": "1 map : hand col. ; 57 x 93 cm.",
         "filenames_ssim": [
-            "psnypl_map_303",
-            "commonwealth:z603vq48m_metadata"
+            "commonwealth:z603vq48m_metadata",
+            "psnypl_map_303"
         ],
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vq48m",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vq48m/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Taylor, Benjamin",
             "Roberts, John"
@@ -114,10 +117,10 @@
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.0,40.7]},\"properties\":{\"placename\":\"New York\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.0,40.7]},\"properties\":{\"placename\":\"New York, NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.0,40.7]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"city\":\"New York\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.0,40.7]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"city\":\"New York\"}}"
         ],
         "subject_point_geospatial": [
             "40.7,-74"
@@ -129,7 +132,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:52:31Z",
         "system_modified_dtsi": "2023-09-15T14:47:14Z",
-        "timestamp": "2023-10-03T15:43:35.741Z",
+        "timestamp": "2025-10-31T15:46:07.713Z",
         "title_info_alternative_tsim": [
             "New and accurate plan of the city of New York in the state of New York in North America"
         ],

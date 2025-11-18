@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749995878449152,
+        "_version_": 1847512975688073216,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,8 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
         "georeferenced_bsi": true,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z0526",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z0526/manifest",
@@ -57,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Morris, Charles, (Surveyor)",
             "Parr, John, 1725-1791",
@@ -127,14 +129,15 @@
         "subject_geographic_sim": [
             "Canada",
             "North and Central America",
+            "Nova Scotia",
             "Shelburne"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.3333,43.7833]},\"properties\":{\"placename\":\"Shelburne\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.3333,43.7833]},\"properties\":{\"placename\":\"Shelburne, Nova Scotia\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-65.33885445100998,43.747308084017796],[-65.30765721082965,43.747308084017796],[-65.30765721082965,43.77414933359208],[-65.33885445100998,43.77414933359208],[-65.33885445100998,43.747308084017796]]]},\"bbox\":[-65.33885445100998,43.747308084017796,-65.30765721082965,43.77414933359208]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.3333,43.7833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"city\":\"Shelburne\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.3333,43.7833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Nova Scotia\",\"city\":\"Shelburne\"}}"
         ],
         "subject_point_geospatial": [
             "43.7833,-65.3333"
@@ -145,7 +148,7 @@
         ],
         "system_create_dtsi": "2016-11-17T22:43:52Z",
         "system_modified_dtsi": "2023-09-15T14:48:00Z",
-        "timestamp": "2023-10-03T15:49:46.376Z",
+        "timestamp": "2025-10-31T15:47:54.140Z",
         "title_info_primary_tsi": "PLAN of The TOWN of SHELBURNE projected and laid out By Order of his Excell,y IOHN PARR Esqr Capt,n Gen,l Governor & Commander in Chief of NOVA SCOTA",
         "type_of_resource_ssim": [
             "Cartographic"

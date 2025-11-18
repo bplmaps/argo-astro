@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749879155163136,
+        "_version_": 1847512928079577088,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -53,7 +53,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nc745",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nc745/manifest",
@@ -68,7 +71,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1582"
         ],
@@ -104,15 +107,16 @@
         ],
         "subject_geographic_sim": [
             "Chatham (county)",
+            "Georgia",
             "North and Central America",
             "Savannah",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.1,32.0833]},\"properties\":{\"placename\":\"Savannah\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.1,32.0833]},\"properties\":{\"placename\":\"Savannah, GA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.1,32.0833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Chatham\",\"city\":\"Savannah\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.1,32.0833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Georgia\",\"county\":\"Chatham\",\"city\":\"Savannah\"}}"
         ],
         "subject_point_geospatial": [
             "32.0833,-81.1"
@@ -123,7 +127,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:13:11Z",
         "system_modified_dtsi": "2023-09-15T14:47:39Z",
-        "timestamp": "2023-10-03T15:47:55.061Z",
+        "timestamp": "2025-10-31T15:47:08.737Z",
         "title_info_primary_tsi": "Savannah",
         "type_of_resource_ssim": [
             "Cartographic"

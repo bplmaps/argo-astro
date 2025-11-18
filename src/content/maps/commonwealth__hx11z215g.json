@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750024603140096,
+        "_version_": 1847512986245136384,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -48,7 +48,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z215g",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z215g/manifest",
@@ -61,7 +64,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
             "Royal United Services Institute for Defence and Security Studies"
@@ -124,14 +127,15 @@
             "Bedford",
             "Bedford (county)",
             "North and Central America",
+            "Pennsylvania",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.5,40.0167]},\"properties\":{\"placename\":\"Bedford\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.5,40.0167]},\"properties\":{\"placename\":\"Bedford, PA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-78.505556,40.018889],[-78.502778,40.018889],[-78.502778,40.020556],[-78.505556,40.020556],[-78.505556,40.018889]]]},\"bbox\":[-78.505556,40.018889,-78.502778,40.020556]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.5,40.0167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Bedford\",\"city\":\"Bedford\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.5,40.0167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Bedford\",\"city\":\"Bedford\"}}"
         ],
         "subject_point_geospatial": [
             "40.0167,-78.5"
@@ -143,7 +147,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:25:54Z",
         "system_modified_dtsi": "2023-09-15T14:48:05Z",
-        "timestamp": "2023-10-03T15:50:13.771Z",
+        "timestamp": "2025-10-31T15:48:04.209Z",
         "title_info_primary_tsi": "FORT BEDFORD",
         "type_of_resource_ssim": [
             "Cartographic"

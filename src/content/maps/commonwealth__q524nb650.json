@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749862316081152,
+        "_version_": 1847512921651806208,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nb650",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nb650/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzNWFtv2zYUfu+vIPTUApYl2UlcG42K1O2GDklb1Cmw7WWgpWOJjUyqJBXHj/t/+1E7lEhb8q1pO6B7cWyS5zv3W168fFgW5B6kYoJfelE/9AjwRKSMZ5fep9tf/Ofey/jJi6VI1cR8EHzP1eShYPzu0su1LidBsFqt+qthX8gsiMbjcVDfeu6pYoceDsIwCn6/uZ4lOSypz7jSlCfgqAyvDlkhkn4m7gNzEdwPva3Qw/4IqRSbqBrqWiRU1xfHqcmBK8M/pRLv7aP6rz/0R/0HlXrxE0IaM2imC3jLF4JUimZw6ZWSLalceyRlqizo+prOodgc/2VPawSHwQWfCanjK/Ii6By03tR84tkd6CQnYkF0DuQV1Xhofv0Kckl5n9xyi9A8b9Gran5bn53pvE/eJ1rMQZJoNBr1yCoHCTWiBBRWkZX5LaGsCgWpRdwAGNWDru5bc3C6RKR1aQyBLhGcFl1V8f4DRdVuBNcS/vlbCdkjv4ncCb55cIDIAqdUgxdHo+GFH43G4xOEUjgjtE9u0VgWSsOD9gitdC4k0+tLD32USCioFrJ1/unj200AsXQTJPcYXPOqQLcGlkZhJNKigscTBMjOi6cSzC+rihPSqhJ0dGmp24pC1Ob94iMoUckECMZCpRLJSn3prUEhPhpGZJKWOUuc8zokW6gMODq/ZZJsmZXJNxnDMrpBP0lGi8cbZZcw0NkyDC8GF9FuOqGUIE1s3dBSWY1qyf/HikSDwfOLE4o4nx3RB2XOGHfp5k5NMtTRA2mrVq+GSaoXHrmD9Wu8aqKAfKlowRYM5KXH+AKkhNTk0WhkGbawWpHW5dtwLSjPKix3bUnc2an0YkpcDMf+YP5NbnBUjza/IwiAZ178hmcFU7lVpy1mS8u2Ro0+Zb5WLKHFa2jcgl2kY3i0iqbF+9o6sYSFwBKsjRvsjTNq510LAG0DXMdRK1vxa0kmJMfeQxJRCEmG5+SBDMYkWfYtniVrATGOUcZB30DK6C0aPsZWk0HwuYTMEu0/eQS9ZovFj9B/LgenyO3dETO7zqgh/ggFgwVRuVhxMl/jF2qivL9plhp2KLa51CMlcB/tiTPFHTF2XZmcrI17AuA1qo7tiyykWBKBnVGiP0oGyvAXGIUkMRW1whnjBMpM02WJASF4PZ+ICWm6njrF26ZOgkFjbIGNAiUBMwzF11Niyp1p+O9wPMjJ1RLLS0J72MfPQ2yGz8ckGp6dfw27aaC3OVPEfCX419WDw3Jh7/8MiW5ncpGo/OtJ7O7RcoEFUZ15QKNVk7gZXzT6t7cdanrkQ84KmkKBpRR1/ED7vXpg8X1jBd9/Q2WxJish7xTRgkTPw9D1thp1G2OW9c9QiDzd0+JZo0CPbMP0v1ZGZ/yILnWV7Geg9boPaRXUL/fK6oFXwSiMzsLzUUfbHJsJTky5SeBfwU0Y3ZErERXX67htBquJvdl/LdfxJ85MLcUU0qDa7+UeAdeMm5LY5ITJ8Sn+xKbq8mND7l52AdgR6diebHgyQ0ubErX1cOu5u2zPbcdN9BV/tu2ctOY31RVKIS6WGvOJRalPokl00Rtsoqe5bgu0h3VMjnpEhfStBtfPc6F0N9rbG8DusnLN5qj52pSrqeAZ1j2FX4qiMdKBReXQVhHsinJKPqY+umqZvsIVrF49JzmW0CayFYZ2kSR8k87ZchSFYTgeDogXbJFZilFST0oWuJLMix0ClXd929UTsVwKvgJa4FZlFlm8mwTn4fh8HHw5H5zx+cW588QW9AQjFIwWft1xvJhKU83DUwCF3W/bTnEd1e2+Bx3hQnFdJwzWI/Ka3TO1dcweSmtWah8dFaOSxd5OTJMEmV96oqlYjBOTlGZK/FHrIrdd5o5ZKeGewer7WQQ6r5ZzTllxnJlpmBiAjC18rAtsAeoHdAocRJffUfM3mqJvU2YuDsZ9YgZ7dg+NAKrmXbAEuMJWNl/7PPEVDc76YeC5oFdQB4eEUoq0qrN2d32xCHaaMO3LTBP2NCU4FBMDU/EUQ5ySqRUC47CWglxpLdm8qqV+J7hvznE8w52JzHKK+9tVwe6AXDeA5Ol0Sl794b+b+rOrZ25W2dH+uFkerxYO67lp7O8EueOmi+P0t64PkUyhyDWV+qoEEs0t092drTmdmsjnetbs36+wtKKIH6o5Go/YjN1Uv/33+3C1aQU3+97+JhgPwkHkh7gTjW/DaDI4m5yd/dmFb9EfQMedJIPvxt5Q7yPbxQgzjHKCqVqi19MO9f7q5Ja194spxZwSeJ11O9CBZRSlhp+/jOLHkUV0bxXd185unttNaWb/Tbn7L6zWEy+WqRtpDlB2muw2WO2R+Yif/AuWbqH3",
+        "mods_xml_ss": "eJzNWF1v27Yavu+vIHS1AZYl2UlcG42G1N2GDkkb1Cmwc24OaOm1xEYmNZKKo8v9v/2ovZRIW/JXs/UA241jk3yf9/srb354XhfkCaRigl970TD0CPBEpIxn197nh5/8194P8as3a5Gqmfkg+J6r2XPB+OO1l2tdzoJgs9kMN+OhkFkQTafToLn13FPFjj0chWEU/Hp3u0hyWFOfcaUpT8BRGV49skIkw0w8BeYieBp7O6HHwwlSKTZTDdStSKhuLk5TkyNXhn9KJd7bR81ff+xPhs8q9eJXhLRm0EwX8J6vBKkUzeDaKyVbU1l7JGWqLGh9S5dQbI//Z08bBIfBBV8IqeMb8iboHXTeNHzixSPoJCdiRXQO5C3VeGh+/QxyTfmQPHCL0D7v0Ktq+dCcXeh8SD4mWixBkmgymQzIJgcJDaIEFFaRjfktoawKBalF3AIY1YO+7jtzcLpGpLo0hkCXCE6Lvqp4f09RtTvBtYQ/fldCDsgvIneCbx8cIbLAKdXgxdFkfOVHk+n0DKEUzgjdkwc0loXS8Kw9QiudC8l0fe2hjxIJBdVCds4/f3q/DSCWboPkCYNrWRXo1sDSKIxEWlTwcoIA2XnxXIL5ZVVxQlpVgp4uHXU7UYjafFx9AiUqmQDBWKhUIlmpr70aFOKjYUQmaZmzxDmvR7KDyoCj8zsmydZZmfwlY1hGd+gnyWjxcqPsEwY6W4fh1egq2k8nlBKkia07WiqrUSP5v1iRaDR6fXVGEeezE/qgzBnjLt3cqUmGJnog7dTqzThJ9cojj1C/w6s2CshvFS3YioG89hhfgZSQmjyaTCzDDlYn0vp8W64F5VmF5a4riTs7l15Miavx1B8t/5IbHNWLze8IAuCZF//Is4Kp3KrTFbOjZVejVp8yrxVLaPEOWrdgF+kZHq2iafGxsU4sYSWwBGvjBnvjjNp71wFA2wDXcdTJVvxakhnJsfeQRBRCkvEleSajKUnWQ4tnyTpAjGOUcdB3kDL6gIaPsdVkEHwpIbNEh09eQK/ZavUt9F/K0Tlye3fCzK4zaog/QcFgRVQuNpwsa/xCTZQPt81Swx7FLpcGpATuoz1xpngkxq4bk5ONcc8AvEPVsX2RlRRrIrAzSvRHyUAZ/gKjkCSmolY4Y5xBWWi6LjEgBG/mEzEjbddT53jb1EkwaIwtsFGgJGCGofh2Tky5Mw3/A44HOblZY3lJ6AD7+GWIzfD1lETji8uvYbcN9CFnipivBP+6enBcLuz9XyDR3UwuEpV/PYndPVousCCqNw9otGoSt+OLRv8OdkPNgNznrKApFFhKUcd7Ohw0A4vvGyv4/o9UFjXZCPmoiBYkeh2Grrc1qLsYs6z/CYXIdwdafN8qMCC7MP1/K6MzfkKXpkoOM9C6HkJaBc3Lg7J65FUwCaOL8HLS0zbHZoITU24S+GdwE0Z/5EpExXUdd81gNbE3h69lHX/mzNRSTCENqvteHhBwzbgpiW1OmByf409sqi4/tuTuZQ9AGRbxPXCu6uKJ8q147UWfGTuhCTvQA08W6BVTznbR0HnuLrsz3mlzfsX3XZ8knVlP7amKuFiWzCcWsCGJZtHVYLSNtPa6K9AB1ik5mnEW0vcaXO/PhdL9zOhuC/uLzS1boua1KW1zwTOskQq/FEVrpCNLzbENJNgX5Zx8TH1ylTV9i+tas6bOciy3bRYoTIMiSfg29bP1JArDcDoeES/YIbMUI6qZqixwJZkXOwQqH4d2AkjEei34BmiBG5hZevFuFlyG08tp8Nvl6IIvry6dJ3agZxihYLTwm+7kxVSayh+eAyjsLtx1iuu+bk8+6ggXinWTXFi7yDv2xNTOMQconbmqe3RSjEoWB/szTRJkfu2JtroxTkwCm4nyW62L3PaZO2alhCcGm7/PItB5tV5yyorTzExzxQBkbOVjXWArUN+gU+Ag+vxOmr/VFH2bMnNxNO4TswSwJ2gFUA3vgiXAFba9Ze3zxFc0uBiGgeeCXkETHBJKKdKqydr9Vcci2MnDtDozedjTlOAATQxMxVMMcUrmVgiMw0YKcqO1ZMuqkfqD4L45x1EO9yuyyCnuejcFewRy2wKS7+Zz8vY//oe5v7j53s01e9qfNsvL1cLBPjdDwAdBHrnp+Dgp1s0hkikUuaFSX5VAorllur/ftadzE/lcL9pd/S2WVhTxvlqi8YjN2G31O3x/CNeYVnCzGx5ujfEoHEV+iPvT9CGMZqOL2cXFf/vwHfoj6Li/ZPC3sbfUh8h2icIMo5xgqpbo9bRHfbhmucXu42pOMacEXmf9DnRkcUWp4Z9fXPHjxNJ6sLYeame31N1WtbD/0tz/d1fniRfL1I00Ryh7TXYXrPbIfMSv/gSUnrD4",
         "name_facet_ssim": [
             "Montre\u0301sor, John, 1736-1799"
         ],
@@ -106,12 +109,13 @@
         "subject_geographic_sim": [
             "Germantown",
             "North and Central America",
+            "Pennsylvania",
             "Philadelphia",
             "Philadelphia (county)",
             "United States"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Philadelphia\",\"city\":\"Philadelphia\",\"city_section\":\"Germantown\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Philadelphia\",\"city\":\"Philadelphia\",\"city_section\":\"Germantown\"}}"
         ],
         "subject_topic_tsim": [
             "Germantown, Battle of, Philadelphia, Pa., 1777--Maps--Early works to 1800",
@@ -119,7 +123,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:47:45Z",
         "system_modified_dtsi": "2023-09-15T14:47:37Z",
-        "timestamp": "2023-10-03T15:47:39.001Z",
+        "timestamp": "2025-10-31T15:47:02.607Z",
         "title_info_primary_subtitle_tsi": "4th. October 1777, where the rebels were repulsed",
         "title_info_primary_tsi": "A Sketch of the Battle of German. Tn",
         "type_of_resource_ssim": [

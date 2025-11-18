@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750019797516288,
+        "_version_": 1847512984395448320,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -55,7 +55,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z188s",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z188s/manifest",
@@ -68,7 +71,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Royal United Services Institute for Defence and Security Studies"
         ],
@@ -125,14 +128,15 @@
         "subject_geographic_sim": [
             "Canada",
             "North and Central America",
+            "Quebec",
             "Saint-Jean-sur-Richelieu"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.2667,45.3167]},\"properties\":{\"placename\":\"Saint-Jean-sur-Richelieu\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.2667,45.3167]},\"properties\":{\"placename\":\"Saint-Jean-sur-Richelieu, Quebec\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-73.252778,45.294167],[-73.25,45.294167],[-73.25,45.297222],[-73.252778,45.297222],[-73.252778,45.294167]]]},\"bbox\":[-73.252778,45.294167,-73.25,45.297222]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.2667,45.3167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"city\":\"Saint-Jean-sur-Richelieu\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.2667,45.3167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Quebec\",\"city\":\"Saint-Jean-sur-Richelieu\"}}"
         ],
         "subject_point_geospatial": [
             "45.3167,-73.2667"
@@ -144,7 +148,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:18:11Z",
         "system_modified_dtsi": "2023-09-15T14:48:04Z",
-        "timestamp": "2023-10-03T15:50:09.187Z",
+        "timestamp": "2025-10-31T15:48:02.445Z",
         "title_info_primary_tsi": "Plan du fort S.t Jean",
         "type_of_resource_ssim": [
             "Cartographic"

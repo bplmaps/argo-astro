@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778757924388077568,
+        "_version_": 1847969136383098880,
         "admin_set_ark_id_ssi": "commonwealth:mw22z436x",
         "admin_set_name_ssi": "Library and Archives Canada Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:mw22z436x"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library and Archives Canada Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -45,7 +45,10 @@
         "genre_specific_ssim": [
             "Manuscript maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nq35j",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nq35j/manifest",
@@ -62,7 +65,7 @@
             "English"
         ],
         "license_ss": "Contact host institution for more information.",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "MacKay, H."
         ],
@@ -94,7 +97,7 @@
         "rights_ss": "Copyright expired. Contact host institution to download image.",
         "score": 1.0,
         "subject_coordinates_geospatial": [
-            "45.5,-73.583333"
+            "45.5,-73.6"
         ],
         "subject_facet_ssim": [
             "Seven Years' War, 1756-1763--Campaigns--Canada--Maps",
@@ -102,23 +105,22 @@
             "Fortification--Qu\u00e9bec (Province)",
             "New France--Maps"
         ],
-        "subject_geo_other_ssm": [
-            "New France"
-        ],
         "subject_geographic_sim": [
             "Canada",
             "Montreal",
             "New France",
-            "North and Central America"
+            "North and Central America",
+            "Quebec"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.583333,45.5]},\"properties\":{\"placename\":\"Montreal\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.6,45.5]},\"properties\":{\"placename\":\"Montreal, Quebec\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.583333,45.5]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"city\":\"Montreal\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"New France (former administrative division)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.6,45.5]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Quebec\",\"city\":\"Montreal\"}}"
         ],
         "subject_point_geospatial": [
-            "45.5,-73.583333"
+            "45.5,-73.6"
         ],
         "subject_topic_tsim": [
             "Seven Years' War, 1756-1763--Campaigns--Canada--Maps",
@@ -127,8 +129,8 @@
             "New France--Maps"
         ],
         "system_create_dtsi": "2023-03-29T18:19:30Z",
-        "system_modified_dtsi": "2023-03-29T20:12:15Z",
-        "timestamp": "2023-10-03T17:55:47.593Z",
+        "system_modified_dtsi": "2025-11-05T16:38:15Z",
+        "timestamp": "2025-11-05T16:38:22.880Z",
         "title_info_primary_tsi": "Plan of the town and fortifications of Montreal or Ville Marie in Canada",
         "type_of_resource_ssim": [
             "Cartographic"

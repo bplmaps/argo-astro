@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749894513655808,
+        "_version_": 1847512934479036416,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nd865",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nd865/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_date_tsim": [
             "This date is inferred."
         ],
@@ -101,16 +104,17 @@
             "Allegheny (county)",
             "Monongahela River",
             "North and Central America",
+            "Pennsylvania",
             "Pittsburgh",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.1667,39.4667]},\"properties\":{\"placename\":\"Monongahela River, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9833,40.4333]},\"properties\":{\"placename\":\"Pittsburgh\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.1667,39.4667]},\"properties\":{\"placename\":\"Monongahela River\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9833,40.4333]},\"properties\":{\"placename\":\"Pittsburgh, PA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.1667,39.4667]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Monongahela River\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9833,40.4333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Allegheny\",\"city\":\"Pittsburgh\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.1667,39.4667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Monongahela River\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9833,40.4333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Allegheny\",\"city\":\"Pittsburgh\"}}"
         ],
         "subject_point_geospatial": [
             "39.4667,-80.1667",
@@ -123,7 +127,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:40:11Z",
         "system_modified_dtsi": "2023-09-15T14:47:45Z",
-        "timestamp": "2023-10-03T15:48:09.708Z",
+        "timestamp": "2025-10-31T15:47:14.840Z",
         "title_info_primary_tsi": "A sketch of the field of battle with the disposition of the troops in the beginning of the engagement of the 9th of July on the Monongahela 7 miles from Fort Du Quesne",
         "type_of_resource_ssim": [
             "Cartographic"

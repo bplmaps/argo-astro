@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778757928309751808,
+        "_version_": 1847513159128055808,
         "admin_set_ark_id_ssi": "commonwealth:mw22z436x",
         "admin_set_name_ssi": "Library and Archives Canada Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:mw22z436x"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library and Archives Canada Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -45,7 +45,10 @@
         "genre_specific_ssim": [
             "Manuscript maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:1g05j995v",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/1g05j995v/manifest",
@@ -62,7 +65,7 @@
             "English"
         ],
         "license_ss": "Contact host institution for more information.",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Collins, John, -1795"
         ],
@@ -100,13 +103,14 @@
         "subject_geographic_sim": [
             "Canada",
             "Deschambault",
-            "North and Central America"
+            "North and Central America",
+            "Quebec"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.916667,46.633333]},\"properties\":{\"placename\":\"Deschambault\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.916667,46.633333]},\"properties\":{\"placename\":\"Deschambault, Quebec\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.916667,46.633333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"city\":\"Deschambault\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.916667,46.633333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Quebec\",\"city\":\"Deschambault\"}}"
         ],
         "subject_point_geospatial": [
             "46.633333,-71.916667"
@@ -116,7 +120,7 @@
         ],
         "system_create_dtsi": "2023-03-29T18:23:38Z",
         "system_modified_dtsi": "2023-03-29T20:12:19Z",
-        "timestamp": "2023-10-03T17:55:51.333Z",
+        "timestamp": "2025-10-31T15:50:49.082Z",
         "title_info_primary_tsi": "A plan of a new road in the parish of Dechambault",
         "type_of_resource_ssim": [
             "Cartographic"

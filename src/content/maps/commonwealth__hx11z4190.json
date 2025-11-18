@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750061746847744,
+        "_version_": 1847513004567953408,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z420r",
         "extent_tsi": "1 map on 3 sheets : joined and laid on linen, manuscript pen and ink with watercolour ; 120 x 64 cm",
         "filenames_ssim": [
-            "k_top_122_34",
-            "commonwealth:hx11z4190_metadata"
+            "commonwealth:hx11z4190_metadata",
+            "k_top_122_34"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z4190",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z4190/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Hills, John, (Surveyor)",
             "George, III, King of Great Britain, 1738-1820",
@@ -124,20 +127,21 @@
             "Delaware",
             "Maryland",
             "North and Central America",
-            "Pennsylvania"
+            "Pennsylvania",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.8333,39.0]},\"properties\":{\"placename\":\"Maryland, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,37.0]},\"properties\":{\"placename\":\"Chesapeake Bay, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.8333,39.0]},\"properties\":{\"placename\":\"Maryland\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,37.0]},\"properties\":{\"placename\":\"Chesapeake Bay\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-76.8,36.68333],[-74.75,36.68333],[-74.75,40.0],[-76.8,40.0],[-76.8,36.68333]]]},\"bbox\":[-76.8,36.68333,-74.75,40.0]}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.6667,39.0]},\"properties\":{\"placename\":\"Delaware, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"placename\":\"Pennsylvania, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.6667,39.0]},\"properties\":{\"placename\":\"Delaware\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"placename\":\"Pennsylvania\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.8333,39.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Maryland\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,37.0]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Chesapeake Bay\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.6667,39.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Delaware\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Pennsylvania\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.8333,39.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Maryland\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,37.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Chesapeake Bay\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.6667,39.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Delaware\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\"}}"
         ],
         "subject_point_geospatial": [
             "39,-76.8333",
@@ -153,7 +157,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:19:01Z",
         "system_modified_dtsi": "2023-09-15T14:48:11Z",
-        "timestamp": "2023-10-03T15:50:49.194Z",
+        "timestamp": "2025-10-31T15:48:21.682Z",
         "title_info_primary_tsi": "PLAN OF THE PENINSULA OF CHESOPEAK BAY",
         "type_of_resource_ssim": [
             "Cartographic"

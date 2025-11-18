@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749884817473536,
+        "_version_": 1847512930262712320,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -10,8 +10,8 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
-            "Maritime Charts and Atlases (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
+            "Maritime Charts and Atlases",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -55,7 +55,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nd13n",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nd13n/manifest",
@@ -70,7 +73,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1662"
         ],
@@ -106,15 +109,16 @@
             "Manuscript maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "Florida",
             "North and Central America",
             "Pensacola Bay",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-87.2,30.3667]},\"properties\":{\"placename\":\"Pensacola Bay\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-87.2,30.3667]},\"properties\":{\"placename\":\"Pensacola Bay, FL\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-87.2,30.3667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Pensacola Bay\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-87.2,30.3667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Florida\",\"other\":\"Pensacola Bay\"}}"
         ],
         "subject_point_geospatial": [
             "30.3667,-87.2"
@@ -125,7 +129,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:21:36Z",
         "system_modified_dtsi": "2023-09-15T14:47:42Z",
-        "timestamp": "2023-10-03T15:48:00.461Z",
+        "timestamp": "2025-10-31T15:47:10.820Z",
         "title_info_primary_tsi": "Carte de l'entre\u0301e du port et rade de Pensacola",
         "type_of_resource_ssim": [
             "Cartographic"

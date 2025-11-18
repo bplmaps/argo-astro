@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749889162772480,
+        "_version_": 1847512932353572864,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nd423",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nd423/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_date_tsim": [
             "This date is inferred."
         ],
@@ -101,15 +104,16 @@
             "Fortification--Haiti--Petit Goa\u0302ve--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "Haiti",
             "North and Central America",
             "Ouest",
             "Petit-Go\u00e2ve"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.8667,18.4333]},\"properties\":{\"placename\":\"Petit-Go\u00e2ve, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.8667,18.4333]},\"properties\":{\"placename\":\"Petit-Go\u00e2ve, Haiti\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.8667,18.4333]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Ouest\",\"city\":\"Petit-Go\u00e2ve\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.8667,18.4333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Haiti\",\"state\":\"Ouest\",\"city\":\"Petit-Go\u00e2ve\"}}"
         ],
         "subject_point_geospatial": [
             "18.4333,-72.8667"
@@ -121,7 +125,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:28:13Z",
         "system_modified_dtsi": "2023-09-15T14:47:44Z",
-        "timestamp": "2023-10-03T15:48:04.605Z",
+        "timestamp": "2025-10-31T15:47:12.814Z",
         "title_info_primary_tsi": "Plan du Petit Goa\u0302ve et de son acul pour servir au projet ge\u0301ne\u0301ral de sa de\u0301fense par mer en 1752",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1827234950396510208,
+        "_version_": 1847513308067790848,
         "abstract_tsi": "Volume containing 60 pages depicting 55 blocks of Boston neighborhoods drawn by Samuel C. Clough, showing property ownership in Boston based on the Direct Tax Census of 1798. Also includes a manuscript page with key showing locations of blocks (image 1); two manuscript pages of studies relating to the accuracy of the Bonner Map of Boston, 1722 (images 63-64); and one page with a 1674 map of a North End neighborhood based on the tax list of 1674 (image 62). Also included are six pages of names associated with blocks 101-396 (images 65-70).",
         "admin_set_ark_id_ssi": "commonwealth:mc87pw948",
         "admin_set_name_ssi": "Massachusetts Historical Society Map Collection",
@@ -10,7 +10,7 @@
             "commonwealth:mc87pw948"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Massachusetts Historical Society Map Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -116,7 +116,10 @@
         "genre_specific_ssim": [
             "Manuscript maps"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524s893f",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524s893f/manifest",
@@ -192,7 +195,7 @@
         ],
         "system_create_dtsi": "2025-03-20T15:04:42Z",
         "system_modified_dtsi": "2025-03-21T19:57:10Z",
-        "timestamp": "2025-03-21T19:57:22.232Z",
+        "timestamp": "2025-10-31T15:53:11.123Z",
         "title_info_primary_tsi": "Atlas of Boston neighborhoods based on the Direct Tax Census of 1798",
         "type_of_resource_ssim": [
             "Cartographic"

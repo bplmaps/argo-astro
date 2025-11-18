@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749875263897600,
+        "_version_": 1847512926904123392,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nc49t",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nc49t/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1559"
         ],
@@ -95,13 +98,14 @@
             "Charleston",
             "Charleston (county)",
             "North and Central America",
+            "South Carolina",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9167,32.7667]},\"properties\":{\"placename\":\"Charleston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9167,32.7667]},\"properties\":{\"placename\":\"Charleston, SC\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9167,32.7667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Charleston\",\"city\":\"Charleston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9167,32.7667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"South Carolina\",\"county\":\"Charleston\",\"city\":\"Charleston\"}}"
         ],
         "subject_point_geospatial": [
             "32.7667,-79.9167"
@@ -111,7 +115,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:07:04Z",
         "system_modified_dtsi": "2023-09-15T14:47:41Z",
-        "timestamp": "2023-10-03T15:47:51.350Z",
+        "timestamp": "2025-10-31T15:47:07.617Z",
         "title_info_primary_subtitle_tsi": "With the position of each corps",
         "title_info_primary_tsi": "The Investiture of Charleston, S.C. by the English army, in 1780",
         "type_of_resource_ssim": [

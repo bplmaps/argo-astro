@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750126359052288,
+        "_version_": 1847513018303250432,
         "abstract_tsi": "A detailed manuscript map by Winckworth Tonge with its focus on the English Fort Lawrence and the French Fort Beaus\u00e9jour, drawn in the months just prior to the Battle of Beaus\u00e9jour.",
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
@@ -10,7 +10,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -38,14 +38,17 @@
         "exemplary_image_ssi": "commonwealth:6108vv812",
         "extent_tsi": "1 map : manuscript with pen and ink and watercolour ; 53 x 74 cm",
         "filenames_ssim": [
-            "k_top_119_64",
-            "commonwealth:hx11z5039_metadata"
+            "commonwealth:hx11z5039_metadata",
+            "k_top_119_64"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z5039",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z5039/manifest",
@@ -55,7 +58,7 @@
         "issuance_tsi": "monographic",
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Tonge, Winckworth, 1727 or 1728-1792",
             "George, III, King of Great Britain, 1738-1820",
@@ -119,15 +122,16 @@
             "Canada",
             "Chignecto Isthmus",
             "Fort Beaus\u00e9jour National Historic Park",
-            "North and Central America"
+            "North and Central America",
+            "Province of New Brunswick"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.3,45.85]},\"properties\":{\"placename\":\"Fort Beaus\u00e9jour National Historic Park (historical park)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.3,45.85]},\"properties\":{\"placename\":\"Fort Beaus\u00e9jour National Historic Park (historical park), Province of New Brunswick\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.17934,45.90845]},\"properties\":{\"placename\":\"Chignecto Isthmus\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.06813,45.99185]},\"properties\":{\"placename\":\"Chignecto Isthmus\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.3,45.85]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"other\":\"Fort Beaus\u00e9jour National Historic Park (historical park)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.3,45.85]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Province of New Brunswick\",\"other\":\"Fort Beaus\u00e9jour National Historic Park (historical park)\"}}"
         ],
         "subject_point_geospatial": [
             "45.85,-64.3",
@@ -141,7 +145,7 @@
         ],
         "system_create_dtsi": "2016-12-07T18:03:23Z",
         "system_modified_dtsi": "2023-09-15T14:48:17Z",
-        "timestamp": "2023-10-03T15:51:50.813Z",
+        "timestamp": "2025-10-31T15:48:34.782Z",
         "title_info_primary_tsi": "A DRAUGHT of the ISTHMUS which joyns Nova Scotia to the Continent with the Situation of the ENGLISH and FRENCH FORTS & the Adjacent BAYS and RIVERS",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1811995891624574976,
+        "_version_": 1847969136178626560,
         "admin_set_ark_id_ssi": "commonwealth:kh04p6570",
         "admin_set_name_ssi": "MacLean Collection Map Library",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:kh04p6570"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "MacLean Collection Map Library"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -42,7 +42,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:vd672m612",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/vd672m612/manifest",
@@ -59,7 +62,7 @@
             "English"
         ],
         "license_ss": "Contact host institution for more information.",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Gibson, J. (John), active 1750-1792",
             "Jeffries, Francis, -1739"
@@ -87,7 +90,7 @@
         "rights_ss": "Public Domain/No known restrictions on use. Contact host institution to download image.",
         "score": 1.0,
         "subject_coordinates_geospatial": [
-            "45.5,-73.583333"
+            "45.5,-73.6"
         ],
         "subject_facet_ssim": [
             "Montr\u00e9al (Qu\u00e9bec)--Maps--Early works to 1800",
@@ -100,23 +103,23 @@
             "Quebec"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.583333,45.5]},\"properties\":{\"placename\":\"Montreal, Quebec\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.6,45.5]},\"properties\":{\"placename\":\"Montreal, Quebec\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.583333,45.5]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Quebec\",\"city\":\"Montreal\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.6,45.5]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Quebec\",\"city\":\"Montreal\"}}"
         ],
         "subject_name_tsim": [
             "Amherst, Jeffery Amherst, Baron, 1717-1797"
         ],
         "subject_point_geospatial": [
-            "45.5,-73.583333"
+            "45.5,-73.6"
         ],
         "subject_topic_tsim": [
             "Montr\u00e9al (Qu\u00e9bec)--Maps--Early works to 1800"
         ],
         "system_create_dtsi": "2024-10-02T21:37:33Z",
-        "system_modified_dtsi": "2024-10-04T14:58:29Z",
-        "timestamp": "2024-10-04T14:59:03.276Z",
+        "system_modified_dtsi": "2025-11-05T16:38:16Z",
+        "timestamp": "2025-11-05T16:38:22.685Z",
         "title_info_primary_tsi": "A particular map to illustrate Gen. Amherst's expedition to Montreal with a plan of the town & draught of the island",
         "type_of_resource_ssim": [
             "Cartographic"

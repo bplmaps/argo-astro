@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749866365681664,
+        "_version_": 1847512923581186048,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nb92w",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nb92w/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1446"
         ],
@@ -93,13 +96,14 @@
         ],
         "subject_geographic_sim": [
             "North and Central America",
+            "United States",
             "Virginia"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,37.0]},\"properties\":{\"placename\":\"Virginia, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,37.0]},\"properties\":{\"placename\":\"Virginia\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,37.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Virginia\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,37.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\"}}"
         ],
         "subject_point_geospatial": [
             "37,-80"
@@ -109,7 +113,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:54:02Z",
         "system_modified_dtsi": "2023-09-15T14:47:38Z",
-        "timestamp": "2023-10-03T15:47:42.864Z",
+        "timestamp": "2025-10-31T15:47:04.448Z",
         "title_info_primary_tsi": "Sketch of the road from Fredericksburg to Norfolk in Virginia",
         "type_of_resource_ssim": [
             "Cartographic"

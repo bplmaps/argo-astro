@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749768738013184,
+        "_version_": 1847512883272876032,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vj126",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vj126/manifest",
@@ -60,7 +63,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_tsim": [
             "Title in pencil; matches title in Peter Force's catalog of manuscript maps.",
             "Manuscript, pen-and-ink.",
@@ -100,17 +103,18 @@
         "subject_geographic_sim": [
             "Boston",
             "Boston Harbor",
+            "Massachusetts",
             "North and Central America",
             "Suffolk (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.9667,42.3333]},\"properties\":{\"placename\":\"Boston Harbor\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"placename\":\"Boston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.9667,42.3333]},\"properties\":{\"placename\":\"Boston Harbor, MA\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"placename\":\"Boston, MA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.9667,42.3333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Boston Harbor\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Suffolk\",\"city\":\"Boston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.9667,42.3333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Massachusetts\",\"other\":\"Boston Harbor\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Massachusetts\",\"county\":\"Suffolk\",\"city\":\"Boston\"}}"
         ],
         "subject_point_geospatial": [
             "42.3333,-70.9667",
@@ -124,7 +128,7 @@
         ],
         "system_create_dtsi": "2016-11-20T02:20:58Z",
         "system_modified_dtsi": "2023-09-15T14:47:20Z",
-        "timestamp": "2023-10-03T15:46:09.759Z",
+        "timestamp": "2025-10-31T15:46:26.007Z",
         "title_info_primary_subtitle_tsi": "No. 25",
         "title_info_primary_tsi": "Boston, S. West part",
         "type_of_resource_ssim": [

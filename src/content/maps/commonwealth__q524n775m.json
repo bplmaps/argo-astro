@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749821708926976,
+        "_version_": 1847512905049702400,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n775m",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n775m/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Schiffer, J. C."
         ],
@@ -111,14 +114,14 @@
             "United States"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Newport\",\"island\":\"Rhode Island\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Rhode Island\",\"county\":\"Newport\",\"island\":\"Rhode Island\"}}"
         ],
         "subject_topic_tsim": [
             "Rhode Island (R.I. : Island)--Defenses--Maps, Manuscript--Early works to 1800"
         ],
         "system_create_dtsi": "2017-05-25T15:56:01Z",
         "system_modified_dtsi": "2023-09-15T14:47:30Z",
-        "timestamp": "2023-10-03T15:47:00.276Z",
+        "timestamp": "2025-10-31T15:46:46.775Z",
         "title_info_primary_subtitle_tsi": "und deren dem comando des Herrn General Majors Presgott inf dies-malig befundlichen campements",
         "title_info_primary_tsi": "Plan von Rhode Island",
         "type_of_resource_ssim": [

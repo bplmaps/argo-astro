@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749900430770176,
+        "_version_": 1847512939863474176,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nf233",
         "extent_tsi": "1 manuscript map : hand color 41 x 53 cm.",
         "filenames_ssim": [
-            "ct000189",
-            "commonwealth:q524nf22t_metadata"
+            "commonwealth:q524nf22t_metadata",
+            "ct000189"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nf22t",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nf22t/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_date_tsim": [
             "This date is inferred."
         ],
@@ -101,14 +104,15 @@
         "subject_geographic_sim": [
             "North and Central America",
             "United States",
+            "Virginia",
             "York (county)",
             "Yorktown"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"placename\":\"Yorktown\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"placename\":\"Yorktown, VA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"York\",\"city\":\"Yorktown\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\",\"county\":\"York\",\"city\":\"Yorktown\"}}"
         ],
         "subject_point_geospatial": [
             "37.2333,-76.5"
@@ -118,7 +122,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:48:22Z",
         "system_modified_dtsi": "2023-09-15T14:47:43Z",
-        "timestamp": "2023-10-03T15:48:15.351Z",
+        "timestamp": "2025-10-31T15:47:19.976Z",
         "title_info_alternative_tsim": [
             "Chesapeake Bay"
         ],

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749983704481792,
+        "_version_": 1847512971210653696,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11xz54c",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11xz54c/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Meyer, Elias, -1766",
             "Haldimand, Frederick, Sir, 1718-1791"
@@ -121,15 +124,16 @@
         "subject_geographic_sim": [
             "Essex (county)",
             "Fort Ticonderoga",
+            "New York",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3833,43.8333]},\"properties\":{\"placename\":\"Fort Ticonderoga (transport point)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3833,43.8333]},\"properties\":{\"placename\":\"Fort Ticonderoga (transport point), NY\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-73.493889,43.782778],[-73.356389,43.782778],[-73.356389,43.8575],[-73.493889,43.8575],[-73.493889,43.782778]]]},\"bbox\":[-73.493889,43.782778,-73.356389,43.8575]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3833,43.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Essex\",\"other\":\"Fort Ticonderoga (transport point)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3833,43.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Essex\",\"other\":\"Fort Ticonderoga (transport point)\"}}"
         ],
         "subject_point_geospatial": [
             "43.8333,-73.3833"
@@ -141,7 +145,7 @@
         ],
         "system_create_dtsi": "2016-11-17T22:26:49Z",
         "system_modified_dtsi": "2023-09-15T14:47:58Z",
-        "timestamp": "2023-10-03T15:49:34.767Z",
+        "timestamp": "2025-10-31T15:47:49.871Z",
         "title_info_primary_tsi": "SKETCH OF THE COUNTRY ROUND TYCONDEROGA",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749901096615936,
+        "_version_": 1847512939725062144,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nf276",
         "extent_tsi": "1 ms. map : col. ; 39 x 70 cm.",
         "filenames_ssim": [
-            "ct000275",
-            "commonwealth:q524nf26x_metadata"
+            "commonwealth:q524nf26x_metadata",
+            "ct000275"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nf26x",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nf26x/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Rocque, Mariano de la"
         ],
@@ -117,18 +120,19 @@
         ],
         "subject_geographic_sim": [
             "Duval (county)",
+            "Florida",
             "Jacksonville",
             "North and Central America",
             "Saint Johns",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.7833,27.95]},\"properties\":{\"placename\":\"Saint Johns (river)\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.65,30.3167]},\"properties\":{\"placename\":\"Jacksonville\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.7833,27.95]},\"properties\":{\"placename\":\"Saint Johns (river), FL\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.65,30.3167]},\"properties\":{\"placename\":\"Jacksonville, FL\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.7833,27.95]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Saint Johns (river)\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.65,30.3167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Duval\",\"city\":\"Jacksonville\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.7833,27.95]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Florida\",\"other\":\"Saint Johns (river)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.65,30.3167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Florida\",\"county\":\"Duval\",\"city\":\"Jacksonville\"}}"
         ],
         "subject_point_geospatial": [
             "27.95,-80.7833",
@@ -142,7 +146,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:49:09Z",
         "system_modified_dtsi": "2023-09-15T14:47:43Z",
-        "timestamp": "2023-10-03T15:48:15.986Z",
+        "timestamp": "2025-10-31T15:47:19.844Z",
         "title_info_primary_tsi": "Plano numero 1. de la barra, y Rio de San Juan desde su entrada hasta dos millas mas arriba del paso de San Nicolas, manifestandose en su curso todos los baxos, sacatales, can\u0303os, y ys. las que comprehende, y tambien la de la barra chica, situacion do los reductos, y colocacion de los barcos para su defenza, y caminos que deven tomarse para la retirada los defensores",
         "type_of_resource_ssim": [
             "Cartographic"

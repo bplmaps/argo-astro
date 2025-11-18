@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749843405012992,
+        "_version_": 1847512913947918336,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n942g",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n942g/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1215"
         ],
@@ -101,10 +104,10 @@
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.0,40.7]},\"properties\":{\"placename\":\"New York\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.0,40.7]},\"properties\":{\"placename\":\"New York, NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.0,40.7]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"city\":\"New York\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.0,40.7]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"city\":\"New York\"}}"
         ],
         "subject_point_geospatial": [
             "40.7,-74"
@@ -115,7 +118,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:20:24Z",
         "system_modified_dtsi": "2023-09-15T14:47:27Z",
-        "timestamp": "2023-10-03T15:47:20.967Z",
+        "timestamp": "2025-10-31T15:46:55.261Z",
         "title_info_primary_tsi": "Reconnoissance des ouvrages du nord de l'Isle de Newyork dont on a de\u0301termine\u0301 ge\u0301ometriquement les principaux points le 22 et le 23 juillet",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749565652959232,
+        "_version_": 1847512849562206208,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vp55t",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vp55t/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Dunn, Samuel, -1794",
             "Sayer, Robert, 1725-1794"
@@ -111,14 +114,15 @@
             "North America--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
-            "North America"
+            "North America",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-208.0,0.0],[-18.0,0.0],[-18.0,90.0],[-208.0,90.0],[-208.0,0.0]]]},\"bbox\":[152.0,0.0,-18.0,90.0]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"area\":\"North America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"North America\"}}"
         ],
         "subject_point_geospatial": [
             "58.166,-104.466"
@@ -128,7 +132,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:40:07Z",
         "system_modified_dtsi": "2023-09-15T14:47:11Z",
-        "timestamp": "2023-10-03T15:42:56.082Z",
+        "timestamp": "2025-10-31T15:45:53.858Z",
         "title_info_primary_tsi": "North America, as divided amongst the European powers",
         "type_of_resource_ssim": [
             "Cartographic"

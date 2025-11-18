@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778757929690726400,
+        "_version_": 1847513159304216576,
         "admin_set_ark_id_ssi": "commonwealth:mw22z436x",
         "admin_set_name_ssi": "Library and Archives Canada Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:mw22z436x"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library and Archives Canada Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -47,7 +47,10 @@
         "genre_specific_ssim": [
             "Manuscript maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:s4658g75q",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/s4658g75q/manifest",
@@ -66,7 +69,7 @@
             "English"
         ],
         "license_ss": "Contact host institution for more information.",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Mann, Gother, 1747-1830"
         ],
@@ -105,13 +108,14 @@
         "subject_geographic_sim": [
             "Canada",
             "North and Central America",
+            "Quebec",
             "\u00cele aux Noix"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.266667,45.116667]},\"properties\":{\"placename\":\"\u00cele aux Noix\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.266667,45.116667]},\"properties\":{\"placename\":\"\u00cele aux Noix, Quebec\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.266667,45.116667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"island\":\"\u00cele aux Noix\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.266667,45.116667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Quebec\",\"island\":\"\u00cele aux Noix\"}}"
         ],
         "subject_point_geospatial": [
             "45.116667,-73.266667"
@@ -122,7 +126,7 @@
         ],
         "system_create_dtsi": "2023-03-29T18:24:06Z",
         "system_modified_dtsi": "2023-03-29T20:12:20Z",
-        "timestamp": "2023-10-03T17:55:52.649Z",
+        "timestamp": "2025-10-31T15:50:49.251Z",
         "title_info_primary_tsi": "Isle aux Noix",
         "type_of_resource_ssim": [
             "Cartographic"

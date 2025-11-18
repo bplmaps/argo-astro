@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750152638464000,
+        "_version_": 1847513025172471808,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vr88s",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vr88s/manifest",
@@ -62,7 +65,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Lattre\u0301, Jean"
         ],
@@ -116,6 +119,7 @@
             "United States--History--Revolution, 1775-1783--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
@@ -123,7 +127,7 @@
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-95.5,28.8],[-49.75,28.8],[-49.75,52.3],[-95.5,52.3],[-95.5,28.8]]]},\"bbox\":[-95.5,28.8,-49.75,52.3]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-98.0,38.0]},\"properties\":{\"country\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-98.0,38.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\"}}"
         ],
         "subject_point_geospatial": [
             "38,-98"
@@ -133,7 +137,7 @@
         ],
         "system_create_dtsi": "2016-11-20T05:24:11Z",
         "system_modified_dtsi": "2023-09-15T14:48:20Z",
-        "timestamp": "2023-10-03T15:52:15.875Z",
+        "timestamp": "2025-10-31T15:48:41.332Z",
         "title_info_primary_tsi": "Carte des Etats-Unis de l'Amerique suivant le Traite\u0301 de Paix de 1783",
         "type_of_resource_ssim": [
             "Cartographic"

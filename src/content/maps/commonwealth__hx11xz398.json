@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749981347282944,
+        "_version_": 1847512970371792896,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11xz398",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11xz398/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Harrison, Joseph",
             "Woodward, Nathaniel, -1685",
@@ -124,16 +127,17 @@
         "subject_geographic_sim": [
             "Massachusetts",
             "North and Central America",
-            "Rhode Island"
+            "Rhode Island",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.5,41.6667]},\"properties\":{\"placename\":\"Rhode Island, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.8333,42.25]},\"properties\":{\"placename\":\"Massachusetts, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.5,41.6667]},\"properties\":{\"placename\":\"Rhode Island\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.8333,42.25]},\"properties\":{\"placename\":\"Massachusetts\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-71.839444,41.873889],[-71.345833,41.873889],[-71.345833,42.113611],[-71.839444,42.113611],[-71.839444,41.873889]]]},\"bbox\":[-71.839444,41.873889,-71.345833,42.113611]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.5,41.6667]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Rhode Island\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.8333,42.25]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Massachusetts\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.5,41.6667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Rhode Island\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.8333,42.25]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Massachusetts\"}}"
         ],
         "subject_point_geospatial": [
             "41.6667,-71.5",
@@ -146,7 +150,7 @@
         ],
         "system_create_dtsi": "2016-11-17T22:21:47Z",
         "system_modified_dtsi": "2023-09-15T14:47:58Z",
-        "timestamp": "2023-10-03T15:49:32.519Z",
+        "timestamp": "2025-10-31T15:47:49.071Z",
         "title_info_primary_tsi": "A Map of the Country Adjacent to the North Boundary Line of of the Colony of Rhode Island as the same was Run by Commissioners appointed for that Purpose by the General Asssembly of the Said Colony in the year 1750",
         "type_of_resource_ssim": [
             "Cartographic"

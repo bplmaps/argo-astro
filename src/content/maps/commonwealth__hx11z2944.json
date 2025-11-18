@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750038918299648,
+        "_version_": 1847512991944146944,
         "abstract_tsi": "Geographic detail extends from The Narrows to \"Courtland\" in the north.",
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
@@ -10,7 +10,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -48,7 +48,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z2944",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z2944/manifest",
@@ -61,7 +64,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Ratzer, Bernard",
             "Frazer, Sir Augustus Simon, 1776-1835",
@@ -127,11 +130,11 @@
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.0,40.7]},\"properties\":{\"placename\":\"New York\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.0,40.7]},\"properties\":{\"placename\":\"New York, NY\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-74.103333,40.596667],[-73.888333,40.596667],[-73.888333,40.911111],[-74.103333,40.911111],[-74.103333,40.596667]]]},\"bbox\":[-74.103333,40.596667,-73.888333,40.911111]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.0,40.7]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"city\":\"New York\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.0,40.7]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"city\":\"New York\"}}"
         ],
         "subject_point_geospatial": [
             "40.7,-74"
@@ -142,7 +145,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:46:57Z",
         "system_modified_dtsi": "2023-09-15T14:48:07Z",
-        "timestamp": "2023-10-03T15:50:27.423Z",
+        "timestamp": "2025-10-31T15:48:09.644Z",
         "title_info_primary_tsi": "[New York Island and the Narrows. 1781]",
         "type_of_resource_ssim": [
             "Cartographic"

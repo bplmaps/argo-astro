@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750055602192384,
+        "_version_": 1847512998291177472,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -39,14 +39,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z386n",
         "extent_tsi": "1 map : manuscript pen and ink with grayscale watercolour ; 23 x 36 cm",
         "filenames_ssim": [
-            "k_top_121_57",
-            "commonwealth:hx11z385c_metadata"
+            "commonwealth:hx11z385c_metadata",
+            "k_top_121_57"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z385c",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z385c/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "George, III, King of Great Britain, 1738-1820",
             "George, IV, King of Great Britain, 1762-1830"
@@ -114,16 +117,17 @@
         ],
         "subject_geographic_sim": [
             "Fort Edward",
+            "New York",
             "North and Central America",
             "United States",
             "Washington (county)"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.5833,43.2667]},\"properties\":{\"placename\":\"Fort Edward\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.5833,43.2667]},\"properties\":{\"placename\":\"Fort Edward, NY\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-73.594166,43.25222],[-73.57277,43.25222],[-73.57277,43.27],[-73.594166,43.27],[-73.594166,43.25222]]]},\"bbox\":[-73.594166,43.25222,-73.57277,43.27]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.5833,43.2667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Washington\",\"city\":\"Fort Edward\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.5833,43.2667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Washington\",\"city\":\"Fort Edward\"}}"
         ],
         "subject_point_geospatial": [
             "43.2667,-73.5833"
@@ -136,7 +140,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:10:13Z",
         "system_modified_dtsi": "2023-09-15T14:48:10Z",
-        "timestamp": "2023-10-03T15:50:43.334Z",
+        "timestamp": "2025-10-31T15:48:15.696Z",
         "title_info_primary_tsi": "Sketch of Fort Edward and the proposed improvements",
         "type_of_resource_ssim": [
             "Cartographic"

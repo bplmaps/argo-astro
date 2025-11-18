@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749932993249280,
+        "_version_": 1847512953299927040,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -10,8 +10,8 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
-            "Maritime Charts and Atlases (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
+            "Maritime Charts and Atlases",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -39,14 +39,17 @@
         "exemplary_image_ssi": "commonwealth:q524nh32g",
         "extent_tsi": "1 map : ms. ; 51 x 71 cm.",
         "filenames_ssim": [
-            "lh000824",
-            "commonwealth:q524nh316_metadata"
+            "commonwealth:q524nh316_metadata",
+            "lh000824"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nh316",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nh316/manifest",
@@ -61,7 +64,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Luso-Hispanic World, 824"
         ],
@@ -110,15 +113,16 @@
         "subject_geographic_sim": [
             "Alabama",
             "Florida",
-            "North and Central America"
+            "North and Central America",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,28.0]},\"properties\":{\"placename\":\"Florida, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-87.0,33.0]},\"properties\":{\"placename\":\"Alabama, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,28.0]},\"properties\":{\"placename\":\"Florida\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-87.0,33.0]},\"properties\":{\"placename\":\"Alabama\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,28.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Florida\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-87.0,33.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Alabama\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,28.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Florida\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-87.0,33.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Alabama\"}}"
         ],
         "subject_point_geospatial": [
             "28,-82",
@@ -135,7 +139,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:39:57Z",
         "system_modified_dtsi": "2023-09-15T14:47:52Z",
-        "timestamp": "2023-10-03T15:48:46.405Z",
+        "timestamp": "2025-10-31T15:47:32.790Z",
         "title_info_primary_tsi": "Costa desde la Mobila asta la Bahi\u0301a de Sn. Josef",
         "type_of_resource_ssim": [
             "Cartographic"

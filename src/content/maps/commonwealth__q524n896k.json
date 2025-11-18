@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749837390381056,
+        "_version_": 1847512911595962368,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n896k",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n896k/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1178"
         ],
@@ -95,15 +98,16 @@
             "Saratoga County (N.Y.)--History--Revolution, 1775-1783--Maps"
         ],
         "subject_geographic_sim": [
+            "New York",
             "North and Central America",
             "Saratoga (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.85,43.1]},\"properties\":{\"placename\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.85,43.1]},\"properties\":{\"placename\":\"Saratoga (county), NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.85,43.1]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Saratoga\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.85,43.1]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Saratoga\"}}"
         ],
         "subject_point_geospatial": [
             "43.1,-73.85"
@@ -114,7 +118,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:14:21Z",
         "system_modified_dtsi": "2023-09-15T14:47:33Z",
-        "timestamp": "2023-10-03T15:47:15.231Z",
+        "timestamp": "2025-10-31T15:46:53.018Z",
         "title_info_primary_subtitle_tsi": "on the 10th of September 1777, and in which it remained till the convention was signed",
         "title_info_primary_tsi": "Plan of the position which the army under Lt. Genl. Burgoyne took at Saratoga",
         "type_of_resource_ssim": [

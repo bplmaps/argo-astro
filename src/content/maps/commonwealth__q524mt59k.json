@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1780925935211511808,
+        "_version_": 1847513051358560256,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524mt59k",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524mt59k/manifest",
@@ -61,7 +64,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Green, John, -1757",
             "Jefferys, Thomas, -1771",
@@ -129,18 +132,19 @@
         "subject_geographic_sim": [
             "Mesoamerica",
             "North America",
+            "North and Central America",
             "South America"
         ],
         "subject_geojson_facet_ssim": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-56.683,-3.55]},\"properties\":{\"placename\":\"South America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,10.0]},\"properties\":{\"placename\":\"Mesoamerica\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,10.0]},\"properties\":{\"placename\":\"Mesoamerica, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-201.5,60.0],[-107.5,60.0],[-107.5,82.0],[-201.5,82.0],[-201.5,60.0]]]},\"bbox\":[158.5,60.0,-107.5,82.0]}"
         ],
         "subject_hiergeo_geojson_ssm": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-56.683,-3.55]},\"properties\":{\"continent\":\"South America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"area\":\"North America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,10.0]},\"properties\":{\"area\":\"Mesoamerica\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"North America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,10.0]},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"Mesoamerica\"}}"
         ],
         "subject_point_geospatial": [
             "-3.55,-56.683",
@@ -153,7 +157,7 @@
         ],
         "system_create_dtsi": "2017-05-24T19:43:18Z",
         "system_modified_dtsi": "2023-07-13T13:46:43Z",
-        "timestamp": "2023-10-27T16:15:23.820Z",
+        "timestamp": "2025-10-31T15:49:06.305Z",
         "title_info_alternative_tsim": [
             "Chart containing part of the Icy Sea with the adjacent coast of Asia and America",
             "Chart comprizing Greenland with the countries and islands about Baffin's and Hudson's Bays",

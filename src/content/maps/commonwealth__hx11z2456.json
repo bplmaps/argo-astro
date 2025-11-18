@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750030491942912,
+        "_version_": 1847512988531032064,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -50,7 +50,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z2456",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z2456/manifest",
@@ -63,7 +66,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
             "Royal United Services Institute for Defence and Security Studies"
@@ -127,14 +130,15 @@
             "Fort Littleton",
             "Fulton (county)",
             "North and Central America",
+            "Pennsylvania",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.95,40.05]},\"properties\":{\"placename\":\"Fort Littleton\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.95,40.05]},\"properties\":{\"placename\":\"Fort Littleton, PA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-77.961389,40.060278],[-77.952222,40.060278],[-77.952222,40.0675],[-77.961389,40.0675],[-77.961389,40.060278]]]},\"bbox\":[-77.961389,40.060278,-77.952222,40.0675]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.95,40.05]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Fulton\",\"city\":\"Fort Littleton\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.95,40.05]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Fulton\",\"city\":\"Fort Littleton\"}}"
         ],
         "subject_point_geospatial": [
             "40.05,-77.95"
@@ -146,7 +150,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:32:46Z",
         "system_modified_dtsi": "2023-09-15T14:48:06Z",
-        "timestamp": "2023-10-03T15:50:19.387Z",
+        "timestamp": "2025-10-31T15:48:06.389Z",
         "title_info_primary_tsi": "FORT LITTLETON",
         "type_of_resource_ssim": [
             "Cartographic"

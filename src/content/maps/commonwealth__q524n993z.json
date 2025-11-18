@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749850820542464,
+        "_version_": 1847512917065334784,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n993z",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n993z/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Wangenheim, Friedrich Adam Julius von"
         ],
@@ -107,14 +110,15 @@
         "subject_geographic_sim": [
             "Middlesex (county)",
             "New Brunswick",
+            "New Jersey",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.45,40.4833]},\"properties\":{\"placename\":\"New Brunswick\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.45,40.4833]},\"properties\":{\"placename\":\"New Brunswick, NJ\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.45,40.4833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Middlesex\",\"city\":\"New Brunswick\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.45,40.4833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\",\"county\":\"Middlesex\",\"city\":\"New Brunswick\"}}"
         ],
         "subject_point_geospatial": [
             "40.4833,-74.45"
@@ -124,7 +128,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:29:45Z",
         "system_modified_dtsi": "2023-09-15T14:47:35Z",
-        "timestamp": "2023-10-03T15:47:28.038Z",
+        "timestamp": "2025-10-31T15:46:58.234Z",
         "title_info_alternative_tsim": [
             "New Brunswick le 12 e. juin"
         ],

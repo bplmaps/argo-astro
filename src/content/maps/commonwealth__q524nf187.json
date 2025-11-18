@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749899786944512,
+        "_version_": 1847512939778539520,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nf19h",
         "extent_tsi": "1 manuscript map : hand color 48 x 67 cm.",
         "filenames_ssim": [
-            "ct000120",
-            "commonwealth:q524nf187_metadata"
+            "commonwealth:q524nf187_metadata",
+            "ct000120"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nf187",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nf187/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Meji\u0301a, Juan Viz",
             "Badaraco, Joseph Francisco",
@@ -118,13 +121,14 @@
             "Manuscript maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
-            "Hispaniola"
+            "Hispaniola",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.0,19.0]},\"properties\":{\"placename\":\"Hispaniola\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.0,19.0]},\"properties\":{\"placename\":\"Hispaniola, North and Central America\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.0,19.0]},\"properties\":{\"island\":\"Hispaniola\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.0,19.0]},\"properties\":{\"continent\":\"North and Central America\",\"island\":\"Hispaniola\"}}"
         ],
         "subject_point_geospatial": [
             "19,-71"
@@ -135,7 +139,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:47:30Z",
         "system_modified_dtsi": "2023-09-15T14:47:43Z",
-        "timestamp": "2023-10-03T15:48:14.737Z",
+        "timestamp": "2025-10-31T15:47:19.895Z",
         "title_info_primary_tsi": "Plano de la Ysla de Santo Domingo, parte de las Cuba, Jamaica y otras contiguas a ellas, del seno mexicano",
         "type_of_resource_ssim": [
             "Cartographic"

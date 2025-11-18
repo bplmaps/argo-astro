@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749617473585152,
+        "_version_": 1847512867430989824,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vq640",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vq640/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzFWFtv2zgWfu+vIPQ0A1QXX2LXRqNB6ulus0jToEmBnX1Z0NSxxEYitSRlR/sL9sfNj5pDmbIlX9JMi919sWHyXL5zeK5++8tTkZM1KM2luPQGQeQREEwmXKSX3peHv/hvvF/iV28Lmei5/SBIL/T8Kefi8dLLjCnnYbjZbILNKJAqDQez2Sxsbr2WVPNThMMoGoR//3hzzzIoqM+FNlQwaLmsrh5bLlmQynVoL8L1yNuDHgVT5NJ8rhtRN5JR01yc5yYnrqz+hCq8d0TNtz/yp8GTTrz4FSFbNxhucrgWK0kqTVO49ErFC6pqjyRclzmtb+gS8t3xP91pI6GVIaS4l8rEV+Rt2Dvo0DR6YmQVRK6IyYAwbmqCKPGJ1lxJoe3FXcZzmkBeZpw6YVtOCzjsI94bIWgBxNSlhY+OlILmfYB4f0cR0I00BtRr8pEak9Hf/1NpcpUvFbDMtNBb0hPsTkVCDXjxYDoe+IM3g+gZRiW3yPsnD6AKJ8rAk/EIrUwmFbrj0kMfMwU5NVJ1zr98vt4FAE92j7zG4FhWOT5L6Hg0RhLNK3g5Q4jqvHihwP5yprQgnSlhz5aOuZ0oQms+rT6DlpViEC/QDzJVFF+Rta/Wp9hxpiAUdD2QFmnJ/pTtThG+KShO85f74JAxNGkRRZPhZHAY/YgSlA2qj7TUzqIG+d4QBJty0cZle8q1rmwliAspDjyyu+qQ29C6xnNIOoVrM2KJWXnkEepf8f7Sq0Hb+JtOnaQ9V+eB+ni24jH70gqzvKuyPXsuKrmWk9HMHy7/1Lu0XC9+j5YhBJF68XuR5lxnzpwuzI6VXYu29pRZrTmj+a+gmeKlLZ49D6NXDM0/Nd6JFaykKrAYoMPdTevTHl1HAPoGhImZzANS0JJMIvJExhPCisCxOopuFAiMMAHmIyScPqCPYyymKYRfS0jbaDgieQG/4avVj/B/LYfPsbu7Mx5ta7+B+IMt4+gRqSAJdj3AwAHZfSY3mtjK0dR6fLtEbjCxNOGCqAoTjFAsRPoZEdeC5VWC/N77HNZNa2z7yb3BNCAfZKUh8M5KcCGuLXGBz2S5FegS+w9f8hwDu4k8RdcYEtasslraMMRfy3rbN2BjmwZgP9i2k9NwdbX8Csx00yhnOvt2BrX3HHTohOheNzOy5CzudkryGVLriZ/uaPCz79si5fvvqcprspHqURMjyeBN1LaqrYD9Azst/zvsN7uX9/07EELX+ZoKTvHXsVX/HXtMKs6Y0xSkIAVj6gCSKmwojyrYCapwGg3G42jSMzjj2DgUy2wC/RXaFtAfCpishKnjE7OPuzmmVnX8RXBbtpqw1116dcQgDBe2JN3iUJY1Ub3AnzbfrgpsfWyvrqXsC+Bn0PEWmzt4zlgnqjMZ6EOYUmHDs9bEo1kwu3jtTy+CwcUO2/66q/NI4jeC4IVoNJqAFct+EkYDMpiPh6+jXchtr78LRzN5QXKN9ccVo0xq08+S7oh7OEP/TWaCfAjIDazxrchC5jnKx0Q5nJfPTMzhIYrnoHH9GVagcBiB5B0uBc0yNM+wb24zQWMquFbJdkB0IOoybxYjDNFChxeDKBlPk5UPs+XIp6Nk5kM0jvAjopjHkzGdzbxwj4MnGIN8hdHkYFSKe3Grj6rHYKezwMFqAzQ3WaMP7+bhRTS7mIX/nkSj9b8m4/bJ9kKfUZQzJrx4Op7MhoPp8BnO3C1m3WdrG2W7tMW32Cp+w4JF7mwTYeSGLzE/6oO+etMR1Y413aOz+iqVH21tlDHQuGzKbcXDxmqT2g50P+o/1HaovFVWKoxF2Hy/itBkVbEUlOfnldn2igHJ+covsFmsQP+ATWEroq/vrPu3li6kSHgzc5zKA2aXKL6GLQDd6MZXB6GxGy5rXzBf03AcRKHXhrWGphorKJVMqiZ5DlcPJ8GLHzKum/ZH8NudJgTnV2LFVCLBIKZk4UBgXWhQkCtjFF9WDepb7Kb2HBTDfYfcZzhu4SzDHwFDsxFIflosyLvf/NuFf3/1czvZHFh/3i0vNwvn6szOBreSPAqcBTBMy7o5tOMYQnaV5FsIcHfHvnC4dm1PFzbyhbnfrpzvsMoixJOpeIr+WFzjWinsEna8nsXDaDjwo5k/uHiIxvPxdH4x+0dffIf/hPQMVxn4btk77mPJbofBDKOCYKqW+OpJj/t4y2n3qk+rBcWcknid9pvRib0RUcP/f2/EjzM749HWeGydWxL3m869+yPt8E+aDokXU8ra/05OsPa67j5a3ZH9iF/9AR6yJvY=",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Lotter, Mattha\u0308us Albrecht, 1741-1810"
         ],
@@ -104,15 +107,16 @@
         ],
         "subject_geographic_sim": [
             "North and Central America",
+            "Pennsylvania",
             "Philadelphia",
             "Philadelphia (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"placename\":\"Philadelphia\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"placename\":\"Philadelphia, PA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Philadelphia\",\"city\":\"Philadelphia\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Philadelphia\",\"city\":\"Philadelphia\"}}"
         ],
         "subject_point_geospatial": [
             "39.95,-75.15"
@@ -123,7 +127,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:54:24Z",
         "system_modified_dtsi": "2023-09-15T14:47:15Z",
-        "timestamp": "2023-10-03T15:43:45.502Z",
+        "timestamp": "2025-10-31T15:46:10.899Z",
         "title_info_primary_tsi": "A plan of the city and environs of Philadelphia",
         "type_of_resource_ssim": [
             "Cartographic"

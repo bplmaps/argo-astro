@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749914933624832,
+        "_version_": 1847512945569824768,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524ng19q",
         "extent_tsi": "1 map : ms. ; on sheet 103 x 61 cm.",
         "filenames_ssim": [
-            "ct006321",
-            "commonwealth:q524ng18f_metadata"
+            "commonwealth:q524ng18f_metadata",
+            "ct006321"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524ng18f",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524ng18f/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_tsim": [
             "Depths shown by soundings.",
             "Prime meridian: Tenerife [?].",
@@ -106,20 +109,21 @@
             "Middle Atlantic",
             "North Carolina",
             "North and Central America",
-            "South Carolina"
+            "South Carolina",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,28.0]},\"properties\":{\"placename\":\"Florida, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.0,32.0]},\"properties\":{\"placename\":\"Georgia, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,35.5]},\"properties\":{\"placename\":\"North Carolina, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,34.0]},\"properties\":{\"placename\":\"South Carolina, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,28.0]},\"properties\":{\"placename\":\"Florida\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.0,32.0]},\"properties\":{\"placename\":\"Georgia\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,35.5]},\"properties\":{\"placename\":\"North Carolina\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,34.0]},\"properties\":{\"placename\":\"South Carolina\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,28.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Florida\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.0,32.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Georgia\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,35.5]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"North Carolina\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,34.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"South Carolina\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"Middle Atlantic\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,28.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Florida\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.0,32.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Georgia\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,35.5]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"North Carolina\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,34.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"South Carolina\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"area\":\"Middle Atlantic\"}}"
         ],
         "subject_point_geospatial": [
             "28,-82",
@@ -137,7 +141,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:12:33Z",
         "system_modified_dtsi": "2023-09-15T14:47:48Z",
-        "timestamp": "2023-10-03T15:48:29.182Z",
+        "timestamp": "2025-10-31T15:47:25.417Z",
         "title_info_primary_tsi": "Map of coast from southern Florida to central New Jersey",
         "type_of_resource_ssim": [
             "Cartographic"

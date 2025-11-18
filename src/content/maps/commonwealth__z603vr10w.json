@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749634308472832,
+        "_version_": 1847512874314891264,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,8 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
         "georeferenced_bsi": true,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vr10w",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vr10w/manifest",
@@ -60,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Fry, Joshua, approximately 1700-1754",
             "Jefferson, Peter, 1708-1757",
@@ -132,17 +134,18 @@
             "Maryland",
             "Middle Atlantic",
             "North and Central America",
+            "United States",
             "Virginia"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.8333,39.0]},\"properties\":{\"placename\":\"Maryland, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,37.0]},\"properties\":{\"placename\":\"Virginia, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.8333,39.0]},\"properties\":{\"placename\":\"Maryland\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,37.0]},\"properties\":{\"placename\":\"Virginia\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-82.69055917287892,35.359178236841],[-73.23744389426906,35.359178236841],[-73.23744389426906,41.213943812058446],[-82.69055917287892,41.213943812058446],[-82.69055917287892,35.359178236841]]]},\"bbox\":[-82.69055917287892,35.359178236841,-73.23744389426906,41.213943812058446]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.8333,39.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Maryland\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"Middle Atlantic\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,37.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Virginia\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.8333,39.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Maryland\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"area\":\"Middle Atlantic\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,37.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\"}}"
         ],
         "subject_point_geospatial": [
             "39,-76.8333",
@@ -155,7 +158,7 @@
         ],
         "system_create_dtsi": "2016-11-20T05:00:18Z",
         "system_modified_dtsi": "2023-09-15T14:47:16Z",
-        "timestamp": "2023-10-03T15:44:01.557Z",
+        "timestamp": "2025-10-31T15:46:17.464Z",
         "title_info_primary_subtitle_tsi": "with part of Pensilvania, New Jersey and North Carolina",
         "title_info_primary_tsi": "A map of the most inhabited part of Virginia containing the whole province of Maryland",
         "type_of_resource_ssim": [

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1793005705565831168,
+        "_version_": 1847513161198993408,
         "admin_set_ark_id_ssi": "commonwealth:mw22z436x",
         "admin_set_name_ssi": "Library and Archives Canada Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:mw22z436x"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library and Archives Canada Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -45,7 +45,10 @@
         "genre_specific_ssim": [
             "Manuscript maps"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:7w62j777r",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/7w62j777r/manifest",
@@ -134,7 +137,7 @@
         ],
         "system_create_dtsi": "2023-03-29T18:28:02Z",
         "system_modified_dtsi": "2023-11-04T21:12:18Z",
-        "timestamp": "2024-03-09T00:18:10.568Z",
+        "timestamp": "2025-10-31T15:50:51.057Z",
         "title_info_primary_tsi": "Plan of the siege of Louisbourg in 1758, carry'd on by the British army commanded by His Excellency Major General Amherst, and the fleet commanded by Admiral Boscawen...",
         "type_of_resource_ssim": [
             "Cartographic"

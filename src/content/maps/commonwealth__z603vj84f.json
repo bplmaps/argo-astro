@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749779114721280,
+        "_version_": 1847512887199793152,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,13 +37,16 @@
         "exemplary_image_ssi": "commonwealth:z603vj85q",
         "extent_tsi": "1 map ; 75 x 160 cm",
         "filenames_ssim": [
-            "gan00008an011018",
-            "commonwealth:z603vj84f_metadata"
+            "commonwealth:z603vj84f_metadata",
+            "gan00008an011018"
         ],
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vj84f",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vj84f/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzFWFtv2zYUfu+vIPSyFoguvsdeo6Jx1yFFkhZNim4rhoGmaImJRAokZcf79TuSSFnyJU3Th73ICHnOdy78eM5hXr95yFK0olIxwc+cnhc4iHIiIsbjM+fL7Xv31HkTvnidiUjNyg8Cea5mDynj92dOonU+8/31eu2tB56Qsd+bTqd+tetYUcUOCfaDoOf/cXV5QxKaYZdxpTEn1GqVtjpqqSBeLFZ+ueGvBs7W6YE3AS3FZqqCuhQE62rjuDY6sFXaj7CEfSNU/boDd+I9qMgJXyBUp0EzndILvhSoUDimZ04uWYblxkERU3mKN5d4QdNm+R+zWiF0MMJv84TFnBIt0DneILCPVowwzvTm79d+S7C07XeNb/3hOKNIb/LSE8iJ4Djt2Cr3P2Gpw3dUgR0pqTpBH4SieYLee+irh17avySNqGTkHn3FaUr1K2O0QTiAaixHWFMn7E36fbd32h8+oihFHVB35ZbKzEBp+qAdhAudCAmZOHMgi0TSFGshW+tfPl80R8yi5hhXcPyLIoXE+0ZHAVdwWtCnK/j5AlL4qVikTCVUmmCsmyYYvxNNK+AWUyCej8vPVIlCEhrOIRMiljhPGLHH2ZVoNGPKJW3nIM7inPxQ9MbQFRyMZDh9ehZ2FX0dZ0Ew7o97uwwHL6ks2XaFc2UiqjzfBgLOxoxbwtpVwCA7JKiWdlkQfrsUPBLc3oZGqHMGLTSDZU8u/OC994DgW+ZblUaipcaUKsoaFGaC75xTs9USLyl/Aes0apXM9YBEeumge7p5B/tnzoaq8l5MJgZpq9WiTTdLNXyKeVxAfWmbtGuP3RamxHgwdfuLH2KL1XoyS6yCT3nshL/xuMynCaftZivKdkTmoJKNYgSncD5Esrws250MQ1Y0Tj9W2QklXQqZYa0h4WbH5rQj1wKA3FCuwx7KcI5+RZMRekC9cYBIZjSNQJsEHGjPqb6iEcO3kOIQqnhM/bucxpYMeyJP0NdsufwZ/bu8/5i65fXhhJqSLTQNbzQQEA3gTpS/YolYBo2Ka2gJBaeod4JKsp5Uzajmzy8KVS0GRxFknnGkE4pSsaYSQcIT7dnaV8I3xlSxuIPO1mZmSlTyfVLafUaVb0BUt3eKnJGw2zpfXnvnXuXztXfjvXLdVkWq5bc5MqCPuqpjfsTT6gp4MdV649Go8CvJvTtzQMrv9Xr9yXTaiSWmttB0A2qKabPdUkoYVF1JkvKgf9+RsDJEFFzLDfQcjiNs4Oxiu3g+BmagWm1L7VoREuoeMEmFw5E3mvSH4/GJOx56k2F/Mhw2drdibdt7yN85oSd6pSAUIHr5Rd8I9lBvNg5OgiCwbaQWeJYn1YhAowtNbQFOhNL7s92243VHvku2gHRvyos3FzyGjqSQTXs9AQJz0Tu2YuVwuzsEHhkD/V3XHvOXqc90SSW0LBqdw9BaDeuzBKprzV4F9E0J4c2FnIwGg/4oCBx/C8siKJtsCdwxqIVkTmjVsbz3TE0mIoNuuqY41Uk198PezB8F09HU/3ccDFZ3p8OmLjagrS5opvlOezdFzk76z0vqHkqrUbWXjrpRyHTvBYAJAeNnjqgrChRLIng9yvxkcsDarnFrLJd0xej6+SZ8nRTZgmOWHjdWVncgD2NLN8OcLan6iZh8C9G1dzT9daRwthErNw5yFp4IoLWitQOqsp0yQrmCRrLYuJy4CvtDL/Ady1lFK3JImksRFaSE3h1xDYIT3iZMobWQ9wh+zWqEYCJBJUzB4eGEMJobJ4CHlRfordaSLYrK62vB3XKdSgJzNbpJMMz4b1N2T9FlDYhezufo/E/3eu7evH1lG+tO9MfT8vSwqsYNbfVaoHsu1iVN8021CGoKXK601Hc9kJBuGe2O9/XqvGQ+1zf10+YcyiS4WD2qCDI3tqlc+/L7cFVqBa/mlr2BO+wH/Z4bwEB6etsfzPqT2Wj6Vxe+pX8APYHhlD4bu9HeRzZTKdwwzBFc1RxOPepo78+tdlL+uJxjuFMCtuNuNznwEgCv6f//EoDPkVfA3jtgPzoz9m+H1xvzT5ndfwe0RJwQY2Lf6AdUOx1yy1azVH7CF/8Bb6GIDw==",
+        "mods_xml_ss": "eJzFWFtv2zYUfu+vIPSyFoguvsdeoyJx1yFFkhZNim4rhoGmaImNRAokZcf79TuSSVmS7TRNH/Ziw4fnzo/n4tdvHrIUrahUTPAzp+cFDqKciIjx+Mz5fPfOPXXehC9eZyJSs/IDAT9Xs4eU8fszJ9E6n/n+er321gNPyNjvTadTvzp1LKtihxj7QdDz/7i+uiUJzbDLuNKYE2qlSlstsVQQLxYrvzzwVwNn5/TAm4CUYjNVqboSBOvq4Lg0OnBU2o+whHPDVH27A3fiPajICV8gtE2DZjqll3wpUKFwTM+cXLIMy42DIqbyFG+u8IKmNfkfQ600tHSEX+cJizklWqALvEFgH60YYZzpzd+v/QZjadtvG9/5w3FGkd7kpSeQE8Fx2rJVnn/EUodvqQI7UlJ1gt4LRfMEvfPQFw+9tL8kjahk5B59wWlK9StjtNZwQKuxHGFNnbA36ffd3ml/+IigFNuA2pQ7KjOjStMH7SBc6ERIyMSZA1kkkqZYC9mgf/50WV8xi+prXMH1L4oUEu8bGQVYwWlBny7g5wtI4cdikTKVUGmCsW6aYPxWNI2AG0iBeD4sP1ElCkloOIdMiFjiPGHEXmebo5aMKZe0mYM4i3PyQ9EbQ9dwMZLh9OlZ6Ar6Os6CYNwf97oIBy+pLNF2jXNlIqo83wUCzsaMW8BaKuggHRBUpC4Kwq9XgkeC29dQM7XuoKHN6LI3F7733nkA8B3yrUjN0RBjShVlDQozwTv3VB812EvIXwKdRo2SuR6QSC8ddE83b+H8zNlQVb6LycRo2kk1YNPO0lZ9inlcQH1pmrS0x14LU2I8mLr9xQ+hxUo9GSVWwKc8dsLfeFzm04TTdLMRZTMic1HJRjGCU7gfIllelu1WhiErGqcfquyEki6FzLDWkHBzYnPa4msogNxQrsMeynCOfkWTEXpAvXGASGYkDUMTBBxgz6m+phHDd5DiEKp4TP1vOY0tGPZYniCv2XL5M/Lf8v5j4hbXhxNqSrbQNLzVAEA0gDdRfoslYhk0Kq6hJRScot4JKsF6UjWjLX5+UahqMTiKIPOMI51QlIo1lQgSnmjP1r5SfW1MFYtv0NmayEyJSr4PSnvOqPKNEtXunSJnJGy3zpc33oVX+Xzj3XqvXLdRkbb8uxwZpY+6qmN+xNPqCXgx1Xrj0ajwK869N3OAy+/1ev3JdNqKJaa20LQDqotpfdwQShhUXUmS8qJ/73BYHiIKruUGeg7HETbqLLHDyTXj5Su4EVInVRLn8BMKOzrPynFgJ245m9X3MW+MhUbfU13jQkLhBCiqcDjyRpP+cDw+ccdDbzLsT4bD2vKOrWl7T/N3rviJXikIBV5K+Ym+Euyh3mwcnARBYPvQluFZnlQzBo0uNbUVPBFK7w+Hu5bZnhmv2ALSvSlf7lzwGFqaQjbt2xESoI/eshUrp+PuFHlkjvS7rj3mL1Of6JJK6Hk0uoCpt5r2ZwmU5y38FeA/JYTXL3oyGgz6oyBw/J1aFgGO2BKwY7QWkjmhFcfy3jNFnYgM2vGa4lQn1eIAZzN/FExHU//fcTBYfTsd1oW1Vtpoo2YdaM0HpkraVeF5Sd3T0uh0TdJRNwqZ7q0QmBAwfuaIbUmCalu+umoW+snkgLWucWssl3TF6Pr5JnydFNmCY5YeN1a2BwAPY0s3w5wtqfqJmHyrom3vaPq3kcLdRqw8OIhZ2DFAakW3DqjKdsoI5Qo60WLjcuIq7A+9wHcsZhWtwCFpLkVUkFJ1d0Y2GpzwLmEKrYW8R/BtqBGCkQaVagoOmxfCaG6cABxWXqBzrSVbFJXXN4K7JZ1KAoM5uk0wLAnnKbun6GqrEL2cz9HFn+7N3L09f2U7cyf642l5elhV54e+fCPQPRfrEqb5piKCmAKXKyn1XQ8kpFtG3f1gS52XyOf6drsbXUCZBBerrYwg82LryrXPv6+uSq3g1eCzN7GH/aDfcwOYaE/v+oNZfzIbTf9qq2/IH9CewHRLn627lt7XbMZaeGGYI3iqOdx61JLeH3ztqP1hOcfwpgQcx+1ucmCVAK/p/79KwMeRNWJvkdiPzuwNu+n31vyr0/0/ocHihBgTu+QfEG11yB1aDan8CF/8B+JhnpM=",
         "name_facet_ssim": [
             "Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1722-1824"
         ],
@@ -97,13 +100,14 @@
         ],
         "subject_geographic_sim": [
             "Canada",
-            "Chignecto Bay"
+            "Chignecto Bay",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.742744,45.572466]},\"properties\":{\"placename\":\"Chignecto Bay\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.742744,45.572466]},\"properties\":{\"country\":\"Canada\",\"other\":\"Chignecto Bay\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.742744,45.572466]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"other\":\"Chignecto Bay\"}}"
         ],
         "subject_point_geospatial": [
             "45.572466,-64.742744"
@@ -113,7 +117,7 @@
         ],
         "system_create_dtsi": "2016-11-20T02:38:48Z",
         "system_modified_dtsi": "2023-09-15T14:47:22Z",
-        "timestamp": "2023-10-03T15:46:19.655Z",
+        "timestamp": "2025-10-31T15:46:29.751Z",
         "title_info_primary_tsi": "[Chignecto Bay and vicinity]",
         "type_of_resource_ssim": [
             "Cartographic"

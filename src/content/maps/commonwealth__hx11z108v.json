@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750005790638080,
+        "_version_": 1847512979307757568,
         "abstract_tsi": "Map of Lake Ontario from Fort Frontenac to \"Chouayguin\" (Fort Chouaguen, later Fort Oswego).",
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
@@ -10,7 +10,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z108v",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z108v/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Laforce, Rene\u0301-Hippolyte, 1728-1802",
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
@@ -117,15 +120,16 @@
         "subject_facet_ssim": [
             "Ontario, Lake (N.Y. and Ont.)--Maps, Manuscript--Early works to 1800"
         ],
-        "subject_geo_other_ssm": [
-            "Ontario, Lake"
-        ],
         "subject_geographic_sim": [
+            "North and Central America",
             "Ontario, Lake"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.0,43.666]},\"properties\":{\"placename\":\"Ontario, Lake\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.0,43.666]},\"properties\":{\"placename\":\"Ontario, Lake, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-76.533333,43.416667],[-76.033333,43.416667],[-76.033333,44.266667],[-76.533333,44.266667],[-76.533333,43.416667]]]},\"bbox\":[-76.533333,43.416667,-76.033333,44.266667]}"
+        ],
+        "subject_hiergeo_geojson_ssm": [
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.0,43.666]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Ontario, Lake\"}}"
         ],
         "subject_point_geospatial": [
             "43.666,-78"
@@ -135,7 +139,7 @@
         ],
         "system_create_dtsi": "2016-11-17T22:58:05Z",
         "system_modified_dtsi": "2023-09-15T14:48:03Z",
-        "timestamp": "2023-10-03T15:49:55.830Z",
+        "timestamp": "2025-10-31T15:47:57.593Z",
         "title_info_primary_tsi": "Nouveau plan du Lac ontario depuis Le fort frontenac jusqu\u00e0 Chouayguin, avec les isles Et Bancs qui y Sont",
         "type_of_resource_ssim": [
             "Cartographic"

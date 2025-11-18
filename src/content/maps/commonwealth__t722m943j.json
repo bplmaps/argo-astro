@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778757922469183488,
+        "_version_": 1847513157947359232,
         "admin_set_ark_id_ssi": "commonwealth:mw22z436x",
         "admin_set_name_ssi": "Library and Archives Canada Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:mw22z436x"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library and Archives Canada Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -45,7 +45,10 @@
         "genre_specific_ssim": [
             "Manuscript maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:t722m943j",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/t722m943j/manifest",
@@ -62,7 +65,7 @@
             "French"
         ],
         "license_ss": "Contact host institution for more information.",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Bellin, Jacques Nicolas, 1703-1772"
         ],
@@ -102,16 +105,17 @@
             "Canada--Maps--Early works to 1800",
             "New France--Maps"
         ],
-        "subject_geo_other_ssm": [
-            "Saint Lawrence River",
-            "New France"
-        ],
         "subject_geographic_sim": [
             "New France",
+            "North and Central America",
             "Saint Lawrence River"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.0,49.5]},\"properties\":{\"placename\":\"Saint Lawrence River\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.0,49.5]},\"properties\":{\"placename\":\"Saint Lawrence River, North and Central America\"}}"
+        ],
+        "subject_hiergeo_geojson_ssm": [
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.0,49.5]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Saint Lawrence River\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"New France (former administrative division)\"}}"
         ],
         "subject_point_geospatial": [
             "49.5,-65"
@@ -123,7 +127,7 @@
         ],
         "system_create_dtsi": "2023-03-29T18:18:49Z",
         "system_modified_dtsi": "2023-03-29T20:12:14Z",
-        "timestamp": "2023-10-03T17:55:45.763Z",
+        "timestamp": "2025-10-31T15:50:47.957Z",
         "title_info_primary_tsi": "Cours du fleuve St. Laurent : troisieme feuille : depuis le mont Camille jusqu'a l'isle d'Anticosti",
         "type_of_resource_ssim": [
             "Cartographic"

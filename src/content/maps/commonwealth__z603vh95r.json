@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749552785883136,
+        "_version_": 1847512845168672768,
         "admin_set_ark_id_ssi": "commonwealth:z603vh48c",
         "admin_set_name_ssi": "Harvard Map Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh48c"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Harvard Map Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,13 +37,16 @@
         "exemplary_image_ssi": "commonwealth:z603vh961",
         "extent_tsi": "1 map : hand col. ; 52 x 75 cm.",
         "filenames_ssim": [
-            "G3701_S3_1778_P5",
-            "commonwealth:z603vh95r_metadata"
+            "commonwealth:z603vh95r_metadata",
+            "G3701_S3_1778_P5"
         ],
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vh95r",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vh95r/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Phelipeau, Ren\u00e9, active 1748-1784",
             "Brion de la Tour, Louis",
@@ -116,15 +119,16 @@
         ],
         "subject_geographic_sim": [
             "Greater Antilles",
+            "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.0,20.0]},\"properties\":{\"placename\":\"Greater Antilles\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.0,20.0]},\"properties\":{\"placename\":\"Greater Antilles, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-98.0,38.0]},\"properties\":{\"placename\":\"United States\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.0,20.0]},\"properties\":{\"area\":\"Greater Antilles\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-98.0,38.0]},\"properties\":{\"country\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.0,20.0]},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"Greater Antilles\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-98.0,38.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\"}}"
         ],
         "subject_point_geospatial": [
             "20,-74",
@@ -137,7 +141,7 @@
         ],
         "system_create_dtsi": "2016-11-20T02:18:53Z",
         "system_modified_dtsi": "2023-09-15T14:47:11Z",
-        "timestamp": "2023-10-03T15:42:43.810Z",
+        "timestamp": "2025-10-31T15:45:49.668Z",
         "title_info_primary_subtitle_tsi": "dans l'Am\u00e9rique Septentrionale",
         "title_info_primary_tsi": "Carte g\u00e9n\u00e9rale des colonies Angloises",
         "type_of_resource_ssim": [

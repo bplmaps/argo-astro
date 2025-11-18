@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749896455618560,
+        "_version_": 1847512934762151936,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -10,8 +10,8 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
-            "Maritime Charts and Atlases (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
+            "Maritime Charts and Atlases",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -39,14 +39,17 @@
         "exemplary_image_ssi": "commonwealth:q524nd997",
         "extent_tsi": "4 maps ; 44 x 44 cm. or smaller",
         "filenames_ssim": [
-            "cs000010r",
-            "commonwealth:q524nd98z_metadata"
+            "commonwealth:q524nd98z_metadata",
+            "cs000010r"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nd98z",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nd98z/manifest",
@@ -61,7 +64,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "De Brahm, John Gerar William, 1717-approximately 1799"
         ],
@@ -118,13 +121,14 @@
         ],
         "subject_geographic_sim": [
             "Florida",
-            "North and Central America"
+            "North and Central America",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,28.0]},\"properties\":{\"placename\":\"Florida, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,28.0]},\"properties\":{\"placename\":\"Florida\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,28.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Florida\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,28.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Florida\"}}"
         ],
         "subject_point_geospatial": [
             "28,-82"
@@ -138,7 +142,7 @@
         "system_create_dtsi": "2017-05-25T17:43:03Z",
         "system_modified_dtsi": "2023-09-15T14:47:46Z",
         "table_of_contents_tsi": "Chart of the sea coast from lattde. 26\u207020\u02b900\u02ba to 26\u2070 & 40\u02b900\u02ba with the head of Sharkshead River -- Chart of New Inlet -- Chart of Midle Inlet -- Chart of Cape Florida, according to the surveys made May 13 & 29, 1765.",
-        "timestamp": "2023-10-03T15:48:11.560Z",
+        "timestamp": "2025-10-31T15:47:15.111Z",
         "title_info_primary_tsi": "Chart of the sea coast from lattde. 26\u207020\u02b900\u02ba to 26\u2070 & 40\u02b900\u02ba with the head of Sharkshead River ; Chart of New Inlet ; Chart of Midle Inlet ; Chart of Cape Florida, according to the surveys made May 13 & 29, 1765",
         "type_of_resource_ssim": [
             "Cartographic"

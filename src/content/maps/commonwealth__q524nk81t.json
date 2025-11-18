@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1780112770005467136,
+        "_version_": 1847512969358868480,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,15 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nk823",
         "extent_tsi": "1 manuscript map : hand color on sheet 58 x 86 cm.",
         "filenames_ssim": [
-            "lh000044X",
-            "commonwealth:q524nk81t_metadata"
+            "commonwealth:q524nk81t_metadata",
+            "lh000044X"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": true,
         "georeferenced_bsi": true,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nk81t",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nk81t/manifest",
@@ -142,7 +144,7 @@
         ],
         "system_create_dtsi": "2017-05-26T15:52:52Z",
         "system_modified_dtsi": "2023-09-15T14:47:57Z",
-        "timestamp": "2023-10-18T16:50:29.003Z",
+        "timestamp": "2025-10-31T15:47:48.105Z",
         "title_info_primary_tsi": "Map showing Caribbean area including West Indies and Gulf of Mexico",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778757630254120960,
+        "_version_": 1847513156871520256,
         "admin_set_ark_id_ssi": "commonwealth:kh04p6570",
         "admin_set_name_ssi": "MacLean Collection Map Library",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:kh04p6570"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "MacLean Collection Map Library"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -42,7 +42,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:th83pm653",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/th83pm653/manifest",
@@ -59,7 +62,7 @@
             "English"
         ],
         "license_ss": "Contact host institution for more information.",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Carleton, Osgood, 1742-1816",
             "Morse, Jedidiah, 1761-1826"
@@ -100,13 +103,14 @@
         ],
         "subject_geographic_sim": [
             "North and Central America",
-            "Pennsylvania"
+            "Pennsylvania",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"placename\":\"Pennsylvania, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"placename\":\"Pennsylvania\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Pennsylvania\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\"}}"
         ],
         "subject_point_geospatial": [
             "40.8333,-76"
@@ -116,7 +120,7 @@
         ],
         "system_create_dtsi": "2022-06-01T15:30:00Z",
         "system_modified_dtsi": "2023-07-13T13:46:51Z",
-        "timestamp": "2023-10-03T17:51:07.084Z",
+        "timestamp": "2025-10-31T15:50:46.931Z",
         "title_info_primary_tsi": "A map of Pensylvania, with part of the adjacent states, from the latest surveys",
         "type_of_resource_ssim": [
             "Cartographic"

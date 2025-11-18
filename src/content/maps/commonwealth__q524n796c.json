@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749824595656704,
+        "_version_": 1847512906361470976,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n796c",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n796c/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1044"
         ],
@@ -93,10 +96,11 @@
         ],
         "subject_geographic_sim": [
             "Middle Atlantic",
-            "North and Central America"
+            "North and Central America",
+            "United States"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"Middle Atlantic\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"area\":\"Middle Atlantic\"}}"
         ],
         "subject_topic_tsim": [
             "Roads--Middle Atlantic States--Maps--Early works to 1800",
@@ -105,7 +109,7 @@
         ],
         "system_create_dtsi": "2017-05-25T15:59:46Z",
         "system_modified_dtsi": "2023-09-15T14:47:31Z",
-        "timestamp": "2023-10-03T15:47:03.029Z",
+        "timestamp": "2025-10-31T15:46:48.026Z",
         "title_info_primary_subtitle_tsi": "showing roads to Philadelphia and localities",
         "title_info_primary_tsi": "Map of the country between and bordering the Delaware River and Chesapeake Bay",
         "type_of_resource_ssim": [

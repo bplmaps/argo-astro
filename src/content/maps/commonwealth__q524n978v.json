@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749848480120832,
+        "_version_": 1847512916079673344,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n978v",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n978v/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Hills, John, (Surveyor)"
         ],
@@ -111,16 +114,17 @@
             "Burlington (county)",
             "Crosswicks",
             "Monmouth (county)",
+            "New Jersey",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.5833,40.1667]},\"properties\":{\"placename\":\"Allentown\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.6333,40.15]},\"properties\":{\"placename\":\"Crosswicks\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.5833,40.1667]},\"properties\":{\"placename\":\"Allentown, NJ\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.6333,40.15]},\"properties\":{\"placename\":\"Crosswicks, NJ\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.5833,40.1667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Monmouth\",\"city\":\"Allentown\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.6333,40.15]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Burlington\",\"city\":\"Crosswicks\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.5833,40.1667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\",\"county\":\"Monmouth\",\"city\":\"Allentown\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.6333,40.15]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\",\"county\":\"Burlington\",\"city\":\"Crosswicks\"}}"
         ],
         "subject_point_geospatial": [
             "40.1667,-74.5833",
@@ -132,7 +136,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:27:17Z",
         "system_modified_dtsi": "2023-09-15T14:47:34Z",
-        "timestamp": "2023-10-03T15:47:25.806Z",
+        "timestamp": "2025-10-31T15:46:57.294Z",
         "title_info_alternative_tsim": [
             "Black horse to Crosswick",
             "Allen's Town"

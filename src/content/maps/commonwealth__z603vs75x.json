@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750171957428224,
+        "_version_": 1847513030693224448,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vs75x",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vs75x/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Grasse, Franc\u0327ois Joseph Paul de Grasse, comte de, 1722-1788",
             "Graves, Thomas Graves, 1725?-1802"
@@ -117,17 +120,18 @@
             "Chesapeake Bay",
             "North and Central America",
             "United States",
+            "Virginia",
             "York (county)",
             "Yorktown"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,37.0]},\"properties\":{\"placename\":\"Chesapeake Bay, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"placename\":\"Yorktown\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,37.0]},\"properties\":{\"placename\":\"Chesapeake Bay\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"placename\":\"Yorktown, VA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-76.2,36.83],[-75.6,36.83],[-75.6,37.25],[-76.2,37.25],[-76.2,36.83]]]},\"bbox\":[-76.2,36.83,-75.6,37.25]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,37.0]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Chesapeake Bay\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"York\",\"city\":\"Yorktown\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,37.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Chesapeake Bay\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\",\"county\":\"York\",\"city\":\"Yorktown\"}}"
         ],
         "subject_point_geospatial": [
             "37,-76",
@@ -139,7 +143,7 @@
         ],
         "system_create_dtsi": "2016-11-20T05:55:52Z",
         "system_modified_dtsi": "2023-09-15T14:48:25Z",
-        "timestamp": "2023-10-03T15:52:34.298Z",
+        "timestamp": "2025-10-31T15:48:46.598Z",
         "title_info_alternative_tsim": [
             "Political magazine and parliamentary, naval, military, and literary journal"
         ],

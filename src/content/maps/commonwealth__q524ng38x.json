@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749918355128320,
+        "_version_": 1847512947355549696,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -46,14 +46,17 @@
         "exemplary_image_ssi": "commonwealth:q524ng396",
         "extent_tsi": "1 map on 4 sheets : ms., col., sectioned and mounted on cloth ; 85 x 121 cm., sheets 56 x 62 cm. or smaller, folded to 18 x 16 cm. or smaller.",
         "filenames_ssim": [
-            "la002159",
-            "commonwealth:q524ng38x_metadata"
+            "commonwealth:q524ng38x_metadata",
+            "la002159"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524ng38x",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524ng38x/manifest",
@@ -68,7 +71,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Adlum, John, 1759-1836",
             "Bingham, William, 1752-1804"
@@ -120,14 +123,15 @@
         ],
         "subject_geographic_sim": [
             "North and Central America",
+            "Pennsylvania",
             "Potter (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.1167,42.0]},\"properties\":{\"placename\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.1167,42.0]},\"properties\":{\"placename\":\"Potter (county), PA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.1167,42.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Potter\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.1167,42.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Potter\"}}"
         ],
         "subject_point_geospatial": [
             "42,-78.1167"
@@ -141,7 +145,7 @@
         "system_create_dtsi": "2017-05-25T18:18:32Z",
         "system_modified_dtsi": "2023-09-15T14:47:48Z",
         "table_of_contents_tsi": "NW sheet Potter County -- N.E. sheet Potter Co. -- S.E. sheet of Potter County -- S.W. sheet Potter County.",
-        "timestamp": "2023-10-03T15:48:32.445Z",
+        "timestamp": "2025-10-31T15:47:27.120Z",
         "title_info_alternative_tsim": [
             "Potter County, Pennsylvania",
             "Potter County"

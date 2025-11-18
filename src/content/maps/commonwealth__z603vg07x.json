@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1824412554039918592,
+        "_version_": 1847512835861512192,
         "abstract_tsi": "Subject: Map of the city of Boston, with parts of Roxbury, Dorchester and Cambridge. Some roads and areas are colored in watercolor. Some public buildings are named.",
         "admin_set_ark_id_ssi": "commonwealth:z603vf985",
         "admin_set_name_ssi": "Maps from AAS",
@@ -10,7 +10,7 @@
             "commonwealth:z603vf985"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Maps from AAS"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -45,7 +45,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vg07x",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vg07x/manifest",
@@ -138,7 +141,7 @@
         ],
         "system_create_dtsi": "2016-12-06T21:49:00Z",
         "system_modified_dtsi": "2023-09-15T14:47:10Z",
-        "timestamp": "2025-02-18T16:16:35.317Z",
+        "timestamp": "2025-10-31T15:45:40.791Z",
         "title_info_primary_subtitle_tsi": "exhibiting a ground plan of all the streets, lanes, alleys, wharves, and public buildings in Boston, with the names and description thereof, likewise all the flats and channels between Boston and Charlestown, Cambridge, Roxbury & Dorchester with the two bridges and causeway, and the boundary lines beween Boston and the above mentioned towns, from the actual surveys of the publisher: : also part of Charlestown and Cambridge, from the surveys of Samuel Thompson, Esqr. and part of Roxbury and Dorchester, from those of Mr. Whitherington, (all which surveys were taken by order of the General Court.)",
         "title_info_primary_tsi": "An accurate plan of the town of Boston and its vicinity",
         "type_of_resource_ssim": [

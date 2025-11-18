@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749826968584192,
+        "_version_": 1847512907360763904,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n821h",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n821h/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1082"
         ],
@@ -95,15 +98,16 @@
             "Oneida County (N.Y.)--Maps, Manuscript--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "New York",
             "North and Central America",
             "Oneida (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.4667,43.2]},\"properties\":{\"placename\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.4667,43.2]},\"properties\":{\"placename\":\"Oneida (county), NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.4667,43.2]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Oneida\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.4667,43.2]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Oneida\"}}"
         ],
         "subject_point_geospatial": [
             "43.2,-75.4667"
@@ -114,7 +118,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:02:50Z",
         "system_modified_dtsi": "2023-09-15T14:47:31Z",
-        "timestamp": "2023-10-03T15:47:05.292Z",
+        "timestamp": "2025-10-31T15:46:48.979Z",
         "title_info_alternative_tsim": [
             "Patent of Oriskany"
         ],

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750245224579072,
+        "_version_": 1847513052084174848,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524mt64f",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524mt64f/manifest",
@@ -62,7 +65,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Howdell, Thomas",
             "Canot, Pierre Charles, 1710-1777",
@@ -131,11 +134,11 @@
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.0,40.7]},\"properties\":{\"placename\":\"New York\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.0,40.7]},\"properties\":{\"placename\":\"New York, NY\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-74.25,40.5],[-73.75,40.5],[-73.75,40.75],[-74.25,40.75],[-74.25,40.5]]]},\"bbox\":[-74.25,40.5,-73.75,40.75]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.0,40.7]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"city\":\"New York\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.0,40.7]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"city\":\"New York\"}}"
         ],
         "subject_point_geospatial": [
             "40.7,-74"
@@ -146,7 +149,7 @@
         ],
         "system_create_dtsi": "2017-05-24T19:44:18Z",
         "system_modified_dtsi": "2023-07-13T13:46:43Z",
-        "timestamp": "2023-10-03T15:53:44.172Z",
+        "timestamp": "2025-10-31T15:49:06.998Z",
         "title_info_primary_trans_tsim": [
             "Vue de sud ouest de la ville de New York, dans l'Amerique Septentrionale"
         ],

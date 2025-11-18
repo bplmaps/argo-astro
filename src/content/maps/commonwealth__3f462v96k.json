@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1799601386315317248,
+        "_version_": 1847513134806335488,
         "abstract_tsi": "As an example of late 18th-century British journalistic cartography, this is a reduced version of Page's original map of Boston. Using pictorial symbols, it shows Charlestown in ruins following the British burning of the town during the Battle of Bunker Hill. The major focus of the map, however, is Boston, which was occupied by the British at the beginning of the Revolutionary War. This simplified map emphasizes the city's streets, wharves, and fortifications. Breathing Room exhibition: In 1634, the colonists of Boston voted to tax each household six shillings for the purchase of William Blackstone\u2019s farmland. As was English custom, the field was set aside as a public common, used by the community for military training, cattle grazing, recreation, and public punishment. During the winter of 1775, the Common served as an armed camp with an entrenched garrison of 1,700 British soldiers. Thomas Hyde Page, a military engineer who served as aide-de-camp to British General William Howe, prepared this map of Boston that same year, taking care to label the battery and tents dotting the Common.",
         "admin_set_ark_id_ssi": "commonwealth:41688024w",
         "admin_set_name_ssi": "Norman B. Leventhal Map & Education Center Collection",
@@ -14,9 +14,9 @@
         ],
         "collection_name_ssim": [
             "Mapping Boston Collection",
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
-            "Urban Maps (Collection of Distinction)",
-            "Boston and New England Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
+            "Urban Maps",
+            "Boston and New England Maps",
             "Norman B. Leventhal Map & Education Center Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -51,7 +51,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:3f462v96k",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/3f462v96k/manifest",
@@ -135,7 +138,7 @@
         ],
         "system_create_dtsi": "2017-04-06T15:06:33Z",
         "system_modified_dtsi": "2023-09-15T14:49:10Z",
-        "timestamp": "2024-05-20T19:33:41.898Z",
+        "timestamp": "2025-10-31T15:50:25.888Z",
         "title_info_primary_tsi": "A new and correct plan of the town of Boston",
         "type_of_resource_ssim": [
             "Cartographic"

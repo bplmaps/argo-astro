@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750038207365120,
+        "_version_": 1847512991139889152,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z2901",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z2901/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Clinton, Henry, Sir, 1738?-1795",
             "Frazer, Sir Augustus Simon, 1776-1835",
@@ -126,17 +129,18 @@
         "subject_geographic_sim": [
             "Fort Clinton",
             "Fort Montgomery",
+            "New York",
             "North and Central America",
             "Orange (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9833,41.3167]},\"properties\":{\"placename\":\"Fort Montgomery\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9833,41.3167]},\"properties\":{\"placename\":\"Fort Montgomery, NY\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.98792,41.31871]},\"properties\":{\"placename\":\"Fort Clinton\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-74.008333,41.2025],[-73.883056,41.2025],[-73.883056,41.333056],[-74.008333,41.333056],[-74.008333,41.2025]]]},\"bbox\":[-74.008333,41.2025,-73.883056,41.333056]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9833,41.3167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Orange\",\"city\":\"Fort Montgomery\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9833,41.3167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Orange\",\"city\":\"Fort Montgomery\"}}"
         ],
         "subject_point_geospatial": [
             "41.3167,-73.9833",
@@ -151,7 +155,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:45:55Z",
         "system_modified_dtsi": "2023-09-15T14:48:07Z",
-        "timestamp": "2023-10-03T15:50:26.745Z",
+        "timestamp": "2025-10-31T15:48:08.877Z",
         "title_info_primary_tsi": "SKETCH of FORTS CLINTON & MONTGOMERY Stormed 6.th October 1777 by the Troops under the Command of Sir Henry Clinton K.B. L.t General of His Majesty's forces and Commander in Chief of NEW YORK and its Dependencies",
         "type_of_resource_ssim": [
             "Cartographic"

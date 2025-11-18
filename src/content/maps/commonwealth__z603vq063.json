@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749595608678400,
+        "_version_": 1847512859877048320,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vq063",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vq063/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJzFWElv2zgUvvdXELp0BogWr4mNRkXqTmcCZCmSFJj2MqClJ4mNRKokZcfz6+dRpmzJS5q2h7koCfmW7+2PefP2qcjJAqRigp87PS9wCPBIxIyn586nhw/umfM2fPWmELGamg9Beq6mTznjj+dOpnU59f3lcuktB56Qqd+bTCZ+fes0pIodIuwHQc//+/rqPsqgoC7jSlMeQcNldHXYchF5qVj45sJfDJwt6IF3ilyKTVUt6kpEVNcXx7nJgSujP6YS7y1R/dMduKfek4qd8BUhazdopnO45IkglaIpnDulZAWVK4fETJU5XV3ROeSb43/saS2hIyO8KECyiBIFWgPXElHTHFDMgilKOLwmqhKMoCAesZLmjCBIzd74LRkGlt/FtYXKaQFEr0oEGQlZCkk1dHAYgo9U6vCCa8GZIF+o1pQASViaN4o2RC1GKda6uycPIAurT8OTdgitdCYk06tzB30RScipFrJ1/unuchMoFm+CscAgzqsc3edbHoURp3kFL2fwUZ0TziSYv6wpDUhrit+xpWVuK9pozW1yB0pUMoJwhn4QqaRlxqLG712KDWcKXELbA2mRltEP2W4VXWPYJKP5y32wy+jrtAiCcX/c281SRAmS5k54TUtlLaqRbw1BsCnjTWY1p0ypylRsWAi+45HNVYs8RiiXeA5xq8EsB1GsE4c8wuo93p87K0Abv1WY6gkDee4wnoCUgOXXOz0bWfFbUa2odUGudeaUpxWWaBtHc/ZcqjIlxoOJ25//ULAarhcHqWHwmaZOeKnRasqtOW2YLSvbFq3tKbOVwh6SvwcVSVaaztdxO3oFBd/W3gklJEIWWOIYBXvT+LRD1xKAvsHWFEYi90hBSzLokScy7JGo8CyrpWinBse046CvIWb0AX0cYidMwf9aQtqkyB7JC/g1S5Jf4f9a9p9jt3dHPGobptAQ/oWTgqBHBGZm44X6okt2BzmDhKhMLDkpWYRtCGsxXz3D8kEKzMqsaRvqNbnQGHMNhAscCooVwiOmFMjCI8MTPPVIf3BcoM3wuO77DxlTxPxK8GdTWYd5VTX/CpFuF0Ueqez79dDcM1C+FaK6k0+gJ8IbIXVG7PxzXdN7XPcPKvMVWQr5qIgWpHcWBE2LrZm2IbKSn8WrU34Ebl2CXopDd+VBXPk15V7NHqDyT4P+ZDgMOgZl2KhwtGUmZf6EphN2ZyPFIdS12RpSX3RII8E146ag1vQm1WZmOaD5Du+Wsj3MnoNjNbRGmNpVLiR2ZkwRFY7OvN54fOL2gqE3HI83SrcUbbV7Qr8TqRcCUmgFhPfmSyKKqT/t905GQXASbHJjTfJTWOpNAeJLDc0oyITS+4vadvR19zeTtkQk5FBkN9vZkf3M30XwHCym7gDLFQcnxO9w0awX7GmG7Xydrgrz1XZwbEs5GolNS3l8Veb1ss1QlPJHvSAensbUTQKauHQQT1wIhgF+AorFNh7SycTxtzhYjMlVD2ILo5LMCRt9VD56G50FLgFLoLnOan14N/VHwWQ08f8dB4PFt2A8aDrvRugzivIo4k54OhxPhv1N6h3izO2y3w5Z07+bh0B4A0vyGbsK+VjNcxaRKzbHElnttPurlqhm2raPjuqrZL73EqBRBAofMGLdlhgnplrNnvGr/kNtu8obZaWEBYPlz6vwdVYVc05ZflyZmROYkIwlbkE5S0D9gk1+I6Kr76j715bOBI+ZuThYB5FZ+NkC1gBUrRujDlzhSJqvXB65ivpDL/CdJq0V1G1WQilFXNXFs7smWwl2iJoZZYaoPY0JrlXEiKl4jElMycyCILM1Chzj+LybVzXqG8Fdcw4ywn2A3Gc4BchFzh4BU7MWSH6bzci7z+7NzL2/+L0Z0TvWH3fLy83CdS8zA/pGkEdu1pRIlKv6ENkUQrad5HsIJLpbxrtPhPXpzGQ+1/fr59E77LAI8WApHqLfF1e7VnDzYNh/SoT9oN9zg4nbGz0Ew+lgNB0MvnTFt/gPSM9ww4aflr3h3pdsV2usMIrbIAYFox53uPeX72bdv01mFGtK4HXaHUQHnjOIGv7X5wzw1Anxc+Qps/eY2bfOvl22C/i9/efM7j8UWiROSGnUvPMPsHam7jZb7ZH5hK/+AzvekCw=",
         "name_facet_ssim": [
             "Antonio Zatta e figli"
         ],
@@ -102,13 +105,14 @@
             "North America--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
-            "North America"
+            "North America",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America, North and Central America\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"area\":\"North America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"North America\"}}"
         ],
         "subject_point_geospatial": [
             "58.166,-104.466"
@@ -118,7 +122,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:46:26Z",
         "system_modified_dtsi": "2023-09-15T14:47:14Z",
-        "timestamp": "2023-10-03T15:43:24.650Z",
+        "timestamp": "2025-10-31T15:46:03.695Z",
         "title_info_primary_tsi": "America settentrionale divisa ne' suoi principali stati",
         "type_of_resource_ssim": [
             "Cartographic"

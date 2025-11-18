@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750088806400000,
+        "_version_": 1847513010113871872,
         "abstract_tsi": "A large manuscript map of the River Shubenacadie in Nova Scotia to accompany the manuscript journal of the survey and march.",
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
@@ -10,7 +10,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -38,14 +38,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z5021",
         "extent_tsi": "1 map on 3 sheets : joined, manuscript pen and ink with watercolour ; 166 x 45 cm",
         "filenames_ssim": [
-            "k_top_119_61_a",
-            "commonwealth:hx11z501r_metadata"
+            "commonwealth:hx11z501r_metadata",
+            "k_top_119_61_a"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z501r",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z501r/manifest",
@@ -58,7 +61,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "George, III, King of Great Britain, 1738-1820",
             "George, IV, King of Great Britain, 1762-1830",
@@ -116,14 +119,15 @@
         "subject_geographic_sim": [
             "Canada",
             "North and Central America",
+            "Nova Scotia",
             "Shubenacadie"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-63.4833,45.3167]},\"properties\":{\"placename\":\"Shubenacadie (river)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-63.4833,45.3167]},\"properties\":{\"placename\":\"Shubenacadie (river), Nova Scotia\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-63.698888,44.69722],[-63.35555,44.69722],[-63.35555,45.33722],[-63.698888,45.33722],[-63.698888,44.69722]]]},\"bbox\":[-63.698888,44.69722,-63.35555,45.33722]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-63.4833,45.3167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"other\":\"Shubenacadie (river)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-63.4833,45.3167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Nova Scotia\",\"other\":\"Shubenacadie (river)\"}}"
         ],
         "subject_point_geospatial": [
             "45.3167,-63.4833"
@@ -133,7 +137,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:39:18Z",
         "system_modified_dtsi": "2023-09-15T14:48:15Z",
-        "timestamp": "2023-10-03T15:51:15Z",
+        "timestamp": "2025-10-31T15:48:26.972Z",
         "title_info_primary_subtitle_tsi": "The Length of the River from its Source to its Discharge is 44 Miles. The Distance from the Source of the River to Fort Sacville is 27 Miles. NB the above Distances takes in all the Windings of the Rivers and Lakes",
         "title_info_primary_tsi": "A Plan Of the River of Chibenaccadie from its Source To its Discharge into the Bay of Mines Surveyed in August 1754",
         "type_of_resource_ssim": [

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749915911946240,
+        "_version_": 1847512946449580032,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -46,14 +46,17 @@
         "exemplary_image_ssi": "commonwealth:q524ng25v",
         "extent_tsi": "1 map : ms., col., sectioned and mounted on cloth ; 52 x 105 cm., folded to 20 x 17 cm.",
         "filenames_ssim": [
-            "la002151",
-            "commonwealth:q524ng24k_metadata"
+            "commonwealth:q524ng24k_metadata",
+            "la002151"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524ng24k",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524ng24k/manifest",
@@ -68,7 +71,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Adlum, John, 1759-1836",
             "Bingham, William, 1752-1804"
@@ -118,13 +121,14 @@
         ],
         "subject_geographic_sim": [
             "Cowanesque River",
-            "North and Central America"
+            "North and Central America",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.1,42.0]},\"properties\":{\"placename\":\"Cowanesque River, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.1,42.0]},\"properties\":{\"placename\":\"Cowanesque River\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.1,42.0]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Cowanesque River\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.1,42.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Cowanesque River\"}}"
         ],
         "subject_point_geospatial": [
             "42,-77.1"
@@ -137,7 +141,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:14:08Z",
         "system_modified_dtsi": "2023-09-15T14:47:47Z",
-        "timestamp": "2023-10-03T15:48:30.115Z",
+        "timestamp": "2025-10-31T15:47:26.257Z",
         "title_info_primary_tsi": "Cawanesque",
         "type_of_resource_ssim": [
             "Cartographic"

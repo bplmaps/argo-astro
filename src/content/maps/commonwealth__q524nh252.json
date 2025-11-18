@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749932027510784,
+        "_version_": 1847512953172000769,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -10,8 +10,8 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
-            "Maritime Charts and Atlases (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
+            "Maritime Charts and Atlases",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -39,14 +39,17 @@
         "exemplary_image_ssi": "commonwealth:q524nh26b",
         "extent_tsi": "1 map : ms. ; 58 x 95 cm.",
         "filenames_ssim": [
-            "lh000805",
-            "commonwealth:q524nh252_metadata"
+            "commonwealth:q524nh252_metadata",
+            "lh000805"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nh252",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nh252/manifest",
@@ -61,7 +64,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_date_tsim": [
             "This date is inferred."
         ],
@@ -106,13 +109,14 @@
         ],
         "subject_geographic_sim": [
             "North and Central America",
-            "Trinidad"
+            "Trinidad",
+            "Trinidad and Tobago"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-61.25,10.5]},\"properties\":{\"placename\":\"Trinidad, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-61.25,10.5]},\"properties\":{\"placename\":\"Trinidad, Trinidad and Tobago\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-61.25,10.5]},\"properties\":{\"continent\":\"North and Central America\",\"island\":\"Trinidad\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-61.25,10.5]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Trinidad and Tobago\",\"island\":\"Trinidad\"}}"
         ],
         "subject_point_geospatial": [
             "10.5,-61.25"
@@ -123,7 +127,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:38:03Z",
         "system_modified_dtsi": "2023-09-15T14:47:52Z",
-        "timestamp": "2023-10-03T15:48:45.484Z",
+        "timestamp": "2025-10-31T15:47:32.668Z",
         "title_info_primary_tsi": "Carta esfe\u0301rica que comprehende la Ysla de Trinidad con sus adyacentes, bajos, sondas y veriles",
         "type_of_resource_ssim": [
             "Cartographic"

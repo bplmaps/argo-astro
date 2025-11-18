@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750066711855104,
+        "_version_": 1847513006708097024,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z448f",
         "extent_tsi": "1 map on 2 sheets : manuscript pen and ink with watercolour ; 139 x 49 cm",
         "filenames_ssim": [
-            "k_top_122_65",
-            "commonwealth:hx11z4475_metadata"
+            "commonwealth:hx11z4475_metadata",
+            "k_top_122_65"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z4475",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z4475/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "George, III, King of Great Britain, 1738-1820",
             "George, IV, King of Great Britain, 1762-1830"
@@ -118,18 +121,19 @@
             "Florida",
             "Georgia",
             "North and Central America",
-            "South Carolina"
+            "South Carolina",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,28.0]},\"properties\":{\"placename\":\"Florida, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.0,32.0]},\"properties\":{\"placename\":\"Georgia, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,34.0]},\"properties\":{\"placename\":\"South Carolina, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,28.0]},\"properties\":{\"placename\":\"Florida\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.0,32.0]},\"properties\":{\"placename\":\"Georgia\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,34.0]},\"properties\":{\"placename\":\"South Carolina\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-81.8,29.8],[-79.81666,29.8],[-79.81666,32.85],[-81.8,32.85],[-81.8,29.8]]]},\"bbox\":[-81.8,29.8,-79.81666,32.85]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,28.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Florida\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.0,32.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Georgia\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,34.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"South Carolina\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,28.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Florida\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.0,32.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Georgia\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,34.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"South Carolina\"}}"
         ],
         "subject_point_geospatial": [
             "28,-82",
@@ -144,7 +148,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:26:22Z",
         "system_modified_dtsi": "2023-09-15T14:48:13Z",
-        "timestamp": "2023-10-03T15:50:53.929Z",
+        "timestamp": "2025-10-31T15:48:23.724Z",
         "title_info_primary_tsi": "[Coast of South Carolina, Georgia and Florida from Charleston to St. Augustine]",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749814710730752,
+        "_version_": 1847512902675726336,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n723v",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n723v/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Finlay, Hugh, 1732-1801"
         ],
@@ -106,13 +109,14 @@
         ],
         "subject_geographic_sim": [
             "Canada",
+            "North and Central America",
             "Quebec"
         ],
         "subject_geojson_facet_ssim": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.0,54.0]},\"properties\":{\"placename\":\"Quebec\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.0,54.0]},\"properties\":{\"country\":\"Canada\",\"province\":\"Quebec\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.0,54.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Quebec\"}}"
         ],
         "subject_point_geospatial": [
             "54,-72"
@@ -123,7 +127,7 @@
         ],
         "system_create_dtsi": "2017-05-25T15:44:48Z",
         "system_modified_dtsi": "2023-09-15T14:47:27Z",
-        "timestamp": "2023-10-03T15:46:53.602Z",
+        "timestamp": "2025-10-31T15:46:44.511Z",
         "title_info_alternative_tsim": [
             "St. Francis to Connecticut River"
         ],

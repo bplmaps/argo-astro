@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750001160126464,
+        "_version_": 1847512977231577088,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z082x",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z082x/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJztGdty27j1PV9xhi9rz5gXSZZleWPuyHKy444vqWVn02Y6OxAJiYhJQAuAltW3/YH+R79jX/tRPYBIitTFcZJpt7NTP9gScO7n4Nz8+oenLIVHKhUT/NRpeYEDlEciZnx66tzfvXWPnR/CV68zEasT8wsQnquTp5Txh1Mn0Xp24vvz+dybdzwhp36r3+/79tYpQRXbBtgOgpb/4epyFCU0Iy7jShMe0RLL8GqgpSLypuLRNxf+Y8dZCd3xeoil2ImypC5FRLS92I0NW64M/5hIvC+A7F+34/a8JxU74SuApRk00ym94BMBuSJTeurMJMuIXDgQMzVLyeKSjGlaHf9cnFoKDRrhxwGHnE8YZyqhMUQJkRrEBHRCYUQY13BJ5hL9QeGWob4wkSKDd1RKoeFCpSgwaGHBi2+IfCNTSrj622u/xskI7zelXynESUZBL2ZGFTSq4CR1gOQ6EZLpxanDyaT2/f72ojItiyvzlfeMKt8QVOghkub0peA+P+60ev1Wr9UwlLl7h2YJB1mCsukD+BOdTKhcQHVwRqTghXYV+BYShYox0dQJkU/PRX69ZxClWFqueXJHZVaQ0vRJNyyF/o4kTYkW8vMWe8RAHecphohf4HzGZlsQ/EkmnPCtkBlGh5hzKgt9SkkLffyGQjWdt0ZBJORMSGunba64FQuSwj1nGoN2ROUji6iCC3zBTOeawkRIOKcTG7cmKEc0yo0dYKTzGB3+f5OXWQBVupncUiVyGdFwiMYQU0lmCYvK19qEqDCnlEtaN8M0m86iLzJAwegK3SwZSV9uiHVEX0+zIDhqH7XWMyBKSSUmk/CKzEqvW8lXiqCwU8bLfFSeIo1oLQ7s0XoghB/fmWOT9mZSxHlkEj9wzI4splyzCaNxmQgrAg3/1DgVfPJxatKxDD8uSaKXdxCsIGvoTKnc1LEwE3zNl9VVDdwko6GkxLykVd2dd6JYY859oItzvDp1Fiad/pKT1AggTx3GMQVKGps81u0X9Gu0ahHXNPCSK5aKaY6lqy5JefbcW2NKHHX6bnv8RYFWYr04wEoEfyIJvjRTAJNCm7qUNSXrChVuTBaKRSQ9pyqSbGbiomF3NIom6Y01TigppqyMaOOF4qa0aQOuRgBNg/EQtiAjM8CY6wJGAtUKTgA+CcZpfAApYbG5w26I8gOE5PlSGJhRbjMjtkkgTGHHg4il8D1ApwVP0O4cQpQVMhSs6kHG8elxqq9ozMgd+irETmNK/U8zOi2DbQPkBfgY35Nvwf80az+HXr6b7a4piozQNDSRvOx1YqoJ2gWNaOzsgvOepSmygsGYcvLADIDMmcbHA+YpOF6ZaA2dJtVbmjI6QT9h0obxAj8Q89yewcC0BUzVWrTvQQmskoVUErtN7FvRi6X/BE8XB0uYjHzCMqiRl4I9xqM0N8zgSnCNbzTdB4IJPOemIGCo2E4O2ziFdqEwJtLgNKkSDamYY6xE1JDYh4QozExIg2HYYQbMKFE5yoTXz+g0QvWVKdEmmS07ZWVoXwp8QpSlB5WIVqg7KdAC2H1i3sEivzcWOinFtgAi1ya+4zUr7C91QsLDhGTjdPGMSEMxWxjIQRzDlYJu76AXdL2Ohy0FELj17r2Rd+GhWU2LiwYYiyfgeTZGiWJ4L1K4/PDBcsO/CDcUGbbeCqWtHuXyRVqYxqP0YGmO2tMkccxsFUGLOgNo4UC00qzyAeaDRHvwo6QYeBGTkclcSBvLnunIzWwibKQpcNpdx4OfEuyWtgGYoHDObwc/vbmF9jGM3gzvLm6uoY04Z5gtVygmPBp0BwjvH2LIY19FstmKLMo7xrL2YNNLCXx+7sHVyCusC3udffy+qbZakZF0hsXE8p2h7xV2Wg/gdHuI7uL8ZYy5kmGndxtdNw6H/ZdB3iUYdjYPMPPAluVuOxeVjz/RSNcLVRqp5MtGloKIak5pYsai0I5eynW3TWSua1qbg5olXfcNkekC5kI+WGO2joOg7OYsvVUmLJj+91R5W3/2fwiNrliKBRrHQTPgmZBUETPK/CGU265CMeAf1Gb+vT/n9F+/jmm0/0IN//OG0FO+ww620/OmVOuFR+Pct5AbreEWKL8XtDpBt9uwVIKFCUfAxHQUP9Ky5W7ODpHIsaQtcMDiJCaFEuXhGiQ2+dy0W9f4VBIbUUNTb7EcDnDgQy4VegnZIMCsT0L00W//tE767R9Y0OPvqhnAXtcnkN0K/A9Yu9VuWnu6EnBbcFYzXtMPhW1r461aN7uQ2B5hulfhYd/rHrhH3crOq6u62TaofcZaXyGJ2zv0gtbR0VEPDrEfsT/g9gKve2w/Hva8lj38fUS1vWI4sh2jmVCn6IFyD7a8+yoh7J6DxhealnNgIpTe3F6uZvbmUvPM5DWVwCUbS5OYhyJNqR3M1zeSO3aS/roYz8nG1C3F5sCEYHy2cMCunk8SnOiq2FbUPC/7xB6p8saplz/4F4Or0c/v79sn5kNwGLhBYFbXvU7X8Vf8qqFfFuxyyZzQ0FVIGPshrxgQI5HhwD/Hrlkndr2Ndyd+N+h3+37y1Gr9PThuP5U5oCJam8iLpXVjE1HMSeVCe92ya+PUZY1EORbXj3byyWW6sckmUYQd36kjlpkGO0qT7+zK5Ru1R27rzEtm2GXimDH/eha+TnAs4Dib7WZmekcMG8YmLnb9bELVN+jklySa/Haaf6npUPBixliPViNDZFY4GKlLAZTlnTIc+nCi8ccLl0euIj5mJt8pg1It96zYsFdLsPVVXEGhaKxNkTeNdXEa25WtIZPbAYvAsBDCDFNGChhoLdk4t1JfY+9ozqmMGNbFUWJG2UHKHiiGpiUIe8MhnP3FvR66o8F+2bavab/bLC9Xy85h2DpdC3jgZq6PcJa0h4imUGSLpT4rgURzy3h9Dbk8HZrI53q0XMGeYTJEEd+Z5V+09hS3wW+Ss6YV3Gz2Nnd+YTtot9yg73aCu3Zw0j086fT/2iRfw99CPSF8Sr+adoW9SbnYgeELI9wMhDP0etzA3tySlXu5m8mQ4JsSeD1t1owta0eUmv6ua0fKp06Iv3bsHDe2jpvaFUvG1YJrVPxzcf0/FzUQJyQkKjuoLaiN2riK1uLI/Apf/RuC0j4b",
+        "mods_xml_ss": "eJztGdty27j1PV9xhi8bz5gXSZZlaWPuyHKy447tpJaTTZvp7EAkJCImAS0AWlbf9gf6H/2Ofe1H9QAiKVIXx3Gm3c5O/WBLwLmfg3Pzqx8eshTuqVRM8FOn5QUOUB6JmPHZqfP+9o174vwQvniViVgNzC9AeK4GDynjd6dOovV84PuLxcJbdDwhZ36r3+/79tYpQRXbBdgOgpb/8epyHCU0Iy7jShMe0RLL8GqgpSLyZuLeNxf+fcdZC93xeoil2EBZUpciItpe7MeGHVeGf0wk3hdA9q/bcXveg4qd8AXAygya6ZRe8KmAXJEZPXXmkmVELh2ImZqnZHlJJjStjn8uTi2FBo3w05BDzqeMM5XQGKKESA1iCjqhMCaMa7gkC4n+oHDDUF+YSpHBOyql0HChUhQYtLDgxTdEfitTSrj62yu/xskI7zelXyvESUZBL+dGFTSq4CR1gOQ6EZLp5anDybT2/f3NRWVaFlfmK+8ZVb4hqNBDJM3pU8F9ftJp9fqtXqthKHP3Ds0SDrMEZdOH8Cc6nVK5hOrgjEjBC+0q8B0kChVjoqkTIp+ei/x6jyBKsbJc8+SWyqwgpemDblgK/R1JmhIt5Jctdo+BOslTDBG/wPmCzXYg+NNMOOEbITOMDrHgVBb6lJIW+vgNhWo674yCSMi5kNZOu1xxI5YkhfecaQzaMZX3LKIKLvAFM51rClMh4ZxObdyaoBzTKDd2gLHOY3T4/01eZgFU6e30hiqRy4iGIzSGmEkyT1hUvtYmRIU5o1zSuhlm2WwefZUBCkZX6GbJSPp0Q2wi+nqWBcFx+7i1mQFRSioxmYRXZF563Uq+VgSFnTFe5qPyFGlEG3FgjzYDIfz0zhybtDeXIs4jk/iBY3ZkMeWaTRmNy0RYEWj4p8ap4JNPUpOOZfhpRRK9vIdgBVlDZ0rlpo6FmeAbvqyuauAmGY0kJeYlrevuohPFGnPuHV2e49WpszTp9JecpEYAeeowjilQ0tjksW6/oF+jVYu4poFXXLFUzHIsXXVJyrPH3hpT4rjTd9uTrwq0EuvJAVYi+FNJ8KWZApgU2tSlrClZV6hwY7JULCLpOVWRZHMTFw27o1E0Sd9a44SSYsrKiDZeKG5KmzbgagTQNBgPYQsyMgeMuS5gJFCtYADwWTBO40NICYvNHXZDlB8iJM9XwsCccpsZsU0CYQo7HkQshe8BOi14gHbnCKKskKFgVQ8yjk+PU31FY0Zu0Vchdhoz6n+e01kZbFsgT8DH+J5+C/7nefsx9PLd7HZNUWSEpqGJ5FWvE1NN0C5oRGNnF5wPLE2RFQwnlJM7ZgBkzjQ+HjBPwfHKRGvoNKne0JTRKfoJkzZMlviBmOf2CAamLWCq1qJ9D0pglSykkthtYt+KXiz9J3i6PFzBZOQzlkGNvBS8ZDxKc8MMrgTX+EbTAyCYwHNuCgKGiu3ksI1TaBcKEyINTpMq0ZCKBcZKRA2JA0iIwsyENBiGHWbAjBKVo0x4/YhOY1RfmRJtktmqU1aG9qXAJ0RZeliJaIW6lQItgN0n5h0s8i8nQiel2BZA5NrEd7xhhYOVTkh4lJBski4fEWkk5ksDOYxjuFLQ7R32gq7X8bClAAI33ntv7F14aFbT4qIBJuIBeJ5NUKIYPogULj9+tNzwL8KNRIatt0Jpq0e5epEWpvEoPViZo/Y0SRwzW0XQos4QWjgQrTWrfID5INEe/CgpBl7EZGQyF9LGsmc6cjObCBtpCpx21/HgpwS7pV0AJiic85vhT69voH0C49ej24u319BGnDPMlmsUEx4NukOE948w5LGvItl8TRblnWBZu7PppQQ+P/fgauwV1oWXnQP8vq22WpORdI7FxPKdo+8Vdlp34HR7iO7i/GWMuZZhr3cbXTcOh/2nQd4mGHY2DzDzwFblbjcXlU8+00jXC1UaqeTrRpaCiGpOaWLOotCOXsp1d01krmtam8OaJV33NZHpEhZC3lljtk6CoOzmLL11JiyY/vdUeVN/9n8Ija5YigUax0Ez4JmQVBEzyvwhlNutQjHgH9Zm/pd/zum/fp3Q6OCJGv7nDaFnfI8dbKfnzajWS4/GuW8ht1rDHVB+L2h1gm63YakECxOOgInpKH6kZcu9MTtIcc9M541mQiOVfUh52oCNRI7lb4nDGCcxKUDLww1IHAi4ac2u8VklNvpGpjZj6RzicIgSVeglZIMAs/4L0Z+//dM69Ld/YPGPv6vmBXtdn1b2K/s/4JlWu+mZ2VrAXYFczYNNnz3dq8+2/xeNWXGoDeRqk7mQ2NBhgVLhUd/rHrrH3Yrb+qrOb4vaF3z2DEnc3pEXtI6Pj3twhB2U/QG3F3jdE/vxqOe17OHvI6rtbsOx7XHNTD3DOCg3d6u7ZwlhNzM0vtC0nFwTofT2vnW9ZWiuYc9MJlYJXLKJNKVkJNKU2lXC5g51zxbV3xTjMdmYuqHYzpiHEJ8tHbDL8kGCM2j1whQ1cWlj854qb5J6+Z1/Mbwa//zhfXtgPgRHgRsEZtne63Qdf82vWlPIgl0umRMaugoJYwfnFSNtJLJM8AX2+TqxC3m8G/jdoN/t+8lDq/X34KT9UGaiimhth1Cs2Ru7k2KyK1fwm5bdGAAvayTKQb5+tJdPLtOt3TuJIuxRTx2xynfYA5tXb5dE36g9cttkXjLDvhgHo8XzWfg6wUGG4zS5n5npdjFsGJu6OKewKVXfoJNfkmjy22v+laYjwYupaDNajQyRWTphpK4EUJZ3ynBMxRnMnyxdHrmK+JiZfKcMSrXaDOOIUa3tNpeHBYViFDBtiRkFitPYLpkNmdyOhARGhRBm/DNSwFBrySa5lfoau11zTmXEsDqMEzN8D1N2RzE0LUF4ORrB2V/c65E7Hh6Ug8aG9vvN8nS17OSIzd61gDtuNhERTr/2ENEUimyx1BclkGhuGW8uTlenIxP5XI9XS+MzTIYo4juzrow2nuIu+G1y1rSCm13k9pYybAftlhv03U5w2w4G3aNBp//XJvka/g7qCeEz+mzaFfY25WJrhy+McDPCztHrcQN7e69XbhLfTkcE35TA61mzZuxYlKLU9HddlFI+c0L8tWdLurUn3dauWIuuV3Lj4t+hm/9rqYE4ISFR2cftQG3UxnW0FkfmV/ji34SAe0g=",
         "name_facet_ssim": [
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
             "Royal United Services Institute for Defence and Security Studies"
@@ -113,21 +116,20 @@
             "Military art and science--Saint Lawrence River--Maps, Manuscript--Early works to 1800",
             "Saint Lawrence River--Orleans, Island of (Que\u0301bec)--Maps, Manuscript--Early works to 1800--Maps, Manuscript--Early works to 1800"
         ],
-        "subject_geo_other_ssm": [
-            "Saint Lawrence River"
-        ],
         "subject_geographic_sim": [
             "Canada",
             "North and Central America",
             "Orl\u00e9ans, \u00cele d'",
+            "Quebec",
             "Saint Lawrence River"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.0,49.5]},\"properties\":{\"placename\":\"Saint Lawrence River\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.0,49.5]},\"properties\":{\"placename\":\"Saint Lawrence River, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-74.016667,45.333333],[-70.583333,45.333333],[-70.583333,47.133333],[-74.016667,47.133333],[-74.016667,45.333333]]]},\"bbox\":[-74.016667,45.333333,-70.583333,47.133333]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"island\":\"Orl\u00e9ans, \u00cele d'\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Quebec\",\"island\":\"Orl\u00e9ans, \u00cele d'\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.0,49.5]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Saint Lawrence River\"}}"
         ],
         "subject_point_geospatial": [
             "49.5,-65"
@@ -140,7 +142,7 @@
         ],
         "system_create_dtsi": "2016-11-17T22:52:51Z",
         "system_modified_dtsi": "2023-09-15T14:48:01Z",
-        "timestamp": "2023-10-03T15:49:51.414Z",
+        "timestamp": "2025-10-31T15:47:55.612Z",
         "title_info_primary_tsi": "[An unfinished chart of the Saint Lawrence River from Perrot Island to the Island of Orleans]",
         "type_of_resource_ssim": [
             "Cartographic"

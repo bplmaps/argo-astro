@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749839505358848,
+        "_version_": 1847512912713744384,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n915k",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n915k/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzVGNtu2zb0vV9B6KkDIkuy4/iCWkPrbmuHNC3idFv3MtDUscRaJlWSiqO/36EutmzZaddu2PaiOOS533meff+wSck9KM2lmDlBz3cICCYjLuKZ8/7uR3fsfB8+ebaRkZ7aD0F4oacPKRfrmZMYk009b7vd9raDnlSxF0wmE6+8dRpQzU8B9n0/8H57c71gCWyoy4U2VDBosCyvA7RUsl4s7z174d0PnL3Qg94IsTSf6pLUtWTUlBfnscmJK8s/ogrva6DyrztwR70HHTnhE0IqMxhuUngtVpLkmsYwczLFN1QVDtF5lqUcoplTgHZIxHWW0uKaLiHdQf1Rn5YED0iGb2hG5IosjBQFQWHIL6AQVLA1eSe5MJpIQUwC5FUeafx5y9EGhGqyksrwFTImy4IsuCKvQKiCzNENSIv8nAsgwWg0eea1uFl9vEOFWjoWGbxd3YKWuWJANlTkmimemUq1cE6VkbGiWcJZQ+UAZU8qRlmA0NwkUnFTzJx4E2fM2Z+8v3298xWPdv64Rz8u8xRN5tWM3lADitMUTXtP0xz+OqJn4o3vX/WvgmPvoJSgaOpYJ+hao1Ly/7AiQb8/vnpEkcZnZ/RBmWMuGr83pxGymCvAb9SqBNsBi8zKIWsoXuJVHeCfcprauFMz51MO2mYdXabghK1ga9Frhdwh74ozRnqcY0K1pWnO7kBtiI2wmWPgwThtN3AtrwYTt7/8S65osL7YBQ2CByJ2wh9EnHKd1Oq0xWxp2dao0idLCs0ZTV9C5Rq02IHx0SqGpm9L64QKMLE31FhX1DeNUQ/gWgTQNiBMGLQyFn9mZEoSW1CYTKW6sGVEJwCGDALyQIY+YZteTbkm0CKJNQSUAPMGIk7v0AUh1rEYvI8ZxDVSF+QL8LFirb4F/2PWfwy9vjtj8Iq0kAZaeXJBMhAu2gm70boswFubb6XRGvuUKIcEXmEFLgGxvK8fgbsF7A0rtLzcCluoE8qSXIE+j1JHPENfW8E9DAhQYLtkeD0ntlLZfnGD1T8hzzdYGRi9wEI/9N1gNJ7gz2AyPklc58uPwEw7i1Kmk88nUHPPQXs1kc8UsVMYnk7GQ3/sj6+Gh21QZpy1HGJDtyle1d3esTWtf0qnrlg/Vk22Gi5c9wa25INUa/J0gd6B71y36ttlp3Zd6xzX/YGqtCBbBNPESBKMff9/o87R8PE/UKnlAPL0pvehh1q8yHlqW5i+INqonBmbcRcEDKsUuiD7cPu7lTOxOKNb2VZ6MRhT9CDKvRKyk0UnoLz+6PJyMOmML4xmcGCRGJrxLDxy5G4Y2AG00BJs5lSxxJbMn44gGhgmc2GK8Fds+Dhwayx8Ncn6ogusivC94LaNlcGl2/CqgyAMF7YHVXXNluE5/oszTVPjdugNZKWA91kNag6t2VUfM5cKo8XKGF4Gvf5gMLhwR4PeZLjjuQdoc+3Q/LfDxB/1h5OB85W+vZVsjSET/SccuyOA1mnneAPNG9H+iQgIrkZVBIwHg785Br5QIo1qQLiwX8JojwTTvn9xuStM1fVXyaEgtWP5awPNbJ1IbboP0/0T4fC9es2XaOjCziBzKWIsrBp/pCkywZ5y/Ng889z0jkV5TD6ub5sRKHqBD+5y0TBNcC6qskFjOqSMiV3niDejwPf7A39MHG9PmUcYXeXLpSacK+6EDQU7xtUTNpObjRRboKlJyrUF3k29oT8ZTrxPw/6lmATDdTOG7og+wggFo6kr8RWvnJAqO6HtXHmKQFpvM9pOaWbaZtNx0hFN5FebBLtaeMnvud47pkOl9W5pH50VI1dpZwNCGUPmM0dWVY4LYpPZvti+1brI7Zh5wyxTcM9h+/UsPJPkm6WgPD3PzA7QGICcr1x8W/EV6G/QyWtIHPI7a/5KU/RtxO3Fybhn9pHN76ESQJe8U85AaJyaloUrmKupd9nzPacJeg1lcCjIlIzyMmuPB4uaghPeJVyXkxHBv/VpZDdPxJLJRWRXUWReC4FxWEpBnhuj+DIvpb7BQdOe45OKY9FfJFQBeZ7yNZDriiB5Op+TFx/cm7m7eP5d8zA60v68Wb5cLXw4J3aGvJFkLex7jMmsKA8RDQdFXmLpz0qg0NwqOt6hVKdzG/nCLKp92AssrSjiu3yJxiN1xu6qXxe+S640rRR2/9LdzIR9vx+4/sTtT+78YOoPpv7k90PyLfwT1BMqYvhq2jvsLuV6SYEZRgXBVM3Q69EBdneN0SxO3q7mFHNK4nV82IFOLIZQavj3F0P4ObMU6qyFutrVW6D9rmJRL6XbamGlZS0QJ1RRMzmdwDxosvtgrY/sJ3zyJ76uSpg=",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1198"
         ],
@@ -97,6 +100,7 @@
             "Stony Point (N.Y.)--Buildings, structures, etc--Maps, Manuscript--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "New York",
             "North and Central America",
             "Rockland (county)",
             "Stony Point",
@@ -105,12 +109,12 @@
             "Westchester (county)"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.95,41.2333]},\"properties\":{\"placename\":\"Verplanck Point (cape)\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9833,41.2167]},\"properties\":{\"placename\":\"Stony Point\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.95,41.2333]},\"properties\":{\"placename\":\"Verplanck Point (cape), NY\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9833,41.2167]},\"properties\":{\"placename\":\"Stony Point, NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.95,41.2333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Westchester\",\"other\":\"Verplanck Point (cape)\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9833,41.2167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Rockland\",\"city\":\"Stony Point\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.95,41.2333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Westchester\",\"other\":\"Verplanck Point (cape)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9833,41.2167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Rockland\",\"city\":\"Stony Point\"}}"
         ],
         "subject_point_geospatial": [
             "41.2333,-73.95",
@@ -124,7 +128,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:16:22Z",
         "system_modified_dtsi": "2023-09-15T14:47:33Z",
-        "timestamp": "2023-10-03T15:47:17.248Z",
+        "timestamp": "2025-10-31T15:46:54.084Z",
         "title_info_primary_tsi": "Map of Stony and Verplanck Points on the Hudson River as fortified by Sir Henry Clinton June 1779",
         "type_of_resource_ssim": [
             "Cartographic"

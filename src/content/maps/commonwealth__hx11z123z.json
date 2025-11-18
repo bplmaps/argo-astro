@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750008359649280,
+        "_version_": 1847512980432879616,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z123z",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z123z/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJztGWlv2zry+/sVA31KgeiwncSJt1HhuHlFFrkQp9c+LB5oiZbYyKSWpOK4v36HlGRLPtK0xW6xD/vFcci5L86MX795mmXwSKVigp86HS9wgPJIxIwnp877+9/dY+dN+NvrmYjVwHwAwnM1eMoYfzh1Uq3zge/P53Nv3vOETPzOycmJb2+dGlSxbYDdIOj4n64ux1FKZ8RlXGnCI1pjGV4ttExEXiIefXPhP/acldA9r49Yig2UJXUpIqLtxW5s2HJl+MdE4n0FZP+6PbfvPanYCX8DKM2gmc7oBZ8KKBRJ6KmTSzYjcuFAzFSekcUlmdBsefxndWoptGiEw324vRxeg5iCTim8k6LgMbylU8ZpDFrAhMLvQmo2Zfg/0XAz/nj+7ua136BhxPLbcq1E5WRGQS9yIySaS3CSOUAKnQrJ9OLU4WTa+P/93cXSaCxeGqa+Z1T5hqBC25OsoC8F9/lxr9M/6fQ7LROYu1sidTicpSib3oe/0+mUygUsD86IFLzSbgm+hUSlYkw0dULk03eRX/8ZRClKy7VP7qmcVaQ0fdItS6EnI0kzooX8tsUeMQQnRYbO9yucb9hsC4I/nQknRO/PqAQx51RW+tSSVvr4LYUaOm+NgkjIXEhrp22uuBMLksF7zjTG25jKRxZRBReYm0wXmsJUSBOeWCEoYLYgSFQYO8BYFzE6/P8mr/MbVbqZ3lElChnRcITGEIkkecqiOlvbEEvMhHJJm2ZIZkkefZcBKkZX6GbJSPZyQ6wj+jqZBcFR96izXttQSiqxmIRXJK+9biVfKYLCJozX9ag+RRrRWhzYo/VACP+4NcemNOZSxEVkSjpwoYHFlJcV8Z8V4yWBln8anCo+xSRjCktL+EdJEr28g+ASsoHOlCrMCxXOBF/z5fKqAW6K0UhSYjJp9aLOe1GsseY+0MVbvDp1Fqac/qsgmRFAnjqMYwmUNDZ17PCkot+g1Yi4toFLrhnhSYGPUlOS+uy5XGNKHPVO3O7kuwKtxnpxgNUIPuWJE57zxJi5UqcpZkPLpkaVH9OFYhHJ3lIVSZabwGgZHq2iSXZjrRNKijVrRrRxQ3VTG7UF1yCAtsGACDswIzkMAP/wouQEOeW27mF7A3OmU5ibVIlEhkkMfwM46sAT9AKIZhWTilYzjDhicKqvaMzIPXojxC4hof6XnCZ1OG2AvAAfI3j6M/hf8u5z6HVmbLd99YwITcM7mjE6BZViAYXJAr8QE/peXSYNTBtjjKAKbPeChgXFZjl+U4Us2yFsezIxx1xFR6WYrbx+w5AqEMgo+hYTxqQU7A3d81fgwhCYsi2Vg4KyxHRTt+gHkgju1N0WxoW2zjyrgUlmFEfCjxRii7cPDoExpieW5Dnme4rBsDBdWV5owHq06tocD84EBoSBZFlWKC1t6qMFZpRwZbgSyInCQ2OZaYbBZYxktDBkVMml5FsGlznOK7Hri4qpCc0J1mCi029aNsGmlhoJCq2w1i2V/yaiQkdTmBC58kGE4qCUe0dBAFNK9atniNxK+shEoeDMdIMqhUs2kVgFAPtzkomkMKqnBPkUSUKNYWCUEplhx3GHLvgK9ko+0gV2HROi8B61j8QsJxILSWWkYRzDlYLD/n4/OPYOPfR+iT1HdElVLrhik6zsXUpytcnLCJii04FpZSljNGFIP6PUSOQLY4422wPj/cIWBrjz3ntj78KDDyKDy0+fLi7we2nQRiUhcczsk4Zx4Rw4BhFdHbHMEC/yvI73GtUZwvEaVOmRjE7LMEaIXuAf4iy0pGDuPLgkzFoO26mUYaHGVMP3inoYuRTrWcRkZKozZOZpN1OHmazEMjid3gEG98cUe8KdIG/vhh/P70zlG5+P7i9urqFjEgLfhJ0otbQe3BIjq62k2PI9WBBlMtuYJxVZbBMdqwGe7r15tW/9jpYgYDMPqde1osw387jtm7MZnlU5SCBCfO7ByJ41GTmXH945uz3emi1wuD15GeR9ikXFfDXFpX7Ut3NRxeQLjXTzOc4ilX7fYFYRUe0pU+QsCqsJspyKXfeazuGzQPX3xhrle+W6N2pOE+G6ppfbh6tlkLruOabjAuYIrYwLO8dBULevlvTqYaj4//e0umIZPt9YTUhVxlXEzFziun8ZFY3j4Abrv2QC9q69z96r/7wGOuE7FLB9nJfge7vwaFz4FnKj8dsC5Xd7vcODXq+lYortrq1I+Mi8o3VD3Z4MIpOsi7B0XqVDdbYJJxdhPbgap6smvNxAwI6fm87sGm2c2vgZmacNq+MQpz8UaoleQ7YJoG1a/qnBWS1bdfCcmhWpxmyo1sUUEquf0SY86HkHh/tu/8g7XIq2um2y3CD4i73fDzoHvU7/r+b9tlz/g37/AWGsGJ3O0VEfjFxHweHhEdjDoNvvH9vD/q8R0zar4di2rCTHAf8J5xpNsTJ2Bp39VU0s4X5IILsnovGFpvUcnQqlN/e6q51He9273gePRJZRu9hY3+ju2On662I8JxtTdxTbDvMmxmcLB+xSfpDiQLzMVkVNiJZ9IVXeJPOKB/9ieDX+88P77sB8CQ4CNwjMUr/fO3b8Fb/l0kRW7ArJnNDQVUgYuyuvmq+xq54JPqc4XKV28Y93A/8wODk88dOnTudrp9v7Wk+eS6KNjUa1zm9tcqoptF71r1t2bVi9bJCotwrNo518Cplt7PhJFFGlTh1R1k5mJhJerqx+Unvkts68ZpabUYrOf5yFr9NiNuGEZbuZma4Uw4axqYuDCptS9RM6+TWJNr+d5i81HQlejUXr0WpkiMwKDCO1FEBZ3hnDkVRhHzVZuDxyFfEPvMB36qBU5Z5a0tUScX2VWVGoWnbTRpmWvTqN7dhoyJjxAgdhGFVCYPZaKWCotWSTwkp9jQ22OacyYviYjFMz0g8z9kAxNC1B2BuN4Oyzez1yx8Pl9Lym/W6zvFwtOz1iV3kt4IGbjUOEk2u5QsGpGEW2WOqbEkg0t4zX17jl6chEPtfjcoV9hsUQRbw1y9NoLRW3wW+Ss6YV3GxGN3emYTfodtzgxO0F993OIOgMet1/tMk38LdQTwlP6A/TXmJvUq5WiJhhBOdzdAp6PW5hby4Z67XmzXRUbkNQnPabsWVti1LTX7+2xY8dK9uNpe2mdtWOdrU+HFc/u67/8tMAcUJCovq3mC2orbdxFa3VkfkIf/s3uhCcnA==",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
             "Royal United Services Institute for Defence and Security Studies"
@@ -115,19 +118,20 @@
         ],
         "subject_geographic_sim": [
             "Fort Ontario",
+            "New York",
             "North and Central America",
             "Oswego",
             "Oswego (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,43.45]},\"properties\":{\"placename\":\"Fort Ontario\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,43.45]},\"properties\":{\"placename\":\"Oswego\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,43.45]},\"properties\":{\"placename\":\"Fort Ontario, NY\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,43.45]},\"properties\":{\"placename\":\"Oswego, NY\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-76.511667,43.460556],[-76.502778,43.460556],[-76.502778,43.47],[-76.511667,43.47],[-76.511667,43.460556]]]},\"bbox\":[-76.511667,43.460556,-76.502778,43.47]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,43.45]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Oswego\",\"city\":\"Fort Ontario\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,43.45]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Oswego\",\"city\":\"Oswego\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,43.45]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Oswego\",\"city\":\"Fort Ontario\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,43.45]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Oswego\",\"city\":\"Oswego\"}}"
         ],
         "subject_point_geospatial": [
             "43.45,-76.5"
@@ -139,7 +143,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:01:14Z",
         "system_modified_dtsi": "2023-09-15T14:48:02Z",
-        "timestamp": "2023-10-03T15:49:58.280Z",
+        "timestamp": "2025-10-31T15:47:58.666Z",
         "title_info_primary_tsi": "A, PLAN of the Ground Defined to be Fortified at OSWEGO",
         "type_of_resource_ssim": [
             "Cartographic"

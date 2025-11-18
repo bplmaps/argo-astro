@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749913514901504,
+        "_version_": 1847512945385275392,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -10,8 +10,8 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
-            "Urban Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
+            "Urban Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -39,14 +39,17 @@
         "exemplary_image_ssi": "commonwealth:q524ng11h",
         "extent_tsi": "1 ms. map ; on sheet 44 x 56 cm.",
         "filenames_ssim": [
-            "ct003966",
-            "commonwealth:q524ng107_metadata"
+            "commonwealth:q524ng107_metadata",
+            "ct003966"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524ng107",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524ng107/manifest",
@@ -61,7 +64,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Marian S. Carson Collection (Library of Congress)"
         ],
@@ -106,15 +109,16 @@
         ],
         "subject_geographic_sim": [
             "Chatham (county)",
+            "Georgia",
             "North and Central America",
             "Savannah",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.1,32.0833]},\"properties\":{\"placename\":\"Savannah\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.1,32.0833]},\"properties\":{\"placename\":\"Savannah, GA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.1,32.0833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Chatham\",\"city\":\"Savannah\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.1,32.0833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Georgia\",\"county\":\"Chatham\",\"city\":\"Savannah\"}}"
         ],
         "subject_point_geospatial": [
             "32.0833,-81.1"
@@ -126,7 +130,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:10:19Z",
         "system_modified_dtsi": "2023-09-15T14:47:48Z",
-        "timestamp": "2023-10-03T15:48:27.829Z",
+        "timestamp": "2025-10-31T15:47:25.242Z",
         "title_info_primary_tsi": "A plann of the town of Savannah in the state of Georgia",
         "type_of_resource_ssim": [
             "Cartographic"

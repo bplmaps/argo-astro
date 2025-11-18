@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1780925964398624768,
+        "_version_": 1847512940861718528,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nf38q",
         "extent_tsi": "1 view : ms., col. ; 34 x 53 cm.",
         "filenames_ssim": [
-            "ct000356",
-            "commonwealth:q524nf37f_metadata"
+            "commonwealth:q524nf37f_metadata",
+            "ct000356"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nf37f",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nf37f/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzNWNty2zYQfc9XYPjQy4x5kWTLlhKx48hJk47tZGxn2ualA5ErEjEIsABomTP9gP5JfyYf1SVESqQujpN0Jn2hPLvYs1fsLvzsp/uMkztQmkkxcXpe4BAQkYyZSCbOu5uX7onzU/jkWSZjPa4+BM8LPb7nTNxOnNSYfOz7i8XCWww8qRK/NxqNfMt1mqOa7TrYD4Ke/9vF+XWUQkZdJrShIoJGqtLVEeMy8hJ551cM/27grI0eeMcopdlYW6hzGVFjGfulyQ5WpT+mCvn1IfvrDtxj717HTviEkGUYDDMcXou5JIWmCUycXLGMqtIhMdM5p+U5nQFfkf+oqRahwRBSXEtlwu8NeeZ3KK1DVlH4ovz4N0fTyLRQNKLygFAhJOmdBEEtujxX2ed3DWzZXObwZn4FWhYqApJRUehIsdxMnBK0E06pMjJRNE9Z1KB0RNZQCQgFhBYmlYqZcuIkWZJHzpry7ur1KvYsXsX3DvMyKzhGxK8VXVADilGuMZmUF/D5gr5JsiAY9oe9zeCjlaAod8ILmuvaI2v5/9iRXr9/MnzAkSZne/xBmxMmmrw31BhVTBXgN27d7MUgis3cIbdQniGrroJWTbXEWpXVVbFUgLWZFHgP2kob2g2ojFSFNHEM3BunHW2m5XAwcvuzz4p4I/XoSDcCflwYJzwrTJSSvwh5ySFjOq39atvbcrft2tKxPC01iyg/g2UqsM90go3hMZS/sWEKFcylyqipQl9zmuh2zrUAMEggTNgjdwwWZEwy7R2QSHKPPCWDQ3JPjgYkyrwapj7dkmcCC0qAuYCY0RsMfIg9KAH/Qw5JLbR95BHyhs3nXyP/Ie8/JF7z9kS3aZkGwrdUSEUzSuScpFTNpCI6lQusaaIZJFDRbZ/8+A+VZFaSFyLhmGeiKeNSaVI1Ui15zHB6ECZsG/VWLdjAhr4r4AzmVocgOYuMrK4rLx8QeQvCRS040W6ttkV1xzGFUj0g9Gt1CKfFrR6TXzzySgqWkO9olj8l76UUIJ5WWAdoCAMe7wbSxewDRKZ9x3ik009fr4bPQPs1iO5MKyPR9XAVV9c9tV3LFql23RdU8ZIsJFpPTHcyWcF1gmv0b2LzK6Yxe6XrXleFcmDNdN1qPByQdW/9r70xidjjjO1RXgLGlB7EhW9PbjW1Haf846PRoNfrddyNWgNcLxkrlpQKuz5WmA57fa83HB64w1HtQ5u5hPN3433C50faovF2Q3gpDYkVxSuFAbakBt2yv8gOBbwaVq8NNBMnldp0S6K9F22uWedspnBe2AYiRaJAa/yDc1SCbWhz09qza/mbpjxkH9NXMAeFQxni57g92q15nOLUWGZfY/p5FIlVzVcr87DfPzw5dPw1MItxBrA5NrQat1DMCRsAbClePW0imWVSLIByk9oVHHlj/ygYHY38P4/6h2I+OF41+RXoA4rQLspdaVJQThiZIAgGR8MHAHi9mbdz0rT8ZmvfmYefYVkCpW2oeGXJGbtjep2XLZTWDG+T9ppRKL61zdMoQuUTRy4vNQ6LSAq7xnxtdFHbpvJGWa6g6qpfrsI3aZHNBI67/cqquYH1x9jcxZcAm4P+Cp/8BqKrb2/4l55ibmNWMXaWfVRtnuwOlgZoq5uzCITGdj8rXRG5mvqHXuA7TdFrsMWhIFcyLuyl3VylawQnvEmZth2e4G9NjQkua6SCKUSMJU7JtDYC69BaQU6NUWxWWKsvpXArOo72ahJe4zIC5JSzWyDnS0Dyw3RKnv/uXk7d69Mfm5G94f3+sDzeLVwi02r4XUpyK6o9JZJ5aYkoptFkK6U/aYHCcKt48/2wpE6ryhfmevkWfI6dFU18W8wweKS+savmt31+G86GVorq7bH9Kgn7Qb/nBri0j26C/rg/GAfD9134lvwO9BT3dvhi7JX0NnK9sOMNo7gOYlIw63FHenulbx4Rb+ZTindKIjvpDqAdryW0Gr7pawlE4oT42fNA2noibXtXv4jWq/x1/Q+WtlvYaaPWESekNFLNI2lbtDNk19Vak6pP+ORfQqyE9w==",
+        "mods_xml_ss": "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",
         "note_tsim": [
             "Panorama of harbor showing siege of Curac\u0327ao by English sailors and soldiers in 1800.",
             "Relief shown pictorially.",
@@ -92,13 +95,14 @@
             "Curac\u0327ao--History--Siege, 1800--Maps, Manuscript--Early works to 1800"
         ],
         "subject_geographic_sim": [
-            "Curacao"
+            "Curacao",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-69.0,12.166]},\"properties\":{\"placename\":\"Curacao\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-69.0,12.166]},\"properties\":{\"placename\":\"Curacao, North and Central America\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-69.0,12.166]},\"properties\":{\"territory\":\"Curacao\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-69.0,12.166]},\"properties\":{\"continent\":\"North and Central America\",\"territory\":\"Curacao\"}}"
         ],
         "subject_point_geospatial": [
             "12.166,-69"
@@ -109,7 +113,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:50:55Z",
         "system_modified_dtsi": "2023-09-15T14:47:43Z",
-        "timestamp": "2023-10-27T16:15:51.668Z",
+        "timestamp": "2025-10-31T15:47:20.928Z",
         "title_info_primary_tsi": "'t Ey\u0308land Curacao, anno 1800",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749529953140736,
+        "_version_": 1847512837297012736,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vp04b",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vp04b/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Reid, John, publisher",
             "Rollinson, William, 1762-1842"
@@ -110,16 +113,16 @@
             "Georgetown (Washington, D.C.)--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "District of Columbia",
             "Georgetown",
             "North and Central America",
-            "United States",
-            "Washington"
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.05,38.9]},\"properties\":{\"placename\":\"Georgetown\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.05,38.9]},\"properties\":{\"placename\":\"Georgetown, DC\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.05,38.9]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"city\":\"Washington\",\"city_section\":\"Georgetown\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.05,38.9]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"District of Columbia\",\"city_section\":\"Georgetown\"}}"
         ],
         "subject_point_geospatial": [
             "38.9,-77.05"
@@ -130,7 +133,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:32:03Z",
         "system_modified_dtsi": "2023-09-15T14:47:10Z",
-        "timestamp": "2023-10-03T15:42:22.036Z",
+        "timestamp": "2025-10-31T15:45:42.160Z",
         "title_info_primary_subtitle_tsi": "ceded by the states of Virginia and Maryland to the United States of America and by them established as the seat of their government, after the year 1800",
         "title_info_primary_tsi": "Plan of the city of Washington in the territory of Columbia",
         "type_of_resource_ssim": [

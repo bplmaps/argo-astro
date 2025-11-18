@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750018069463040,
+        "_version_": 1847512983840751616,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z178j",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z178j/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJztGdtu2zj2vV9B6KkFIsmykzj2NBokbmaQRZIWcdJpd7AY0BItsZFJDUnF8X79nENdLPmSpi12B1hsESQ2ee489779+WmRkUemNJfi1Am8nkOYiGTMRXLq3N/94p44P4ev3i5krMf4iwC80OOnjIuHUyc1Jh/7/nK59JYDT6rED0ajkW9vnRpU812A/V4v8D9dX02jlC2oy4U2VESsxkJeHbRMRl4iH3288B8HzlrogTcELM3H2pK6khE19mI/NtlxhfxjquC+ArJ/3YE79J507ISvCCnNYLjJ2KWYS1JomrBTJ1d8QdXKITHXeUZXV3TGsub4j+rUUujQCH+/pjmRc/KLVIZMqOJZJsW/3votEOTqd9muJRF0wYhZ5SgDWEMKmjmEFiaVipvVqSPovPX9/vaysQmPG73re860jwQ1mJZmBXspuC9OBsFwFAyDjoZ494EqE54tUpDNHJB/sPmcqRVpDs6pkqLSrgHfQaJSMaaGOSHwGbrAb/gMopKl5bond0wtKlKGPZmOpeChIsUyaqT6usUewcNmRQZv61c4X7HZDgR/vpBOCA+/YIrIpWCq0qeWtNLH7yjU0nmnF0RS5VJZO+16ilu5ohm5F9ywmEyZeuQR0+QSQo+bwjAyl4q8Y3NIAIxAMABIVKAdyNQUMTz4/01ehy+o9H5+y7QsVMRCCF0jE0XzlEd1tHYhGsyECcXaZkgWSR59kwEqRtfwzIrT7OWG2ET0TbLo9Y77x8Fm6gIpmYJkEkKCql/dSr5WBIRNuKjzUX0KNKINP7BHm44Q/v4BjzH55UrGRYQZmwhpCI+ZMHzOWVwnwoZA531anCo+xSzjGlIL0LYk4ZX3EGwgW+hc6wILULiQYuMtm6sWOCajiWIUI2ldMJeDKDaQcx/Y6h1cnTorTKd/FjRDAdSpwwWkQMVizGNHo4p+i1bL47oGLrlmVCQF1Jy2JPXZc7HGtTwejNz+7JscrcZ6sYPVCP5cUYg0BYZJK23aUraUbCtUPWO60jyi2TumI8Vz9IuO3cEohmbvrXFCxSBlLajBV6huapt24FoEwDTgD2FAFlB7xwT+iKLkRHImbNqD5oUsuUnJEiMlkhnE8AGR0HAgSMQz8hMhhyfkiRwHJFpUHCvCbZcSgC6YuWYxp3fwMiE0BAnzv+QsqV1rC+QF+ODN8x/B/5L3n0Ovo2T3Q1QlRRoW3rKMsznRKSRTkvMIkiyklWzl1TkTgboo98K2MbG1cyE0TwR8WbTaoDseSREzJRNKXueKPXJZ6GzV7ZHePMMCAw+pzdA3GME4I+Ahis8KdBOqiQatGJlRBeckk0t414zNIVNokvBHcAIuiJFcM31AKEjJDVkgqUguFlyALIUGQjOQyXo4iZr0D30NMWkBLIokYVBWRQLfmVVwCZzLXAfI0BtCrTXS3p5jO6WRTm4KZYXH4zlqDKJYDZYpymU0sdUeaUUpxA6QAiItmz1jmBugl6KS8EzgqSUqMjIyr3mCoM9QmMh8hTY7i2NyrcnR8GAY9D34IeeysIFDbr17b+pdeuSjzMjVp08fL+HzFDxEtyONxjG3GR/YOgEkGMCsQqt5Eojc1HjkegfWGlpbys4ZGTmIWeT5GvOK8pgANPQZKYcMRgwmcuaRi0esCWX1kVkMhs5i7ZFfFQMbR1xFmM1IhqUQTYSDhqw5HTke+S2FBmrP/bvbs98ubsmgR6YXk7vL9zckAIxzSJ97EM4A1u8PnQMbEorlZU1pVPTIB4pK2VwEPdNDhUjhL2cgvc1UFNIfTXAAIBpcPWcH4IJqAa9iSlelZJ6xQpEY5Fjp/W/c6bVhlhu9DPIuBb/Cj+hfdZHbzUUXsy8sMu3ylEU6/bZBpSKiu0OVhCSEDR6W+3IIdN0btiSfJZjt9dSAfG9cdzPNuC52OQctT3PdC6ogzpeAp/HFgpNer27sLJN1mqwk+e/pd80zqGwwR+FkhD6jI47e/D+o6nZBuPE+e2/+81qYROxRwnY7XsKMWXksLnwLudUe7YDy+73jUf9otNlqG0WFzlHRXEI57lghYXUnumWKpilvIFp4kBiUzXpQ6H7dgKhhIswNq/BCa/ZUEauOtsHUKqyHRnQs3YZXWwhQ4gV2QmW9QQ+dwFcYJ2Dyh8Ejog16DdkhoJFFWPty/Wj2sN3/P6djJUlrKtObQkoFHTvqEh4OvJPBYHDgDgfeAD410q1B2ny3qH7Frb5DolIS+DciKNxh7+jomJSHx0EQlIf9o79HUNs8hVPbQtEcGponaCoNg+ALxodN0JVQ3yWOHddZfGlYPc6kUpvt7dl69Owu1epu6orPFKbJicwyZufLzcXantWavynGc7Jxfcug2mECjs9XDrGrz3EKg0mTDDRDPy27EKa9WeYVD/7l2fX0j4/3/TF+6B323F4PV6fDw0PHX/NrZldVsSsUd0Kkq4EwNANeNedgayrFktHMpHa9Cndj/6g3Ohr56VMQ/DsYnnypm/6GaGuwrJamnYG6GgDqheqmZTfmhKsWiXq6ax/t5VOobGuTSqOIaX3qyDI1QzeE2cJuDn5Qe+C2ybxmZqcNtvx+Fj70/ouZoDzbzwybIXAbzucuNMR8zvQP6OTXJLr89pq/1HQCRaRspDe9FWWIcBMBnloKoC3vjEdMwDzkz1auiFxN/UOv5zu1U2pWN6/NLmezzFUUqk4R6zR2itVpbDePSKbA8gbN6qQSAqLXSkHOqgkOpb6Bvg7PYTaHeROmCwpD01nGHxi4piVIXk8m5PyzezNxp2fNsLih/X6zvFwtO2pA63IjyYPAMTiCEckeAhp24hZLf1UCBeZW8eY2rTydoOcLMy03ieeQDEHED7jDijZCcRf8NjlrWinsnLy1ugr7vX7g9kbuoHfXD8ZBf9wf/LNLvoW/g7qdSr+bdoO9Tbla5UCEUZiN4FHg1eMO9vayp14vvZ9PKMSUhOukWzN2bM9Aava3bs+YSJwQfu1ZnW0tz7a1q3Zl683NtPrPrc0FfAvECSmN6pX4DtRObVx7a3WEv8JXfwHIYb8p",
         "name_facet_ssim": [
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
             "Royal United Services Institute for Defence and Security Studies"
@@ -115,15 +118,16 @@
         "subject_geographic_sim": [
             "Essex (county)",
             "Fort Ticonderoga",
+            "New York",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3833,43.8333]},\"properties\":{\"placename\":\"Fort Ticonderoga (transport point)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3833,43.8333]},\"properties\":{\"placename\":\"Fort Ticonderoga (transport point), NY\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-73.388889,43.840556],[-73.386111,43.840556],[-73.386111,43.8425],[-73.388889,43.8425],[-73.388889,43.840556]]]},\"bbox\":[-73.388889,43.840556,-73.386111,43.8425]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3833,43.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Essex\",\"other\":\"Fort Ticonderoga (transport point)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3833,43.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Essex\",\"other\":\"Fort Ticonderoga (transport point)\"}}"
         ],
         "subject_point_geospatial": [
             "43.8333,-73.3833"
@@ -135,7 +139,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:15:50Z",
         "system_modified_dtsi": "2023-09-15T14:48:04Z",
-        "timestamp": "2023-10-03T15:50:07.540Z",
+        "timestamp": "2025-10-31T15:48:01.916Z",
         "title_info_primary_tsi": "[Map of Fort Carillon]",
         "type_of_resource_ssim": [
             "Cartographic"

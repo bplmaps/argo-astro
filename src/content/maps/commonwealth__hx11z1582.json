@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750014492770304,
+        "_version_": 1847512982574071808,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z1582",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z1582/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Small, John",
             "Miller, Francis",
@@ -123,15 +126,16 @@
         ],
         "subject_geographic_sim": [
             "Kennebec",
+            "Maine",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-69.7,45.5833]},\"properties\":{\"placename\":\"Kennebec (river)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-69.7,45.5833]},\"properties\":{\"placename\":\"Kennebec (river), ME\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-70.066667,43.683333],[-69.566667,43.683333],[-69.566667,44.866667],[-70.066667,44.866667],[-70.066667,43.683333]]]},\"bbox\":[-70.066667,43.683333,-69.566667,44.866667]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-69.7,45.5833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Kennebec (river)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-69.7,45.5833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Maine\",\"other\":\"Kennebec (river)\"}}"
         ],
         "subject_point_geospatial": [
             "45.5833,-69.7"
@@ -142,7 +146,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:10:51Z",
         "system_modified_dtsi": "2023-09-15T14:48:02Z",
-        "timestamp": "2023-10-03T15:50:04.128Z",
+        "timestamp": "2025-10-31T15:48:00.707Z",
         "title_info_primary_tsi": "A PLAN OF THE RIVER KENNEBECK AS IT WAS SVRVEYED BY ORDER OF THE GOVERNMENT OF MASSACHUSETS BAY IN THE YEAR MDCCLXI From the Falls above FORT HALIFAX unto the Place where the Surveyor Mr John Small was killed, from his field book, with the addition of the lower part of the River, by Fra Miller Lieut",
         "type_of_resource_ssim": [
             "Cartographic"

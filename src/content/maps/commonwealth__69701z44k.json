@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778757932266029056,
+        "_version_": 1847513159743569920,
         "admin_set_ark_id_ssi": "commonwealth:mw22z436x",
         "admin_set_name_ssi": "Library and Archives Canada Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:mw22z436x"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library and Archives Canada Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -49,7 +49,10 @@
         "genre_specific_ssim": [
             "Manuscript maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:69701z44k",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/69701z44k/manifest",
@@ -69,7 +72,7 @@
             "English"
         ],
         "license_ss": "Contact host institution for more information.",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Gale, Samuel, 1747-1826",
             "Duberger, Jean-Baptiste, 1767-1821"
@@ -115,13 +118,14 @@
         ],
         "subject_geographic_sim": [
             "Canada",
+            "North and Central America",
             "Quebec"
         ],
         "subject_geojson_facet_ssim": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.0,54.0]},\"properties\":{\"placename\":\"Quebec\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.0,54.0]},\"properties\":{\"country\":\"Canada\",\"province\":\"Quebec\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.0,54.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Quebec\"}}"
         ],
         "subject_point_geospatial": [
             "54,-72"
@@ -134,7 +138,7 @@
         ],
         "system_create_dtsi": "2023-03-29T18:26:01Z",
         "system_modified_dtsi": "2023-03-29T20:12:22Z",
-        "timestamp": "2023-10-03T17:55:55.106Z",
+        "timestamp": "2025-10-31T15:50:49.670Z",
         "title_info_primary_tsi": "By order of His Excellency Guy Lord Dorchester... plan of part of the province of Lower Canada containing the country from the river Montmorency near Quebec... to St. Regis on the Rr. St. Lawrence, and to the township of Buckingham on the Rr. Ottawa...",
         "type_of_resource_ssim": [
             "Cartographic"

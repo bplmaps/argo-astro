@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749936095985664,
+        "_version_": 1847512954695581696,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -136,14 +136,17 @@
         "exemplary_image_ssi": "commonwealth:q524nh48c",
         "extent_tsi": "1 ms. map ; 52 x 42 cm.",
         "filenames_ssim": [
-            "lh000857",
-            "commonwealth:q524nh473_metadata"
+            "commonwealth:q524nh473_metadata",
+            "lh000857"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nh473",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nh473/manifest",
@@ -158,7 +161,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Hayne, A. P. (Arthur Peronneau)"
         ],
@@ -206,13 +209,14 @@
         "subject_geographic_sim": [
             "Alabama",
             "Mobile Bay",
-            "North and Central America"
+            "North and Central America",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-88.0,30.4333]},\"properties\":{\"placename\":\"Mobile Bay, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-88.0,30.4333]},\"properties\":{\"placename\":\"Mobile Bay, AL\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-88.0,30.4333]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Alabama\",\"other\":\"Mobile Bay\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-88.0,30.4333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Alabama\",\"other\":\"Mobile Bay\"}}"
         ],
         "subject_point_geospatial": [
             "30.4333,-88"
@@ -222,7 +226,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:43:01Z",
         "system_modified_dtsi": "2023-09-15T14:47:52Z",
-        "timestamp": "2023-10-03T15:48:49.364Z",
+        "timestamp": "2025-10-31T15:47:34.120Z",
         "title_info_primary_tsi": "Map of Mobile Bay",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750061310640128,
+        "_version_": 1847513004380258304,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z418q",
         "extent_tsi": "1 map : manuscript pen and ink with watercolour ; 72 x 52 cm",
         "filenames_ssim": [
-            "k_top_122_28",
-            "commonwealth:hx11z417f_metadata"
+            "commonwealth:hx11z417f_metadata",
+            "k_top_122_28"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z417f",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z417f/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "George, III, King of Great Britain, 1738-1820",
             "George, IV, King of Great Britain, 1762-1830"
@@ -111,16 +114,17 @@
         ],
         "subject_geographic_sim": [
             "Monmouth (county)",
+            "New Jersey",
             "North and Central America",
             "Sandy Hook",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9833,40.4333]},\"properties\":{\"placename\":\"Sandy Hook (cape)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9833,40.4333]},\"properties\":{\"placename\":\"Sandy Hook (cape), NJ\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-74.031944,40.3925],[-73.96138,40.3925],[-73.96138,40.48583],[-74.031944,40.48583],[-74.031944,40.3925]]]},\"bbox\":[-74.031944,40.3925,-73.96138,40.48583]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9833,40.4333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Monmouth\",\"other\":\"Sandy Hook (cape)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9833,40.4333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\",\"county\":\"Monmouth\",\"other\":\"Sandy Hook (cape)\"}}"
         ],
         "subject_point_geospatial": [
             "40.4333,-73.9833"
@@ -130,7 +134,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:18:34Z",
         "system_modified_dtsi": "2023-09-15T14:48:11Z",
-        "timestamp": "2023-10-03T15:50:48.778Z",
+        "timestamp": "2025-10-31T15:48:21.504Z",
         "title_info_primary_tsi": "PLAN OF SANDY HOOK 28. Miles from New York",
         "type_of_resource_ssim": [
             "Cartographic"

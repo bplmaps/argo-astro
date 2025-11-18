@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750033614602240,
+        "_version_": 1847512989784080384,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z2634",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z2634/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Amherst, Jeffery Amherst",
             "Royal United Services Institute for Defence and Security Studies, Baron, 1717-1797"
@@ -116,14 +119,15 @@
         ],
         "subject_geographic_sim": [
             "Chesapeake Bay",
-            "North and Central America"
+            "North and Central America",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,37.0]},\"properties\":{\"placename\":\"Chesapeake Bay, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,37.0]},\"properties\":{\"placename\":\"Chesapeake Bay\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-76.086667,36.868056],[-75.740833,36.868056],[-75.740833,37.172222],[-76.086667,37.172222],[-76.086667,36.868056]]]},\"bbox\":[-76.086667,36.868056,-75.740833,37.172222]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,37.0]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Chesapeake Bay\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,37.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Chesapeake Bay\"}}"
         ],
         "subject_point_geospatial": [
             "37,-76"
@@ -135,7 +139,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:37:38Z",
         "system_modified_dtsi": "2023-09-15T14:48:06Z",
-        "timestamp": "2023-10-03T15:50:22.365Z",
+        "timestamp": "2025-10-31T15:48:07.584Z",
         "title_info_primary_tsi": "1:st Position",
         "type_of_resource_ssim": [
             "Cartographic"

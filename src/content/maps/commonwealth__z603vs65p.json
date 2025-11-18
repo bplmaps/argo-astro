@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750169334939648,
+        "_version_": 1847513029618434048,
         "abstract_tsi": "This rare map of New Hampshire was prepared from surveys by Samuel Holland - famed engineer who entered British service during the French and Indian War (1754-1763). The map depicts New Hampshire in great detail, illustrating rivers, streams, lakes, elevations, township boundaries, roads, and structures. Two great arcs delineate the boundary of a parcel known as \"Mason's Curve.\" The parcel, owned by John Mason (1586-1635), was originally located between the Merrimack and Kennebeck Rivers, however in 1748 was sold by one of Mason's descendants to twelve investors from Portsmouth. It is believed these investors commissioned the surveys in 1768-69 to more accurately locate the boundary of the landholding.",
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
@@ -10,7 +10,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vs65p",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vs65p/manifest",
@@ -60,7 +63,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Holland, Samuel, 1728-1801",
             "Faden, William, 1749-1836"
@@ -113,14 +116,15 @@
         ],
         "subject_geographic_sim": [
             "New Hampshire",
-            "North and Central America"
+            "North and Central America",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.6667,44.0]},\"properties\":{\"placename\":\"New Hampshire, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.6667,44.0]},\"properties\":{\"placename\":\"New Hampshire\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-72.5,42.4],[-70.0,42.4],[-70.0,45.25],[-72.5,45.25],[-72.5,42.4]]]},\"bbox\":[-72.5,42.4,-70.0,45.25]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.6667,44.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"New Hampshire\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.6667,44.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Hampshire\"}}"
         ],
         "subject_point_geospatial": [
             "44,-71.6667"
@@ -130,7 +134,7 @@
         ],
         "system_create_dtsi": "2016-11-20T05:53:25Z",
         "system_modified_dtsi": "2023-09-15T14:48:23Z",
-        "timestamp": "2023-10-03T15:52:31.797Z",
+        "timestamp": "2025-10-31T15:48:45.573Z",
         "title_info_primary_tsi": "A topographical map of the Province of New Hampshire",
         "type_of_resource_ssim": [
             "Cartographic"

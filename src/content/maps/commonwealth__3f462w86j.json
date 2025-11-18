@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1799601433805324288,
+        "_version_": 1847513146262028288,
         "abstract_tsi": "This map, created by Lieutenant Thomas Hyde Page, undoubtedly follows the earlier survey of Captain John Montressor and became the most informative record available for the town of Boston at the time of the American Revolution. The map shows troop locations, batteries, Boston Neck fortifications, and officers' headquarters. It also identifies the troops by units, and gives the number and size of the cannons. The original manuscript map survives in the Library of Congress. It was prepared in 1775 during the early days of the siege of Boston when the city was surrounded by minutemen from the nearby colonies. Lieutenant Page was severely wounded at Bunker Hill and returned home incapable of further fighting. William Faden, the leading British map publisher of his time, produced many beautifully engraved battle plans during the war. Frequently these were offered for sale in London for a shilling or two just a few weeks after the action took place. Although Page created his maps in England shortly after the Battle of Bunker Hill, Faden did not publish them until October 1777.",
         "admin_set_ark_id_ssi": "commonwealth:41688024w",
         "admin_set_name_ssi": "Norman B. Leventhal Map & Education Center Collection",
@@ -13,8 +13,8 @@
         ],
         "collection_name_ssim": [
             "Mapping Boston Collection",
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
-            "Boston and New England Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
+            "Boston and New England Maps",
             "Norman B. Leventhal Map & Education Center Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -49,8 +49,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": true,
         "georeferenced_bsi": true,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:3f462w86j",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/3f462w86j/manifest",
@@ -139,7 +141,7 @@
         ],
         "system_create_dtsi": "2017-04-07T19:06:26Z",
         "system_modified_dtsi": "2023-09-15T14:49:13Z",
-        "timestamp": "2024-05-20T19:34:27.188Z",
+        "timestamp": "2025-10-31T15:50:36.813Z",
         "title_info_primary_subtitle_tsi": "from the observations of Lieut. Page of His Majesty's Corps of Engineers, and from the plans of other gentlemen",
         "title_info_primary_tsi": "A plan of the town of Boston, with the intrenchments &c. of His Majestys forces in 1775",
         "type_of_resource_ssim": [

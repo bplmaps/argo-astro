@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749774239891456,
+        "_version_": 1847512885841887232,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vj461",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vj461/manifest",
@@ -60,7 +63,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_tsim": [
             "Title from verso, legible only with back lighting.",
             "Alternate title from Philip Lee Phillips' A list of maps of America: Boston and environs, showing entrenchments.",
@@ -96,15 +99,16 @@
         ],
         "subject_geographic_sim": [
             "Boston",
+            "Massachusetts",
             "North and Central America",
             "Suffolk (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"placename\":\"Boston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"placename\":\"Boston, MA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Suffolk\",\"city\":\"Boston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Massachusetts\",\"county\":\"Suffolk\",\"city\":\"Boston\"}}"
         ],
         "subject_point_geospatial": [
             "42.35,-71.05"
@@ -115,7 +119,7 @@
         ],
         "system_create_dtsi": "2016-11-20T02:26:53Z",
         "system_modified_dtsi": "2023-09-15T14:47:21Z",
-        "timestamp": "2023-10-03T15:46:15.005Z",
+        "timestamp": "2025-10-31T15:46:28.457Z",
         "title_info_primary_tsi": "Plan of Boston & vicinity",
         "type_of_resource_ssim": [
             "Cartographic"

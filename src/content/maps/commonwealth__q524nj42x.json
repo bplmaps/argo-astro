@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749945977765888,
+        "_version_": 1847512959214944256,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nj42x",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nj42x/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_date_tsim": [
             "This date is inferred."
         ],
@@ -104,15 +107,16 @@
         "subject_geographic_sim": [
             "New York",
             "North and Central America",
-            "Pennsylvania"
+            "Pennsylvania",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"placename\":\"Pennsylvania, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"placename\":\"New York, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"placename\":\"Pennsylvania\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"placename\":\"New York\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Pennsylvania\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"New York\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\"}}"
         ],
         "subject_point_geospatial": [
             "40.8333,-76",
@@ -125,7 +129,7 @@
         ],
         "system_create_dtsi": "2017-05-26T14:38:42Z",
         "system_modified_dtsi": "2023-09-15T14:47:53Z",
-        "timestamp": "2023-10-03T15:48:58.788Z",
+        "timestamp": "2025-10-31T15:47:38.431Z",
         "title_info_primary_tsi": "Map of Gen. Sullivan's march from Easton to the Senaca & Cayuga countries",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750207211601920,
+        "_version_": 1847513041119215616,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vv48f",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vv48f/manifest",
@@ -60,7 +63,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_tsim": [
             "Plan of Fort Duquesne before its destruction in 1758.",
             "Relief shown pictorially.",
@@ -98,15 +101,16 @@
         "subject_geographic_sim": [
             "Allegheny (county)",
             "North and Central America",
+            "Pennsylvania",
             "Pittsburgh",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9833,40.4333]},\"properties\":{\"placename\":\"Pittsburgh\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9833,40.4333]},\"properties\":{\"placename\":\"Pittsburgh, PA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.01096,40.441623]}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9833,40.4333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Allegheny\",\"city\":\"Pittsburgh\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9833,40.4333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Allegheny\",\"city\":\"Pittsburgh\"}}"
         ],
         "subject_point_geospatial": [
             "40.4333,-79.9833",
@@ -117,7 +121,7 @@
         ],
         "system_create_dtsi": "2016-11-20T07:02:09Z",
         "system_modified_dtsi": "2023-09-15T14:48:27Z",
-        "timestamp": "2023-10-03T15:53:07.920Z",
+        "timestamp": "2025-10-31T15:48:56.541Z",
         "title_info_primary_tsi": "[Ein grund-riss von der Festung Duquessne wie sie ausgesehen hat, ehe sie die Frankosen zerstoren aben, und zum theil noch aussiehet]",
         "type_of_resource_ssim": [
             "Cartographic"

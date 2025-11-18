@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778757920449626112,
+        "_version_": 1847513157206016000,
         "admin_set_ark_id_ssi": "commonwealth:mw22z436x",
         "admin_set_name_ssi": "Library and Archives Canada Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:mw22z436x"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library and Archives Canada Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -45,7 +45,10 @@
         "genre_specific_ssim": [
             "Manuscript maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:gt54pn01v",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/gt54pn01v/manifest",
@@ -62,7 +65,7 @@
             "French"
         ],
         "license_ss": "Contact host institution for more information.",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Bellin, Jacques Nicolas, 1703-1772"
         ],
@@ -102,19 +105,18 @@
             "Canada--Maps--Early works to 1800",
             "New France--Maps"
         ],
-        "subject_geo_other_ssm": [
-            "New France"
-        ],
         "subject_geographic_sim": [
             "Canada",
             "New France",
+            "North and Central America",
             "Saint Lawrence, Gulf of"
         ],
         "subject_geojson_facet_ssim": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-62.0,48.0]},\"properties\":{\"placename\":\"Saint Lawrence, Gulf of\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-62.0,48.0]},\"properties\":{\"country\":\"Canada\",\"other\":\"Saint Lawrence, Gulf of\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-62.0,48.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"other\":\"Saint Lawrence, Gulf of\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"New France (former administrative division)\"}}"
         ],
         "subject_point_geospatial": [
             "48,-62"
@@ -126,7 +128,7 @@
         ],
         "system_create_dtsi": "2023-03-29T18:17:38Z",
         "system_modified_dtsi": "2023-03-29T20:12:11Z",
-        "timestamp": "2023-10-03T17:55:43.837Z",
+        "timestamp": "2025-10-31T15:50:47.250Z",
         "title_info_primary_tsi": "Golphe de Saint Laurent, contenant l'Isle de Terreneuve, Detroit de Belle-Isle, entr\u00e9e du Fleuve St. Laurent, Isle Royale, et partie de l'Acadie, & ca.",
         "type_of_resource_ssim": [
             "Cartographic"

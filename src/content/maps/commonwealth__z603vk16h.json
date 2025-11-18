@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749783925587968,
+        "_version_": 1847512889285410816,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,13 +37,16 @@
         "exemplary_image_ssi": "commonwealth:z603vk17s",
         "extent_tsi": "1 view ; 40 x 60 cm.",
         "filenames_ssim": [
-            "gan00017an011018",
-            "commonwealth:z603vk16h_metadata"
+            "commonwealth:z603vk16h_metadata",
+            "gan00017an011018"
         ],
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vk16h",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vk16h/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1722-1824"
         ],
@@ -95,13 +98,14 @@
         "subject_geographic_sim": [
             "Annapolis Royal",
             "Canada",
-            "North and Central America"
+            "North and Central America",
+            "Nova Scotia"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.5333,44.7333]},\"properties\":{\"placename\":\"Annapolis Royal\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.5333,44.7333]},\"properties\":{\"placename\":\"Annapolis Royal, Nova Scotia\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.5333,44.7333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"city\":\"Annapolis Royal\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.5333,44.7333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Nova Scotia\",\"city\":\"Annapolis Royal\"}}"
         ],
         "subject_point_geospatial": [
             "44.7333,-65.5333"
@@ -111,7 +115,7 @@
         ],
         "system_create_dtsi": "2016-11-20T02:50:39Z",
         "system_modified_dtsi": "2023-09-15T14:47:23Z",
-        "timestamp": "2023-10-03T15:46:24.243Z",
+        "timestamp": "2025-10-31T15:46:31.741Z",
         "title_info_primary_tsi": "Annapolis Royal",
         "type_of_resource_ssim": [
             "Cartographic"

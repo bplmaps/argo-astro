@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749858760359936,
+        "_version_": 1847512920484741120,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -10,8 +10,8 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
-            "Urban Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
+            "Urban Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -55,7 +55,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nb43z",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nb43z/manifest",
@@ -70,7 +73,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Day, E. A."
         ],
@@ -119,14 +122,15 @@
         "subject_geographic_sim": [
             "Allegheny (county)",
             "North and Central America",
+            "Pennsylvania",
             "Pittsburgh",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9833,40.4333]},\"properties\":{\"placename\":\"Pittsburgh\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9833,40.4333]},\"properties\":{\"placename\":\"Pittsburgh, PA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9833,40.4333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Allegheny\",\"city\":\"Pittsburgh\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9833,40.4333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Allegheny\",\"city\":\"Pittsburgh\"}}"
         ],
         "subject_point_geospatial": [
             "40.4333,-79.9833"
@@ -136,7 +140,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:41:43Z",
         "system_modified_dtsi": "2023-09-15T14:47:37Z",
-        "timestamp": "2023-10-03T15:47:35.610Z",
+        "timestamp": "2025-10-31T15:47:01.494Z",
         "title_info_primary_tsi": "Plan and perspective view of Pittsburgh",
         "type_of_resource_ssim": [
             "Cartographic"

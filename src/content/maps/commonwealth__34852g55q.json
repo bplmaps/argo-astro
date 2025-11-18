@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778757941793390592,
+        "_version_": 1847513162345086976,
         "admin_set_ark_id_ssi": "commonwealth:mw22z436x",
         "admin_set_name_ssi": "Library and Archives Canada Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:mw22z436x"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library and Archives Canada Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -45,7 +45,10 @@
         "genre_specific_ssim": [
             "Manuscript maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:34852g55q",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/34852g55q/manifest",
@@ -62,7 +65,7 @@
             "English"
         ],
         "license_ss": "Contact host institution for more information.",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Holland, Samuel, 1728-1801",
             "Collins, John, -1795"
@@ -104,17 +107,18 @@
             "Great Lakes (North America)--Maps--Early works to 1800",
             "United States--Boundaries--Canada"
         ],
-        "subject_geo_other_ssm": [
-            "Saint Lawrence River",
-            "Great Lakes"
-        ],
         "subject_geographic_sim": [
             "Great Lakes",
+            "North and Central America",
             "Saint Lawrence River"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.0,49.5]},\"properties\":{\"placename\":\"Saint Lawrence River\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-85.0,45.0]},\"properties\":{\"placename\":\"Great Lakes\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.0,49.5]},\"properties\":{\"placename\":\"Saint Lawrence River, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-85.0,45.0]},\"properties\":{\"placename\":\"Great Lakes, North and Central America\"}}"
+        ],
+        "subject_hiergeo_geojson_ssm": [
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.0,49.5]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Saint Lawrence River\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-85.0,45.0]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Great Lakes\"}}"
         ],
         "subject_point_geospatial": [
             "49.5,-65",
@@ -128,7 +132,7 @@
         ],
         "system_create_dtsi": "2023-03-29T18:41:27Z",
         "system_modified_dtsi": "2023-03-29T20:12:30Z",
-        "timestamp": "2023-10-03T17:56:04.192Z",
+        "timestamp": "2025-10-31T15:50:52.151Z",
         "title_info_primary_tsi": "A map of part of Canada for the use of His Majesty's Secretary of State, compiled in the Surveyor Generals Office, pursuant to an Order in Council of the 22nd day of February 1790",
         "type_of_resource_ssim": [
             "Cartographic"

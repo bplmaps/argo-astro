@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1799601220507140096,
+        "_version_": 1847513124848009216,
         "admin_set_ark_id_ssi": "commonwealth:41688024w",
         "admin_set_name_ssi": "Norman B. Leventhal Map & Education Center Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:41688024w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Norman B. Leventhal Map & Education Center Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -45,7 +45,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:cj82ks81g",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/cj82ks81g/manifest",
@@ -134,7 +137,7 @@
         ],
         "system_create_dtsi": "2015-01-24T00:23:12Z",
         "system_modified_dtsi": "2024-05-20T19:08:57Z",
-        "timestamp": "2024-05-20T19:31:03.771Z",
+        "timestamp": "2025-10-31T15:50:16.391Z",
         "title_info_primary_subtitle_tsi": "containing Newfoundland, New Scotland, New England, New York, New Jersey, Pensilvania, Maryland, Virginia and Carolina",
         "title_info_primary_tsi": "A new and exact map of the dominions of the King of Great Britain on ye continent of North America",
         "type_of_resource_ssim": [

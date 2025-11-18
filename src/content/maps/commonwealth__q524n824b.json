@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749827335585792,
+        "_version_": 1847512907461427200,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -53,7 +53,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n824b",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n824b/manifest",
@@ -68,7 +71,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Montre\u0301sor, John, 1736-1799"
         ],
@@ -119,10 +122,10 @@
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9667,40.7833]},\"properties\":{\"placename\":\"Manhattan\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9667,40.7833]},\"properties\":{\"placename\":\"Manhattan, NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9667,40.7833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"city\":\"New York\",\"city_section\":\"Manhattan\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9667,40.7833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"city\":\"New York\",\"city_section\":\"Manhattan\"}}"
         ],
         "subject_point_geospatial": [
             "40.7833,-73.9667"
@@ -133,7 +136,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:03:11Z",
         "system_modified_dtsi": "2023-09-15T14:47:31Z",
-        "timestamp": "2023-10-03T15:47:05.642Z",
+        "timestamp": "2025-10-31T15:46:49.075Z",
         "title_info_alternative_tsim": [
             "Bowery Lane area of Manhattan"
         ],

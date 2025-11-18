@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750027435343872,
+        "_version_": 1847512987440513024,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z229t",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z229t/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Brasier, William",
             "Pittman, Philip, active 1760-1770",
@@ -123,14 +126,15 @@
         ],
         "subject_geographic_sim": [
             "Mississippi River",
-            "North and Central America"
+            "North and Central America",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-95.2,47.2333]},\"properties\":{\"placename\":\"Mississippi River, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-95.2,47.2333]},\"properties\":{\"placename\":\"Mississippi River\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-91.816667,29.733333],[-89.833333,29.733333],[-89.833333,31.133333],[-91.816667,31.133333],[-91.816667,29.733333]]]},\"bbox\":[-91.816667,29.733333,-89.833333,31.133333]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-95.2,47.2333]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Mississippi River\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-95.2,47.2333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Mississippi River\"}}"
         ],
         "subject_point_geospatial": [
             "47.2333,-95.2"
@@ -141,7 +145,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:29:00Z",
         "system_modified_dtsi": "2023-09-15T14:48:05Z",
-        "timestamp": "2023-10-03T15:50:16.472Z",
+        "timestamp": "2025-10-31T15:48:05.349Z",
         "title_info_primary_tsi": "A SKETCH of the RIVER MISSISIPPI from New Orleans to the Rock of Davion",
         "type_of_resource_ssim": [
             "Cartographic"

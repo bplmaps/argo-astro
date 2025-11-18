@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750238518935552,
+        "_version_": 1847513050019528704,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -50,7 +50,10 @@
         "genre_specific_ssim": [
             "Views"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:dz010v52d",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/dz010v52d/manifest",
@@ -69,7 +72,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1722-1824"
         ],
@@ -115,14 +118,15 @@
             "Havana (Cuba)--Pictorial works--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "Cuba",
             "Havana",
             "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.35,23.1167]},\"properties\":{\"placename\":\"Havana, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.35,23.1167]},\"properties\":{\"placename\":\"Havana, Cuba\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.35,23.1167]},\"properties\":{\"continent\":\"North and Central America\",\"province\":\"Havana\",\"city\":\"Havana\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.35,23.1167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Cuba\",\"province\":\"Havana\",\"city\":\"Havana\"}}"
         ],
         "subject_point_geospatial": [
             "23.1167,-82.35"
@@ -134,7 +138,7 @@
         ],
         "system_create_dtsi": "2016-11-30T18:39:31Z",
         "system_modified_dtsi": "2023-09-15T14:48:33Z",
-        "timestamp": "2023-10-03T15:53:37.777Z",
+        "timestamp": "2025-10-31T15:49:05.029Z",
         "title_info_alternative_tsim": [
             "The entrance of Havannah, from within the harbour"
         ],

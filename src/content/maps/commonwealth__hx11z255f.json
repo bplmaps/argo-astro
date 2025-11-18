@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750032269279232,
+        "_version_": 1847512988649521152,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,13 +37,16 @@
         "exemplary_image_ssi": "commonwealth:hx11z256q",
         "extent_tsi": "1 map :  manuscript pen and ink with watercolour, over pencil ;  55 x 47 cm, on sheet 55 x 70 cm",
         "filenames_ssim": [
-            "commonwealth:hx11z255f_metadata",
-            "add_ms_57715_12"
+            "add_ms_57715_12",
+            "commonwealth:hx11z255f_metadata"
         ],
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z255f",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z255f/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Frazer, Sir Augustus Simon, 1776-1835",
             "Royal United Services Institute for Defence and Security Studies"
@@ -115,15 +118,16 @@
         "subject_geographic_sim": [
             "North and Central America",
             "United States",
+            "Virginia",
             "York (county)",
             "Yorktown"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"placename\":\"Yorktown\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"placename\":\"Yorktown, VA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-76.531389,37.22],[-76.486667,37.22],[-76.486667,37.253889],[-76.531389,37.253889],[-76.531389,37.22]]]},\"bbox\":[-76.531389,37.22,-76.486667,37.253889]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"York\",\"city\":\"Yorktown\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\",\"county\":\"York\",\"city\":\"Yorktown\"}}"
         ],
         "subject_point_geospatial": [
             "37.2333,-76.5"
@@ -134,7 +138,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:35:32Z",
         "system_modified_dtsi": "2023-09-15T14:48:05Z",
-        "timestamp": "2023-10-03T15:50:21.082Z",
+        "timestamp": "2025-10-31T15:48:06.502Z",
         "title_info_primary_tsi": "[French Plan of York Town Virginia]",
         "type_of_resource_ssim": [
             "Cartographic"

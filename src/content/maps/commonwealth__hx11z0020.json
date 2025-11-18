@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749987226648576,
+        "_version_": 1847512972582191104,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z0020",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z0020/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Bruce, Robert George",
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
@@ -120,14 +123,15 @@
         "subject_geographic_sim": [
             "Canada",
             "Fort Beaus\u00e9jour National Historic Park",
-            "North and Central America"
+            "North and Central America",
+            "Province of New Brunswick"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.3,45.85]},\"properties\":{\"placename\":\"Fort Beaus\u00e9jour National Historic Park (historical park)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.3,45.85]},\"properties\":{\"placename\":\"Fort Beaus\u00e9jour National Historic Park (historical park), Province of New Brunswick\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-64.2925,45.863611],[-64.290278,45.863611],[-64.290278,45.865278],[-64.2925,45.865278],[-64.2925,45.863611]]]},\"bbox\":[-64.2925,45.863611,-64.290278,45.865278]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.3,45.85]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"other\":\"Fort Beaus\u00e9jour National Historic Park (historical park)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.3,45.85]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Province of New Brunswick\",\"other\":\"Fort Beaus\u00e9jour National Historic Park (historical park)\"}}"
         ],
         "subject_point_geospatial": [
             "45.85,-64.3"
@@ -139,7 +143,7 @@
         ],
         "system_create_dtsi": "2016-11-17T22:32:37Z",
         "system_modified_dtsi": "2023-09-15T14:47:59Z",
-        "timestamp": "2023-10-03T15:49:38.126Z",
+        "timestamp": "2025-10-31T15:47:51.179Z",
         "title_info_primary_tsi": "PLAN and SECTIONS of the Front of the Projected Hornwork at FORT CUMBERLAND with CASEMATES Proposed in the Curtain Capable of Containing 800 Men &c",
         "type_of_resource_ssim": [
             "Cartographic"

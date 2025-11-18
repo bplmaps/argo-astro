@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749810767036416,
+        "_version_": 1847512900538728448,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,13 +37,16 @@
         "exemplary_image_ssi": "commonwealth:dz010t93f",
         "extent_tsi": "1 map ; 55 x 79 cm",
         "filenames_ssim": [
-            "gan00003an011013",
-            "commonwealth:dz010t925_metadata"
+            "commonwealth:dz010t925_metadata",
+            "gan00003an011013"
         ],
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:dz010t925",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/dz010t925/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1722-1824"
         ],
@@ -100,17 +103,18 @@
         "subject_geographic_sim": [
             "Canada",
             "Fundy, Bay of",
+            "Maine",
             "North and Central America",
             "Saint John River",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-66.0,45.0]},\"properties\":{\"placename\":\"Fundy, Bay of\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-69.8833,46.55]},\"properties\":{\"placename\":\"Saint John River\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-69.8833,46.55]},\"properties\":{\"placename\":\"Saint John River, ME\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-66.0,45.0]},\"properties\":{\"country\":\"Canada\",\"other\":\"Fundy, Bay of\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-69.8833,46.55]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Saint John River\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-66.0,45.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"other\":\"Fundy, Bay of\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-69.8833,46.55]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Maine\",\"other\":\"Saint John River\"}}"
         ],
         "subject_point_geospatial": [
             "45,-66",
@@ -122,7 +126,7 @@
         ],
         "system_create_dtsi": "2016-11-30T18:21:07Z",
         "system_modified_dtsi": "2023-09-15T14:47:28Z",
-        "timestamp": "2023-10-03T15:46:49.841Z",
+        "timestamp": "2025-10-31T15:46:42.473Z",
         "title_info_primary_tsi": "[River St. John]",
         "type_of_resource_ssim": [
             "Cartographic"

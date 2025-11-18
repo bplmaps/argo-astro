@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749817489457152,
+        "_version_": 1847512903869005824,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n741s",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n741s/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzdGdty0zj0na/Q+GVhpo7thCRNhpgpYdntTAtMW2aWfdlRZMUWlSUjyUmzT+zX7M/wUXvkS2Ln0hbYBZYXN+jo3C865/Dk6U3K0YIqzaSYOEHHdxAVREZMxBPnzdUL99h5Gj54kspIj+0HwX2hxzecieuJkxiTjT1vuVx2lr2OVLEXjEYjr4A69VXN9l3s+n7g/XZ+dkkSmmKXCW2wILTGsrxaaFySTiwXngV4i56zEbrXGQKWZmNdkDqTBJsCcBgb7QFZ/hFWAK8uFX/dnjvs3OjICR8gVJrBMMPpqZhLlGsc04mTKZZitXJQxHTG8eoMzyhfH/9RnRYUWjTCc6xAZBRRxH/CKqUf/6JorsAMH//GTBeA10ouWAQuoQh//IA4RhdswejHDwrAOXopVfTEa5C0UnptMRuSrzL6an5BtcwVEEyxyDVRLDMTZ0W1E06xMjJWOEsYqam0UDakYipAApybRCpmVhMnTuOMOJuTNxenaw+waG3lBXhnlnOwi1cxOseGKoa5BpdintNPR/RMnPr+oDsItl0AUlKFuQOWznSlUSH5d6xI0O0eD25RpPbZAX1A5piJ2u/1aQQsporCN2rk97JHIjN30DVdPQdQGQXofY45mzOqJg4Tc6oUhegPhsdBxbBBqxFubb4lV45FnEOKNCWpz66oSpGNrolj6I1xmi5gWg56I7c7+yQ31Fj3Nn+N4EHOOeELBYZJKm2aUjaUbCpUqpMlK80I5s9p6RUoPC27g1EM5q8K44SKzqVKsbFeqCC1TVv3GgTANFSYMGgkK/zM0BglUK4QkVwqJAXqIZ1QajTqHqMb1B8hknYQgHSKOaeqU/GpyDUYMAHBJ6g5pxHDV+CPEKpWTL13GY0rpN0r98A3bD7/Evx3Wfc29Ap2wPwlaSENbSTMEcqocMFq8Nhco4czjsk1skaEAH9U/FjaRCxMWturINEmeEE5o3Mwt1wKNFuBH0iSK6pvQTkhRKYZFgz8DhgNV9rQH6NTwwQUf4VZWdVT+y5AHjbfhUgyjebFjQxqsc7ZQpVPB77PI9FBQYCywzJWqUggCq0RPQhVahOCOuHZFNnyieTcUjIJOkmhXBF8hIJh33ehMoyO0HHPv4u2rRtOeJWAHvYngr91fdkvl85n7ygxzcrAiU7uLgo1nFHtVUR0+/mVGSPhRSLBfqea25hwf2XaSLVy3Qu6kDy3VrAaDvtWw57rWhscoU04ue7PWPEVWkp1rZGRKDj2axuU9DdhWgnx9VSbSiEAxEhufjDNXtIleguCoYeXEKr00Q+m3hvB7OtQ6Kbv1u01dGyMsAyXkPIN++9VNrE4oHHxvHZiasyqQ6PcK27uvMd7bnlD3x/2B8ctmyTQhdhaaEv8L7RuTcsb9R0ihS2f8KqV1ckW8in8E9qlulJVmm1utghoa+t1XNVWKA5LUbw7ZakkabTPeltIqMFMWKeGj3tH7rC/lmkDaHLbofUdeCfoj76Vdxr17Cs4KOgc93rWS93ix//QVcMg+Fauar6qX8VXg8FgCL4KOv92Tt1THA060PDSfhHB0GiNu75/5K8LbAn/LEEU5XbMOjW0npUSqc3uJmEz7rUXDGdsBmZe2dYNMiiGLlXDDxgIiH0vthcHB1YH3rYot8nH9EXdOUbPVg4qVkHjBNrJMmY1BC0nRKzfxTgdBr7fDQYBcrwNZdvOmmIKrQjnijlhTQGr6041MkFnnUqxpJibpFgsAWzs9f1Rf+S973cfi+HjoB6VN0RvYQSCYe5Kk1DlhFj50Nn6f95CgFf7pqZT6rGk3kXtdUQd96si0+DJRs+ha9cbx+xQaQyizaODYuSK7+yoMCHAfOLIshYxgWw22wn8S60L3LaZ18wyRWEeWX4+C88keToTmPHDzOzwAAHI2NyFCYvNqf4CnbyaRJvfQfOXmoJvI2YBe+Oe2KUJW9BSAF3w5oxQoaEnnK1cQVyNvccd33PqoNe0mlAzJaO8yNrt1VBFoZqsbIdnJ6vqNEJzqZAlk4sIQhyjaSUExGEhBToxRrFZ0VrCfCdcew5TMIOqf5lgmCBPOLum6KwkiB5Op+jZW/fl1L08eVTPbVvaHzbL/dVSLE5sh/xSomthR20is1VxCGgaRC6w9J0SKDC3irb3YeXp1Ea+MJflbvMZlFYQ8XU+A+OhKmPX1W/3/i65wrRS2F3a7pYt7EKVc/2R2x1d+f6474/9we9t8g38PdQTLGJ6b9rDLdpr7F3K1dYJMgwLBKmagdejFvbuXqrehL2aTzHklARw3H6B9iz6QGr6TRd9VMROCJ8DW76dPd+udtVab7Nuuqz+26Cplt3fNK44oYrq1mkPZuuR3QRrdWQ/4YN/AOuc19o=",
+        "mods_xml_ss": "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",
         "note_date_tsim": [
             "This date is inferred."
         ],
@@ -104,17 +107,18 @@
             "Connecticut",
             "New York",
             "North and Central America",
-            "Rhode Island"
+            "Rhode Island",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"placename\":\"New York, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.8333,41.8333]},\"properties\":{\"placename\":\"Connecticut, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.5,41.6667]},\"properties\":{\"placename\":\"Rhode Island, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"placename\":\"New York\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.8333,41.8333]},\"properties\":{\"placename\":\"Connecticut\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.5,41.6667]},\"properties\":{\"placename\":\"Rhode Island\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"New York\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.8333,41.8333]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Connecticut\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.5,41.6667]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Rhode Island\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.8333,41.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Connecticut\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.5,41.6667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Rhode Island\"}}"
         ],
         "subject_point_geospatial": [
             "43,-75",
@@ -129,7 +133,7 @@
         ],
         "system_create_dtsi": "2017-05-25T15:49:02Z",
         "system_modified_dtsi": "2023-09-15T14:47:29Z",
-        "timestamp": "2023-10-03T15:46:56.252Z",
+        "timestamp": "2025-10-31T15:46:45.648Z",
         "title_info_primary_tsi": "Marche de l'arme\u0301e franc\u0327aise de Providence a\u0300 la Rivie\u0300re du Nord",
         "type_of_resource_ssim": [
             "Cartographic"

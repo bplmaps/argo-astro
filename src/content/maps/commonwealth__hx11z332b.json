@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750121658286080,
+        "_version_": 1847513018025377792,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:6108vv78r",
         "extent_tsi": "1 map on 8 sheets : joined and laid on linen, manuscript pen and ink with watercolour ; 50 x 179 cm",
         "filenames_ssim": [
-            "k_top_121_19",
-            "commonwealth:hx11z332b_metadata"
+            "commonwealth:hx11z332b_metadata",
+            "k_top_121_19"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z332b",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z332b/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "George, III, King of Great Britain, 1738-1820",
             "George, IV, King of Great Britain, 1762-1830"
@@ -111,23 +114,22 @@
             "Fort Ticonderoga (N.Y.)--Maps, Manuscript--Early works to 1800",
             "Crown Point (N.Y.)--Maps, Manuscript--Early works to 1800"
         ],
-        "subject_geo_other_ssm": [
-            "Champlain, Lake"
-        ],
         "subject_geographic_sim": [
             "Champlain, Lake",
             "Essex (county)",
             "Fort Ticonderoga",
+            "New York",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3833,43.8333]},\"properties\":{\"placename\":\"Fort Ticonderoga (transport point)\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3333,44.5]},\"properties\":{\"placename\":\"Champlain, Lake\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3833,43.8333]},\"properties\":{\"placename\":\"Fort Ticonderoga (transport point), NY\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3333,44.5]},\"properties\":{\"placename\":\"Champlain, Lake, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-73.423333,43.83861],[-73.35833,43.83861],[-73.35833,43.95611],[-73.423333,43.95611],[-73.423333,43.83861]]]},\"bbox\":[-73.423333,43.83861,-73.35833,43.95611]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3833,43.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Essex\",\"other\":\"Fort Ticonderoga (transport point)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3833,43.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Essex\",\"other\":\"Fort Ticonderoga (transport point)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3333,44.5]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Champlain, Lake\"}}"
         ],
         "subject_point_geospatial": [
             "43.8333,-73.3833",
@@ -140,7 +142,7 @@
         ],
         "system_create_dtsi": "2016-12-07T18:01:31Z",
         "system_modified_dtsi": "2023-09-15T14:48:17Z",
-        "timestamp": "2023-10-03T15:51:46.330Z",
+        "timestamp": "2025-10-31T15:48:34.516Z",
         "title_info_primary_tsi": "[A map of the southern part of the Lake Champlain, from \"Tienderoga fort\" to Crown Point]",
         "type_of_resource_ssim": [
             "Cartographic"

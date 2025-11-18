@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749886170136576,
+        "_version_": 1847512931297656832,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nd21b",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nd21b/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1669",
             "LC Luso-Hispanic World, 862"
@@ -102,13 +105,14 @@
         "subject_geographic_sim": [
             "Alabama",
             "Mobile Bay",
-            "North and Central America"
+            "North and Central America",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-88.0,30.4333]},\"properties\":{\"placename\":\"Mobile Bay, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-88.0,30.4333]},\"properties\":{\"placename\":\"Mobile Bay, AL\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-88.0,30.4333]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Alabama\",\"other\":\"Mobile Bay\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-88.0,30.4333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Alabama\",\"other\":\"Mobile Bay\"}}"
         ],
         "subject_point_geospatial": [
             "30.4333,-88"
@@ -120,7 +124,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:22:58Z",
         "system_modified_dtsi": "2023-09-15T14:47:42Z",
-        "timestamp": "2023-10-03T15:48:01.751Z",
+        "timestamp": "2025-10-31T15:47:11.807Z",
         "title_info_primary_tsi": "Plano del Pto. de la Movila situado en la latd. N. de 30\u2070 10\u02b9 tomado a\u0301 los Ings., el di\u0301a 14 de marzo de 1780",
         "type_of_resource_ssim": [
             "Cartographic"

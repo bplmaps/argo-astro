@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749552405250048,
+        "_version_": 1847512845087932416,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vp342",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vp342/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Bowen, Thomas, -1790",
             "Owen, W. (William), -1793"
@@ -114,14 +117,15 @@
             "France--Colonies--America--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
-            "North America"
+            "North America",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-101.0,29.0],[-56.0,29.0],[-56.0,41.0],[-101.0,41.0],[-101.0,29.0]]]},\"bbox\":[-101.0,29.0,-56.0,41.0]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"area\":\"North America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"North America\"}}"
         ],
         "subject_point_geospatial": [
             "58.166,-104.466"
@@ -133,7 +137,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:36:02Z",
         "system_modified_dtsi": "2023-09-15T14:47:11Z",
-        "timestamp": "2023-10-03T15:42:43.447Z",
+        "timestamp": "2025-10-31T15:45:49.591Z",
         "title_info_primary_subtitle_tsi": "(part the second) containing part of New York, Pensilvania, New Jersey, Mary Land, Virginia, North & South Carolina, Georgia, Louisiana, and all the countries westward in the same parellels so far as discovered, shewing the course of the Rivers Ohio, Missisipi &c. exhibiting the just boundaries & the French encroachments laid down from authentic surveys",
         "title_info_primary_tsi": "A Map of the British and French settlements in North America",
         "title_info_uniform_ssim": [

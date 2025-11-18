@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750036756135936,
+        "_version_": 1847512990941708288,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z282b",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z282b/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJztGdly27r1PV+B4UuTGXPRZllqzDuyslz32o7Hcpqmdzp3IBIiEVMAC5CWla/vOeAiUovtJG0znakfbBnA2fej1788LBNyz5TmUpxaHcezCBOBDLmITq2Pt+/sE+sX/8XrpQz1GH8ReC/0+CHh4u7UirMsHbvuarVyVj1HqsjtjEYj19xa1VPN9z3sel7H/dvlxSyI2ZLaXOiMioBVUEirBZbIwInkvYsX7n3P2jDdc4YApflYG1QXMqCZuTgMTfZcIf2QKrgvH5m/ds8eOg86tPwXhBRqyHiWsHOxkCTXNGKnVqr4kqq1RUKu04SuL+icJfXxH+WpwdDC4V9fTK6IXJAsZuRaao5sk9U4iM3JRC3XJBchU+TCych7JsYJOctVJNeCkUzKO0IzMqOKZjKiBEARquNlMZmxNHMU6QyHQwJSEQ5oYw54eUYU6IgLFpKMJ4kBmUpxz0RBnGqieQTXr90Goyi72xZ+ow9Bl8DOOkVNgE2koIlFaJ7FUvFsfWoJumj8//HmvLYMD2vtV/ecaRcRajAwTXL23OeuGHher9vz+i094901VZlf6e2I/EXGohSmvt0DUUoU0oxZfmfY7dqd4aj7CKCShaLaJ7dMLUtUGXvIWooB7wgUS8B86mkF3YNbz/MEHMotYZ5Q0R4Al2ph+ROtZcBBrpCgHKVIFbOlSG5LpobYj9t9r+7fKfqVqSMy44pM8ijXWa7hn6X8DjsMj+3OSW/wP26HxVJa/juplhDbciWY+ncYIZAqlcroaZ8VbuSaJuSj4Gj4GVP3PGCanEPe5VmeMbKQirxhC8j+zOSMGQty1AOZZXkIcfZ/lVe5G0T6sLhhWuYqYP4UlCEjRVNIsFWSbL+oISMmFGuqIVpGafBNCigJXYKZFafJ8xWxDehm0dLzjrvHne26BVwyhbF8SdPK6obzjSDAbMRFVQaqU8ARbPmBOdp2BP/3azzGypcqGeaBKT1CZoSHWIcWnIX/KAnXCFr2aVAq6eTzhOuYKf/3AiVY+QDC+mUDnGudY/fhQ07asmV91XiOyWiqmEmhm25p1QvCDErdHVu/gatTa41V7J85TZABdWpxsWBKsdDksWGJv4Gr4XFtBRdUEyqiHBqOJifV2WOxxrU87o3s7vybHK2CeraDVQAuE5HlvxURqrkUp8lmQ8qmRKUd47XmAU3eMB0onqJjtBQPWslo8sFox1cMctaSZmiG8qZSautdAwHoBhzC75AlTcmYwB+RF5RIykTZK92RPxPSH5EHMuySYFniLEGbXiMglgTLLlnI6S0o34eGL2Lul5RFlffsPHkGPDjs4kfgv6Tdx8CrQNiv6rJqyIz5NyzhbEF0DPmSzNfwgaKnV0kRn7QBZvBSE9MiYmuap9AXkAC0pthTQAkDM0JsYPSQlxP74yvEkMgVYAArxnUor4ED07WmVcNcNtCZkrLOVwfpaJCYbaE+ItbVGbkFHMUtjCbkM04C0GRDW82gSAax5RxGPZXLlGJmh/8gszS9Cv2sZFBjqX4JeqTgrQtIBSAPicHlfnlFbDIJQ3KpyWB4NOwMnMHTxBBlg5AFObXWRa2bouvHI9qYJjIHp4nEOTxNHLXGCcCKEwVbzlkxVBw9Y6oI9k0VFolZEqIz4ZMLPleQOhA/zCCRYlqTl1MKCK5yQ+t978TrObPerFfMMs714NXTmmEPdJkm0NyU2kAbVGnf0P4EPHK6JO8o+BR5CXkEjREwI9IVmzPxlcbJEfmNCQie2CETMucAX5SGdVG4MLYAG6QfcBkoSKKmN4EeAyJLkBt2L5McVXBERCHRYPjqUUdK12iG0hm6hTP0HXK5MTRMylW8IrtzKIV3JmnVEVfEizb+bl2DVlnB6hq0nIA/J+1OvGjPyW/O1DlzyI0zcawWQasPhSMMC+1Algx4sk0LvcHqHg8s8jJQUmv0g1jJPIobYVwkAodcUB6ieyXgL8Ihb+8xsot2QIJvLOCXBgdVDGwTcBVgeSEJ9iYYjzj2SyMcJgKr0wdmP8XQ1B588uZm8untDel5ZPZ2env+4Yr0AOYMitpBkAm8dg3qhh5AB3XCqV80dFKhQQkBrTboQC0jbwuPAFubFYXekObC2LAAqXYBxqMgUus4tQpN4yqgPvuTrncHj+So1hg1gp/nvbyNuSb4kcDfqn/ZT0Xn8y8syJqdRxLo+NtG/xKJbi9LZMoDv150TCG6KWSTI5MTbBvbVNt+S1WyJiup7oxWOyeeV3XjBnxT+Eoa/z3Oq5kLjM6A01+5holkbdvN9GAmW7vRcf90rjf6lrmAMfDllfPZefWfUXcWiQN8mwbTiaA7WDsszF3zcqcj3fPK7Xhe92TYaUkWQx8Ok2eMfc97VnX67ZElMOLW4pdSlKe7L9W6bd/me7UDAPVQYBd5JRXUVQzmKWZFGMzLolGDVy9bCDSS8K/YinwGzVcKNofN8egxMUtOGkOr3mZSKmjzUBa/33M6R/aw55wMasY2t02SOwifsP53MIN8HOPPkPS7zui434FPeDgYjfAjMOt18NPPYdX0jv6s6C9TmEIfoBvPGERJZzw86tbxUbz7LobMMoOF59CJlVk6ljrbXSxvBvP2vvkMo17Hdd8F7UDCzPS9ve09sO91t9l4jDeub+rG6mxtEfOtwDiGbquOW83QTY2r3jPtzBMnv3PPJ5ezP/76sTvGD17fsz0Pv1UY9k8sd0OvnuxVSS5X3PIRrwbEVN055RAYyCVM9StGE+jk8JsHuBu7A280GLnxQ6fztXvSnVfzUo20MXaX3ye01g3l7FR917Ct2a0R66KBohp9m0cH6eQq2fmSgQYB9MmnliyyKDQOmCzMXuUHpQdq28QrYqli95ytvp+Em8XQAAvKk8PEsJ8At+F8YcNgwxdM/4BMboWiTe+g+gtJYQwpm7xtb0UeAtzTgKcWDGhDO+HQ12oopfO1LQJbU7fveK5VOaUulqmKbTZd2/u2EkPZbGFJxWarPA3NXhbRFLMblOOSCYhewwWZZJnic9NHkCspbDxnKuBQVGYxzkOThN/hsGUQwoA1JWef7aupPZvUs8iW9IfV8nyxzGQAjcWVJHcCNwgBDDfFuAAjCbBsoPSTHChQtwq3d43F6RQ9X2SzYs96BskQWLzGUS/YCsV973fRGdVKgeu73cWe3/W6Hdsb2T3vttsZD7xxf/j3NvoG/B7sMOtH7Ltx19C7mMs9F0QYDJ0QqjgFhy3o3U1YtXv7sJhSiCkJ11G7ZuzZLQLX7OfvFlm9g9reK+5sFnelKxeJm6XXrPzed/vricYTy6c0qL4w2APaqo0bby2P8Jf/4l/+0cRE",
         "name_facet_ssim": [
             "Burgoyne, John, 1722-1792",
             "Frazer, Sir Augustus Simon, 1776-1835",
@@ -119,16 +122,17 @@
             "Saratoga County (N.Y.)--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "New York",
             "North and Central America",
             "Saratoga (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.85,43.1]},\"properties\":{\"placename\":\"United States\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.85,43.1]},\"properties\":{\"placename\":\"Saratoga (county), NY\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-73.666667,42.964167],[-73.599167,42.964167],[-73.599167,43.019167],[-73.666667,43.019167],[-73.666667,42.964167]]]},\"bbox\":[-73.666667,42.964167,-73.599167,43.019167]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.85,43.1]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Saratoga\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.85,43.1]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Saratoga\"}}"
         ],
         "subject_point_geospatial": [
             "43.1,-73.85"
@@ -140,7 +144,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:43:26Z",
         "system_modified_dtsi": "2023-09-15T14:48:07Z",
-        "timestamp": "2023-10-03T15:50:25.361Z",
+        "timestamp": "2025-10-31T15:48:08.688Z",
         "title_info_primary_tsi": "PLAN of the Position w:ch the Army under L.t Gen:l Burgoyne took at Saratoga on the 10th Sept.r 1777 and in which it remained till the Convention was signed",
         "type_of_resource_ssim": [
             "Cartographic"

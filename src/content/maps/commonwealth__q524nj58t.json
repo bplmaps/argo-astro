@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749948747055104,
+        "_version_": 1847512960274006016,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nj58t",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nj58t/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJzdGFtv27r5vb+C0MPWApElW0nseI0OUuectUOSFkkKrBuGgZZoibVE6pBUHO3X7yNF2pJvzWmBs4O9+EJ+9/vHtz89lwV6IkJSzi694SD0EGEJTynLLr3Pj7/4E++n+NXbkqdyqj8QwDM5fS4oW156uVLVNAhWq9VgFQ24yILhxcVFYG49ByrpPsBRGA6Dv9/ePCQ5KbFPmVSYJcRhaV49tIIng4w/BfoieIq8jdDRYAxYkk6lIXXDE6zMxWFstOdK80+xgHsLZL79yB8PnmXqxa8Qas2gqCrIB7bgqJY4I5deJWiJReOhlMqqwM0NnpNiffxve2oo9GjE1wIvFOILpHKCCmAvDYlakRTNG/QppwWtJEGfsCJMIZxhbSb0jpBliZlEf8Jl9Rd0j8s5rgsl3wYd2lrcoC/vRgWGS4JUU2nhwYyc4aInnr7/hIWK3wMHxdkJ+hvAWHrryw6C4C3L/skjEaVlo8iz8hCuVc4FVc2lB6ZJBCmw4qJz/vn+w9pvNF375gl8Oq8LsGZgcSQEAC5q8nKEANh58UwQ/c+q4oS0qgQ9XTrqdpwP2nxc3BPJa5EQBG6oZSJopS69hkigD4bhmcBVThNn/x7KhlRGmCBdk2RlViW/yRiW0S3Eh6C4eLlRthEDlZVheD46H25HMUhJhA6PW1y5CDOS/4EVGY5Gk/MjijifHdAHZM4ocxnjTlNgYaIHknNTIldRkqqFh5akuYYrGwXD8VlkaXfQOkHVZ9EygAKQ1VBQukzd2bFMopKfRxf+aP6bLO6wXmxphxAQlnnxzywrqMytOl0xO1p2NWr1qfJG0gQX16T1ANTpno3BKgoXH411YkEWXJRYaYvbG2fUHlyHANgGKmU87CQm/KzQFOVQXlHCCy4QZ0jmhCh0doqe0fA0REk5sJQtgQ5JyiC0GFG3JKX4EVwQQ1nPSPC1IplF2gV5Ab6ii8WP4H+tRsfQ7d0Bg9syzxWJH3V7QAvBS9NSubOEueyDXhWaEYQyUhuktkuhG0LMT92x/oyuEESHaW1gfam/r0pI0ARP0T+hkOiDXyB8lgCPtGOeaEIZxO2/DjPfpO0JqgjzAQ2mhqVBX+n0N849Iv17LFtAaD3LI3D3pKBkASHCVwxVNIF2AZWlaI6gPACsRBjSHFEILg5pCIZC17WCkURKNOM1Uw2aE7UihJl2/75Ooe+iewpGNzrowxlnjCSKJrWC3wVnDdiREXMvDY+USJoxM+D0jPgIwh4W0JaOBJJGY0JPXBBB9LgV38zQrXXRHRcqd446QVDEQn84nlzAz3AS7SUu6/lXELhbjopE5t+uRO6eEhlYIrI/IXEwfXyjNYcaz5T0/TuyQl+4WKLXD6AHeeP7Wwb2fa2K7/+MRdGgFYBKpDgaTsLQ9WJDdZMelvXvp9A9wQWqBIexS8v7/6DSdpS/vht8GbxpBT9Bm7T9QyuxTqTfS3qVsQPCm547yIhSzYCkdWAgd5r0HqhgHA6j8fmop15OYeoRSa6bwF+JG037s3piHLd2pNXCnu5Ciib+DMUaurIJ2h682EFgCioYtNS2uuh8nsFfmMRcpVmjO8geAalZxC5PnIHNYZ8RWHHtRUeSOvntwTFjWDKd+V1uq8IFDH1a4/h0ODiLoujEH0eDySSK1jpsQLp8d6h+I1BeKJEENaD56E80nEbDk/OJC8n26rtkMAsTST8o4kbOnEu1u75uBuT+VntD52DkRncU6GeZaEtDUejGxtn2knpgTQ22RTkmH5X3rqGl72APN+8P0xy6XJsuEvKlSBK2LgpZOR6G4SgajpAXbCjTFMKPLiBILOFaUC92FPTUYAfPhJclZyuo5So3rxlwNw3Owouzi+DXs9Ep+3o2UW46WxM9wggEw4XP9djgxVjofhuG/zlCobCvHF2vuFnPvYDs9YQL+8akop7FrukTlRvP7FDpzPPdo4Ni1KLYeRnBSQLMLz3e1kEYknS6603mR80L3LaZO2aVIE+UrL6fRaDyupwzTIvDzPQ8BBFI6cKHnYMuiPwBnQJHos/voPlbTcG3KTUT4b7AT/TyCVNmK4A0vAuaECahI84bnyW+xMHpIAw8F/WynTgFgUElrU3abm/TloIXP+ZUmqaI4NuepggWN6TJ1CzV4y2aWSEgDo0U6EopQee1kfqOM1+fwwgPgzZ6yGGQRlcFXRJ00xJEr2cz9O6LfzfzH67euDl3S/vDZnm5WrBQ5no+uONoyfT8n/CqMYeAJkFkgyW/KYEAc4t0+wmhPZ3pyGfqoX0Oege1FUT8VM/BeMhm7Lr87cLvkjOm5Uw/P+w+TMSjcDT0Q9jbLx7DaHo6no4m/+iT7+DvoQ57c0a+m/Yae5eyXd4hwzCsWeAU8Hraw95d792DwsfFDENOcbjO+i1oz4MJSE3+9w8m8HHgsWTnuWRXO/s6stnhH+xj9faLagfEi0XqZqs9mL0uuwlWe6Q/4lf/BUtSV+A=",
         "name_facet_ssim": [
             "Hampton, Jona"
         ],
@@ -110,14 +113,15 @@
         "subject_geographic_sim": [
             "Dutchess (county)",
             "Fishkill",
+            "New York",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.8833,41.5333]},\"properties\":{\"placename\":\"Fishkill\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.8833,41.5333]},\"properties\":{\"placename\":\"Fishkill, NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.8833,41.5333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Dutchess\",\"city\":\"Fishkill\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.8833,41.5333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Dutchess\",\"city\":\"Fishkill\"}}"
         ],
         "subject_point_geospatial": [
             "41.5333,-73.8833"
@@ -130,7 +134,7 @@
         ],
         "system_create_dtsi": "2017-05-26T14:47:20Z",
         "system_modified_dtsi": "2023-09-15T14:47:51Z",
-        "timestamp": "2023-10-03T15:49:01.429Z",
+        "timestamp": "2025-10-31T15:47:39.440Z",
         "title_info_primary_tsi": "Draft of the lands disputed by Philipse Patent against Beekmans & Rambaults",
         "type_of_resource_ssim": [
             "Cartographic"

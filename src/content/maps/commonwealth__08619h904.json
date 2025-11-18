@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1832759004952002560,
+        "_version_": 1847513306668990464,
         "admin_set_ark_id_ssi": "commonwealth:qn59z056g",
         "admin_set_name_ssi": "Filson Historical Society Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:qn59z056g"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Filson Historical Society Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -42,7 +42,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:08619h904",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/08619h904/manifest",
@@ -113,7 +116,7 @@
         ],
         "system_create_dtsi": "2025-05-21T18:19:37Z",
         "system_modified_dtsi": "2025-05-21T19:19:45Z",
-        "timestamp": "2025-05-21T19:19:51.185Z",
+        "timestamp": "2025-10-31T15:53:09.789Z",
         "title_info_primary_tsi": "A map of the United States of America, with part of the adjoining provinces from the latest authorities",
         "type_of_resource_ssim": [
             "Cartographic"

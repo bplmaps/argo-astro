@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749544704507904,
+        "_version_": 1847512841911795712,
         "admin_set_ark_id_ssi": "commonwealth:z603vh48c",
         "admin_set_name_ssi": "Harvard Map Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh48c"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Harvard Map Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vh85h",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vh85h/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Conder, Thomas, 1746 or 1747-1831",
             "Dilly, Charles, 1739-1807",
@@ -116,13 +119,14 @@
             "Charleston",
             "Charleston (county)",
             "North and Central America",
+            "South Carolina",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9167,32.7667]},\"properties\":{\"placename\":\"Charleston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9167,32.7667]},\"properties\":{\"placename\":\"Charleston, SC\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9167,32.7667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Charleston\",\"city\":\"Charleston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9167,32.7667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"South Carolina\",\"county\":\"Charleston\",\"city\":\"Charleston\"}}"
         ],
         "subject_name_tsim": [
             "Parker, Peter, Sir, 1721-1811"
@@ -136,7 +140,7 @@
         ],
         "system_create_dtsi": "2016-11-20T02:11:35Z",
         "system_modified_dtsi": "2023-09-15T14:47:11Z",
-        "timestamp": "2023-10-03T15:42:36.104Z",
+        "timestamp": "2025-10-31T15:45:46.562Z",
         "title_info_alternative_tsim": [
             "Sketch of Sr. Peter Parker's attack on Fort Moultrie, June 28th, 1776",
             "Sketch of Sir Peter Parker's attack on Fort Moultrie, June 28th, 1776"

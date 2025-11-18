@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1780925964400721920,
+        "_version_": 1847513053377069056,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524mt87r",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524mt87r/manifest",
@@ -61,7 +64,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Le Rouge, Georges-Louis",
             "Jefferys, Thomas, -1771"
@@ -117,14 +120,15 @@
             "Curac\u0327ao--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
-            "Curacao"
+            "Curacao",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-69.0,12.166]},\"properties\":{\"placename\":\"Curacao\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-69.0,12.166]},\"properties\":{\"placename\":\"Curacao, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-69.2,11.97],[-68.6,11.97],[-68.6,12.4],[-69.2,12.4],[-69.2,11.97]]]},\"bbox\":[-69.2,11.97,-68.6,12.4]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-69.0,12.166]},\"properties\":{\"territory\":\"Curacao\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-69.0,12.166]},\"properties\":{\"continent\":\"North and Central America\",\"territory\":\"Curacao\"}}"
         ],
         "subject_point_geospatial": [
             "12.166,-69"
@@ -134,7 +138,7 @@
         ],
         "system_create_dtsi": "2017-05-24T19:52:53Z",
         "system_modified_dtsi": "2023-07-13T13:46:43Z",
-        "timestamp": "2023-10-27T16:15:51.668Z",
+        "timestamp": "2025-10-31T15:49:08.230Z",
         "title_info_primary_subtitle_tsi": "tire\u0301 des originaux Hollandois de Van Keulen ; dresse\u0301 sur les dernieres observations",
         "title_info_primary_tsi": "Curac\u0327ao",
         "type_of_resource_ssim": [

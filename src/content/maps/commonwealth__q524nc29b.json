@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749871875948544,
+        "_version_": 1847512925932093440,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nc29b",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nc29b/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1515"
         ],
@@ -95,14 +98,15 @@
         "subject_geographic_sim": [
             "Greensboro",
             "Guilford (county)",
+            "North Carolina",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.7833,36.0667]},\"properties\":{\"placename\":\"Greensboro\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.7833,36.0667]},\"properties\":{\"placename\":\"Greensboro, NC\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.7833,36.0667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Guilford\",\"city\":\"Greensboro\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.7833,36.0667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"North Carolina\",\"county\":\"Guilford\",\"city\":\"Greensboro\"}}"
         ],
         "subject_point_geospatial": [
             "36.0667,-79.7833"
@@ -113,7 +117,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:02:03Z",
         "system_modified_dtsi": "2023-09-15T14:47:40Z",
-        "timestamp": "2023-10-03T15:47:48.119Z",
+        "timestamp": "2025-10-31T15:47:06.690Z",
         "title_info_primary_tsi": "Battle of Guildford fought on the 15th of March 1781",
         "type_of_resource_ssim": [
             "Cartographic"

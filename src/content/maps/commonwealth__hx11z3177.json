@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1798517152942129152,
+        "_version_": 1847512994350628864,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z318h",
         "extent_tsi": "7 maps on 1 sheet: dissected into 40 pieces (including town plans) and laid on linen, manuscript pen and ink with watercolour ; map 65 x 41 cm, sheet 66 x 53 cm",
         "filenames_ssim": [
-            "k_top_121_2",
-            "commonwealth:hx11z3177_metadata"
+            "commonwealth:hx11z3177_metadata",
+            "k_top_121_2"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z3177",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z3177/manifest",
@@ -202,7 +205,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:52:19Z",
         "system_modified_dtsi": "2023-09-15T14:48:09Z",
-        "timestamp": "2024-05-08T20:20:16.305Z",
+        "timestamp": "2025-10-31T15:48:11.939Z",
         "title_info_primary_tsi": "A MAP OF THE PROVINCE OF NEW-YORK, PART OF NEW JERSEY with a Part of NEW FRANCE Composed from Actual Surveys",
         "type_of_resource_ssim": [
             "Cartographic"

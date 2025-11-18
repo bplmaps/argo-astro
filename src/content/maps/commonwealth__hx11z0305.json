@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749992072118272,
+        "_version_": 1847512973881376768,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z0305",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z0305/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJztGmlv2zj2e38FoQ877SC67NiOMxMXiXtsBklaJGlndweLAS3RFhuZFEgqjufX73uUaEu2c7WzO7uLCdDEJvnuk4/98fXdPCe3TGkuxZEXB5FHmEhkysXsyPt0/c4/8F6PXvw4l6k+xF8Ezgt9eJdzcXPkZcYUh2G4WCyCRTeQahbGw+EwtLueO6r5roOdKIrDv52fXSUZm1OfC22oSJiDQlotsFwmwUzehrgR3na9NdPdYABQmh9qi+pMJtTYjfuhyY4tpJ9SBfv1IfvX7/qD4E6n3ugFIZUaDDc5OxVTSUpNZ+zIKxSfU7X0SMp1kdPlGZ2wfLX8a71qMbRwjD7mVBA5JSZj5K9UTWSp8OuVIT/JTHynCRd274Qucf1dKdLlEbFQf6Hz4gdyxRIU1eF4J5UhFMAM4ZpcMKrIOy64zr5Ld4EBgRrwEvQGFnBfZZ6Sdwr8ILMofwwbPKMawrYe1qoRdM6IWRaoFDCPFDRviY37H6kyo3MpkhsjxR65lBO2IrHa3wFT402pYd4oHnT6fjw46DwAqGTFbnvlmql5jcqwO+MRWppMKm6WRx6YK1Esp0aqxvqny9OVL/F05S+34GeTMgcLhzWMBqekecmeDhBSLbzRsdYy4SBXSlCOWiTHbC1S2JKpIfbD2m+KJ+j0cbHcPmc6RISPCLV1PBQH3XgwjAfxbssfzzPgzeyRn9h0ytSSrBZOqJLi+Y4QD8ARhoP/cUeYzqU3gmCbM0gBC8HU7+EFiVSFVFZPu0xxKZc0J58ER8+7YuqWJ0yTU8jE3JSGkalU5A2bQh5gBHIjpo0S9QAJqkzB4H+q3GVzEOnD9JJpSOAJG41BGXKmaJHxxOXK9okV5IwJxZpqmM1nRfIsBdSEzsHMitP86YrYBAzNbB5F/U4/3qxkwCVTmMrPaeGsbjlfCwLMzrhw1cCtAo5kww/s0qYjjH6xpQtqTgq8JDev/1lTWZ1uGaOBtkZaTnIoc0yNfimUTMsETCokVMGUCcOnnKUrhKuTDXCudYnNx2guxYbhVluN45h5xorZhL1ulhbdJDWQYG/Y8g1sHXlLyJ2Qn3oHNaoGWMOT2oqrCEClnpXQWjSJurWHYohr2e8O/c7kWQ7koJ7sOA4gZGLmjd6KGWq0FqfJZkPKpkS1ybKl5gnN3zCdKF5gP9LSMWjF0PyD1c5IMchFc2pQ4/WOU2rrXAMB6AZsP+qSOfgsgR6pS8DszGhySGBNlBVZUjBhkxt0rGTBTUYWGA+JzLEZ+4E4oO4BuSP7Q5LMCWRFPad5vkoYNammQwnAIZg5Zymn12CsEbSCMxZ+KdjMOdbWkSfAgy9PvwX+S9F5CNzFyG7T1NVDGtbWKiso1phaU3sEVEMmS7AT1ndQDMlAv9oqud6CRrQU69gkySphMrVHJqXBbbQ1nMV+VGNJowJI286eGGmX8QYgsWdlFDpVSx47ZrSk91YkudQM7UrGMg8IdJzYcK573rgXgLU/JOaQYJB6lkGdyQVEM2G3yB7UPTic0VtcmjDwFM3nHGIgX0JxzFNAjzUyZbqgJskC8nbNyAS6b20JWYeC8naDFEI4n8hSuCXAT8k0ZyWiIflSWycEping4QwaceuU3tnn9x7gFJA+sj3Lqnf62QvINRAwC+k80rkrhapitZLRvBJX89+YEx0kmKGmgZBKK5DAFTY0b9vY3tdcUzyrykoB9qJAKFi1gL6U5GxqKqls4Gh+C0fgYwnNiKY8R2WnXFV3FO2EDuCSknM2xZsNohak4AnUcahc+bKyHag1tcCsMFmlgxkgFwF5z1xah00DNCrS6U7W0b04uE8JBjmngi7oTOIlipzq3Dox/LvOyvmEjGlRLwbkmGgIGUYmcOkCFi1hlDmXCyezc6443CfgRgwJUfRXsNPLCpoWUL/uIFgNA6niw7i3d7AfvQqQEZexaJrySjXAPKSvBMRB1MQ7Jp2+t0HUukrcI1HHW5sAsmVmAnJGeYpBDK1XxiH5g6Wg3LE2tXXY1bEFXFeRV1nYW/uBc47nB99OAdeU2oJqK+lBuB8dA+B7hYGZcJVgdQLfhpZli8e4Byd/ziCp7DqARvHeXB7//PYS8JKrt+Pr0w8XpAMwJ1AR78FZ8wCHrmzEzxnVpWLNWvFoVD33Gv+ksKLwGUolNFPYjJCXx/77Vy6MXEu0RJnzelSySjqIFjKaqfIKAtsgqbGmLMHbBMbrFMsjxgSkMyCeYTVA4GYmt4kBDAmt5etVeACRqc3TjRBp+OTKHPtRde7xENk/wPg4qcVDJopGvppaXeKlEZIkAE4h7lYCrUuXxexod55Mu/OM2GxGZiVrFZr7328GJlDLZJmnNWTc+9579XsFq/Mt0BZWsbGcF3nVyfr/jWHbJ917iGzhfqMoqrbTx3CysbsrLDu9R8LyG+ZkDwRnAkGnwFbvMD3WbkhS4Bj8rVGpXGdTuUFNBd0ZhEEHXFVDuwE9WAPURRZ2JBbMOfsDvmtdcBUyL10wfatDP8Gjf0eX3jDKh7ZR/vRr/NaamQ3hZ+dJXU6+gMs3r5R5orPnDQ1rJLo975bQreGwBTv+quj4/gVbkBNVCr2AK7/vX4EVq1bC93HQsNfQj++/tflqIdWNRnXGB1HkZisW9/r6UjPwnxPrHHpWAxdjW2dsJ5pwvDz8/0i4Zpy8vAhOglf/fv7NTNzDvp1EBDNocZYBS8vQntwaXew4FQ6iuBsPOi0B4ZKlbP6BJLm+JrRnVvbCppajMdwGUloL4RY3TkJzJXAacAG+nllvGGPuh+R2PMfZ1hrcnWwjAGEb6naHcbU5AXuI6xpRYwipN5mUCi5KkAv0aL8XdPr9wZ7f7wdRb8Xb+kCT6hbOR+z5FfwgH/FBjwBf8XA/7g+I3+8Fw4Mu/OBiZ9iNev0/hk9bR0d1Ia7GGw6x3fkqFuw4mqWnhrmxXia12X4sXI9W22+IJxi90Iif8YnCHAQFLq/als1nu3se7sJNNh7ijetLZqc6CUtP4JJvX3oPM8Wmq8DTDB2zKulMB5M8KG/C0+Pzq18/f+oc4odoP/KjCF+KB92OF67prUZCqiYHdwxvhHg1IKbqJqjHfYmcz6VYMJqbzL4mw95h2IuGvWGY3cXxb1F35cxrpI0Ba33xac2Q66mXez/e1OzGcOysgcINOZtL99IpVb71cEyThGl95MkqDUIPgOnBTsa/UXqgtkncESsUu+Vs8fUkQoNTEEF5fj8xbDDAbTif+nMq+JTpb5ApdCja9O5VfyXpWIq6t9r0VuQhwYk8eGrFgLa0cw79uoaSOFn6IvE1DfeDKPScU+rqOUyx6q0BUW++mNQYvNF1BjddrIl4461Xq6khoilFCr5OybhmAu9jyAU5NkbxSWm5voBeCdeZSuAuDd0f9vzHOb9h4JoWIXk5HpOTv/sXY//q+JXrAjekv18tTxfLNvPQIFxIciNwBpfIYll1+NCJAsvVzO5RDhROEtLN16JqdYyeL8xV9VJ2AskQWPyIzzbJRijuOr+NzqpWCnyT2X6tGXWiTuxHQ78bXXeiw+7+YTT8Rxt9A34H9oyKGXsq7jjawL2C3sZcv2hAhMHNDEK1AKunLejtNw/3yvJhOqYQUxK2Z+2aseMVCbhmf/wrEvy65wVp6w1pW7r6yWj9XHFV/1+ezQfmxhFvRGni6vcO0FZtXHtrvYS/Ri/+BVkExMM=",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Monckton, Robert, 1726-1782",
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
@@ -116,14 +119,15 @@
         "subject_geographic_sim": [
             "Canada",
             "North and Central America",
+            "Province of New Brunswick",
             "Saint John"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-66.05,45.2667]},\"properties\":{\"placename\":\"Saint John\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-66.05,45.2667]},\"properties\":{\"placename\":\"Saint John, Province of New Brunswick\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-66.185,45.194167],[-65.983333,45.194167],[-65.983333,45.293056],[-66.185,45.293056],[-66.185,45.194167]]]},\"bbox\":[-66.185,45.194167,-65.983333,45.293056]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-66.05,45.2667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"city\":\"Saint John\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-66.05,45.2667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Province of New Brunswick\",\"city\":\"Saint John\"}}"
         ],
         "subject_point_geospatial": [
             "45.2667,-66.05"
@@ -135,7 +139,7 @@
         ],
         "system_create_dtsi": "2016-11-17T22:39:03Z",
         "system_modified_dtsi": "2023-09-15T14:48:00Z",
-        "timestamp": "2023-10-03T15:49:42.747Z",
+        "timestamp": "2025-10-31T15:47:52.418Z",
         "title_info_primary_tsi": "Plan of the Harbour of St John's in the Bay of Fundy= Plan & Section of the Fort as it is Near Finish'd= Plan & Section's of the Remains of the old French Fort",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750019112796160,
+        "_version_": 1847512983948754944,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z184p",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z184p/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Davies, Thomas",
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
@@ -117,15 +120,16 @@
         "subject_facet_ssim": [
             "Champlain, Lake Region--Maps, Manuscript--Early works to 1800"
         ],
-        "subject_geo_other_ssm": [
-            "Champlain, Lake"
-        ],
         "subject_geographic_sim": [
-            "Champlain, Lake"
+            "Champlain, Lake",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3333,44.5]},\"properties\":{\"placename\":\"Champlain, Lake\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3333,44.5]},\"properties\":{\"placename\":\"Champlain, Lake, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-73.899722,43.840278],[-73.392778,43.840278],[-73.392778,43.958056],[-73.899722,43.958056],[-73.899722,43.840278]]]},\"bbox\":[-73.899722,43.840278,-73.392778,43.958056]}"
+        ],
+        "subject_hiergeo_geojson_ssm": [
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3333,44.5]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Champlain, Lake\"}}"
         ],
         "subject_point_geospatial": [
             "44.5,-73.3333"
@@ -135,7 +139,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:17:10Z",
         "system_modified_dtsi": "2023-09-15T14:48:05Z",
-        "timestamp": "2023-10-03T15:50:08.535Z",
+        "timestamp": "2025-10-31T15:48:02.019Z",
         "title_info_primary_tsi": "Draught of a Scout over the Mountains West-ward of Lake Champlain",
         "type_of_resource_ssim": [
             "Cartographic"

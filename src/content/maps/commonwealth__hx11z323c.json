@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750044701196288,
+        "_version_": 1847512993742454784,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z324n",
         "extent_tsi": "1 map : manuscript pen and ink with watercolour ; 39 x 51 cm",
         "filenames_ssim": [
-            "k_top_121_14",
-            "commonwealth:hx11z323c_metadata"
+            "commonwealth:hx11z323c_metadata",
+            "k_top_121_14"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z323c",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z323c/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJzVWt1y27YSvu9TYHhx6syIpChK1k9idWwnaT2V7UzstKfnJgORkIiYAlgAtKxenb5fHursgqRESpbjuk17nAtHBIH9/XaxWOLVd3eLlNwypbkUR07gtR3CRCRjLuZHzofrt+7A+W78zauFjPUI/xCYL/ToLuXi5shJjMlGvr9cLr1l6Ek194PhcOjbt041VfP7Jnba7cD/9/nkKkrYgrpcaENFxKpVyKuxLJWRN5e3Pr7wb0NnI3To9WGV5iNtSU1kRI19sX81uecV8o+pgvflJPu/G7p9707HzvgbQgozGG5SdiZmkuSaztmRkym+oGrlkJjrLKWrCZ2ydD38sRy1FBo0xqdUGUZe52RCIyKFoYpLImR+y9KULZgw5D3+umWffyf0lkUkYppkUhlCyVyBuPDANTxMuTE4acJ0RGPFyBsxT+GVZuRfdJG9JDOYHRUDE5YrWA2WAvr24RR+cbs+ZvggxSu/JiUq7jc13xhD0AUjZpWhGcAhUtC0oSi+fwdqjieUnCj5a84UZy3yjjMFYp7IHHymgG/JYT29RkLJQojmyDVTi5KxYXfGITQ3iVTcrI4cMHukWEqNVLXxD+/P1pjg8drvt4CXaZ6Cp/xyjQZw0TRnj1/gR2buWHdK8EsGKpX6VJKW+vgNhWo6P8Gg3zMIIzDl2dlZi/wI8UrkjHyvGDVgaG4oFw/YtBorOcXUMGcc9MOBGww67WfujNlCOuO3Ui0AWXIp/lZn/PSX+eKwA74In7svYqGc8Wsp5NOdgLpczt4zLXMVMQJ5K9eR4pk5clZM18OOR1WiaizZkJozAVmnZpD5Yp5Ff8gUJaNz8JLiNH28SbYX+ma+aLcPO4fB9sYBUjKFSDunmS41spL/HysSdDqDwwcUqXy2Rx+Qec5FtbVUo7Bf5VgUjBcAoKaH169q0zFyzmCcxbUaZhlGsZk55IatXsP7EjNBv9cvKW1W1RDYlKcgn1Ixz2HDr7Osxh4KOq7lYTh0O9M/5J5q1aPdUi3wYa+H9KfABEmpTV3KmpJ1hQp1smSleUTT16zwFpRRDQODUQxNL61xxorNIMdSqDxiUr6pTNqYVyMApoGqZhxAEGdkVAtlkjFBsKCBwpEsuUnIEuEVyRQimLwk4ZDckV5AokXJoqRUB4uABYKZcxZzeg2uGEP5NWf+p4zNK9DsTHnEesNnsz+z/lPWeWh5+W6P5csdQho2vpK5QEhDsZSZBKo+SABzfgt244KYhMF/mhmSUDVFm0EYCu1VCRUJNMn9jEamBOrFFBKJIalcwnYJHksMcd5AVQaFJ9aDnTaZcJaTcyhOBZTnSyhuGJkBYyIAzigzSXECysN+zeHRSChmUZ4oeUCAaxA5Ah9CgrBwgB1zQm8YuSzrYChsIVRgAsDLIgL2EPgLxFHZqTRGLnARPsH6FvCLQRqcPl2BZjGLpIKTAAgayUVGtSZKavYFifZIUtjWimESxew8jRPfYjVeTmwVTxeczqmiFs524K2C2p4JqPGtp3B5KfcMPQViQprULbug1OZbTWyxXfBezwX2xewHtDizovI0zbVR9iSkK3Z4KuA6KSSzCYLMUsZMHUwABZxqZGan7dj5C/ark0UEpHkMZxYHqv8kB09DZjz4AX7kqXmBRJcJEN85DJC0dliATKAtc/AiJIy4qK5mPIKpLsAyhXGozFrkvZwyZTzyM1U64dla66IOQ48+FA/HRAC+DQPAJS7iMlcrAkc4i79IZquaDcgBhRgzJBgM2y+sfFk+RctWULUWtP5zzo/fkcu3ZHL84xtyeXF9/P7sklwlcolqQIziiU5CCIMPNGwNDGCAe1OroJPxCORgj3CgLECSIm4BMEDjEA6u5DjVRbxA5oF9R4JOVGEi2UJmC859gGH6a85bRDCqbBWrDdq1DurWFuAPLvWSzeULD0ktLKdi64SgjhW1Wpb4xUIYZT/PNcsXDg5TQXLBYzA2n3GwHZw9KaRGQZZS3YBzKYF4pqmc56AZ1wapzZDPccruwAYAmmNYCzghWCohyWuJKoFk6+CtAoEhOetHkYKnEei1LgCtKGJgewApf0qjmwJn/rvSDf7iY/vjNOp2gkHQ78z6nc5sSMN+GHd7lAbhLBr2u/HHoNMNu72wM+x5n7I5OViyqYbjNbnlbAlKdtpB+OKhKELcxMQpmgMQPRqk/fw7/Cz6BGvbZ+AlKLQ2h+ouuYyMB0ZBBDmV3U/XJgQQoZng9I2whv9fFx6CX8xEXovgfo42xmVzVlVc4EqbmWRWG4GdOWURZhcwpKERQr9MzRM+VVCQILsE0leKpj+nn5g2q+JsVByWClgmXMUV+4kUMQIOjqDDxxtoyyqN9omq2iet7f7J5/9iD6TooMBj2UABI6bf7vZQGEZK1UCBKesOysKUT1G9hRJhC+UlmVEkalltdgA4wFg3yaliVaijIz34V/Nm+tKx8SMwsKtdGgzag/SD+zBwpeBSjTanwm61L4uUEUEBYNYJA5Xd7FN7gnh3o2oVbKGunEOWtdxHJCAzjwyAlwe1mH3o4sP9QCsy5bq8W1jcFbIVDG19UvwspzcBVmYPfX/62A+PsgrXBmBnMQDUIXQz2Ab5lKdQeztj9Aymg1nTLbJwi/UKsSfyWnjdz1Hn008QBvVyP4108uVKv3rPIauURHSzQygh+WMXA3Nj0dF03Qu2JL9gbjy4Qv1euG4R0Jvzleu+oSpd2Qxq0REM2lUPoSC5qTlLvn+fNnYPfvZarOPGFokHF94vnoUxjHvPTZd6IihUeW4aXKZxs+x+llpsnRMOniOWPgiOtbKNaYjyH6Bgg3rTdctCFUPkTNjyDip0u/d13aB/GH59Nc1c7NHS9k+8OTNm5bE49+3MnYbLPbP8fhtk73UbdkjgIENVZDew79f1U7NFmyl5y7FxVUZddf6vhhuTIyjVjVqNbWFMy6nV4NZMKEAEtkQu7DEZrX1anq6PF7CBRZvl1cwmAbDMuCr6q6k4Vu/TPqRgSabWjNXbIkoFpzdEx7jb9TphGLbc/qHXWwu2eV9nukPyH/Z8ELTb4aDX8PymWt5JSOuG533megxirL9X4ya5cvBetDQC8auCxlZZ42o/r/xiB78ObEKv0wPQDL32c0NNv91pDwb9vaipFxV/AWSe6Niv4LDDw0Pw2OAvdtcTZEHYDAeQdUICYrVBrkPi9nve0P6CjBQ+M0hBBu11w/APb0Fl7ihaN88qnzQ2q3rt+vU3rNDr9r7KdvVIYewhfHxVtOszKBfu+AJ4Q5UUjIJWexi2+usaqZj7JKHsh1sWn8HhuTxJJ1Kb3bsrm091zSst1TG9agKdrvtE23dK9twq8bfFeEg2rt+zGcP6ksUnK4fYi0ejRLHZOnDYXZZKxbxp6uU3/snkpw/BaHJ1evnOPZ5MRieTSRu28+5w0O8HA8ffMFu3JVXJK1fcGSNRDVSpuvHKr1zYlpZiyWhqEnuzCd6N/F572Bv6yV0Q/BZ2wvVXyzXR2mfF8r5S3cTV16DqLtO2Wbc+Gk1qJKpve/WhvXxyle5cYqJRxLQ+cmSRw7ggGKz4UfPPag/ctplXzDLFsD36dBa+SfLFVFCe7meGrRvADOczd0EFnzH9J3TyKxJNfnvNX2h6KuEEZLum21BFGSL8UsFvWSGAtrxTHjGh4eQ1XbkicjX1u17bdypQamazrGKQEeLcBtr2V/iSgjO+xnasba1jW7YYjbHpS5BMLmLAOiWnpRAQulYKcmyM4tPcSn0hhYvjTEUckvpVgh+OjlN+g21fS5AcnJ6Sk1/ci1P36njd597Sfr9ZHq+W/VQJ59ALSW6EXArb3C++XypwC2w29tvXFyVQ+J0w3r56UIye2gO5uSqukZxIPBuRd/itJ9oKxfvm75KzppUCLyLsXlEYd9qdwG0P3bB93QlGveEoGPynSb62/h7qCRVz9mTa69W7lMsP+RBhcHiHUM3A63Fj9e6n/upyweWs7AuDOM0N4567EyA1+0fvTjAxd8bwZ8/FiZ2rE7valTclNp/xr8p7pdv3sGpTnDGlUXVB6p6ljY1xg9ZyCP+Mv/kfhxYOKA==",
         "name_facet_ssim": [
             "La Broquerie, Pierre Boucher de",
             "George, III, King of Great Britain, 1738-1820",
@@ -124,31 +127,31 @@
             "Fort Frontenac (Ont.)--Maps, Manuscript--Early works to 1800",
             "United States--History--French and Indian War, 1754-1763--Maps, Manuscript--Early works to 1800"
         ],
-        "subject_geo_other_ssm": [
-            "Ontario, Lake"
-        ],
         "subject_geographic_sim": [
             "Canada",
             "Fort Ontario",
             "Kingston",
+            "New York",
             "Niagara (county)",
             "North and Central America",
             "Old Fort Niagara",
+            "Ontario",
             "Ontario, Lake",
             "Oswego (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,44.2333]},\"properties\":{\"placename\":\"Kingston\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.05,43.25]},\"properties\":{\"placename\":\"Old Fort Niagara\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.0,43.666]},\"properties\":{\"placename\":\"Ontario, Lake\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,44.2333]},\"properties\":{\"placename\":\"Kingston, Ontario\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.05,43.25]},\"properties\":{\"placename\":\"Old Fort Niagara, NY\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.0,43.666]},\"properties\":{\"placename\":\"Ontario, Lake, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-79.983333,43.06666],[-75.96666,43.06666],[-75.96666,44.3],[-79.983333,44.3],[-79.983333,43.06666]]]},\"bbox\":[-79.983333,43.06666,-75.96666,44.3]}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,43.45]},\"properties\":{\"placename\":\"Fort Ontario\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,43.45]},\"properties\":{\"placename\":\"Fort Ontario, NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,44.2333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"city\":\"Kingston\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.05,43.25]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Niagara\",\"other\":\"Old Fort Niagara\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,43.45]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Oswego\",\"city\":\"Fort Ontario\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,44.2333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Ontario\",\"city\":\"Kingston\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.05,43.25]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Niagara\",\"other\":\"Old Fort Niagara\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.0,43.666]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Ontario, Lake\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,43.45]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Oswego\",\"city\":\"Fort Ontario\"}}"
         ],
         "subject_point_geospatial": [
             "44.2333,-76.5",
@@ -167,7 +170,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:54:55Z",
         "system_modified_dtsi": "2023-09-15T14:48:09Z",
-        "timestamp": "2023-10-03T15:50:32.938Z",
+        "timestamp": "2025-10-31T15:48:11.359Z",
         "title_info_primary_tsi": "Carte Du Lac ontario nouvellement Relleve\u0301 avec ces port a grand pois a bitte\u0301 Lescadre Engloisse & francoisse Leur gremant Leur Cantite\u0301 de Canon",
         "type_of_resource_ssim": [
             "Cartographic"

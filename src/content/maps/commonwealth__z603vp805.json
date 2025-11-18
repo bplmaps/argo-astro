@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1780112769945698304,
+        "_version_": 1847512853219639296,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,8 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": true,
         "georeferenced_bsi": true,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vp805",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vp805/manifest",
@@ -57,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzVWVtz27oRfs+vwPDltDPiTSQlS415xlEuxzOOk4mdOT3tdDoQuRIRkwAHAC2zv74LipRISXZubdM8WBoB2Pti8e36+a8PRU7uQSom+LnlO55FgCciZXx9bn28fW2fWb/Gz54XIlVz80HwPFfzh5zxu3Mr07qcu+5ms3E2gSPk2vVns5nb7FrdUcVOHRx7nu/+9e3VTZJBQW3GlaY8gY7KyBqQ5SJx1uLeNRvufWDtlQ6cKVIpNlcNqyuRUN1sPE5NTmwZ+SmVuN8ear7twJ46Dyq14meEbN2gmc7hkq8EqRRdw7lVSlZQWVskZarMaX1Fl5Dvlv/ZrjYcOh5c8BshdXxBnruDhd6ZRk7MYUNQMZIIKSHRpKAlEStyjYczclGAZAklG4Y/dAbkd1CaXPKUUXKpcqRTLf8tsx53VS1vm7WU3bMUUkITFGHiTrRoeOUUeWkJVNdGYgk0gRHqwZO8agg0eU8lUyPieyj+NSxrh/jTSUD+QjYZSGCcUAmkpFKzpMqpzGvjIo0yKqYySEeNHAUYSpqTUop7himgWntzwRkg903Gkgx/F6VQ0FC8kEwjA/KqKJmE1sKdQSZQ7jBS++BxWiCPujRhwwQSnOYWoZXOBPKszy1OV73fHz9c7tKIpbtU6fZRPdcwVJiNNK/gS4+7/MzzgrMwioZJgXvoUR2/FxvUKx+R20wUtAvhbvsESWtSSjVYsT8dj23/zIueIJSiS4f+yi3IomWl4UEPPIO5nEjIqRby8x66x0u4NCGv3ZbmMz46QeCiOCtemAQUsjWlU7I1xR3Y0jP3/zHgk8lsEp4O+A2tQY7IB7EEqb8h3JHtT2fhzx5uvcRwC64lW1bfE3Jj0bvVB1CikgnEC/SFWEtaYh3pCsPwxI5yDRwLVs8L62JdJl9lfyvoLYZGMpp/uR8OCV29LjBpxhP/8GFBLU3BtOK3tOyKQ6P53hBUds14V/q6VeSRHKRBs3SYB/GV4KngLevdkUEEerxaTtUyN1Vdxu8l4xofiJWQbUqTNsGvhUOigLzOAXAN3xb8chynY7nj0GPLlKoMMIgLwQ+iuNvqHTdX4hLXUfwex2yCJNV4ze+gfon751aNNxjvzXTactpT9ZJq6MMte3xS1xU++n2R3dpTt4kpMQlm9nj5VbnUUX1xDnUELvC1Fb/ia+PP1py+mj0r+xa1gcxqhaAifwkqkaw0WGrgYfSKpvm7xjuxBIxyQbWJd7vT+XRwrscAfQNcx/4WynASEow5aEXmJGtffgchxGxGHojvhyQpnFF3JJri4mRs1ghmlyrwmQTZJVDLuZ89mIiSg34LCIluMTYxYrI1uJ9KWHdZdHTkC+g1W62+h/5TOX6KvLsQpyPRQUgN8QfIGazQO4gYSMkSLJtYO/La2cFKDQck1iVvQNQFgsmXzGBK5ViPH8fLjA+owZmoH5+TbWloINprkFI8IelyixQVSQGhJYLyeyCJKcYVAvURyRAKCgNfc2KOI9IzTBuwmCNRaE9HZIbgEr/8s+3m2DNI1GhvpbBinDU8txj1KSMuucLsmZOLHhjtkPQLulqxrUG/VSkChF8UrtXEthF+GfSqDMony5oYPG3A8YLmDLOeM/q48W0hwKZCQ4FJaSRJUKXgii1ZjtffinPK8NKYyJ3A3togeVXJe6hbz7QdgCmsUhTNsW2JQgcW3asxMoLeCETU0iE7HPkWiiX+xi0EBjmjhT6tOWLoT6bJ6FWuPFHZ1wGklokaQB0tMDvjQddi2+b9su1XTWOwEfJOGfMRuHrdM90Q7e9Dy/l/p++unQL1E2j7xtyDpjmijNv2ou2gbPvncfhHvNKY4Dfm2vyXXK7X/BF1m4fUWYPGYgJp5TYnj17eE6fcqedhM+cNDFpDB1f6abSDa7vNHknSQ6pqiNMS0RQI45bYnznBWRAEo6nvjP3JpEMx/TN9qHbE9od7azwLw6G3MoaQViaZeQ7eHDinO0Mxv4clpDWk2ehb/BS3r3J1dOagg0e274VOOJn8hx39DQrZfuA7nu9HU2wnMev8ICK274RRcDaZepE3DacB9gzEDsbOdByGuOHNUPvxlESRE/hI5gVBFEZnZ+GPsUZhTCC+MZ/k7wl1iD+PRp7nmb9/dCKaM9+kTNNOQnqJz277BmdC6WGp6Y+FDudtpuQcDdhODNFOTZjcQw2eUoupD7ACiV0KpC9qizRD03mGgHp7eRTenhZDIyLO0UiEf8rhdZk3A1QslIVyI99Lw2lK7ZUHS5sG6cwGL/Tww6NYKCchnc0sd68HSxGMsBXej1aNSjIr7uRReefsZBbYcW2A5jpr5OHe3I28WTRz/4U5dF/uB0x7pr1OqR3DDlrEFs92I9r4GjbkD6zr5L1p/RJyxZZ4b+sD+HvVY9V1Lf2lR+VVMj+a0SLUAqXOLbEtdYj8EsG3Xe93egGlHQrvhJUS7hlsvl2Eq7OqWHLK8seFGSiHacXYyi4oZytQ32GT27EYynvU/VtLF9gcMLNxMpsTg08QsG8VUI1sjDogOFfusrZ5Yivqho7nWl1yKmigr4RSirRqrsDhNKTlYMW32FA0KIHgd7u6HUIYNhVPMecpWbRKkMVWC3KhtwMno/W14LZZB5kgmCY3mZlfX+TsDjA1G4bkT4sFefGHfb2wby7+3KHoA+sfd8uXm4XIPjMQ6VqQO256hESUdbNo+ghUua0Hn9NAmt4rPZwEbVfNsA1v7s12CvYC6ySqePIqnjp/zK5xreBmxnI8fYnH3ti3vZntR7deOB9H82jytyH7Hv0J7hnla/hm3jvqY87tiAJvGMUmGoOCUU8H1MdDjG5s8m61oHinBG6vh8/JibEQag0/fiyEH4+MhI6GQsfWtTOg/UDipv232eHsuHfEiilNunHuCdLB27nP1nbJfMTP/g2Wxcup",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Pownall, Thomas, 1722-1805",
             "Sayer, Robert, 1725-1794"
@@ -119,15 +121,16 @@
         ],
         "subject_geographic_sim": [
             "North America",
+            "North and Central America",
             "West Indies"
         ],
         "subject_geojson_facet_ssim": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[71.21667,19.38333]},\"properties\":{\"placename\":\"West Indies\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-131.01157669004135,-1.4538670507473626],[-32.72444530910427,-1.4538670507473626],[-32.72444530910427,55.31766033545884],[-131.01157669004135,55.31766033545884],[-131.01157669004135,-1.4538670507473626]]]},\"bbox\":[-131.01157669004135,-1.4538670507473626,-32.72444530910427,55.31766033545884]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"area\":\"North America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"North America\"}}"
         ],
         "subject_point_geospatial": [
             "19.38333,71.21667",
@@ -141,7 +144,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:43:15Z",
         "system_modified_dtsi": "2023-09-15T14:47:12Z",
-        "timestamp": "2023-10-18T16:50:29.003Z",
+        "timestamp": "2025-10-31T15:45:57.346Z",
         "title_info_primary_subtitle_tsi": "divided according to the last treaty of peace, concluded at Paris, 10th Feby. 1763 ; wherein are particularly distinguished, the several provinces and colonies, which compose the British Empire",
         "title_info_primary_tsi": "A new and correct map of North America with the West India Islands",
         "type_of_resource_ssim": [

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1798517288834433024,
+        "_version_": 1847513060188618752,
         "admin_set_ark_id_ssi": "commonwealth:j3860802m",
         "admin_set_name_ssi": "Sidney R. Knafel Map Collection at Phillips Academy",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:j3860802m"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Sidney R. Knafel Map Collection at Phillips Academy"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:j38608291",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/j38608291/manifest",
@@ -152,7 +155,7 @@
         ],
         "system_create_dtsi": "2014-12-11T18:14:54Z",
         "system_modified_dtsi": "2023-09-15T14:48:37Z",
-        "timestamp": "2024-05-08T20:22:25.921Z",
+        "timestamp": "2025-10-31T15:49:14.727Z",
         "title_info_primary_tsi": "An accurate map of Rhode Island, part of Connecticut and Massachusets, shewing Admiral Arbuthnot's station in blocking up Admiral Ternay",
         "type_of_resource_ssim": [
             "Cartographic"

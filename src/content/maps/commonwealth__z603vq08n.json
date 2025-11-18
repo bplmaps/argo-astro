@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749596626845696,
+        "_version_": 1847512860227272704,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vq08n",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vq08n/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_tsim": [
             "Relief shown pictorially.",
             "Prime meridian: Ferro.",
@@ -94,14 +97,15 @@
             "North America--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
-            "North America"
+            "North America",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-125.0,5.0],[-0.0,5.0],[-0.0,80.0],[-125.0,80.0],[-125.0,5.0]]]},\"bbox\":[-125.0,5.0,-0.0,80.0]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"area\":\"North America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"North America\"}}"
         ],
         "subject_point_geospatial": [
             "58.166,-104.466"
@@ -111,7 +115,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:46:39Z",
         "system_modified_dtsi": "2023-09-15T14:47:13Z",
-        "timestamp": "2023-10-03T15:43:25.621Z",
+        "timestamp": "2025-10-31T15:46:04.029Z",
         "title_info_primary_tsi": "Amerique septentrionale divise\u0301e en ses principales parties",
         "type_of_resource_ssim": [
             "Cartographic"

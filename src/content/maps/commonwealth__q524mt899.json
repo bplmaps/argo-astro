@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750258368479232,
+        "_version_": 1847513053482975232,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524mt899",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524mt899/manifest",
@@ -118,13 +121,14 @@
         ],
         "subject_geographic_sim": [
             "North and Central America",
-            "Turks Islands"
+            "Turks Islands",
+            "Turks and Caicos Islands"
         ],
         "subject_geojson_facet_ssim": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-71.3,21.17],[-71.02,21.17],[-71.02,21.54],[-71.3,21.54],[-71.3,21.17]]]},\"bbox\":[-71.3,21.17,-71.02,21.54]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"Turks Islands\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"territory\":\"Turks and Caicos Islands\",\"area\":\"Turks Islands\"}}"
         ],
         "subject_topic_tsim": [
             "Grand Turk Island (Turks and Caicos Islands)--Maps--Early works to 1800",
@@ -133,7 +137,7 @@
         ],
         "system_create_dtsi": "2017-05-24T19:53:21Z",
         "system_modified_dtsi": "2023-07-13T13:46:43Z",
-        "timestamp": "2023-10-03T15:53:56.707Z",
+        "timestamp": "2025-10-31T15:49:08.332Z",
         "title_info_primary_tsi": "Les Isles Turques d'apre\u0300s les leve\u0301es de 1753 par le sloop l'Aigle et l'Emeraude par ordre du Gouverneur de St. Domingue corrige\u0301es sur les observations de E-Hawke faites en 1770. dans le Shooner Royal ; publie\u0301 a Londres en 1775",
         "type_of_resource_ssim": [
             "Cartographic"

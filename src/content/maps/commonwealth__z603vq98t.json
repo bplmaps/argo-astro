@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749631919816704,
+        "_version_": 1847512873118466048,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vq98t",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vq98t/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Russell, John, active 1733-1795",
             "Mawman, Joseph, 1759-1827",
@@ -111,6 +114,7 @@
             "United States--Maps"
         ],
         "subject_geographic_sim": [
+            "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
@@ -118,7 +122,7 @@
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-96.0,29.0],[-66.0,29.0],[-66.0,50.0],[-96.0,50.0],[-96.0,29.0]]]},\"bbox\":[-96.0,29.0,-66.0,50.0]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-98.0,38.0]},\"properties\":{\"country\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-98.0,38.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\"}}"
         ],
         "subject_point_geospatial": [
             "38,-98"
@@ -128,7 +132,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:58:41Z",
         "system_modified_dtsi": "2023-09-15T14:47:16Z",
-        "timestamp": "2023-10-03T15:43:59.278Z",
+        "timestamp": "2025-10-31T15:46:16.323Z",
         "title_info_primary_tsi": "States of America, drawn from the best authorities",
         "type_of_resource_ssim": [
             "Cartographic"

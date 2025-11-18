@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749980651028480,
+        "_version_": 1847512970123280384,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11xz355",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11xz355/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Paterson, Daniel, 1738-1825"
         ],
@@ -114,6 +117,7 @@
             "United States--Maps, Manuscript--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
@@ -121,7 +125,7 @@
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-101.666667,24.65],[-51.85,24.65],[-51.85,52.683333],[-101.666667,52.683333],[-101.666667,24.65]]]},\"bbox\":[-101.666667,24.65,-51.85,52.683333]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-98.0,38.0]},\"properties\":{\"country\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-98.0,38.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\"}}"
         ],
         "subject_point_geospatial": [
             "38,-98"
@@ -132,7 +136,7 @@
         ],
         "system_create_dtsi": "2016-11-17T22:19:40Z",
         "system_modified_dtsi": "2023-09-15T14:47:58Z",
-        "timestamp": "2023-10-03T15:49:31.855Z",
+        "timestamp": "2025-10-31T15:47:48.834Z",
         "title_info_primary_tsi": "CANTONMENT OF THE FORCES IN NORTH AMERICA 11.th OCT.R 1765",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750002996183040,
+        "_version_": 1847512978145935360,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z0925",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z0925/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
             "Royal United Services Institute for Defence and Security Studies"
@@ -112,14 +115,15 @@
         "subject_geographic_sim": [
             "Canada",
             "North and Central America",
+            "Ontario",
             "Quinte, Bay of"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.25,44.1167]},\"properties\":{\"placename\":\"Quinte, Bay of\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.25,44.1167]},\"properties\":{\"placename\":\"Quinte, Bay of, Ontario\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-77.618889,44.046111],[-77.09,44.046111],[-77.09,44.201667],[-77.618889,44.201667],[-77.618889,44.046111]]]},\"bbox\":[-77.618889,44.046111,-77.09,44.201667]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.25,44.1167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"other\":\"Quinte, Bay of\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.25,44.1167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Ontario\",\"other\":\"Quinte, Bay of\"}}"
         ],
         "subject_point_geospatial": [
             "44.1167,-77.25"
@@ -129,7 +133,7 @@
         ],
         "system_create_dtsi": "2016-11-17T22:55:02Z",
         "system_modified_dtsi": "2023-09-15T14:48:03Z",
-        "timestamp": "2023-10-03T15:49:53.165Z",
+        "timestamp": "2025-10-31T15:47:56.485Z",
         "title_info_primary_tsi": "A Plan of George's Bay & Islands Call'd by the French I. du quinto",
         "type_of_resource_ssim": [
             "Cartographic"

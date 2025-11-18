@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749633000898560,
+        "_version_": 1847512873289383936,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vr04r",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vr04r/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "La Rochefoucauld-Liancourt, Franc\u0327ois-Alexandre-Fre\u0301de\u0301ric, duc de, 1747-1827",
             "Chez Du Pont, Imprimeur-Libraire"
@@ -120,20 +123,21 @@
             "Georgia",
             "North Carolina",
             "North and Central America",
-            "South Carolina"
+            "South Carolina",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,28.0]},\"properties\":{\"placename\":\"Florida, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,34.0]},\"properties\":{\"placename\":\"South Carolina, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.0,32.0]},\"properties\":{\"placename\":\"Georgia, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,35.5]},\"properties\":{\"placename\":\"North Carolina, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,28.0]},\"properties\":{\"placename\":\"Florida\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,34.0]},\"properties\":{\"placename\":\"South Carolina\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.0,32.0]},\"properties\":{\"placename\":\"Georgia\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,35.5]},\"properties\":{\"placename\":\"North Carolina\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-101.0,28.0],[-66.0,28.0],[-66.0,48.0],[-101.0,48.0],[-101.0,28.0]]]},\"bbox\":[-101.0,28.0,-66.0,48.0]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,28.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Florida\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,34.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"South Carolina\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.0,32.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Georgia\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,35.5]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"North Carolina\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,28.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Florida\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,34.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"South Carolina\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.0,32.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Georgia\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,35.5]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"North Carolina\"}}"
         ],
         "subject_point_geospatial": [
             "28,-82",
@@ -146,7 +150,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:59:26Z",
         "system_modified_dtsi": "2023-09-15T14:47:16Z",
-        "timestamp": "2023-10-03T15:44:00.310Z",
+        "timestamp": "2025-10-31T15:46:16.485Z",
         "title_info_primary_subtitle_tsi": "provinces me\u0301ridionales",
         "title_info_primary_tsi": "Carte des etats-unis",
         "type_of_resource_ssim": [

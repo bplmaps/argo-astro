@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749888519995392,
+        "_version_": 1847512932140711936,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nd38h",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nd38h/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Luso-Hispanic World, 451",
             "LC Maps of North America, 1750-1789, 1869"
@@ -98,13 +101,14 @@
             "Haiti--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
-            "Haiti"
+            "Haiti",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.4167,19.0]},\"properties\":{\"placename\":\"Haiti\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.4167,19.0]},\"properties\":{\"country\":\"Haiti\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.4167,19.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Haiti\"}}"
         ],
         "subject_point_geospatial": [
             "19,-72.4167"
@@ -114,7 +118,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:26:41Z",
         "system_modified_dtsi": "2023-09-15T14:47:44Z",
-        "timestamp": "2023-10-03T15:48:03.991Z",
+        "timestamp": "2025-10-31T15:47:12.611Z",
         "title_info_primary_tsi": "Carte ge\u0301ne\u0301rale de la partie franc\u0327aise de l'isle de St. Domingue",
         "type_of_resource_ssim": [
             "Cartographic"

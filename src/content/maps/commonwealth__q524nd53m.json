@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749890183036928,
+        "_version_": 1847512932550705152,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nd53m",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nd53m/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Capitaine du Chesnoy, Michel, 1746-1804",
             "Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834"
@@ -124,17 +127,18 @@
             "Chestnut Hill",
             "Germantown",
             "North and Central America",
+            "Pennsylvania",
             "Philadelphia",
             "Philadelphia (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.2,40.0667]},\"properties\":{\"placename\":\"Chestnut Hill\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.2,40.0667]},\"properties\":{\"placename\":\"Chestnut Hill, PA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.26296,40.08733]},\"properties\":{\"placename\":\"Barren Hill\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.2,40.0667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Philadelphia\",\"city\":\"Philadelphia\",\"city_section\":\"Chestnut Hill\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Philadelphia\",\"city\":\"Philadelphia\",\"city_section\":\"Germantown\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.2,40.0667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Philadelphia\",\"city\":\"Philadelphia\",\"city_section\":\"Chestnut Hill\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Philadelphia\",\"city\":\"Philadelphia\",\"city_section\":\"Germantown\"}}"
         ],
         "subject_point_geospatial": [
             "40.0667,-75.2",
@@ -150,7 +154,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:30:15Z",
         "system_modified_dtsi": "2023-09-15T14:47:45Z",
-        "timestamp": "2023-10-03T15:48:05.578Z",
+        "timestamp": "2025-10-31T15:47:13.002Z",
         "title_info_alternative_tsim": [
             "Plan de la retraite de Barren Hill en Pensilvanie le 28 May 1778"
         ],

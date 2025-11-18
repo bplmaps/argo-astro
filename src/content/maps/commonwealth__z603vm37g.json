@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1784019116744507392,
+        "_version_": 1847512897588035584,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,13 +37,16 @@
         "exemplary_image_ssi": "commonwealth:z603vm38r",
         "extent_tsi": "5 views on 1 sheet : hand col. ; sheet 77 x 111 cm.",
         "filenames_ssim": [
-            "gan00013an011019",
-            "commonwealth:z603vm37g_metadata"
+            "commonwealth:z603vm37g_metadata",
+            "gan00013an011019"
         ],
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vm37g",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vm37g/manifest",
@@ -144,7 +147,7 @@
         ],
         "system_create_dtsi": "2016-11-20T03:40:21Z",
         "system_modified_dtsi": "2023-09-15T14:47:26Z",
-        "timestamp": "2023-11-30T19:40:11.615Z",
+        "timestamp": "2025-10-31T15:46:39.659Z",
         "title_info_primary_tsi": "View of the entrance into Annapolis Bason ; View of the north entrance of Grand Passage ; View of Eden and Gascoyne Rivers ... ; View of Annapolis Royal ; View of the north entrance of Petit Passage",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749943665655808,
+        "_version_": 1847512957862281216,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -53,7 +53,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nj283",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nj283/manifest",
@@ -68,7 +71,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 874"
         ],
@@ -107,16 +110,17 @@
             "Portsmouth (N.H.)--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "New Hampshire",
             "North and Central America",
             "Portsmouth",
             "Rockingham (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.75,43.0667]},\"properties\":{\"placename\":\"Portsmouth\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.75,43.0667]},\"properties\":{\"placename\":\"Portsmouth, NH\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.75,43.0667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Rockingham\",\"city\":\"Portsmouth\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.75,43.0667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Hampshire\",\"county\":\"Rockingham\",\"city\":\"Portsmouth\"}}"
         ],
         "subject_point_geospatial": [
             "43.0667,-70.75"
@@ -128,7 +132,7 @@
         ],
         "system_create_dtsi": "2017-05-26T14:27:31Z",
         "system_modified_dtsi": "2023-09-15T14:47:50Z",
-        "timestamp": "2023-10-03T15:48:56.582Z",
+        "timestamp": "2025-10-31T15:47:37.140Z",
         "title_info_primary_tsi": "New Hampshire",
         "type_of_resource_ssim": [
             "Cartographic"

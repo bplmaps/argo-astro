@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749805717094400,
+        "_version_": 1847512898309455872,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,13 +37,16 @@
         "exemplary_image_ssi": "commonwealth:z603vm52k",
         "extent_tsi": "1 map : hand col. ; 69 x 96 cm.",
         "filenames_ssim": [
-            "gan00017an011045",
-            "commonwealth:z603vm519_metadata"
+            "commonwealth:z603vm519_metadata",
+            "gan00017an011045"
         ],
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vm519",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vm519/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1722-1824"
         ],
@@ -117,17 +120,18 @@
             "Liscomb Harbour",
             "Marie Joseph Harbour",
             "North and Central America",
+            "Nova Scotia",
             "Saint Marys River"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-61.9,45.0333]},\"properties\":{\"placename\":\"Saint Marys River\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-61.9,45.0333]},\"properties\":{\"placename\":\"Saint Marys River, Nova Scotia\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-62.03188,45.00015]},\"properties\":{\"placename\":\"Liscomb Harbour\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-61.94858,45.05015]},\"properties\":{\"placename\":\"Gegogan Harbour\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-62.06528,44.95015]},\"properties\":{\"placename\":\"Marie Joseph Harbour\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-62.16529,44.96685]},\"properties\":{\"placename\":\"Ecum Secum Harbour\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-61.9,45.0333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"other\":\"Saint Marys River\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-61.9,45.0333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Nova Scotia\",\"other\":\"Saint Marys River\"}}"
         ],
         "subject_point_geospatial": [
             "45.0333,-61.9",
@@ -146,7 +150,7 @@
         ],
         "system_create_dtsi": "2016-11-20T03:45:31Z",
         "system_modified_dtsi": "2023-09-15T14:47:26Z",
-        "timestamp": "2023-10-03T15:46:45.025Z",
+        "timestamp": "2025-10-31T15:46:40.347Z",
         "title_info_primary_tsi": "White Islands Harbour ; Port Stephen's ; Liscomb Harbour ; Houlton Harbour ; River St. Mary",
         "type_of_resource_ssim": [
             "Cartographic"

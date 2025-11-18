@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750030832730112,
+        "_version_": 1847512988615966720,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -48,7 +48,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z247r",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z247r/manifest",
@@ -61,7 +64,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
             "Royal United Services Institute for Defence and Security Studies"
@@ -123,14 +126,15 @@
             "Bedford (county)",
             "Juniata Crossing",
             "North and Central America",
+            "Pennsylvania",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.2667,39.9833]},\"properties\":{\"placename\":\"Juniata Crossing\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.2667,39.9833]},\"properties\":{\"placename\":\"Juniata Crossing, PA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-78.281667,39.996111],[-78.263611,39.996111],[-78.263611,40.0075],[-78.281667,40.0075],[-78.281667,39.996111]]]},\"bbox\":[-78.281667,39.996111,-78.263611,40.0075]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.2667,39.9833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Bedford\",\"city\":\"Juniata Crossing\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.2667,39.9833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Bedford\",\"city\":\"Juniata Crossing\"}}"
         ],
         "subject_point_geospatial": [
             "39.9833,-78.2667"
@@ -142,7 +146,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:33:20Z",
         "system_modified_dtsi": "2023-09-15T14:48:06Z",
-        "timestamp": "2023-10-03T15:50:19.712Z",
+        "timestamp": "2025-10-31T15:48:06.470Z",
         "title_info_primary_tsi": "FORT AT IUNIATA",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749891199107072,
+        "_version_": 1847512933215502336,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nd601",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nd601/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Capitaine du Chesnoy, Michel, 1746-1804",
             "Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834"
@@ -116,14 +119,15 @@
         "subject_geographic_sim": [
             "Englishtown",
             "Monmouth (county)",
+            "New Jersey",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.35,40.2833]},\"properties\":{\"placename\":\"Englishtown\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.35,40.2833]},\"properties\":{\"placename\":\"Englishtown, NJ\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.35,40.2833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Monmouth\",\"city\":\"Englishtown\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.35,40.2833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\",\"county\":\"Monmouth\",\"city\":\"Englishtown\"}}"
         ],
         "subject_point_geospatial": [
             "40.2833,-74.35"
@@ -136,7 +140,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:31:53Z",
         "system_modified_dtsi": "2023-09-15T14:47:45Z",
-        "timestamp": "2023-10-03T15:48:06.546Z",
+        "timestamp": "2025-10-31T15:47:13.636Z",
         "title_info_alternative_tsim": [
             "Carte de l'affaire de Montmouth le 28 juin 1778 entre Clinton et Washington"
         ],

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749886866391040,
+        "_version_": 1847512931322822656,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nd270",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nd270/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Luso-Hispanic World, 306",
             "LC Maps of North America, 1750-1789, 1787"
@@ -95,15 +98,16 @@
             "San Antonio, Cape (Cuba)--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "Cuba",
             "North and Central America",
             "Pinar del R\u00edo",
             "San Antonio, Cabo de"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.95,21.8667]},\"properties\":{\"placename\":\"San Antonio, Cabo de (cape), North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.95,21.8667]},\"properties\":{\"placename\":\"San Antonio, Cabo de (cape), Cuba\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.95,21.8667]},\"properties\":{\"continent\":\"North and Central America\",\"province\":\"Pinar del R\u00edo\",\"other\":\"San Antonio, Cabo de (cape)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.95,21.8667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Cuba\",\"province\":\"Pinar del R\u00edo\",\"other\":\"San Antonio, Cabo de (cape)\"}}"
         ],
         "subject_point_geospatial": [
             "21.8667,-84.95"
@@ -113,7 +117,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:23:45Z",
         "system_modified_dtsi": "2023-09-15T14:47:42Z",
-        "timestamp": "2023-10-03T15:48:02.415Z",
+        "timestamp": "2025-10-31T15:47:11.831Z",
         "title_info_primary_tsi": "A Plan of Cape Antonia",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1784561890376024064,
+        "_version_": 1847513018008600576,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -11,9 +11,9 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
-            "Urban Maps (Collection of Distinction)",
-            "Boston and New England Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
+            "Urban Maps",
+            "Boston and New England Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -47,7 +47,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:js956j11m",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/js956j11m/manifest",
@@ -135,7 +138,7 @@
         ],
         "system_create_dtsi": "2015-01-23T18:26:04Z",
         "system_modified_dtsi": "2023-09-15T14:48:18Z",
-        "timestamp": "2023-12-06T19:27:20.876Z",
+        "timestamp": "2025-10-31T15:48:34.501Z",
         "title_info_primary_tsi": "A plan of the town of Newport in Rhode Island",
         "type_of_resource_ssim": [
             "Cartographic"

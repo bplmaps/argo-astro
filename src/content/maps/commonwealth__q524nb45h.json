@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749859087515648,
+        "_version_": 1847512920514101248,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -10,8 +10,8 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
-            "Urban Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
+            "Urban Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -46,7 +46,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nb45h",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nb45h/manifest",
@@ -61,7 +64,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Hills, John, (Surveyor)"
         ],
@@ -115,14 +118,15 @@
         "subject_geographic_sim": [
             "Allegheny (county)",
             "North and Central America",
+            "Pennsylvania",
             "Pittsburgh",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9833,40.4333]},\"properties\":{\"placename\":\"Pittsburgh\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9833,40.4333]},\"properties\":{\"placename\":\"Pittsburgh, PA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9833,40.4333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Allegheny\",\"city\":\"Pittsburgh\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9833,40.4333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Allegheny\",\"city\":\"Pittsburgh\"}}"
         ],
         "subject_point_geospatial": [
             "40.4333,-79.9833"
@@ -133,7 +137,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:42:19Z",
         "system_modified_dtsi": "2023-09-15T14:47:28Z",
-        "timestamp": "2023-10-03T15:47:35.923Z",
+        "timestamp": "2025-10-31T15:47:01.523Z",
         "title_info_primary_tsi": "Plan of the lots laid out at Pittsburg and the Coal Hill",
         "type_of_resource_ssim": [
             "Cartographic"

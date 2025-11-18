@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749923873783808,
+        "_version_": 1847512949671854080,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524ng78w",
         "extent_tsi": "1 manuscript map : hand color 36 x 48 cm.",
         "filenames_ssim": [
-            "lh000392",
-            "commonwealth:q524ng77m_metadata"
+            "commonwealth:q524ng77m_metadata",
+            "lh000392"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524ng77m",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524ng77m/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Vera, Juan de, active 18th century"
         ],
@@ -114,14 +117,15 @@
         ],
         "subject_geographic_sim": [
             "Azua",
+            "Dominican Republic",
             "North and Central America",
             "Ocoa, Bah\u00eda de"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.65,18.366]},\"properties\":{\"placename\":\"Ocoa, Bah\u00eda de (bay), North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.65,18.366]},\"properties\":{\"placename\":\"Ocoa, Bah\u00eda de (bay), Dominican Republic\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.65,18.366]},\"properties\":{\"continent\":\"North and Central America\",\"province\":\"Azua\",\"other\":\"Ocoa, Bah\u00eda de (bay)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.65,18.366]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Dominican Republic\",\"province\":\"Azua\",\"other\":\"Ocoa, Bah\u00eda de (bay)\"}}"
         ],
         "subject_point_geospatial": [
             "18.366,-70.65"
@@ -132,7 +136,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:26:05Z",
         "system_modified_dtsi": "2023-09-15T14:47:49Z",
-        "timestamp": "2023-10-03T15:48:37.708Z",
+        "timestamp": "2025-10-31T15:47:29.330Z",
         "title_info_primary_tsi": "Plano de la Bahi\u0301a de Ocoa situado en la banda del sur de la Ysla Espan\u0303ola",
         "type_of_resource_ssim": [
             "Cartographic"

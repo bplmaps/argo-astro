@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750147347349504,
+        "_version_": 1847513023358435328,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vr582",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vr582/manifest",
@@ -62,7 +65,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJzFWFtz27YSfs+vwPChl5nwppslJWbHUS9xxnbOWE7PaTudDERCJGIS4ACgZPbXnwUEUqRkObdp6wfJBvaO3W93/fKHhyJHGyIk5ezcCb3AQYTFPKEsPXfe3f3sTp0fomcvC57Iuf5AQM/k/CGn7P7cyZQq576/3W697dDjIvXD2Wzmm1unIZX0McJBEIT+/66vlnFGCuxSJhVmMWm4tK4eW85jL+UbX1/4m6GzN3ronQGXpHNpRF3xGCtzcZobPXKl9SdYwL0lMt/u0D3zHmTiRM8Q2oVBUZWTS7bmqJI4JedOKWiBRe2ghMoyx/UVXpG8PX5vT42ERgbjbMmFii4Yeun3TjpERlGE47gSWBFU4BLxNVIZQTGvmBI1EvCdoFdcKs4QZeiGbNFPLM3BE7QWvDDEKyIVwpXKuKCKEmkV7qRrr/y+Wx1P65K8Xd8SySsRk2iBheKpwGVG44apT9FypoQJ0iqtz520SMvY2Z+8u71sH4gm7SNs4PFWVQ5h862ia3BdUJxLeHGcV+TzGX2VFkEwGUzCwxcCK4nAuRNd47IJi7F87wgYm1LWhKU5BRk7bw+O7oiAmENMzh1FHpQTXXGWcGZFtyRWlH8oy0qqVjmVGRHRhYde44Lmai+iveswUCkrXTtRwdnB+7RXHfIEAnMJ5yTplPp2GCdq7aB7Uv8I9+dOTaQThWdnEytpz9XJmX50duIh+dIK6qKrsjk7jE83Q6jkk+HMHaw+K0sark/OjobBJyx1Il0sEE/rTtfMjpddj+wTZbWkMc5/JDIWtNRw04swREXh/K2JTiTImosCKwUBtzdNTHt0HQEQG8JUFJqaf4GGA/SABjMUF57ltATdJGCQ7oyoa5JQfAchjgB9UuJ/KEnaJMMRySfwK7pefw3/h3LwFHuT148HtAFLRaJbklOyRjLjW4ZWNcpwnFWCSK/FT0UOWJz/7Krl2wRhaaDwIlbwBILESmoZnfpCbyomPMQIFmipPPSGZ+xbiX7RwPsGMw+Fk+e6GjznCX2QTQJv4JnhwY2+O23sN7goX6CFhexrnOK/KCNPCbpkkqg5ukCADUxjvkV4DeuLDIscEB0kv9hhPEaJwFuoYsiWhOg2AIaGj8dFVqsP4H237vJYZh8vuU7/8K0Q2etoipc0BiCVUj8M2K+k62pcdd2fwOIabbm4h1fgKJwGQdM+DNM+Dazkf85eG9jvtN3e9677msLfonbdW7LheaXz8LkO59gNz6bDv8chlbIT/hjY8lKIZe2RpPIN5RHOPULlnwXhcDQa9zzOKDQ7EWe6zn4hTaPodzEzWNTRslqveX5vnbCHx4Sijt4xqnFtqaBQZJdeHDEwBWkPoHUDY062y2X4E/ovuiigU8e4ZW8oewKkVtFPsCbI5qavDSJpH7eRShsX7MFT4bBCOvOOPPSGC2ic2uloNPCG4+culFwwbl3YX3d1Hkn8SJp8gTXajjEahd4UuWeBF8LvA2/679glIbQkWupP9EeMAUTnw0nwPAiCPxsFhuKLTBEkBz+SS0WakSKD9+7XeHekPZyrb2kMUJqg1x56JTRO70se5gT0X2gEUO2A23kOeqmGX4WudWqjX6GPtYnVztEnJmn/0NqnXKDylqyJgLmMJK9gozCb1DyDEaItd9hucM5Tr9CmbIwlZqGyw4Qftwb7ZTiZDmb6YDQAcPRHhwPw9a9XFwjaIWSF4+/toglUH11DgVizKkGdSOuXYAAW955VFvMCZs4twbnKjBFwN/fHwWw88/+aBMONGE/b9t8KfUIRwDfO3RXUJU+IEw0D8zOYzqbBKPh8QRyasHCiYPI+CN8HwXQcnD0hJLebY28Yt4NJs1VGABUiJZAeMoOWC/gCU8IjWXHE1xknu0cnFVciP9ovYRUkEtZivush0Ok1VppF4ysfB7QdKm+UlYJsKNl+uQpfZVWxYpjmp5XpKQWyn9K1W2BG10R+hU9+I6Kv72T4d54uYFWjps4Pi07bEAsCXBuyM0Aa3TmNCUxq0l/VLotdif2RF/hOUzOSmCYnSCl4UpmKPKw/K8GJ7jIqzUCB4Nue7sZILQaWfEhsjBbWCAAlYwW6UErQlcEsdMOZq8+JiGHrRUsANxh4c3pP0NVOIPpusUCvfnNvFu7y4vtmQDzw/nRYPt0t2GcyPW7dcHTPNLTGvKzNIbBJMNlwyY9asEOmw+V7d7rQmc/UcvePBzvHmYE/Bn9X0NrrFnqP6Y/FmdByppff47U4GgSD0A1m7jC4Gwzng3A+mP7eF9/hf0R6BiskOS176AZDNwzuwtl8MJoH4YHslvtYst0docJgU4BSLeHVkx738XbZ7LNv14tdLwFz+h3ykX3dAPK/vq/Dx4ld/WhbP/bOLuf7FXNp/+XXdQuQNu6QOBHGsWj29WPWXovfZ6s90h/Rs/8DAW1Vsg==",
         "note_tsim": [
             "Relief shown by hachures.",
             "\"Publish'd as the Act directs by A. Hamilton Junr. near St. John's Gate Jan. 16,1776.\"",
@@ -102,16 +105,17 @@
         ],
         "subject_geographic_sim": [
             "Boston",
+            "Massachusetts",
             "North and Central America",
             "Suffolk (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"placename\":\"Boston\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"placename\":\"Boston, MA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-71.5,41.8],[-70.15,41.8],[-70.15,42.8],[-71.5,42.8],[-71.5,41.8]]]},\"bbox\":[-71.5,41.8,-70.15,42.8]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Suffolk\",\"city\":\"Boston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Massachusetts\",\"county\":\"Suffolk\",\"city\":\"Boston\"}}"
         ],
         "subject_point_geospatial": [
             "42.35,-71.05"
@@ -122,7 +126,7 @@
         ],
         "system_create_dtsi": "2016-11-20T05:12:01Z",
         "system_modified_dtsi": "2023-09-15T14:48:21Z",
-        "timestamp": "2023-10-03T15:52:10.829Z",
+        "timestamp": "2025-10-31T15:48:39.603Z",
         "title_info_primary_tsi": "An accurate map of the country round Boston in New England from the best authorities",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749898172137472,
+        "_version_": 1847512935519223808,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nf098",
         "extent_tsi": "1 manuscript map on sheet 33 x 21 cm.",
         "filenames_ssim": [
-            "ct000076z",
-            "commonwealth:q524nf080_metadata"
+            "commonwealth:q524nf080_metadata",
+            "ct000076z"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nf080",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nf080/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Cadwalader, John, 1742-1786"
         ],
@@ -108,15 +111,16 @@
         ],
         "subject_geographic_sim": [
             "Mercer (county)",
+            "New Jersey",
             "North and Central America",
             "Princeton",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.6667,40.3667]},\"properties\":{\"placename\":\"Princeton\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.6667,40.3667]},\"properties\":{\"placename\":\"Princeton, NJ\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.6667,40.3667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Mercer\",\"city\":\"Princeton\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.6667,40.3667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\",\"county\":\"Mercer\",\"city\":\"Princeton\"}}"
         ],
         "subject_point_geospatial": [
             "40.3667,-74.6667"
@@ -126,7 +130,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:44:50Z",
         "system_modified_dtsi": "2023-09-15T14:47:42Z",
-        "timestamp": "2023-10-03T15:48:13.197Z",
+        "timestamp": "2025-10-31T15:47:15.832Z",
         "title_info_primary_tsi": "Plan of Princeton, Dec. 31, 1776",
         "type_of_resource_ssim": [
             "Cartographic"

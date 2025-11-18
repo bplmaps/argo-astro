@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749965562019840,
+        "_version_": 1847512966913589248,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nk52c",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nk52c/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Capitaine du Chesnoy, Michel, 1746-1804",
             "Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834"
@@ -115,14 +118,15 @@
         "subject_geographic_sim": [
             "North and Central America",
             "United States",
+            "Virginia",
             "York (county)",
             "Yorktown"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"placename\":\"Yorktown\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"placename\":\"Yorktown, VA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"York\",\"city\":\"Yorktown\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\",\"county\":\"York\",\"city\":\"Yorktown\"}}"
         ],
         "subject_point_geospatial": [
             "37.2333,-76.5"
@@ -134,7 +138,7 @@
         ],
         "system_create_dtsi": "2017-05-26T15:33:13Z",
         "system_modified_dtsi": "2023-09-15T14:47:56Z",
-        "timestamp": "2023-10-03T15:49:17.464Z",
+        "timestamp": "2025-10-31T15:47:45.772Z",
         "title_info_alternative_tsim": [
             "Plan d'une partie de la Virginie"
         ],

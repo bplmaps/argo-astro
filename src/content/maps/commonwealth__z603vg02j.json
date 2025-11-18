@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1824412555760631808,
+        "_version_": 1847512833029308416,
         "abstract_tsi": "Subject: Nautical chart of Boston Harbor and the surrounding harbor islands. The towns have been removed except for Chelsea, and locations of forts have been added.",
         "admin_set_ark_id_ssi": "commonwealth:z603vf985",
         "admin_set_name_ssi": "Maps from AAS",
@@ -10,7 +10,7 @@
             "commonwealth:z603vf985"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Maps from AAS"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -45,8 +45,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": true,
         "georeferenced_bsi": true,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vg02j",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vg02j/manifest",
@@ -136,7 +138,7 @@
         ],
         "system_create_dtsi": "2016-12-06T21:47:28Z",
         "system_modified_dtsi": "2023-09-15T14:47:09Z",
-        "timestamp": "2025-02-18T16:16:36.958Z",
+        "timestamp": "2025-10-31T15:45:38.091Z",
         "title_info_primary_tsi": "[Chart of Boston Harbor and the surrounding areas]",
         "type_of_resource_ssim": [
             "Cartographic"

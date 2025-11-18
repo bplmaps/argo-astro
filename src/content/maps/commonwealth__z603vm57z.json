@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749639293403136,
+        "_version_": 1847512875368710144,
         "admin_set_ark_id_ssi": "commonwealth:mc87pw948",
         "admin_set_name_ssi": "Massachusetts Historical Society Map Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:mc87pw948"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Massachusetts Historical Society Map Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vm57z",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vm57z/manifest",
@@ -60,7 +63,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzFWFtz27oRfs+vwPChp50xb7Yulk7ETKw0Pe7YSSb2mellOh0IXJGIQYAHAC0rb/1//VFdUKRESrLikzz0IVK82Dt291vo9ZunQpBH0IYrOfPiIPIISKZSLrOZ9+v9e//Se5O8el2o1EzdB0F+aaZPgsuHmZdbW07DcLVaBauLQOksjCeTSVifei2r4ccYz6MoDv92e3PHciioz6WxVDJopZytnphQLMjUY+gOwscLb+f0RTBGKcOnplZ1oxi19cHz0uTIkbOfUo3nDVP97V/44+DJpF7yipBNGiy3Aq7lUpHK0AxmXql5QfXaIyk3paDrG7oAsSX/u6HWGno6kjnVFkgKRPz0toD//kfz3yogBkoL0mqMgQo4I/F4OHgddsScJ2HflZ13khZA7Lp0fmGGnI6eZXf+Ce0mn6igXIM9I38FKhuF29MjEo3WlFrwkng0GfvxeDw4IajVxtk+5R500aiy8GQ9QiubK83teuZhvpgGQa3SHfqvn6+3l8nT7YU94kUvKoEpDhsZg1VBRQUvFwjRnJfMNbi/mlBaJ5tQwl4snXA7FYHRfFx+BqMqzTbXqjJNy5yz9qL6HFvJDKSGbgayIivZ74q9MXSL16I5FS/Pwb5gaLMiikbno3i/ktFL0K6Obmlpmohqz3eBoLMZl20ptlTUwfZKoCbt10Byo2SqodW95eldQUdZo6paCG5y0Mk/TSCDf7V8W3KHlxtTufmSFEru3c32qMPuivwa6ZB2xuHqgqV26ZEHWL/D85m3Bsz2bxUVfMlBzzwul6A14LDAnh026neqOvXTT9fGpqAyq3CgdP1oaaeahhs1upj454vfVTat1IvLpRUIl5p6yXuNecmbaLpedoLsBtTcWL42nFHxDgzTvHRjupd1TIql4mOdnETDUumCWouX0Jy0Ke3xdRRganByJjEpaEmmhCkRkJ/J4JI8keElYUXQKGj4uvUhsQsk2FtIOb3HRCc4vDMIv5SQtXVywPICecuXyx+R/1KenxJvS/54Xpv5rSwkvyC4uXwoLM82C/VBn+0zCA5LYnK1kqTkDKcijgaxPiHyXisszbydYj8Z8tYKaogDNCSkDtMCB2LDE0ru0KAhC1U5COZgzohRiGOMW/yDON8teoRkLAmLX45yLTERkiBQLqggmBwsfKVPuNoDsPucG+L+S/C7bdzjsqZafAFmuz0nmMm/3W7tOcYQNkpMfw1QmOPkA8aUE9wANN6h77sh6/t/plqsyUrpB4Oxk/gyilosqYV2l99oPumvzeQz7tYdHmRg7TqAtAprzoORcIQrHEfnk8Eg6gWU4xxEDM9dMf4F2kHbRwCKaNuPuQmkPuhO/FPaNrpYB2pN3wxTSuPcxhs2yfAyiEejMz+OBsFgNGrUdzm6Zg+UfiPRL3TIYBRY6e6TMIotMY2HZ1EUuX+thZrlu3ypNxpIry20QJErYw+Xzh1E93fRW2oMZXll8I4N+YUb1/roDrlTjINdk7kSAi3iaNlfRp9ZR8N9v045y81nwB5EUIH0Clfp+gkxzREDtjWIXW5z+pVSHRToLPavrV8SLOP+gsvw0woWGpiSAVLevLuaYRtS8QdalD9fXV2/m8WXo/Fg4oU7N3iKKFBjd+NFpbmXOHMG7VH9EDRIw1SBe8MKnAe1TTybhsNoMpyEX0fRxWMxHH9t5/RW6QlDgjHpJeOL0WQYx8MTkqJ5zfT2nmbaty+db97dHkrcdHS2UN0lPWu40uLgzUMZA4NPNbWZOVwiysjNUveDiURr+8ZbY6WGRw6r7zcR2rwqFpJy8bwxBwJYmJwv/YJKvgTzAzGFrYq+vWfTv4l0jmsxdwcH/eB8YO7Zwh9h44CpbQvOQBrEm8Xal8w3NBwEUei19W2ghk4NpVZpVXfz/rLfaGgQ0gGQQ8iGmjoAJk4NIjVWMyXzxgmcD7UXiP4Okava6w9K+o4OmnFXjjmOePJW8AcgNxuF5I/zObn6u/9h7t+9/VOLv3vRP5+Wl4eFu2Lu0PeDIg/SbTdMleuaiGIGXa6lzDc9cBNGp/sPnQ117ipf2rvNI+8K5y+6+Mk9RxjGu0AsW2+n4iH/obo6tUq6x8bhMyQ5j85jP5r48fA+Gk/jyfQ8+kdffUf+iPYc13P4bt1b6UPNzV6OHYbrGbZqibee9qQPN/f2rfBxOafYUwqPsz5MHXkKodfwf30Kgcy8BD+eeQcdvIQOo2sePru9/a75GWr/Z5EOi5dQytpfK46I9tB3V60NyX0kr/4HNf/iwA==",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Palairet, Jean, 1697-1774"
         ],
@@ -106,13 +109,14 @@
             "North America--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
-            "North America"
+            "North America",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America, North and Central America\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"area\":\"North America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"North America\"}}"
         ],
         "subject_point_geospatial": [
             "58.166,-104.466"
@@ -122,7 +126,7 @@
         ],
         "system_create_dtsi": "2016-11-20T03:47:01Z",
         "system_modified_dtsi": "2023-09-15T14:47:16Z",
-        "timestamp": "2023-10-03T15:44:06.310Z",
+        "timestamp": "2025-10-31T15:46:18.469Z",
         "title_info_primary_tsi": "Carte de l'Ame\u0301rique septentrionale, 1754",
         "type_of_resource_ssim": [
             "Cartographic"

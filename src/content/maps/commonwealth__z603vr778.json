@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750150971228160,
+        "_version_": 1847513024492994560,
         "abstract_tsi": "This map, a copy of which appeared in George Washington's personal collection, was printed in early September 1775 - just three months after the Battle of Bunker Hill. The main map shows the march of soldiers through central Massachusetts, northern Connecticut, southern New Hampshire and Rhode Island to Cambridge. Washington's entourage - complete with cannons - approaches from the west, and their skirmish in Concord is marked on the map by two crossed swords. The Battle of Bunker Hill is detailed in the bottom left, while the Boston Harbor islands are illustrated in the top right portion.",
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
@@ -10,7 +10,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,8 +44,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
         "georeferenced_bsi": true,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vr778",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vr778/manifest",
@@ -64,7 +66,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Robert Sayer and John Bennett (Firm)"
         ],
@@ -116,17 +118,18 @@
             "Boston",
             "Boston Harbor",
             "Bunker Hill",
+            "Massachusetts",
             "North and Central America",
             "Suffolk (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.9667,42.3333]},\"properties\":{\"placename\":\"Boston Harbor\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.9667,42.3333]},\"properties\":{\"placename\":\"Boston Harbor, MA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-72.03719342331563,41.2946311123095],[-69.50262729496163,41.2946311123095],[-69.50262729496163,43.10408514620002],[-72.03719342331563,43.10408514620002],[-72.03719342331563,41.2946311123095]]]},\"bbox\":[-72.03719342331563,41.2946311123095,-69.50262729496163,43.10408514620002]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.9667,42.3333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Boston Harbor\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Suffolk\",\"city\":\"Boston\",\"city_section\":\"Bunker Hill\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.9667,42.3333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Massachusetts\",\"other\":\"Boston Harbor\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Massachusetts\",\"county\":\"Suffolk\",\"city\":\"Boston\",\"city_section\":\"Bunker Hill\"}}"
         ],
         "subject_point_geospatial": [
             "42.3333,-70.9667"
@@ -139,7 +142,7 @@
         ],
         "system_create_dtsi": "2016-11-20T05:18:21Z",
         "system_modified_dtsi": "2023-09-15T14:48:22Z",
-        "timestamp": "2023-10-03T15:52:14.285Z",
+        "timestamp": "2025-10-31T15:48:40.685Z",
         "title_info_alternative_tsim": [
             "Plan of Boston Harbour, from an actual survey",
             "Plan of the town of Boston with the attack on Bunkers-Hill in the peninsula of Charlestown, the 17th of June, 1775"

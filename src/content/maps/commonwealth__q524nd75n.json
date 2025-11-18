@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749892870537216,
+        "_version_": 1847512933435703296,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nd75n",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nd75n/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Montre\u0301sor, James Gabriel, 1702-1776"
         ],
@@ -101,14 +104,15 @@
         ],
         "subject_geographic_sim": [
             "George, Lake",
+            "New York",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4167,43.8333]},\"properties\":{\"placename\":\"George, Lake\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4167,43.8333]},\"properties\":{\"placename\":\"George, Lake, NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4167,43.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"George, Lake\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4167,43.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"other\":\"George, Lake\"}}"
         ],
         "subject_point_geospatial": [
             "43.8333,-73.4167"
@@ -119,7 +123,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:34:04Z",
         "system_modified_dtsi": "2023-09-15T14:47:45Z",
-        "timestamp": "2023-10-03T15:48:08.140Z",
+        "timestamp": "2025-10-31T15:47:13.846Z",
         "title_info_alternative_tsim": [
             "Fort William Henry and Ticonderoga",
             "Ticonderoga"

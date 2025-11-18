@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778757947006910464,
+        "_version_": 1847513163483840512,
         "admin_set_ark_id_ssi": "commonwealth:mw22z436x",
         "admin_set_name_ssi": "Library and Archives Canada Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:mw22z436x"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library and Archives Canada Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -45,7 +45,10 @@
         "genre_specific_ssim": [
             "Manuscript maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:wm11bn329",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/wm11bn329/manifest",
@@ -62,7 +65,7 @@
             "English"
         ],
         "license_ss": "Contact host institution for more information.",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Bellin, Jacques Nicolas, 1703-1772"
         ],
@@ -100,14 +103,15 @@
             "Seven Years' War, 1756-1763--Campaigns--Canada--Maps",
             "Saint Lawrence River--Maps"
         ],
-        "subject_geo_other_ssm": [
-            "Saint Lawrence River"
-        ],
         "subject_geographic_sim": [
+            "North and Central America",
             "Saint Lawrence River"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.0,49.5]},\"properties\":{\"placename\":\"Saint Lawrence River\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.0,49.5]},\"properties\":{\"placename\":\"Saint Lawrence River, North and Central America\"}}"
+        ],
+        "subject_hiergeo_geojson_ssm": [
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.0,49.5]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Saint Lawrence River\"}}"
         ],
         "subject_point_geospatial": [
             "49.5,-65"
@@ -118,7 +122,7 @@
         ],
         "system_create_dtsi": "2023-03-29T18:43:58Z",
         "system_modified_dtsi": "2023-03-29T20:12:33Z",
-        "timestamp": "2023-10-03T17:56:09.163Z",
+        "timestamp": "2025-10-31T15:50:53.237Z",
         "title_info_primary_tsi": "Plan of the river St. Lawrence from the Island of Anticosta to Quebec ... from a manuscript found on board of the Alcide taken in June 1755 by Admiral Boscawen",
         "type_of_resource_ssim": [
             "Cartographic"

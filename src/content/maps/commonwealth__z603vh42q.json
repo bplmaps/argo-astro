@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749532451897344,
+        "_version_": 1847512838168379392,
         "admin_set_ark_id_ssi": "commonwealth:4t64hr20k",
         "admin_set_name_ssi": "Boston Athenaeum, Cartographic Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:4t64hr20k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Boston Athenaeum, Cartographic Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vh42q",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vh42q/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzVWN1y2zYWvs9TYHjRnxmLFCXLttSYGVtpG3ccO2O57e5mdnYg8ohEDAIMAFpW7/pG+0z7JHtAghIpyY6TXHR6I42A84/z8x29fPWQc3IPSjMpTr3Q73sERCwTJtJT79fbn3on3qvoxctcJnpiPwjSCz154EzcnXqZMcUkCJbLpb8c+lKlQTgej4Pq1mtINdtHOOj3w+Afby9ncQY57TGhDRUxNFxWV4eNy9hP5X1gL4L7obcxeugfI5dmE12JupQxNdXF49xkz5XVn1CF946o+u4Ne8f+g0686AUhdRgMMxwuxEKSUtMUTr1CsZyqlUcSpgtOV5d0Dnx9/B93WkloZAgpZlKZ6Iy8DDoHLZpKT4SsgsgFOeNzKlbkhqHfhAnypky0FN9qck5XTkbN0JKgy/ltdcYxIqZMgIz6//vzvyQcfEvwoa9QYXZAuBRpfXsysLeH/er2d58slMzJpRSJFE7FWqKNRtANxyZCguZAzKqwscFXkoLyrvd4/46it2+AKgEHZEbzEngTiuZ2D4eTmlADXhQeH4564fF48ASjkk1I2ie3oHInysCD8QgtTSYVM6tTD98sVoARk6p1/uvNxTqhWLJOmntMtnnJ8ZkDx6MxMykv4fkMAarzoqkC+8u50hjpXAk6vrTc/YKYXwHwdcjJLzITnx/30UkvPBkc/t3jbuYYdymMYvPya2JvPbpe3ICWpYohmmIsZKpokbG4KZIuxZozBaGgHYU0T4v4s/x3it7i0yhG+fPjsM0YmDTv948GR+F2J0MrQdl8eksL7TyqLN84gsamTDRtoDlFGfFWGlRH23kQvZ/53P+3E70m6bxAS5aTVM450xmo6L32xYZ7fdyiZVqXdrxEuRRbT7O+apHbPL/Ac0ha03A5jBOz8MgdrF7j/am3Agz2x5JytmCgTr2PJWg7eeicV1UyHjkVG3GtFOpGrNaLvT4tcaa0bWnOnqodpuXRcNwbzD8rcxquZ2dMwxCASL3oR5HaQDt32ma2vGx75J4tW2kWU/4adKxYYQPWCT1GxVB+XUUnUrCQKqfG4Eu4myamHbqWAIwNCBOFJKcF+YEMjskDGR6SOPcdpyNoZ4fAEhBg3kLC6C2GOMLJnULwoYC0yZIdkmfwG7ZYfA3/h2LwFHuT8PsD2gANA9ENcAYLojO5FGS+ItiFhM1p7a/Rh4EtnnMmElCILywyU2VsxWoiS6MZIoW5VHhLKA4GWRB8g8xMiHeGPzPAkkl873HJv1FsN8IQBFwGiBT4sIsFKHwTUlCcXaSp4GTiwAeZkClNgHPyDc2LH8hres9AH5BfEBH5JNTmgNhq88ltxjQmcy0fp0nCjCYz/8InburpuOSFsfiJyyWqqiwnscTYojciIciP/gljSzohVBNsO2jlbxeWpyyseRwWDYtPXJewgKyDZXxyRj5gsxewqmHUO8WwyVgk9zvloDGwPyH82kZyBxjPKoYVNsMnJ9cxUOFvAmHl2GrAuiBnPpkZRTNEiNb2W78Jk+/7LiSPPoNrJdUj5Db2aJkCXeArsznj2EC8CFNl5r+pRB0f7heFgPADxKbdjHiss0/3oeYeHzJwQnQHsGBisTjqwN7vroXxv+/1WmOoptoUgxP1pIEmFY/YV/U6PwVjVj4kZVBR7jTHPVRBGA7C/knY8SCFZtR03FgP0PVtiyfDSYJAKLMF/fMWRUMTY/katUKcIWhCnbjmcIsSM1nYblflU5UlU/yJw5yc5Tj24w17Q9meuU9Z4zS0sI7eVo5NggnMLx2NBv7gZDg86J2E/ig8Ol5r3ZC09e5I/cTrPtMijW5ANLOf5H1MsXVMwsHgoN/vN+ChpvgiUypYCckFlpOrrUxq003p9qq0vei1USOZSs6h6rl7drt9e1ewbcNThjF9A1XHjSE5x7212tcnGQ7bdY7jDk25TP05+oCIBnuRoFDm1ep+v4T5fZBJXs0Qa8KrOZtfJKeHo8HJeOgFG93rXqqc6lIxL7I6NCqh6s53czyWOUKzJVBuskoJ3k2CUX88Ggd/HPWH99nh4GMzDNdCW8jJbf0dgOgGY/OPQHReOUPOGm+2BuhlS0YDX9pHjyoqFd/5L4DGMWh96sm6/WCftyVWgd2vdB+1bStvlBUKcDIuv1xFYLIynwvK+OPK7ADAHGJs0cupYAvQX+FT0Ijo6ns0/LWnuLThaMeLndS1NsR2lcZOWxugK92cxSA0zpr5qifinqbBod8PvCYrNVS9UUGhZFKDne0lyEnwogpkLKW6s2DBndbz2IopRQWMyNQZgaVcWYFZV++Z1uorKXr2HFSMmxeZZRS3wDPO7oBc1gLJd9MpOf9n72ram51938zeLe8fD8vz3aoQEE7eK0nuhMWHsSxWNSxCOIAm18jvkxYoDLdKthfA+tTu2Fiys3r5dVX4zqK8GP2d44hZrRvYLv2uuCq0UtgtbHc/iwb9Qdjrj3vh6LY/mIwOJ2H/X13xLf490hFOpfDFstfcu5LdroIVhoANS7XAV0863LvbTLM/XS+mdUdGc7rTY89+iFbDX78f4scju+HOdrjrnVsGNyvNzP09u/2XUYvEiyiNG3i1h7UzKDfZ6o7sR/Ti/4zW7M4=",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Hearne, Samuel, 1745-1792",
             "Neele, Samuel John, 1758-1824"
@@ -107,13 +110,14 @@
         "subject_geographic_sim": [
             "Albany River",
             "Canada",
-            "North and Central America"
+            "North and Central America",
+            "Ontario"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.5167,52.2833]},\"properties\":{\"placename\":\"Albany River\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.5167,52.2833]},\"properties\":{\"placename\":\"Albany River, Ontario\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.5167,52.2833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"other\":\"Albany River\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.5167,52.2833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Ontario\",\"other\":\"Albany River\"}}"
         ],
         "subject_point_geospatial": [
             "52.2833,-81.5167"
@@ -123,7 +127,7 @@
         ],
         "system_create_dtsi": "2016-11-22T19:57:51Z",
         "system_modified_dtsi": "2023-09-15T14:47:10Z",
-        "timestamp": "2023-10-03T15:42:24.418Z",
+        "timestamp": "2025-10-31T15:45:42.991Z",
         "title_info_primary_subtitle_tsi": "latitude 50\u2070 12' 0\" North, longitude 82\u2070 40' 0\" W. from London",
         "title_info_primary_tsi": "A plan of Albany River in Hudson's Bay",
         "type_of_resource_ssim": [

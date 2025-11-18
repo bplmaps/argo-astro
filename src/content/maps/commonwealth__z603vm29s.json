@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1792996958341693440,
+        "_version_": 1847512897222082560,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,13 +37,16 @@
         "exemplary_image_ssi": "commonwealth:z603vm30j",
         "extent_tsi": "5 views on 1 sheet : hand col. ; sheet 58 x 81 cm",
         "filenames_ssim": [
-            "gan00017an021034",
-            "commonwealth:z603vm29s_metadata"
+            "commonwealth:z603vm29s_metadata",
+            "gan00017an021034"
         ],
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vm29s",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vm29s/manifest",
@@ -139,7 +142,7 @@
         ],
         "system_create_dtsi": "2016-11-20T03:37:08Z",
         "system_modified_dtsi": "2023-11-04T22:37:32Z",
-        "timestamp": "2024-03-08T21:59:08.565Z",
+        "timestamp": "2025-10-31T15:46:39.310Z",
         "title_info_primary_tsi": "The Wolves, a cluster of isles lying s.e. near 3 leagues from Pasamaquady Bay ... ; Grand Manan Island ... ; A view of the shore westward of the river St. John ; A view of the coast at the entrance of the river St. John ... ; A view of the entrance of Pasamaquady Bay",
         "type_of_resource_ssim": [
             "Cartographic"

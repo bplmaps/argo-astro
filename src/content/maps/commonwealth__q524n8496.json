@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749830291521536,
+        "_version_": 1847512908514197504,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n8496",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n8496/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Heath, Joseph",
             "Eyre, William, (Engineer)"
@@ -109,15 +112,16 @@
         ],
         "subject_geographic_sim": [
             "Fort William Henry",
+            "New York",
             "North and Central America",
             "United States",
             "Warren (county)"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.711,43.42]},\"properties\":{\"placename\":\"Fort William Henry\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.711,43.42]},\"properties\":{\"placename\":\"Fort William Henry, NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.711,43.42]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Warren\",\"area\":\"Fort William Henry\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.711,43.42]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Warren\",\"area\":\"Fort William Henry\"}}"
         ],
         "subject_point_geospatial": [
             "43.42,-73.711"
@@ -127,7 +131,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:06:20Z",
         "system_modified_dtsi": "2023-09-15T14:47:32Z",
-        "timestamp": "2023-10-03T15:47:08.461Z",
+        "timestamp": "2025-10-31T15:46:50.078Z",
         "title_info_primary_tsi": "Plan of Fort William Henry and camp at Lake George",
         "type_of_resource_ssim": [
             "Cartographic"

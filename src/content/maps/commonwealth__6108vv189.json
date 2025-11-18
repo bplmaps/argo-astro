@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750109534650368,
+        "_version_": 1847513014224289792,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:6108vv189",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/6108vv189/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJztWWtv2zoS/d5fQehTC1gP20kcZxsVqXt7GyBJiyTdJxYXtERbbCRRIKm4/vd7Rg9bcp5NsfdiL7ZA1YTkPDmcOTN9++57lrJboY1U+bEz9AKHiTxSscyXx87X64/uofMufPU2U7E5og/D+dwcfU9lfnPsJNYWR76/Wq281dhTeukPp9OpX+067VEj7zs4CoKh//fzs6soERl3ZW4szyPRUpGsHlmqIm+pbn3a8G/HzlbpsTcBlZFHpmJ1piJuq42Hqdk9WyQ/5hr7zaHqX3fsTrzvJnbCV4zVbrDSpuI0XyhWGr4Ux06hZcb12mGxNEXK12d8LtLN8m/NasWh5ZGr/EppG56wt35voXOmkhN+SXnO1ILZRLBLxeMB+8T1XJWaQV12rVbVLk5FIreSM5lXR09NSvvYuhCrhSrzuPr9o1YZCNlJZEuesqtS34o1M4lY4cIrwiuJHfJfK/Q9t1ZoKQx+45ZxLdgXrQplRMwWStMZqdkHsUDciMaaWnXymN932daLOc8Es+uC/IebVDlP+x7C/hcOj3zRUC0VA1g/F9q2/mq37yFp2MbcCid0h5Pp+BEirWpN+yvXQmcNGyu+W4fx0iZKS7s+dnCpkRYpt0p31r9enm4iTsabqLpFNM7LFHHgNzQGocvTUjyfwI/s0glnUFwtNS8SoRt7Wk0be/yeQR2bX+D1qxuZ50IP2N9kmkqe/ajbh5MggOsPg/9x1y8y5YQflc6EZnhrv6vrz1UuNwL/70Ay6fPiUhgkv0h03oOM2jTTP7GhXIocWavjhmW2LKIfckAj6JxTLuTp8x2xS+jbZRYEB6OD4W69gJZCU1Cc88I0FlWabw2BskuZt4m0XS0o+ffjoFraDYTwX5sy8e7fjYDNwd49dDg2/Mp5KlEmdDhfszMpSus1+Zg1+Zn9kkM1IbQ3aJlsaDqMpDEl1fkwU/nO7W22Oscpmcy0wDfu4JLVOIrtwmE3Yv0BW8fOWhhKOZO9hlWHrBNOfe/VAlAVlyWqeFdou/bYQ5JGHYyn7mj+Q1HUUj07eloCX+QoAXAxebQxp6tmx8quRc3lJWsjI55+ECbSsqDi3vMxvGJ5+rnyTqgFinpGNT9mzU7r1N65DgP4BkEVDlnGCwbgMCJAIaxhR4x9UwgKgJaM52UtnRUir7ALMCJbSZuwFb2NSKUEav7C2P6QfWcHAYvaotPw70ZRDopc2HMRS36NGwoBtZbC/1aIZRtNd448g97KxeJn6L8Vo8fI24dx/320yNCK8FKkUizgRoJ3eHEJj5KS3pm3gYtW7NBcEcgjFBeLwiamAmpLeSvyR2guADkTJg1D/MLFuHKrKtCXqhXydSoWtoWBuNsBriyG4nQOSnEWqazghkRptXpMNdgB+EggcMCAs63III04a2EKlRs5lykeUBUWqSC8CRF43ez1ifvpDQPsLAsUTYbQS+yTglBtLJCuiJFxo5sBm3EDyexXzW+BYkkGGSRzUh/SBMvFiqDsY5xnqliTHidxzM4NG48Ho/HQOz31hmOPzcBISwPmm9Cv4742iMuYngWaIkS+C7+hzKUeO98+CZ5DSI26IaN2PiVqTWqyObLxDT2XAXM+gSP4KnQ/dFdNKq6RAmuQA7v0KBt7ugod3O6Cw2BNrIaHEySf+vVJ1IE0BbPXONbn8O4N0jt2cFdZQff0HvkNmYedl0aU2VbJ+kJQA4QxwBY3NUUdR9SgqUqWFkWdwqEBXn8k04c93UORaCanT518JJ6cZ1Sre9mbcv5NRLab8NPIJE/n+nYf7ZLfMDE9lGdVIaPwnNRDfmcEm8lDJpLUPrlur1ujvwAHmsdKu+6meLsuIYRBJ4Bc9xeu0zVbKX1jyPfDw6BF3rXEbfZp1Pr9jKXnKBey7sr/lBZWHbk2f0rbtpOF1xfemffmv6++XeYPaF8BI2+JArH2RFz61ck7SOqeU/4wGO6NDoOefQkSHtqhhErxr6IFo30cHeE2rV6j2ch5zBsj2sWdk3BSTjilLqp0+zNK4TxlJxlVoi15e7LPAMZuvd2epcUuMn9M6YZPpy8yuzoqDYiAfGnCvYk32h+4+2NvenAw2ai2PdCVeofnE9f5An0qTab7o8khI9VGowl+qhZHQ/ypFvene3t7f4yqBv4GvqAvQ62okVXLutp7kRJVmyziU1Swppwlytj+M+zOznang21dPpPIM6gnMyALCECi3Z3EPTCL83fVeEw3aS7FAtgMlSp+v3ZYNec9StAybB6fERSdVYQCbHnz1Ctv/NOT86vf/vp1dEQ/BHuBGwSjYDQZHx44/laejCnyFwRDanFAvE5IfA0YA1x4TQcC3IbucSV4apNqloy9I38/mO5P/YNhcHh7OzxsYcOWaafnaybEvQa3weTt9HjXszvQ/azDou27uksPyil1emdszKMI8OnYUXUqBEiiFFF17D9pPaTtCm+FFVrcSrF6uQjfJmU2z7lMHxZGqAphI+XCRQMoF8L8hE1+y6Iv70H315bOFHqWClnvRivpENGQAJFaK2Aq2alECgaY9+drN49cw/09L/CdNiiNaDGtVnFZvbXdSU7DwQmvCX1TXaQeq1mtp+bEBkABsc7ZrFGC+gjSgp1Yq+W8rLS+AGaidXTIkib2CfV1J6m8EQjNiiF7PZux9/9wL2bu1cmbFtDuWP+wW55vVgX2gREuFLvJqTON0BRVi4S7oXJFZZ7UQMPdOt6dYtWrM4r83F7VE7z3SIZQ8QtNkqKdp3jf+bvsKteqnMZEdwdIIbLQ0A2m7ji4Ho2O9g+PhsN/9tl36O/hnvB8KV7Me0N9l3MzZMEL42iZcCm49bhHfXcM0w5+Pi9mHG9KYXvZrxn3DLagtfjjB1v4PDDUujPWumtdM8XaDlOumv/J2x18d444IedRO4q+h7RXG7fR2izRJ3z1H1V0D70=",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Pringle, Robert, -1793",
             "Skinner, William, 1700-1780",
@@ -121,15 +124,16 @@
         ],
         "subject_geographic_sim": [
             "Canada",
+            "Newfoundland and Labrador",
             "North and Central America",
             "Placentia"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-53.9667,47.25]},\"properties\":{\"placename\":\"Placentia\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-53.9667,47.25]},\"properties\":{\"placename\":\"Placentia, Newfoundland and Labrador\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-53.995278,47.222778],[-53.921111,47.222778],[-53.921111,47.259444],[-53.995278,47.259444],[-53.995278,47.222778]]]},\"bbox\":[-53.995278,47.222778,-53.921111,47.259444]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-53.9667,47.25]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"city\":\"Placentia\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-53.9667,47.25]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Newfoundland and Labrador\",\"city\":\"Placentia\"}}"
         ],
         "subject_point_geospatial": [
             "47.25,-53.9667"
@@ -142,7 +146,7 @@
         ],
         "system_create_dtsi": "2016-12-07T17:41:21Z",
         "system_modified_dtsi": "2023-09-15T14:48:15Z",
-        "timestamp": "2023-10-03T15:51:34.768Z",
+        "timestamp": "2025-10-31T15:48:30.891Z",
         "title_info_primary_tsi": "A Plan of the Road, Harbour and Town of Placentia in the Island of Newfoundland From an Actual Survey shewing the Situation of the Batteries that are Proposed for their Defence",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749904301064192,
+        "_version_": 1847512941021102080,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nf497",
         "extent_tsi": "1 manuscript map : hand color 21 x 34 cm.",
         "filenames_ssim": [
-            "ct000366",
-            "commonwealth:q524nf48z_metadata"
+            "commonwealth:q524nf48z_metadata",
+            "ct000366"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nf48z",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nf48z/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzNWFtz2zYWfs+vwPCh286YIiX5Jm3MTqJ0dzxjJxnb7ezuSwcCIRIxCLAAKJn99T2AAInUxXWTbZsXXQCc+4dzwevvnyqOllRpJsVVNBykEaKCyJyJ4ir68eFf8WX0ffbqdSVzPbUfCM4LPX3iTDxeRaUx9TRJVqvVYDUeSFUkw8lkkrjdKBzV7NDBUZoOk//c3tyTklY4ZkIbLAgNVFZWj4xLMijkMrEbyXIcbZUeDy6ASrOpdqxuJMHGbRynRge2rPwcK9j3h9x3PI4vBk86j7JXCK3dYJjh9FosJGo0LuhVVCtWYdVGKGe65ri9wXPKN8s/+1XHoccjm+HaYCbQvZCrf2ikCTWkRHKBTEkRkY0wqkXzFpWs0pQvThBo6PbmVBuEiTui0fowz5GihLIlRQslK3fuWuQMC2QUzsFbr5OObGtO0rfnkImmrcFCzA1VAty6pC8w4/FrMUPginoLaiCUAvOe+nb/I1Yms5qfIGvHwHPbbHWOK7kW2F95oKryQgx9MhHCjSmlYqa9iiD+RFGOjVSd9R/vrjfgZPkGgEsA7rzhAJnE02hAOeYNfTlBAuKibKao/edNCUp6U5KeLR1zO+EHaz4s7qiWjSIUVVg0mihWm6uopRr4g2NkoXBdMhK83yPZsiqoULTrkqIqavKHnOEF3WLAIMP85U7ZJUxMUaXp+eh8uHtVQUuqLDhucR3w5TT/ig0ZjkaX588YEmJ2xB7QuWAi3JewmoMIhx6ad+rAakxys4jQI23fwZZHwfDi7NTz7pB1QNUXsRbAsSgayJpdoWHtuZvEtDwfT+LR/A95PFC92NOBIKGiiLIfRMGZLr05XTU7VnYtWttTl61mBPN3dB0BKEY9H4NXDOYfnHcyRRdSVdhYj/ud4NTeuQ4D8A0VJht2Lib8rNEUlTazEsmlQqMhekLjU0SqkNI8WYcREzatU3NLIb8+gOMzqFgFTT7VtPBE+0deQG/YYvEl9J/q0XPkfu+Im31ql4Z2LsEJqqmIwTvQaDy6+rOyl8m5apPyLUmfwR3ljC6QLuVKoJoRSKpw/3j7DMk9nNWI+ybEVkGIr9EnaAXFDmxBH6kQuuVLLBg+QQI2S7v8E1MQ5t7SLSAS0JWfbH7FXWI0h7oJHUuLoN2i66oa3UkMtVWijyXjUC055A1g2Zf5Da7qfxI8iI5bcS0Ib3IKRZlpazS4GdkNfdxyf3MJYNZaDiVpQRW1LV12M0M2sVpnvLfGoTcVtTxPEOSQNB5eXE7g5zgdHmSum/knSkw3G3Ciy99PBGGfUZ14JrrfvkiIadZ1ThxbRa3DA3Li+AeseItWUj1q69nhZZqGoufot4j0Qv461Te4+NPVNoU4orXLnoOCGtMOaN4k7uReuj1wKrlI04uz4XnPrpJB/VKktIj7Nw1NRr/rIlIYQDzksjWaLPBn8BcKX0CWt2x7sscAWn2XHdbOC15wi90e6TldvCadRkjvKikVVE/gqbPx5CS+OB9cjsfjjWLb3a7IPYZfQYguhunfFaLu1fzzw3SauhDZWP2fw/RCZTRYABXEftpsiwqYgkRg7fY+Swk3HND82tDQXpVSm/1BbtsM9ue7GzZXtsxA+p5JUSiqNfzgHIRAot8dx44MZMmuKs/px/RdqB75Wxis3YPCtISSskarBrhyQsQmXxYVoDRNzyYjFCVbziwHYLEFAMQzbhSLssABq8eBb7KIrCopVhQG3dI9T8DeNDlLJ2eT5Jez0alYnF7+GnqSDdNnBNkGgMfSFvIoIwZ0G5+fP8MgNAzdoIQGJ7xoHAxEQHzr7hiUAfSOLZneBmaPS6d17S4dVaNRfO+lA4Z2EH4VyXUWguHf3mPbtH+pd0HarvAgrFZ0yejq80UkpmyqucCMHxdmew8AIGOLGNprtqD6C2xKAou+vKPuX1sKsc2Z6x4P4Z7YOQsSw1oB7WRzRqjQ0CvM21iQWOPkdJAmUQC9pg4citZK5o27tbuDo+cQZQ/Q8bmuAcG3X81tD4ssG2g4AeIYzbwSgEOnBXpjjGLzxmn9XorYrkN/Dd0yui8xTM5vOHuk6GbNEH07m6G3/43fz+L7N9+FnnLH+uNueblZMDuVtnN6L9GjsE08kXXrFoFMg8qOSv+uBgrcrfLdaXm9OrPIF+Z+/fLxFlIrqPixmYPzkL+xm+y3f36fnXOtFHbS3p/Bs1E6GsYpjKiTh3Q0HZ1Oh6f/67Pv0B/gDiNiQT+b94Z6n7OfU+GGYZiVICgQ9bxHvT/Jhtn5w2KG4U5J2C76FejA2wBoTf/+twH4OPIusPcysG+dfwjYDq73/vF59/GwcyTKVB6aoAOUvSK7Batfsh/Zq98AOJtK3Q==",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Snow, Capt."
         ],
@@ -107,15 +110,16 @@
         "subject_geographic_sim": [
             "Maryland",
             "North and Central America",
-            "Pennsylvania"
+            "Pennsylvania",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.8333,39.0]},\"properties\":{\"placename\":\"Maryland, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"placename\":\"Pennsylvania, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.8333,39.0]},\"properties\":{\"placename\":\"Maryland\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"placename\":\"Pennsylvania\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.8333,39.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Maryland\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Pennsylvania\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.8333,39.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Maryland\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\"}}"
         ],
         "subject_point_geospatial": [
             "39,-76.8333",
@@ -127,7 +131,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:52:37Z",
         "system_modified_dtsi": "2023-09-15T14:47:46Z",
-        "timestamp": "2023-10-03T15:48:19.042Z",
+        "timestamp": "2025-10-31T15:47:21.080Z",
         "title_info_alternative_tsim": [
             "Captain Snow's sketch of the country by himself, and the best accounts he could receive from the Indian traders"
         ],

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1799600961488945152,
+        "_version_": 1847513072796696576,
         "admin_set_ark_id_ssi": "commonwealth:41688024w",
         "admin_set_name_ssi": "Norman B. Leventhal Map & Education Center Collection",
         "collection_ark_id_ssim": [
@@ -10,8 +10,8 @@
             "commonwealth:41688024w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
-            "Boston and New England Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
+            "Boston and New England Maps",
             "Norman B. Leventhal Map & Education Center Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -47,7 +47,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:x633fb62c",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/x633fb62c/manifest",
@@ -127,7 +130,7 @@
         ],
         "system_create_dtsi": "2015-01-23T19:22:52Z",
         "system_modified_dtsi": "2024-05-20T19:03:08Z",
-        "timestamp": "2024-05-20T19:26:56.751Z",
+        "timestamp": "2025-10-31T15:49:26.751Z",
         "title_info_primary_subtitle_tsi": "between the American forces and the British troops : erroneously called Bunkers Hill",
         "title_info_primary_tsi": "A plan of the action at Breeds Hill, on the 17th of June 1775",
         "type_of_resource_ssim": [

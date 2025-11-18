@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749988305633280,
+        "_version_": 1847512972727943168,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -58,7 +58,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z008n",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z008n/manifest",
@@ -71,7 +74,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJztGdtu2zj2vV9B6GVaILrZiZN4Gw0cN9OmyA1x0pnZwWJAS7TERha1JBXH+/VzDk3Zki9J2gI7+7AvsU3y3O8n739+mubkkUnFRXHihF7gEFbEIuFFeuLc3/3iHjk/R2/eT0Wi+viHwPtC9Z9yXjycOJnWZd/3Z7OZN+t6QqZ+eHx87Jtbp36q+LaHnSAI/d8uL0ZxxqbU5YXStIhZDYW0WmC5iL1UPPp44T92nRXTXe8QoBTvK4PqQsRUm4vd0GTLFdJPqIR7+8h8ul330HtSiRO9IWShBs11zs6LiSCVoik7cUrJp1TOHZJwVeZ0fkHHLF8e/2lPDYYWjujmYnBFxITojJFPg9vT6/tbAkyQW47C4c3N9e0duTgjn69/PyO8MC/PVY6P4HbkaXIusuK930CKfPptRle8F3TKiJ6XyDWQEAXNHUIrnQnJ9fzEKeik8fv+9nypRZ4sNVXfc6Z8RKjAGDSv2Guf+8VRNzw8Dg/Dlk7w7oZKHQ2mGfCm98hnNpkwOSfLg1MqRS3t8vkWFFbEhGrmREDn0AV6h88ASrHQXPvkjsmpRaXZk25pCkwbS5ZTLeTLGnsEnxxXOXiDb2Fe0NkWAH8yFU70i5BTJomYFUxaeWpOrTx+S6CGzFu9IBayFNLoaZspbsWc5uS+4JolZMTkI4+ZIucQrFxXmpGJkOQDm0DKYMZzRyyuUA9kpKsEDP5/ldcBDyJdT26ZEpWMWTQEZYhU0jLjcR2t7RdLyJQVkjXVkE7TMv4mBVhCl2BmyWn+ekWsA/o6nQZBr9ML15MdcMkkJJPokpa11Q3nK0GA2ZQXdT6qTwFHvOYH5mjdEaI/bvAY014pRVLFmONJITThCSs0n3CW/MsSXiJo2adBydKpxjlXkFqiPxYowco7EC5fNsC5UhWWrGgqijVbLq8azzEZDSWjGEmrEjvrxomGnPvA5h/g6sSZYzotBS/0iQMlSUII/LuiObIjTxxeQEKULMGsdhBYag3MP0iQFclOcr2D7eTsadu6Cw6gTqUVlMgmV/XZc4HOleh1j93O+Ju8vIZ6tXfXAD4rUic6K1K0sRWnyWZDyqZE1omyueIxzT8wFUteole2jABa0TS/NtqJJIOEOaUaTWJvaqW23jUQgG7AG6OQTGlJ+gQ+impBiZSsMEkXmi0y4zojM4zTWOSQQcg/CAkPyRPp9Eg8tUQsrqYPFwBRMH3JEk7vwBoR9Cwp87+WLK19eePJK+AhfCY/Av+17DwHXofldt3bGiY0i0aiKtDvScJKnSlCIZWm0F0VXp2l8VUbBsOCgI0kH1doKEgzSs/BNzSPSSoRozJ6hwYPyp8WpiujpYmhKSjYtGZ0WrGcfBK5adaoIqNKPrI5AHxcpEp8dSUkmG0A5QXEIBMppmC03j6ZZWDaG8mxrJ4lM+hK665vBpjAE0qGZgepNOW5B2RmDFrGPQK1StftEuHKpDOVQekiQBgrErCSQ0RVaQZcwwPEF4tpmTO9QAl55egZ5YwAmSKmswQdgfAlygEcvQjjDMgIbGUyuOJPxMYbueQ5ZiBAloMUkkAEZPpFbJQAx+AZwDRkMvKWDNxP79aQoMBoe+ejAOUUPymrRGePONg634DMsnl4t+iuDYvXeUJ+5aljLO18lAwsYl++grmExdhVgacZ7VKliBSKrRjM2QT8RHKsNMBiYRzBupJVKn59XrFDUc4R5SBJyKUiB4d7h0Ho7XvkFJ0UrXnr3Xsj79wjX0ROLn77At8uVwmEJgk3ZRSoOYPevoMgkFVinuM36LcgGa1bZjcC0jnyO8aSz6JB0Xdj6XTJbj4qcPwlHxeUm+CEYRPimSxMFHMZY3YnGK0PzIQnDlNikSGd/cDxUF+GIAThLIPWluTYxKyeYsQYx/lwO/j17BbkIqOz4d359RXpALj15063yecSeAzhTYGUZeuGIssmM4McDwY3esgkZ5ClE6A9V7tN3BpkYLQ+ft3LOwxt/Io5oC7i26moavyVxbpZfvNYZd82BVokqj3jipLH0Scqx9BKu+62dAan4PhuTt3PYs5ct5W+rqi10SdIvUApJiO01dsb7ww8+p3rYqu513Ak1z2jMp+TmZAPCg0SHgV1j7RgZlU6LMf/PT38Lwuq02KHnKZb8lJItXOPJZVvXm60V1te+WEYhMdHnfU5IbMigrQlhENLUSmr2+joBf3ALPmwHDKWQA1UGbSvMC1mSOjj2ov6TQxJUss5zGIFTahFVx+uvcQsja3TomBjSRjCT6zitngvweuXzcnjOW4shcY8qNaJCwktDASzivZ7XmfP7XW98GBJcHXbJLmB8AV3+A5mkI9urxeGIQG+4ON4f5+4vY53hL+7R93goPf3cKmwz4gW3Qb0SlI8QVepGURM2O8cdPf29+toWbz8LpbMkoAl55rVc0wmlN7c8q0G3vby7xRzBvQ/F3wMzjEnQ2gVmZlq19d5OxZ6/jobz/HG1S2DMoCLmuR07hCzou1nMJAso1gx9FHjp49MeePcqx7888Hl6M8v950+fgn2AzcIcMV72A0df0VvOTFLS66S3IkQrwLEEKyenW+gGYJpecawCTVrYLjr+wfB8cGxnz2F4X+C4KiWf4W0MVHa5W5rjLdTQL34Xdfs2rBw0UBRT3XNo510KplvbHxpHDOlThyxyKnQDmAGMPuKH5QeqK0Tr4mVkj1yNvt+Er7Oqum4gNFhNzHsEsBtOJ+4MHLyCVM/IJNfo2jT26n+haRDUdjGcN1bkYcYVxDgqQsGlKGd85gVCgrxeO4Wsauov+8FvlM7pVosKSVbbZDW65PFYFsoLLDYQtnTxOw7EQ201+DrlAwtExC9hgsysHMjcn0lChfPYSbnUClGGU6fg5w/MHBNg5C8HQ7J6e/u1dAdDd7VDdqa9LvV8nqxTMsMbcmVIA8FjoMxjA6LIUmCWaCCIZR6kQOJc02yvsNbnA7R8ws9WuwvTyEZAos3uDmL10Jx2/tNdEa1ojDj+Mb+KuoEndANjt1ucNcJ+p1O/6Dzzzb6BvwW7BktUvbduJfQm5jtCgcijMJwAEYBqyct6M0lT71Wup4MKcSUgOu0XTO2rM2Aa/b3r83gz46V2cbSbFM6uyNbrW9G9p9w62v/xhMnojSuF/FbQFu1ceWt9gj/RG/+Aiq48Tc=",
+        "mods_xml_ss": "eJztGdly2zjyPV+B4sskVeYl2bKtjTklK57EKV9l2ZmZndqagkiIREwRXAC0rP366YZAidRhO0nVzj7siyUBfV/obr//+Wmak0cmFRfFiRN6gUNYEYuEF+mJc3/3i3vk/By9eT8VierjHwLwheo/5bx4OHEyrcu+789mM2/W9YRM/fD4+Ng3t04Nqvg2wE4QhP5vlxejOGNT6vJCaVrErMZCXi20XMReKh59vPAfu85K6K53CFiK95UhdSFiqs3Fbmyy5Qr5J1TCvQUyn27XPfSeVOJEbwhZmEFznbPzYiJIpWjKTpxS8imVc4ckXJU5nV/QMcuXx3/aU0OhRSO6uRhcETEhOmPk0+D29Pr+loAQ5Jajcnhzc317Ry7OyOfr388ILwzkucoRCG5HnibnIive+w2iKKffFnQle0GnjOh5iVIDC1HQ3CG00pmQXM9PnIJOGr/vb8+XVuTJ0lL1PWfKR4IKnEHzir0W3C+OuuHhcXgYtmyCdzdU6mgwzUA2vUc+s8mEyTlZHpxSKWptl+BbSFgVE6qZEwGfQxf4HT6DKMXCcu2TOyanlpRmT7plKXBtLFlOtZAvW+wRYnJc5RANvsV5wWZbEPzJVDjRL0JOmSRiVjBp9akltfr4LYUaOm+NgljIUkhjp22uuBVzmpP7gmuWkBGTjzxmipxDsnJdaUYmQpIPbAIlg5nIHbG4QjuQka4ScPj/TV4nPKh0PbllSlQyZtEQjCFSScuMx3W2tiGWmCkrJGuaIZ2mZfxNBrCMLsHNktP89YZYR/R1Og2CXqcXrhc7kJJJKCbRJS1rrxvJV4qAsCkv6npUnwKNeC0OzNF6IER/3OAxlr1SiqSKscaTQmjCE1ZoPuEs+ZdlvCTQ8k+Dk+VTjXOuoLREfyxIgpd3EFxCNtC5UhU+WdFUFGu+XF41wLEYDSWjmEmrJ3bWjRMNNfeBzT/A1Ykzx3JaCl7oEweeJAkp8O+K5iiOPHF4AQVRsgSr2kFguTUo/yBDViQ72fUOtrOzp23vLiSAdyqt4IlsSlWfPZfoXIle99jtjL8pymusV0d3jeCzInWisyJFH1t1mmI2tGxqZIMomyse0/wDU7HkJUZlywlgFU3za2OdSDIomFOq0SX2pjZqC65BAGwD0RiFZEpL0ifwUVQLTqRkhSm60GyRGdcZmWGexiKHCkL+QUh4SJ5Ip0fiqWViaTVjuACMgulLlnB6B96IoGdJmf+1ZGkdyxsgr8CH9Jn8CP7XsvMcep2W221v3zChWTQSVYFxTxJW6kwRCqU0he6q8OoqjVBtHEwLAj6SfFyho6DMKD2H2NA8JqlEisrYHRo8eP60MF0ZLU0OTcHApjWj04rl5JPITbNGFRlV8pHNAeHjolQi1JWQ4LYBPC+gBplIMQWn9fbJLAPX3kiOz+pZMoOutO76ZkAJIqFk6HbQSlOee8BmxqBl3CPwVum6XSJcmXKmMni6CDDGFwlEySGjqjQDqQEA6cViWuZML0hCXTl6xjgjIKaI6SzBRqB8iXqARC/iOAMyAl+ZCq74E7H5Ri55jhUIiOWghSSQAZl+kRolIDFEBggNlYy8JQP307s1Iqgw+t75KMA4xU/KGtHZIw62zjegs2we3i26ayPidZ6QX3nqGE87HyUDj1jIVwiXsBi7Kog0Y12qFJFCsZWAOZtAnEiOLw2IWJhAsKFkjYpfnzfsUJRzJDlIEnKpyMHh3mEQevseOcUgRW/eevfeyDv3yBeRk4vfvsC3y1UBoUnCzTMK3JxBb99BFKgqMc/xG/RbUIzWPbObAOkc+R3jyWfJoOq7qXS6ZLccFQT+Uo4Lyk1ywrAJ+UwWLoq5jLG6E8zWB2bSE4cpsaiQzn7geGgvwxCScJZBa0tybGJWoJgxJnA+3A5+PbsFvcjobHh3fn1FOoBu47nTbcq5RB5DelNgZcW6oSiyqcygx4OhjREyyRlU6QR4z9VuF7cGGRitj18HeYepjV+xBtSP+HYuqhp/ZbFuPr95rLJvmwItEdWecUXJ4+gTlWNopV13WzmDUwh8N6fuZzFnrtsqX1fU+ugTlF7gFJMR+urtjXcGEf3OdbHV3GsEkuueUZnPyUzIB4UOCY+CukdaCLN6OqzE/z07/C8rqtNih56mW/JSKLVzjyWVbyA32qstUH4YBuHxUWd9TsisiqBtCenQMlTK6jY6esE+MEs+LIeMJVKDVAbtK0yLGTL6uAax7NykeMSQjG7sF7Nw2RKldbdRw7eoxFBqtZzDRFfQhFrQ+nANEms9NmCLZx8fliH8xF7AtgBL9BqyOb88p5Pl0Jgq1TpzIaERgpKgov2e19lze10vPFgyXN02WW4QfCGovkMYlKPb64VhSEAu+Dje3ydur+Md4e/uUTc46P09UirsVqJFzwIdlxRP0JtqBnkX9jsH3b39/TrnFpDfJZJZNbDkXLN6GsqE0pu7wtXY3F4hnmLlgS7qgo8hOOZkCA0nM7Px+lJwx1rQXxfjOdm4umXwmOC6JzmdO8QsevsZjDXLWqAYxqiJ00emvHHuVQ/++eBy9OeX+04fvwT7gRsEuCg+7IaOv+K3nLulZVdJ7kRIVwFhSHnPTknQUsHMPWPYypplMtz1/YPg+ODYz57C8D9BcFTrvyLamEvtiri1DLCzRL0+Xrfs2shx0SBRz4bNo518Kplv7I1pHDOlThyxqMzQVGAFMFuPH9QeuK0zr5mVkj1yNvt+Fr7Oqum4gAFkNzPsNSBsOJ+4MLjyCVM/oJNfk2jz22n+haZDUdj2cj1aUYYYFxkQqQsBlOGd85gVCp7z8dwtYldRf98LfKcOSrVYdUq22kOtv3KWgm3E8JnGRsyeJmZrimSgSYdYp2RohYDsNVKQgZ0+UeorUbh4DpM9h5dilOEMO8j5A4PQNATJ2+GQnP7uXg3d0eBd3eatab/bLK9XyzTe0NxcCfJQ4FAZwwCyGLUkuAVeMMRSL0ogcTpK1jeBi9MhRn6hR4st6CkUQxDxBvdv8VoqboPfJGdMKwoz1G9swaJO0And4NjtBnedoN/p9A86/2yTb+BvoZ7RImXfTXuJvUnZLoIgwyiMGOAU8HrSwt5cFdXLqevJkEJOCbhO22/GluUbSM3+/uUb/NmxeNtYvW1qZzdtqyXQyP4rb/2fBw0QJ6I0rtf5W1Bbb+MqWu0R/one/AWnNQmH",
         "name_facet_ssim": [
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
             "Royal United Services Institute for Defence and Security Studies"
@@ -131,14 +134,15 @@
         "subject_geographic_sim": [
             "Canada",
             "Fort Amherst National Historic Park",
-            "North and Central America"
+            "North and Central America",
+            "Province of Prince Edward Island"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-63.15,46.2]},\"properties\":{\"placename\":\"Fort Amherst National Historic Park (historical park)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-63.15,46.2]},\"properties\":{\"placename\":\"Fort Amherst National Historic Park (historical park), Province of Prince Edward Island\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-63.366111,46.111944],[-62.8,46.111944],[-62.8,46.383056],[-63.366111,46.383056],[-63.366111,46.111944]]]},\"bbox\":[-63.366111,46.111944,-62.8,46.383056]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-63.15,46.2]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"other\":\"Fort Amherst National Historic Park (historical park)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-63.15,46.2]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Province of Prince Edward Island\",\"other\":\"Fort Amherst National Historic Park (historical park)\"}}"
         ],
         "subject_point_geospatial": [
             "46.2,-63.15"
@@ -149,7 +153,7 @@
         ],
         "system_create_dtsi": "2016-11-17T22:34:01Z",
         "system_modified_dtsi": "2023-09-15T14:47:59Z",
-        "timestamp": "2023-10-03T15:49:39.155Z",
+        "timestamp": "2025-10-31T15:47:51.318Z",
         "title_info_primary_tsi": "PLAN of the HARBOUR and Rivers of PORT LE JOYE in the Island of S.t Iohn",
         "type_of_resource_ssim": [
             "Cartographic"

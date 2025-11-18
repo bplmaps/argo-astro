@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750124105662464,
+        "_version_": 1847513018085146624,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -11,9 +11,9 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
-            "Urban Maps (Collection of Distinction)",
-            "Boston and New England Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
+            "Urban Maps",
+            "Boston and New England Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -47,7 +47,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:x633f856t",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/x633f856t/manifest",
@@ -66,7 +69,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Page, Thomas Hyde, Sir, 1746-1821"
         ],
@@ -112,16 +115,17 @@
         ],
         "subject_geographic_sim": [
             "Boston",
+            "Massachusetts",
             "North and Central America",
             "Suffolk (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"placename\":\"Boston\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"placename\":\"Boston, MA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.059773,42.358431]}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Suffolk\",\"city\":\"Boston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Massachusetts\",\"county\":\"Suffolk\",\"city\":\"Boston\"}}"
         ],
         "subject_point_geospatial": [
             "42.35,-71.05",
@@ -134,7 +138,7 @@
         ],
         "system_create_dtsi": "2015-01-23T18:47:28Z",
         "system_modified_dtsi": "2023-09-15T14:48:18Z",
-        "timestamp": "2023-10-03T15:51:48.664Z",
+        "timestamp": "2025-10-31T15:48:34.574Z",
         "title_info_primary_subtitle_tsi": "from the observations of Lieut. Page of His Majesty's Corps of Engineers, and from the plans of other gentlemen",
         "title_info_primary_tsi": "A plan of the town of Boston, with the intrenchments &c. of His Majestys forces in 1775",
         "type_of_resource_ssim": [

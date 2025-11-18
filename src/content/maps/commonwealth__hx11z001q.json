@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750119305281536,
+        "_version_": 1847513016950587392,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z001q",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z001q/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Bruce, Robert George",
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
@@ -119,14 +122,15 @@
         "subject_geographic_sim": [
             "Canada",
             "Fort Beaus\u00e9jour National Historic Park",
-            "North and Central America"
+            "North and Central America",
+            "Province of New Brunswick"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.3,45.85]},\"properties\":{\"placename\":\"Fort Beaus\u00e9jour National Historic Park (historical park)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.3,45.85]},\"properties\":{\"placename\":\"Fort Beaus\u00e9jour National Historic Park (historical park), Province of New Brunswick\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-64.298055,45.859722],[-64.284722,45.859722],[-64.284722,45.869167],[-64.298055,45.869167],[-64.298055,45.859722]]]},\"bbox\":[-64.298055,45.859722,-64.284722,45.869167]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.3,45.85]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"other\":\"Fort Beaus\u00e9jour National Historic Park (historical park)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.3,45.85]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Province of New Brunswick\",\"other\":\"Fort Beaus\u00e9jour National Historic Park (historical park)\"}}"
         ],
         "subject_point_geospatial": [
             "45.85,-64.3"
@@ -138,7 +142,7 @@
         ],
         "system_create_dtsi": "2016-12-07T17:53:38Z",
         "system_modified_dtsi": "2023-09-15T14:48:18Z",
-        "timestamp": "2023-10-03T15:51:44.086Z",
+        "timestamp": "2025-10-31T15:48:33.491Z",
         "title_info_primary_tsi": "PLAN and SECTIONS of Cumberland Hill Showing the Situation of FORT CUMBERLAND Upon the Isthmus of NOVA SCOTIA",
         "type_of_resource_ssim": [
             "Cartographic"

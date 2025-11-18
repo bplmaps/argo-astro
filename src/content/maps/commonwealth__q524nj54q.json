@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749948102180864,
+        "_version_": 1847512960134545408,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -53,7 +53,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nj54q",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nj54q/manifest",
@@ -68,7 +71,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJzNGNtu2zb0vV9B6KkFopvt2LFRq3DdbgiQSxGn27qXgZZoiQlNKiQVx/v6HUqiLV+TJhi2F1k6PHeeqz9+epoz9EikooIPndALHER4LBLK06Hz/fYX98z5FL37OBeJGpgHAnyuBk+M8vuhk2mdD3x/sVh4i7YnZOqH/X7fL08di6roPsRWEIT+H5cXkzgjc+xSrjTmMbFURtYGGROxl4pH3xz4j21nrXTb6wGVogNVsroQMdblwWFqtOfIyE+whPMaqfx1227Pe1KJE71DqHKDppqRcz4TqFA4JUMnl3SO5dJBCVU5w8sLPCVsBf6rhpYcLA8u+ERIHY3QR38D0MAp5USXOEdihnRGkBSFJmgmxbz8jKlemqMRm2K+RFqU0F+AC7pWakFSgQQvYRf4nhjMMdZYioeC1EIrCcYwf9OyfcbqZQ62YqaJ5ODgR+LsKnvzsxr+W4q80CevcQhIv57dECUKGRM0x7xQsaS5HjpLopxojKUWqcR5RmPLZYNkzSolXBKEC50JCZ4aOuk8zWNnDfl+c76KYpqsIvURInxaMIgtvxZ0icEZFDMFaYFZQX6e0NfpPAi6rW64HcagJZGYOSYSVW1Rqfn/2JCw1TrrHjHE3tkBe0DnlHJ77xaagIixJPBMGjVy0Y4TPXPQPVl+gaMqClAuKIeIgJoitYMeCszojBI5dCDWlKlOeMogbsPeaVCr0OD+RqGEJ8dF9veLrKGbxldaMMzTAmpdUzMLuyVyXuekJk/aacYBVaLb7rut6U/FgqV6cQxYAp/w1Im+8pRRldXmNNVsWNm0qLInz5aKxph9IVVsgMc2LgK8ojG7Lr0TSTITco61uZb6xDp1A6/BAHxDuI7CRsmA1xwNUAaNB8WCCYk6Z+gJhZ0QxXOvZljTNTjBLUPpI/qSJBTfgucjaDQp8e9yktZEuygvoNd0NnsL/V3eOkZenx3ws+2LmjTy8wTlhLvgHpgP7pFx08Lkeekrb9U5Ndli8LtBgt57P0DnHvqNMkagsy+PUIyYEkhlYqG2O+26kzhjKRYcfTNZdoKgpAgOV5yumoyE/Mw857CQcx6zIiEKOSOOcByLgmvTHueUAfBI16xb1xHedQICaTn7+BCfxOgDCX8xRqZyG45X0AczNJpDpYzxCTLVxw17Z314Dc6CvcxVMb0jsW4mNYtV9nw+23NKlF8zUZuNWuQ0ji5Fhhf36AbauETvr7wf3gfXNfqeoHUYuO5XLNkSLYS8V8Yh4Vlg1a3YrMOrlnXUAp3yAwaURcVLidZLjySFX2LuVKE9WH4Ytnp7uqc0hm3YnRI7HtTGr3rQCt7AzqCEYxlnJmN+3cKwOGUgyWX0nVNTjyYQA8R2Nnu2RcA15aaqVBFhEmsMn9AdbXSsyC3mBgNlRERXZIF+wJVYz5fASnf/WeVrTRrTktpWUkjodsaWqNP22t1u78TtnXodeFlpt0Zpyt3h+kxsvFAjBWaQaGKeKMYeCgedMDgJVqFYnb9KEUmYacPnmthemgmldwfb9UyyOe9e0Cl4uiwbYyhLkigFL1D3YlMOtqfbA/Otv63KMf2ourE1JvkMu0+58w0yKDxVmijIExbHfFUQeu1uH/K2ixx/zZcmEFvlnFKzLSR1IksPFdyr+2ks5nPBFwTG/qzcH01190+D/mnffzhtdfjdaefBdp8V0yOCQC3MXAEFF9ITS1MAg+DvIxxYvVc278T2Mrtz7r0HG/nLMs/MPveFPlK1vpcdLo0xpQk6qEYh2c4uCv0FhA8dUVU/ypHJZTOgvdW9IG1buBWWS/JIyeL1InydFfMpx5QdFmYaFMQfpTMXRik6I+oNNvmWxaa8g+6vLIW7Tag52Bv2sZmpoe5XCqhSNqMx4Qp64XTp8thV2O94ge/YqFekDA5JcimSokza7U5Sc3Ci24yqshUi+K2hCYJ5FBk2BU8gxjEa10pAHJZaoJHWkk6LUusrwV0Dh1EKdiY0yTDsbyNGYSW+qBii9+Mx+vzDvRq7k9EHOzltWX/YLS83C+bkzEwGVwLdczNfxSJflkAgU6BySaWe1UCCu2WyvbNV0LGJfK4n1f79GSorqPitmILzUJ2xq+K3i7/LrnSt4Gb12l3KolbQCt0A1pH+bdAedDqDdvfPTfYN+j3cYR1Iyat5r6h3Odc7CWQY5ghSNYdbTzaod7cWuyddz8x/JUyYiXezAe3ZA0Fr8t/vgfA4sAPubIG71tVL33pHmdR/DzbNgkobN1CcSCZ2cNpDudFj18Fag8wjevcPl7xyuw==",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1080"
         ],
@@ -104,14 +107,15 @@
         ],
         "subject_geographic_sim": [
             "Mohawk",
+            "New York",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.4667,43.3667]},\"properties\":{\"placename\":\"Mohawk (river)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.4667,43.3667]},\"properties\":{\"placename\":\"Mohawk (river), NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.4667,43.3667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Mohawk (river)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.4667,43.3667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"other\":\"Mohawk (river)\"}}"
         ],
         "subject_point_geospatial": [
             "43.3667,-75.4667"
@@ -121,7 +125,7 @@
         ],
         "system_create_dtsi": "2017-05-26T14:44:06Z",
         "system_modified_dtsi": "2023-09-15T14:47:51Z",
-        "timestamp": "2023-10-03T15:49:00.814Z",
+        "timestamp": "2025-10-31T15:47:39.308Z",
         "title_info_alternative_tsim": [
             "Route from the city of Albany to the Fort Osswego",
             "Albany to the Fort Osswego on the Lake Cataroque"

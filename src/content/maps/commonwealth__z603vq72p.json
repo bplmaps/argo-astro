@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749620256505856,
+        "_version_": 1847512868435525632,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vq72p",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vq72p/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Faden, William, 1750?-1836",
             "Streeter, Thomas W. (Thomas Winthrop), 1883-1965"
@@ -108,13 +111,14 @@
             "United States--Boundaries--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-98.0,38.0]},\"properties\":{\"placename\":\"United States\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-98.0,38.0]},\"properties\":{\"country\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-98.0,38.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\"}}"
         ],
         "subject_point_geospatial": [
             "38,-98"
@@ -125,7 +129,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:55:27Z",
         "system_modified_dtsi": "2023-09-15T14:47:15Z",
-        "timestamp": "2023-10-03T15:43:48.155Z",
+        "timestamp": "2025-10-31T15:46:11.857Z",
         "title_info_primary_tsi": "The United States of North America, with the British & Spanish territories according to the treaty",
         "type_of_resource_ssim": [
             "Cartographic"

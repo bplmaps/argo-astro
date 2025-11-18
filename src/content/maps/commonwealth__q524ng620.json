@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1784018855945830400,
+        "_version_": 1847512969328459776,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nk84n",
         "extent_tsi": "1 map : ms. ; 36 x 56 cm.",
         "filenames_ssim": [
-            "lh000325",
-            "commonwealth:q524ng620_metadata"
+            "commonwealth:q524ng620_metadata",
+            "lh000325"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524ng620",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524ng620/manifest",
@@ -132,7 +135,7 @@
         ],
         "system_create_dtsi": "2017-05-26T15:53:38Z",
         "system_modified_dtsi": "2023-09-15T14:47:57Z",
-        "timestamp": "2023-11-30T19:36:02.900Z",
+        "timestamp": "2025-10-31T15:47:48.076Z",
         "title_info_primary_tsi": "Plano del Puerto de Caban\u0303as situado en la costa del norte de la ysla de Cuba, 12 leguas al ote. de la Havana",
         "type_of_resource_ssim": [
             "Cartographic"

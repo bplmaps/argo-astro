@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749593378357248,
+        "_version_": 1847512858752974848,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vq00f",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vq00f/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Brion de la Tour, Louis, 1743-1803",
             "Desnos, Louis-Charles, 1725-1805"
@@ -107,13 +110,14 @@
             "North America--Maps"
         ],
         "subject_geographic_sim": [
-            "North America"
+            "North America",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America, North and Central America\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"area\":\"North America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"North America\"}}"
         ],
         "subject_point_geospatial": [
             "58.166,-104.466"
@@ -124,7 +128,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:45:45Z",
         "system_modified_dtsi": "2023-09-15T14:47:13Z",
-        "timestamp": "2023-10-03T15:43:22.522Z",
+        "timestamp": "2025-10-31T15:46:02.623Z",
         "title_info_alternative_label_ssm": [
             "At head of map:",
             "At foot of map:"

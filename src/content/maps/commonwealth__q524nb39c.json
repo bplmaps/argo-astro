@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749858063056896,
+        "_version_": 1847512920315920384,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nb39c",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nb39c/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1326"
         ],
@@ -96,15 +99,16 @@
         ],
         "subject_geographic_sim": [
             "North and Central America",
+            "Pennsylvania",
             "Philadelphia",
             "Philadelphia (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"placename\":\"Philadelphia\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"placename\":\"Philadelphia, PA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Philadelphia\",\"city\":\"Philadelphia\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Philadelphia\",\"city\":\"Philadelphia\"}}"
         ],
         "subject_point_geospatial": [
             "39.95,-75.15"
@@ -115,7 +119,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:40:54Z",
         "system_modified_dtsi": "2023-09-15T14:47:36Z",
-        "timestamp": "2023-10-03T15:47:34.946Z",
+        "timestamp": "2025-10-31T15:47:01.334Z",
         "title_info_primary_tsi": "Philadelphia and neighborhood",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749839154085888,
+        "_version_": 1847512912607838208,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n9106",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n9106/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1192"
         ],
@@ -106,20 +109,21 @@
             "Fort Clinton",
             "Fort Montgomery",
             "Hudson Highlands State Park",
+            "New York",
             "North and Central America",
             "Orange (county)",
             "Rockland (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9667,41.4333]},\"properties\":{\"placename\":\"Hudson Highlands State Park\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9833,41.3167]},\"properties\":{\"placename\":\"Fort Montgomery\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9833,41.3167]},\"properties\":{\"placename\":\"Fort Clinton\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9667,41.4333]},\"properties\":{\"placename\":\"Hudson Highlands State Park, NY\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9833,41.3167]},\"properties\":{\"placename\":\"Fort Montgomery, NY\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9833,41.3167]},\"properties\":{\"placename\":\"Fort Clinton, NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9667,41.4333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Orange\",\"other\":\"Hudson Highlands State Park\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9833,41.3167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Orange\",\"city\":\"Fort Montgomery\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9833,41.3167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Rockland\",\"city\":\"Fort Clinton\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9667,41.4333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Orange\",\"other\":\"Hudson Highlands State Park\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9833,41.3167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Orange\",\"city\":\"Fort Montgomery\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9833,41.3167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Rockland\",\"city\":\"Fort Clinton\"}}"
         ],
         "subject_point_geospatial": [
             "41.4333,-73.9667",
@@ -133,7 +137,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:16:00Z",
         "system_modified_dtsi": "2023-09-15T14:47:33Z",
-        "timestamp": "2023-10-03T15:47:16.913Z",
+        "timestamp": "2025-10-31T15:46:53.983Z",
         "title_info_primary_tsi": "Part of a map of the Hudson Highlands showing Forts Clinton and Montgomery",
         "type_of_resource_ssim": [
             "Cartographic"

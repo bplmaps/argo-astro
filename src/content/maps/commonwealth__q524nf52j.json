@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749904949084160,
+        "_version_": 1847512941887225856,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nf53t",
         "extent_tsi": "1 manuscript map : hand color 60 x 81 cm.",
         "filenames_ssim": [
-            "ct000399",
-            "commonwealth:q524nf52j_metadata"
+            "commonwealth:q524nf52j_metadata",
+            "ct000399"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nf52j",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nf52j/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Ballendine, John"
         ],
@@ -101,13 +104,14 @@
         ],
         "subject_geographic_sim": [
             "North and Central America",
+            "United States",
             "Virginia"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,37.0]},\"properties\":{\"placename\":\"Virginia, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,37.0]},\"properties\":{\"placename\":\"Virginia\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,37.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Virginia\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,37.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\"}}"
         ],
         "subject_point_geospatial": [
             "37,-80"
@@ -118,7 +122,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:53:45Z",
         "system_modified_dtsi": "2023-09-15T14:47:46Z",
-        "timestamp": "2023-10-03T15:48:19.660Z",
+        "timestamp": "2025-10-31T15:47:21.906Z",
         "title_info_alternative_tsim": [
             "Potomack and James rivers in North America"
         ],

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749912230395904,
+        "_version_": 1847512944357670912,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -10,8 +10,8 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
-            "Urban Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
+            "Urban Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -39,14 +39,17 @@
         "exemplary_image_ssi": "commonwealth:q524ng03t",
         "extent_tsi": "1 map : ms., col., cloth backing ; 33 x 84 cm.",
         "filenames_ssim": [
-            "ct003600",
-            "commonwealth:q524ng02j_metadata"
+            "commonwealth:q524ng02j_metadata",
+            "ct003600"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524ng02j",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524ng02j/manifest",
@@ -61,7 +64,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "King, N. (Nicholas), 1771-1812"
         ],
@@ -113,15 +116,16 @@
             "Young, Notley"
         ],
         "subject_geographic_sim": [
+            "District of Columbia",
             "North and Central America",
             "United States",
             "Washington"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.0333,38.8833]},\"properties\":{\"placename\":\"Washington\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.0333,38.8833]},\"properties\":{\"placename\":\"Washington, DC\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.0333,38.8833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"city\":\"Washington\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.0333,38.8833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"District of Columbia\",\"city\":\"Washington\"}}"
         ],
         "subject_name_tsim": [
             "Young, Notley"
@@ -137,7 +141,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:08:25Z",
         "system_modified_dtsi": "2023-09-15T14:47:47Z",
-        "timestamp": "2023-10-03T15:48:26.603Z",
+        "timestamp": "2025-10-31T15:47:24.262Z",
         "title_info_primary_subtitle_tsi": "original proprietor of that part of the city",
         "title_info_primary_tsi": "Map of part of the city of Washington shewing the situation of the mansion house, grave yard & buildings belonging to Mr. Notley Young",
         "type_of_resource_ssim": [

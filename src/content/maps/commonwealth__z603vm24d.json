@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749801675882496,
+        "_version_": 1847512897048018944,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,13 +37,16 @@
         "exemplary_image_ssi": "commonwealth:z603vm25p",
         "extent_tsi": "1 map : hand col. ; 55 x 79 cm.",
         "filenames_ssim": [
-            "gan00011an011013",
-            "commonwealth:z603vm24d_metadata"
+            "commonwealth:z603vm24d_metadata",
+            "gan00011an011013"
         ],
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vm24d",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vm24d/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1722-1824"
         ],
@@ -101,17 +104,18 @@
         "subject_geographic_sim": [
             "Canada",
             "Fundy, Bay of",
+            "Maine",
             "North and Central America",
             "Saint John River",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-66.0,45.0]},\"properties\":{\"placename\":\"Fundy, Bay of\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-69.8833,46.55]},\"properties\":{\"placename\":\"Saint John River\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-69.8833,46.55]},\"properties\":{\"placename\":\"Saint John River, ME\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-66.0,45.0]},\"properties\":{\"country\":\"Canada\",\"other\":\"Fundy, Bay of\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-69.8833,46.55]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Saint John River\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-66.0,45.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"other\":\"Fundy, Bay of\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-69.8833,46.55]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Maine\",\"other\":\"Saint John River\"}}"
         ],
         "subject_point_geospatial": [
             "45,-66",
@@ -124,7 +128,7 @@
         ],
         "system_create_dtsi": "2016-11-20T03:36:13Z",
         "system_modified_dtsi": "2023-09-15T14:47:26Z",
-        "timestamp": "2023-10-03T15:46:41.171Z",
+        "timestamp": "2025-10-31T15:46:39.144Z",
         "title_info_primary_tsi": "The river St. John",
         "type_of_resource_ssim": [
             "Cartographic"

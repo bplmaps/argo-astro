@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750225466261504,
+        "_version_": 1847513046503653376,
         "abstract_tsi": "Highlighted on this fine topographic map of Boston and vicinity are the British and American troops. The American troops are colored red -- the first corps in Cambridge, the second corps opposite Charlestown neck, and the third corps near Roxbury. Among the many strategic topographic features so excellently rendered on this map is Dorchester Heights, which appears devoid of British defensive forces. This serious tactical error was ultimately recognized by General Washington, who occupied the Heights and forced the British to withdraw from the city on March 17, 1776. A note on the map reveals that it is based on an original plan of the siege drawn by order of the British government. Interestingly, the British fortifications on Boston Neck and Castle William Island are greatly exaggerated.",
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
@@ -10,7 +10,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,8 +44,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": true,
         "georeferenced_bsi": true,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:t722hs83w",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/t722hs83w/manifest",
@@ -64,7 +66,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Beaurain, Jean de, 1696-1771",
             "Croisey, P."
@@ -123,18 +125,19 @@
         "subject_geographic_sim": [
             "Boston",
             "Boston Harbor",
+            "Massachusetts",
             "North and Central America",
             "Suffolk (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.9667,42.3333]},\"properties\":{\"placename\":\"Boston Harbor\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"placename\":\"Boston\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.9667,42.3333]},\"properties\":{\"placename\":\"Boston Harbor, MA\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"placename\":\"Boston, MA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-71.15394190692678,42.26641865879526],[-70.91399070304466,42.26641865879526],[-70.91399070304466,42.42929130121076],[-71.15394190692678,42.42929130121076],[-71.15394190692678,42.26641865879526]]]},\"bbox\":[-71.15394190692678,42.26641865879526,-70.91399070304466,42.42929130121076]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.9667,42.3333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Boston Harbor\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Suffolk\",\"city\":\"Boston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.9667,42.3333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Massachusetts\",\"other\":\"Boston Harbor\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Massachusetts\",\"county\":\"Suffolk\",\"city\":\"Boston\"}}"
         ],
         "subject_point_geospatial": [
             "42.3333,-70.9667",
@@ -147,7 +150,7 @@
         ],
         "system_create_dtsi": "2016-11-22T20:20:52Z",
         "system_modified_dtsi": "2023-09-15T14:48:31Z",
-        "timestamp": "2023-10-03T15:53:25.328Z",
+        "timestamp": "2025-10-31T15:49:01.676Z",
         "title_info_primary_tsi": "Carte du port et havre de Boston avec les co\u0302tes adjacentes, dans laquel on a trace\u0301e les camps et les retranchemens occupe\u0301, tant par les Anglois que par les Ame\u0301ricains",
         "type_of_resource_ssim": [
             "Cartographic"

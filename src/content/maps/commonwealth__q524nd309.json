@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1780924799629918208,
+        "_version_": 1847512931376300032,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nd309",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nd309/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJzNGNly2zbwPV+B4UMnmREvybKORswkSttkRnY6ttPrpQOBEImYAhgAlKx+fRckIZE6HMdJmvpBshZ7H9hdPH9xt8zQikrFBJ84oRc4iHIiYsaTifP+5md36LyInjxfiliNzQcCfK7GdxnjtxMn1Tof+/56vfbWPU/IxA9Ho5FfnjoWVbFjiN0gCP0/LmbXJKVL7DKuNOaEWiojq0WWCeIlYuWbA3/Vc3ZK97wBUCk2ViWrmSBYlwenqdGRIyM/xhLOa6Ty2+25A+9OxU70BKHKDZrpjL7lC4EKhRM6cXLJllhuHBQzlWd4M8Nzmm3Bf9fQkkOLR/QGrzDHz/0GqIGjivlNCfuNSoymsvinxtweGJX8tk4NNTc5fbe4okoUklC0xLxQRLJcT5wNVU40xVKLROI8ZcRyaZHsWCWUS4pwoVMhmd5MnGSZ5MTZQd5fvd26m8Vbl64gFPMiAyf4taALrKlkOFMQP5wV9PMJfZ0sg+C8ex7u+xu0BEdlTnSBc1VbVGr+PzYk7HaH5/cYYmN2wh7QOWHcxt1CYxAxlRQ+40Yxr3sk1gsH3dLNaziqsgB9LHDGFozKifOxoMoUDp5n1InCQX9YC23wa6RcW3YlOcM8KaAmmtpY2A2VS2QybOJoeqedZhiYEue9kdudf1YoLNWDQ2AJfMoTJ/qJJxlTaW1OU82GlU2LKnvydKMYwdlrWoUGPNZyPnhF4+xd6Z1I0oWQS6xNKOoT69QWXoMB+IZyHXUREZkHZZsrJDhSKaUadUN0h3ohIkuvZlNjN+gZhwTjVF/QmOEb8HcE11BC/Q85TWqiQ5QH0Gu2WHwJ/Ye8ex95fXbCuxVrLjSNyqvPuMQ0ADFG1SWKfsDL/Ee0vSo7KOwOrZNKujaXXWl1UE65C3c/9KBbBN9obUoUvC9kx8jREhOoIJTjnMp7WF6LgptSUxAsseaIcbTAkMxLdZqoLggCqWBM9SFfqKSmD0azKboog79Al0LqFL1cwsVBMFg26AduOBiO4N9hMHgk81mhhPsGLh7MGUG/C5nFHdQ7O84OWs4HSnSzZjOi0k+Xqz1nVPk1E9XuhCJnBDqhnAupXHdazLHrVjF1XeMA1/0Jy2yD1kLeKqSFsTmwDask3mVPLeG/09vkG4F0Q1c0ARejpxbgzjK8oh10Qe8YEc8qU+DnNu2+tlk64SesKi9AL6FabzwaF36JeXBjHsHyB9Boz/q9lt0p9AosSWqK9BdqB4gKY3tFSrFikGftAWcLbeESqBotN5EJfI1oQXt4XDNu7rqqGkyhTuEnNEpbGVtyi9lmAG5pK1RCKtP8T9pWM2kMTWpfQSGh/OHuUFG354Xh+aDjDrter7/Va4fQlHrA8ztHPQzCYX909tlRt2GrUv6bxhJmdU23xWf9VQIPY76H9u2iHo68bscdnXthz/x95bA/UCEFVkAvMp+IYA+F40G/EwRB6eRwDGuX+WVllciP0krSzAyEbzW1U10qlD5ccnbDaXv3mbE5eH1j2ttU8ERSpeCfLAMhcJEe2YmOLTr+vir36cfUlW2A8SvY1sotdZxCV6zKQUE9ZITwbQ8Y9M5HYT/oIsff8WUxZGM5MddsC8mcyNJjeevVkx0Ry6Xga4oznZYbL5yN/X4w6o/8j/3uGY97wchORFum9wgCtXDmCp1S6URYmta/DeQxBlm9CDdDYscruyQfDYMtgk2ZM9C40Gu2YmoXlgMujXm5CTqpRiGzg+UZEwLCJ46oLjmYnkzxm03hS70L0vaFW2G5pCtG148X4eu0WM45ZtlpYWaUgvRjbOHCFs4WVH2BTb5l0ZZ30v2VpRDbmJmDo1lPzHLHVrRSQJWyM0YoVzD9zDcuJ67C/pkX+I5NekXL5JAUunpclDW7v8bWHJzoJmWqnHMQfNfQGMFihAwbGJohxc3UXikBeVhqgV5qLdm8KLW+FNw1cJjLYXdG1ymGPf5lxm4pmlUM0dPpFL36072cutcvn9mJe8/60255uFmwsKVmFrwU6JabOZ+IfFMCgUyByiWV+qQGEtwt4/3dvYJOTeZzfV29w7yCixVU/LWYg/NQXbHbu+8Q/5Bd6VrBzd5/+CIQdYNu6AawF49ugnDcPxsHg7/a7Bv0R7insCPTR/PeUh9yrpdjqDDMEZRqDlGPW9SH67Nd2N8tphhqSsBx0u4/Rx4kQGv6/R8k4OPEY8TBc8ShdfXrw25tvq7fM5tmwU1LGijQRmAysg8Sh6StHrvL1hpkPqIn/wKIPqb9",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1807",
             "LC Luso-Hispanic World, 347"
@@ -96,17 +99,19 @@
             "Veracruz Region (Veracruz-Llave, Mexico)--Maps, Manuscript--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "Cuba",
             "Havana",
+            "Mexico",
             "North and Central America",
             "Veracruz"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.35,23.1167]},\"properties\":{\"placename\":\"Havana, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-96.133333,19.2]},\"properties\":{\"placename\":\"Veracruz, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.35,23.1167]},\"properties\":{\"placename\":\"Havana, Cuba\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-96.133333,19.2]},\"properties\":{\"placename\":\"Veracruz, Mexico\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.35,23.1167]},\"properties\":{\"continent\":\"North and Central America\",\"province\":\"Havana\",\"city\":\"Havana\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-96.133333,19.2]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Veracruz\",\"city\":\"Veracruz\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.35,23.1167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Cuba\",\"province\":\"Havana\",\"city\":\"Havana\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-96.133333,19.2]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Mexico\",\"state\":\"Veracruz\",\"city\":\"Veracruz\"}}"
         ],
         "subject_point_geospatial": [
             "23.1167,-82.35",
@@ -118,7 +123,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:24:03Z",
         "system_modified_dtsi": "2023-09-15T14:47:42Z",
-        "timestamp": "2023-10-27T15:57:20.857Z",
+        "timestamp": "2025-10-31T15:47:11.882Z",
         "title_info_primary_subtitle_tsi": "Vera Cruz",
         "title_info_primary_tsi": "Havana",
         "type_of_resource_ssim": [

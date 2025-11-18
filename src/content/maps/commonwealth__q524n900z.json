@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749838092926976,
+        "_version_": 1847512911650488320,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n900z",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n900z/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Wilkinson, William Cumberland"
         ],
@@ -106,15 +109,16 @@
             "Saratoga County (N.Y.)--History--Revolution, 1775-1783"
         ],
         "subject_geographic_sim": [
+            "New York",
             "North and Central America",
             "Saratoga (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.85,43.1]},\"properties\":{\"placename\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.85,43.1]},\"properties\":{\"placename\":\"Saratoga (county), NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.85,43.1]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Saratoga\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.85,43.1]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Saratoga\"}}"
         ],
         "subject_point_geospatial": [
             "43.1,-73.85"
@@ -125,7 +129,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:14:50Z",
         "system_modified_dtsi": "2023-09-15T14:47:33Z",
-        "timestamp": "2023-10-03T15:47:15.900Z",
+        "timestamp": "2025-10-31T15:46:53.070Z",
         "title_info_primary_subtitle_tsi": "at Swords House on Hudson's River on Septr. 17th, with the positions of that part of the army engaged on the 19th Septr. 1777",
         "title_info_primary_tsi": "Plan of the encampment and position of the army under His Excelly. Lt. General Burgoyne",
         "type_of_resource_ssim": [

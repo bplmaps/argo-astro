@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749963434459136,
+        "_version_": 1847512966013911040,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nk44p",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nk44p/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzNWFtz27gVfs+vOMOHTnfGFElZvkiJmLHlbZsZO8nEzqTtSwcCIRIxBHAB0LI6+7L/rz+qByApUdfcdrZ9ISkA5zv3g3P06vXzXMAT04YrOQ6SXhwAk1RlXObj4OPDX8LL4HX64tVcZWbkHoDnpRk9Cy4fx0FhbTmKosVi0Vuc9pTOo2Q4HEZ+N2iPGr7vYD+Ok+jvd7f3tGBzEnJpLJGUtVSO1waZULSXq6fIbURPp8Fa6NPeBVIZPjIe6lZRYv3GYWrYs+X4Z0TjfnPIv8PT8KL3bLIgfQFQm8FyK9gbOVNQGZKzcVBqPid6GYCpylJwlo2DJTMBZNyUgixvyZSJ1al/NasecAMynSiUATIGk2rq3sZ9kqlyS/dEwpW0SnIFBASBKSn4f36rj6PUTBLzKuqAOXGjTXk7KixL9m72gRlVacpgTmRlqOalrSVPEdGqXJOy4LRF2SBZQ+VMagaksoXS3C7HQT7PSxqsVz5+eLNyBc9W5n5CN00rgRaJGkZ3xDLNiUDLPRFRsW8njGw+j+Pz/nmybXyUkmkigvSOlK2dvOT/x4ok/f7l+RFFWp8d0Adlzrls/d6uZshiohk+s06iL05pZmcBPLLlDW418ftLRQSfcabHASlLrZ4xgC0L0uTiMm54duA6EbfJumYsiMwrTJeuMO3aA9NzcAE2Dix7tkHXC9yo89Nh2J9+kydaqq/2QEsQmZIE6X1JJDcF/AqYXMZywYlsdOvK3FG5q16tXFksDadE3LDaTViSNhyBJrJEvPOmSjWbKY3WdW5pdloLb5zrAKChmLRp0sle/CxhBAUWMqBKKA2DITxDgk867zWADV0HiUsMO8nsHcs4eUA3pOjonEWfS5Y3RLtHvoLe8tnsR+g/l/1j5M3eATvX0FJZ1kmVEyiZDNE8eN88gjPTwqWct1VrH0+yCfDJHcLi/WhGcNODP5F5+RImPbgWpFq8dDgnYAsGgqEDtYGbyTVwiXXaFJwJZMJtgb8yVU1Fe+oIuztVSRcISgIVCkmnhD5inh4hwfBgnsazkkrj0yov1FRZq+ZHaG9YaQuDsqqFhOkSsMJLVxbMEZoriS9fRFDPqXaUzqL4Q7CZBaEWTGMIos/0CJLkmLIkzw3Iaj5FCtKFRVdRLtwXxn6xDTqIj4C+19xbQ7ii6W5S9P4UVfIGcUkyX5vY9RHqCNYbSUWFEKAZ3u0zwEI44wJ/u/BxJw7TNjWNYgK7sIwwy5lmrstJbyfgriJQM3jrvXU1x9JPyQkkF2dxiCV26D4vL78T/LYyKvwbXh1YyCh8UlpgjJ7Gg71wppp+ZtR2y66gpvhyxW33OTNRA2I2GxtVcoqNDRZRE4aurwlDp3cY/ky0WMJCYVK5SE0u4/ZOqWnWCd4A/4HirsQ8gXXt+L1Ftrk8ILG/lno5lollj2VV5E/u3GN7TkUXcTw47w82dMISpImmhauRf2VtV1efaM9Qlw566TVvVGiXaqToi1ANUKdxNNs8lMaygtlt0n7SOzsJV11Ed6vLbwftC+b9SkkMis/Se/cESnqQjPoX8Um88ma9/12CYI1w5euNZW1DU2BTv9vrr9uyzRHglk/RwktXFiZK5poZgx9CIBPM8e0G/0CLH22Lckw+bj60hSO7xhnGz26jAqtJHWkGQ01QKldJdDE4H55dJjEE0RqX4wBifa/YwFaaB2lLjzdnr+ljqJrPlVwwImzh50DcG0Vn8fBsGP1y1h/Ix8GgbG/9FegRRigWESHekkwHKdGuZMbxv48giGY+7Pqk7SHa2XGvH9qIX/rKj+UBbvgTN2u/7KB02sPu0kExKi12ZkpCKTIfB6ouIHgbUiV9l/yj5kVu28xbZqVmT5wtvp9FZAu80SXh4jAzdwdh/HE+C7GF5TNmfkCnqIXY5HfQ/LWm6NuMu429YU/dYMOfWC2A8bwFp0wavD+my1DS0JBo0IujoI16w3xwaIZdQlb5pN2e4BqEIH0ouPG3CeC7Wc0A5wBwMNiDuYYIJo0QGIdeCriyFpuZykv9VsnQrWMLi2Mj3BcER9grwR8Z3NaA8OfJBK7/Eb6dhPdXP7Wtypb2h83y9Wr5Hg1v07cKHqXrB6kql3XjhtmDInsq80UJNJpbZ9tja706cZEv7X39F8Q1VlYU8T021djiNBm7Kn6753fhvGmVdCPv7jCc9uN+EsY4Ew4f4sHo9Gw0SP65Cd+h34OOY1jOvht7Rb2L3MyCmGEEu2R0Cno926DenRbb+fTdbEIwpxRu55sX0J5hHKVm/9NhnMk8SPFxYPbemb53tWuG7fVseN/8zddVCyst7RwJUp21bdAeyo07dh2szZJ7pC/+Cy3iYtk=",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1788",
             "LC Luso-Hispanic World, 304"
@@ -101,13 +104,14 @@
             "Cuba--Maps, Manuscript--Early works to 1800"
         ],
         "subject_geographic_sim": [
-            "Cuba"
+            "Cuba",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,21.5]},\"properties\":{\"placename\":\"Cuba\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,21.5]},\"properties\":{\"country\":\"Cuba\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,21.5]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Cuba\"}}"
         ],
         "subject_point_geospatial": [
             "21.5,-80"
@@ -118,7 +122,7 @@
         ],
         "system_create_dtsi": "2017-05-26T15:29:03Z",
         "system_modified_dtsi": "2023-09-15T14:47:55Z",
-        "timestamp": "2023-10-03T15:49:15.436Z",
+        "timestamp": "2025-10-31T15:47:44.915Z",
         "title_info_primary_tsi": "Costa de Cuba desde Cabo de San Antonio a la bahi\u0301a de Cardenas",
         "type_of_resource_ssim": [
             "Cartographic"

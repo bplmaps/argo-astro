@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749822032936960,
+        "_version_": 1847512905188114432,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n7775",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n7775/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_date_tsim": [
             "This date is inferred."
         ],
@@ -101,13 +104,14 @@
             "Bristol (county)",
             "Narragansett Bay",
             "North and Central America",
+            "Rhode Island",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.3167,41.6]},\"properties\":{\"placename\":\"Narragansett Bay\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.3167,41.6]},\"properties\":{\"placename\":\"Narragansett Bay, RI\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.3167,41.6]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Bristol\",\"other\":\"Narragansett Bay\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.3167,41.6]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Rhode Island\",\"county\":\"Bristol\",\"other\":\"Narragansett Bay\"}}"
         ],
         "subject_point_geospatial": [
             "41.6,-71.3167"
@@ -118,7 +122,7 @@
         ],
         "system_create_dtsi": "2017-05-25T15:56:27Z",
         "system_modified_dtsi": "2023-09-15T14:47:30Z",
-        "timestamp": "2023-10-03T15:47:00.585Z",
+        "timestamp": "2025-10-31T15:46:46.907Z",
         "title_info_primary_tsi": "Attacks upon Rhode Island, Augt. 1778",
         "type_of_resource_ssim": [
             "Cartographic"

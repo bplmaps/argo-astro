@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749786267058176,
+        "_version_": 1847512890290995200,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,13 +37,16 @@
         "exemplary_image_ssi": "commonwealth:z603vk31m",
         "extent_tsi": "1 map : hand col. ; 67 x 49 cm.",
         "filenames_ssim": [
-            "gan00011an011038",
-            "commonwealth:z603vk30b_metadata"
+            "commonwealth:z603vk30b_metadata",
+            "gan00011an011038"
         ],
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vk30b",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vk30b/manifest",
@@ -114,7 +117,7 @@
         ],
         "system_create_dtsi": "2016-11-20T02:56:43Z",
         "system_modified_dtsi": "2023-09-15T14:47:22Z",
-        "timestamp": "2023-10-03T15:46:26.476Z",
+        "timestamp": "2025-10-31T15:46:32.700Z",
         "title_info_primary_tsi": "Canso Harbor",
         "type_of_resource_ssim": [
             "Cartographic"

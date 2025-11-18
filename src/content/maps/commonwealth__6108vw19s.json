@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750143979323392,
+        "_version_": 1847513022170398720,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:6108vw20j",
         "extent_tsi": "1 map: manuscript pen and ink with watercolour ; 52 x 74 cm",
         "filenames_ssim": [
-            "maps_k_top_119_87",
-            "commonwealth:6108vw19s_metadata"
+            "commonwealth:6108vw19s_metadata",
+            "maps_k_top_119_87"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:6108vw19s",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/6108vw19s/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Durell, Philip, -1766",
             "George, III, King of Great Britain, 1738-1820",
@@ -118,14 +121,15 @@
         "subject_geographic_sim": [
             "Canada",
             "Louisbourg",
-            "North and Central America"
+            "North and Central America",
+            "Nova Scotia"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-59.9667,45.9333]},\"properties\":{\"placename\":\"Louisbourg\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-59.9667,45.9333]},\"properties\":{\"placename\":\"Louisbourg, Nova Scotia\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-60.030277,45.87138],[-59.95361,45.87138],[-59.95361,45.92888],[-60.030277,45.92888],[-60.030277,45.87138]]]},\"bbox\":[-60.030277,45.87138,-59.95361,45.92888]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-59.9667,45.9333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"city\":\"Louisbourg\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-59.9667,45.9333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Nova Scotia\",\"city\":\"Louisbourg\"}}"
         ],
         "subject_point_geospatial": [
             "45.9333,-59.9667"
@@ -139,7 +143,7 @@
         ],
         "system_create_dtsi": "2016-12-07T19:29:05Z",
         "system_modified_dtsi": "2023-09-15T14:48:20Z",
-        "timestamp": "2023-10-03T15:52:07.617Z",
+        "timestamp": "2025-10-31T15:48:38.470Z",
         "title_info_primary_tsi": "A PLAN OF LOUISBOUGH HARBOUR",
         "type_of_resource_ssim": [
             "Cartographic"

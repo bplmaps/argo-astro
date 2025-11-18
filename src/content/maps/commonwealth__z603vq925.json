@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749630890115072,
+        "_version_": 1847512872976908288,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -142,7 +142,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vq925",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vq925/manifest",
@@ -155,7 +158,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Russell, John, active 1733-1795"
         ],
@@ -198,17 +201,18 @@
         ],
         "subject_geographic_sim": [
             "North and Central America",
-            "Southern United States"
+            "Southern United States",
+            "United States"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"Southern United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"area\":\"Southern United States\"}}"
         ],
         "subject_topic_tsim": [
             "Southern States--Maps"
         ],
         "system_create_dtsi": "2016-11-20T04:57:45Z",
         "system_modified_dtsi": "2023-09-15T14:47:16Z",
-        "timestamp": "2023-10-03T15:43:58.297Z",
+        "timestamp": "2025-10-31T15:46:16.187Z",
         "title_info_primary_tsi": "Map of the Southern provinces of the United States",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749831549812736,
+        "_version_": 1847512909358301184,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n857w",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n857w/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_date_tsim": [
             "This date is inferred."
         ],
@@ -95,18 +98,19 @@
         ],
         "subject_geographic_sim": [
             "Long Island",
+            "New York",
             "North and Central America",
             "United States"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"island\":\"Long Island\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"island\":\"Long Island\"}}"
         ],
         "subject_topic_tsim": [
             "Long Island, Battle of, New York, N.Y., 1776--Maps, Manuscript--Early works to 1800"
         ],
         "system_create_dtsi": "2017-05-25T16:07:48Z",
         "system_modified_dtsi": "2023-09-15T14:47:32Z",
-        "timestamp": "2023-10-03T15:47:09.661Z",
+        "timestamp": "2025-10-31T15:46:50.884Z",
         "title_info_primary_tsi": "Plan of the attack the rebels on Long Island, by an officer of the Army",
         "type_of_resource_ssim": [
             "Cartographic"

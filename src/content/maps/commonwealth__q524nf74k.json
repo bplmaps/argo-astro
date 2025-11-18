@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749907952205824,
+        "_version_": 1847512943074213888,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nf75v",
         "extent_tsi": "1 map : ms., col. ; 56 x 40 cm.",
         "filenames_ssim": [
-            "ct001515",
-            "commonwealth:q524nf74k_metadata"
+            "commonwealth:q524nf74k_metadata",
+            "ct001515"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nf74k",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nf74k/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJzNWEtz47gRvs+vQPGUVJkiJduyrYy55dHsbk2V7ZkaeVJJLikIbJEYgwAXAC1zK5f8v/yoNEhCIvXweHcqj4tsod+NxtfdevvDcyHIE2jDlbwOxqM4ICCZSrnMroMvDz+Fl8EPyZu3hUrNzH0Q5Jdm9iy4fLwOcmvLWRSt1+vR+nSkdBaNr66uooYaeFbDDzFO4ngc/eXudsFyKGjIpbFUMvBSztZATCg2ytRT5AjR02mwdfp0dIFShs9Mo+pWMWobwnFpcoDk7KdUI71jav6Gp+HF6NmkQfKGkDYNllsBH+RKkcrQDK6DUvOC6jogKTeloPUtXYLYHP+9O200DHQk70FrZUErkgPLFSmVJjfSKskp+TP8658CfiU1+dEwKqi0cEIK7kJ2AiXVlBTwFSWYkorxggNKkhSIoMYzmhNSVrAUyjgClynH/2pSajC8+f+XCogBklOBFvDmCQgypwWXjaY7hVa1hppQskAPKPkJ3Pk96lTkDp45U2+jXkAuR9EwSdu8SVoAsXXpMoZ3pyQVg5w4+ieqbXIw9DYv3tyGtyevVevB8OQBdNFZtfBsA0IrmyvNbX0d4PUwDYJapXvnXz5/2NQOTzf18YR1tawE3mjUyRgsQioqeL1AhOaCZK7BfetC8U52oUSDWHrh9goQo/m4+gxGVZoBKaisDNO8tNdBDQb1Y2JUpmmZc+avYyCyVZWB1NBPSVZkJftNyegM3VEsFU7F65OyKxjZrIjj6WQ63n1J6CVoVy13tDRdRI3n/8eBjCeTy+kLgfg7OxIP+pxx6R+QP03RRFM9kPZgen3KUrsKyCPU75HUVcH44uKi090T6xXV0ERrAB9bViGo9Y36s5deEjdqenoVTpa/KeNe6tWZ9gKRKWmQLEoqucnJPwhilrFccCq72Po+90Luh9cGV+a14Qgy76G9DkTNQcIxRZaKj02qEg0rpQtqXfo7is/wgK+nABOFuJyM8ZWWZEYKMzpBwBYj8idyPiXP5CwmrBh1Wjrmnjh3ACzB3kHK6QPmPsGekkH0tYSsE9pneYW85avV98h/LScviXe0I8nt4B47XzJXro1jC2KOaIhakbkSStNUnZAvluYI/Jr/ir2CYHcm97Du2o5PWaNlqPMzCA4rYnK1lqTkDKEWX6WoXxD5BDJE/TiFPDZ21u4pM+fIYSFTLb+iy/0XIJjJv138ns7BRJ0SMxwMFHqcLBTyrcHYExdyGDrcOyFb0AjDH6kWNVkr/WgItv3xZRx7qG80bC+hM/Pfc/4/7azN5BFfG6QYZWBtPYK0ihrOPWg5wBWdxeN4Oo0H0eQcsVqz3FXwz+Ab6nDCoIiq29vqgmgOB2xMVdLqOvkiucOOhcX68sDvaTsC0nLpwOBeaZs3RTnHr9g8yE2BbYbRjbjn7M8PL/neWegNCWbXuNLYWZyPyenpSTiOLzfGtpS+uT1l37jOVzripj9IFu6T4AMkGX8Cj/At7Xc50UxjkH6w4PtZrozdn8+33Xc4tt/yJSa3bsFKZjhMG4daogWx3YH4yEgc7brykn/cfIYVaGz5kL7DRaNZsGY59qO2qg2WtWBMbp7q1XR6OZ2eXZIg2urlKZYJX2FpdGorzYPEy1P9OOraGFNFoeQaqLB5s6whbRadx1fnV9Ev55Mzubo4e/T4v1H6giF0i4pQ2Rx0kDCLq9/5+PwFBaLb4fpX4puJ3+8OXoOv9bp5MYhE5D1/anahnZZ027Pgh4P+0VE3Ki329j7KGBq/DlSLVVy6nayZkb43u2ht17g3hkvcE4f17zcR2bwqlpJycdyYa3tYfpyvQlwz+ArMd8QUeRVDe0fT30aKd5tyRzhY9cyNtQgLrQOmsS04A2mwSS3rULLQ0OhsFEeBL3rcd11xaCi1Sqvmze7O6Z2GIHnIuWkaF8G/3WlKcAokTk0lUyxxSuadE1iHjRfkxlrNl1Xj9b2SoTvHgQLHELLIsT2QG8Efgdy2Cskf5nPy7q/h/Txc3PzRTxw70R9Py+vDwuk0dy37XpFH6aYjpsq6OUQxgy63U9g3PdCYbp3uLift6dxVvrSLdtF8h8CKLn6qlpg80r3YDfbt8++ra1KrpFts9leeZBJPxmGMG8HVQzyZTS5nk+nfhup78ge057gQwKt1X+zo3kjva+42AXxhVLrfW0q89XQgvb8r+O3k42pO8U0pJGfD/nNgFUOv4X+6ioHMggQ/jmxee7vXfnTdqrVdEhbdT3G7v9X0WIKEUuZ/QjkgOuix22rtjtxH8ubfnndIXg==",
         "name_facet_ssim": [
             "Ve\u0301lez y Escalante, Antonio"
         ],
@@ -101,13 +104,14 @@
         ],
         "subject_geographic_sim": [
             "North and Central America",
-            "Southwest"
+            "Southwest",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-108.0,33.0]},\"properties\":{\"placename\":\"Southwest, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-108.0,33.0]},\"properties\":{\"placename\":\"Southwest\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-108.0,33.0]},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"Southwest\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-108.0,33.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"area\":\"Southwest\"}}"
         ],
         "subject_point_geospatial": [
             "33,-108"
@@ -118,7 +122,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:58:43Z",
         "system_modified_dtsi": "2023-09-15T14:47:47Z",
-        "timestamp": "2023-10-03T15:48:22.524Z",
+        "timestamp": "2025-10-31T15:47:23.038Z",
         "title_info_primary_tsi": "Derrotero hecho por Antonia Ve\u0301lez y Escalante, misionero para mejor conocimiento de las misiones, pueblos de indios y presidios que se hallan en el Camino de Monterrey a Santa Fe de Nuebo Mexico",
         "type_of_resource_ssim": [
             "Cartographic"

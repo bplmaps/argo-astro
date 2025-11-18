@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749832839561216,
+        "_version_": 1847512909593182208,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n865k",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n865k/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Blaskowitz, Charles"
         ],
@@ -105,16 +108,17 @@
             "White Plains, Battle of, White Plains, N.Y., 1776--Maps, Manuscript--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "New York",
             "North and Central America",
             "United States",
             "Westchester (county)",
             "White Plains"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.75,41.0333]},\"properties\":{\"placename\":\"White Plains\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.75,41.0333]},\"properties\":{\"placename\":\"White Plains, NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.75,41.0333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Westchester\",\"city\":\"White Plains\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.75,41.0333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Westchester\",\"city\":\"White Plains\"}}"
         ],
         "subject_point_geospatial": [
             "41.0333,-73.75"
@@ -124,7 +128,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:09:32Z",
         "system_modified_dtsi": "2023-09-15T14:47:32Z",
-        "timestamp": "2023-10-03T15:47:10.891Z",
+        "timestamp": "2025-10-31T15:46:51.108Z",
         "title_info_primary_tsi": "Sketch of the White Plains",
         "type_of_resource_ssim": [
             "Cartographic"

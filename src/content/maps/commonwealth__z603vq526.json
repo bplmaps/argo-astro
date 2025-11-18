@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749608208367616,
+        "_version_": 1847512864357613568,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vq526",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vq526/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Zatta, Antonio, active 1757-1797"
         ],
@@ -111,29 +114,28 @@
             "New Jersey--Maps--Early works to 1800",
             "Great Lakes Region (North America)--Maps--Early works to 1800"
         ],
-        "subject_geo_other_ssm": [
-            "Great Lakes"
-        ],
         "subject_geographic_sim": [
             "Great Lakes",
             "Middle Atlantic",
             "New Jersey",
             "New York",
             "North and Central America",
-            "Pennsylvania"
+            "Pennsylvania",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-85.0,45.0]},\"properties\":{\"placename\":\"Great Lakes\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"placename\":\"Pennsylvania, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"placename\":\"New York, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"placename\":\"New Jersey, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-85.0,45.0]},\"properties\":{\"placename\":\"Great Lakes, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"placename\":\"Pennsylvania\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"placename\":\"New York\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"placename\":\"New Jersey\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-83.5,40.25],[-72.5,40.25],[-72.5,45.75],[-83.5,45.75],[-83.5,40.25]]]},\"bbox\":[-83.5,40.25,-72.5,45.75]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Pennsylvania\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"Middle Atlantic\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"New York\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"New Jersey\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-85.0,45.0]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Great Lakes\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"area\":\"Middle Atlantic\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\"}}"
         ],
         "subject_point_geospatial": [
             "45,-85",
@@ -150,7 +152,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:52:57Z",
         "system_modified_dtsi": "2023-09-15T14:47:14Z",
-        "timestamp": "2023-10-03T15:43:36.666Z",
+        "timestamp": "2025-10-31T15:46:07.968Z",
         "title_info_primary_subtitle_tsi": "con la parte occidentale del Connecticut, Massachusset-s-bay e l'Irochesia",
         "title_info_primary_tsi": "La Pensilvania, la Nuova York, il Jersey Settentrio[na]le",
         "type_of_resource_ssim": [

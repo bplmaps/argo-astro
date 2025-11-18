@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749863576469504,
+        "_version_": 1847512922574553088,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -53,7 +53,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nb74z",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nb74z/manifest",
@@ -68,7 +71,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Fisher, Joshua, 1707-1783"
         ],
@@ -119,15 +122,16 @@
         "subject_geographic_sim": [
             "Delaware Bay",
             "Delaware River",
-            "North and Central America"
+            "North and Central America",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.2667,41.9333]},\"properties\":{\"placename\":\"Delaware River, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.05]},\"properties\":{\"placename\":\"Delaware Bay, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.2667,41.9333]},\"properties\":{\"placename\":\"Delaware River\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.05]},\"properties\":{\"placename\":\"Delaware Bay\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.2667,41.9333]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Delaware River\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.05]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Delaware Bay\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.2667,41.9333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Delaware River\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.05]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Delaware Bay\"}}"
         ],
         "subject_point_geospatial": [
             "41.9333,-75.2667",
@@ -141,7 +145,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:49:36Z",
         "system_modified_dtsi": "2023-09-15T14:47:38Z",
-        "timestamp": "2023-10-03T15:47:40.204Z",
+        "timestamp": "2025-10-31T15:47:03.488Z",
         "title_info_primary_tsi": "Plano de Philadelphia",
         "type_of_resource_ssim": [
             "Cartographic"

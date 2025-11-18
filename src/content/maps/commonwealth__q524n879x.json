@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749835046813696,
+        "_version_": 1847512910586183680,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n879x",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n879x/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_date_tsim": [
             "This date is inferred."
         ],
@@ -105,10 +108,10 @@
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.8667,40.85]},\"properties\":{\"placename\":\"Bronx\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.8667,40.85]},\"properties\":{\"placename\":\"Bronx, NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.8667,40.85]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"city\":\"New York\",\"city_section\":\"Bronx\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.8667,40.85]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"city\":\"New York\",\"city_section\":\"Bronx\"}}"
         ],
         "subject_point_geospatial": [
             "40.85,-73.8667"
@@ -120,7 +123,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:11:56Z",
         "system_modified_dtsi": "2023-09-15T14:47:33Z",
-        "timestamp": "2023-10-03T15:47:12.996Z",
+        "timestamp": "2025-10-31T15:46:52.055Z",
         "title_info_primary_subtitle_tsi": "Old rebel works coloured black",
         "title_info_primary_tsi": "Sketch of the Heights of Kingsbridge 1777, with the proposed redoubts coloured orange",
         "type_of_resource_ssim": [

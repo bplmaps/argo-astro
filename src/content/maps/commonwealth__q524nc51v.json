@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749875580567552,
+        "_version_": 1847512926913560576,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nc51v",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nc51v/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_date_tsim": [
             "This date is inferred."
         ],
@@ -98,13 +101,14 @@
             "Charleston",
             "Charleston (county)",
             "North and Central America",
+            "South Carolina",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9167,32.7667]},\"properties\":{\"placename\":\"Charleston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9167,32.7667]},\"properties\":{\"placename\":\"Charleston, SC\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9167,32.7667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Charleston\",\"city\":\"Charleston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9167,32.7667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"South Carolina\",\"county\":\"Charleston\",\"city\":\"Charleston\"}}"
         ],
         "subject_point_geospatial": [
             "32.7667,-79.9167"
@@ -114,7 +118,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:07:27Z",
         "system_modified_dtsi": "2023-09-15T14:47:41Z",
-        "timestamp": "2023-10-03T15:47:51.651Z",
+        "timestamp": "2025-10-31T15:47:07.626Z",
         "title_info_primary_tsi": "Plan de la ville de Charlestown, de ses retranchements et du siege faits par les Anglois en 1780",
         "type_of_resource_ssim": [
             "Cartographic"

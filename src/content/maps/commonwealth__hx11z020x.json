@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749990332530688,
+        "_version_": 1847512973639155712,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z020x",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z020x/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Bastide, John Henry, approximately 1700-1770",
             "Durell, Philip, -1766",
@@ -129,14 +132,15 @@
         "subject_geographic_sim": [
             "Canada",
             "Louisbourg",
-            "North and Central America"
+            "North and Central America",
+            "Nova Scotia"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-59.9667,45.9333]},\"properties\":{\"placename\":\"Louisbourg\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-59.9667,45.9333]},\"properties\":{\"placename\":\"Louisbourg, Nova Scotia\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-60.0,45.880278],[-59.941667,45.880278],[-59.941667,45.928611],[-60.0,45.928611],[-60.0,45.880278]]]},\"bbox\":[-60.0,45.880278,-59.941667,45.928611]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-59.9667,45.9333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"city\":\"Louisbourg\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-59.9667,45.9333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Nova Scotia\",\"city\":\"Louisbourg\"}}"
         ],
         "subject_point_geospatial": [
             "45.9333,-59.9667"
@@ -149,7 +153,7 @@
         ],
         "system_create_dtsi": "2016-11-17T22:36:47Z",
         "system_modified_dtsi": "2023-09-15T14:47:59Z",
-        "timestamp": "2023-10-03T15:49:41.088Z",
+        "timestamp": "2025-10-31T15:47:52.186Z",
         "title_info_primary_subtitle_tsi": "The Harbour Survey'd by Cap.t Phi; Durrell The Fortifications by Cap.t W:m Hen:y Bastide Anno 1745",
         "title_info_primary_tsi": "A PLAN OF THE HARBOUR AND FORTIFICATIONS OF LOUISBOURG",
         "type_of_resource_ssim": [

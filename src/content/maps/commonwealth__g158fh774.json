@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778757922943139840,
+        "_version_": 1847513158111985664,
         "admin_set_ark_id_ssi": "commonwealth:mw22z436x",
         "admin_set_name_ssi": "Library and Archives Canada Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:mw22z436x"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library and Archives Canada Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -45,7 +45,10 @@
         "genre_specific_ssim": [
             "Manuscript maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:g158fh774",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/g158fh774/manifest",
@@ -62,7 +65,7 @@
             "French"
         ],
         "license_ss": "Contact host institution for more information.",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Bellin, Jacques Nicolas, 1703-1772"
         ],
@@ -102,16 +105,17 @@
             "Great Lakes (North America)--Maps--Early works to 1800",
             "New France--Maps"
         ],
-        "subject_geo_other_ssm": [
-            "Great Lakes",
-            "New France"
-        ],
         "subject_geographic_sim": [
             "Great Lakes",
-            "New France"
+            "New France",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-85.0,45.0]},\"properties\":{\"placename\":\"Great Lakes\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-85.0,45.0]},\"properties\":{\"placename\":\"Great Lakes, North and Central America\"}}"
+        ],
+        "subject_hiergeo_geojson_ssm": [
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-85.0,45.0]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Great Lakes\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"New France (former administrative division)\"}}"
         ],
         "subject_point_geospatial": [
             "45,-85"
@@ -123,7 +127,7 @@
         ],
         "system_create_dtsi": "2023-03-29T18:19:04Z",
         "system_modified_dtsi": "2023-03-29T20:12:14Z",
-        "timestamp": "2023-10-03T17:55:46.215Z",
+        "timestamp": "2025-10-31T15:50:48.114Z",
         "title_info_primary_tsi": "Partie occidentale du Canada contenant les lacs Ontario, Huron, Eri\u00e9, et Lac Superieur",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749887898189824,
+        "_version_": 1847512931517857792,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nd34d",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nd34d/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_date_tsim": [
             "This date is inferred."
         ],
@@ -106,15 +109,16 @@
             "Manuscript maps"
         ],
         "subject_geographic_sim": [
+            "Cuba",
             "Guant\u00e1namo",
             "Guant\u00e1namo, Bah\u00eda de",
             "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.1333,20.0]},\"properties\":{\"placename\":\"Guant\u00e1namo, Bah\u00eda de (bay), North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.1333,20.0]},\"properties\":{\"placename\":\"Guant\u00e1namo, Bah\u00eda de (bay), Cuba\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.1333,20.0]},\"properties\":{\"continent\":\"North and Central America\",\"province\":\"Guant\u00e1namo\",\"other\":\"Guant\u00e1namo, Bah\u00eda de (bay)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.1333,20.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Cuba\",\"province\":\"Guant\u00e1namo\",\"other\":\"Guant\u00e1namo, Bah\u00eda de (bay)\"}}"
         ],
         "subject_point_geospatial": [
             "20,-75.1333"
@@ -126,7 +130,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:24:51Z",
         "system_modified_dtsi": "2023-09-15T14:47:42Z",
-        "timestamp": "2023-10-03T15:48:03.399Z",
+        "timestamp": "2025-10-31T15:47:12.017Z",
         "title_info_primary_tsi": "Plano de la Bai\u0301a de Guanta\u0301namo, en la ysla de Cuva, cuya boca se alla en latitud N. 20 gs. y en la longitd. de Thenerife 301 gs. 27 ms",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750068160987136,
+        "_version_": 1847513006777303040,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z4564",
         "extent_tsi": "1 map on 2 sheets : joined and laid on linen; manuscript pen and ink, in black and red, over pencil ; 47 x 127 cm",
         "filenames_ssim": [
-            "k_top_122_71_a",
-            "commonwealth:hx11z455v_metadata"
+            "commonwealth:hx11z455v_metadata",
+            "k_top_122_71_a"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z455v",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z455v/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Thomas, John, the Elder",
             "George, III, King of Great Britain, 1738-1820",
@@ -119,17 +122,18 @@
         ],
         "subject_geographic_sim": [
             "Fort Frederica National Monument",
+            "Georgia",
             "Glynn (county)",
             "North and Central America",
             "Saint Simons Island",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.3833,31.2167]},\"properties\":{\"placename\":\"Fort Frederica National Monument (park)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.3833,31.2167]},\"properties\":{\"placename\":\"Fort Frederica National Monument (park), GA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-81.4475,31.00694],[-81.26583,31.00694],[-81.26583,31.35083],[-81.4475,31.35083],[-81.4475,31.00694]]]},\"bbox\":[-81.4475,31.00694,-81.26583,31.35083]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.3833,31.2167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Glynn\",\"island\":\"Saint Simons Island\",\"other\":\"Fort Frederica National Monument (park)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.3833,31.2167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Georgia\",\"county\":\"Glynn\",\"island\":\"Saint Simons Island\",\"other\":\"Fort Frederica National Monument (park)\"}}"
         ],
         "subject_point_geospatial": [
             "31.2167,-81.3833"
@@ -142,7 +146,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:28:17Z",
         "system_modified_dtsi": "2023-09-15T14:48:14Z",
-        "timestamp": "2023-10-03T15:50:55.311Z",
+        "timestamp": "2025-10-31T15:48:23.790Z",
         "title_info_primary_tsi": "[Map of Saint Simons and Jekyll Islands with fortifications]",
         "type_of_resource_ssim": [
             "Cartographic"

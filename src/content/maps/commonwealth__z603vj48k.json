@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749774553415680,
+        "_version_": 1847512885991833600,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vj48k",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vj48k/manifest",
@@ -60,7 +63,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_date_tsim": [
             "This date is inferred."
         ],
@@ -99,19 +102,20 @@
         "subject_geographic_sim": [
             "Boston",
             "Bunker Hill",
+            "Massachusetts",
             "North and Central America",
             "Suffolk (county)",
             "United States"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Suffolk\",\"city\":\"Boston\",\"city_section\":\"Bunker Hill\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Massachusetts\",\"county\":\"Suffolk\",\"city\":\"Boston\",\"city_section\":\"Bunker Hill\"}}"
         ],
         "subject_topic_tsim": [
             "Bunker Hill, Battle of, Boston, Mass., 1775--Maps, Manuscript--Early works to 1800"
         ],
         "system_create_dtsi": "2016-11-20T02:27:19Z",
         "system_modified_dtsi": "2023-09-15T14:47:21Z",
-        "timestamp": "2023-10-03T15:46:15.305Z",
+        "timestamp": "2025-10-31T15:46:28.600Z",
         "title_info_alternative_tsim": [
             "Charlestown"
         ],

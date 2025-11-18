@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749969509908480,
+        "_version_": 1847512969183756288,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nk76z",
         "extent_tsi": "1 manuscript map : hand color, 161 x 159 cm.",
         "filenames_ssim": [
-            "ct000794Z",
-            "commonwealth:q524nk75p_metadata"
+            "commonwealth:q524nk75p_metadata",
+            "ct000794Z"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nk75p",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nk75p/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Veatch, Hezekiah"
         ],
@@ -116,16 +119,17 @@
         "subject_geographic_sim": [
             "Allegany (county)",
             "Garrett (county)",
+            "Maryland",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.6667,39.6667]},\"properties\":{\"placename\":\"United States\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.25,39.55]},\"properties\":{\"placename\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.6667,39.6667]},\"properties\":{\"placename\":\"Allegany (county), MD\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.25,39.55]},\"properties\":{\"placename\":\"Garrett (county), MD\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.6667,39.6667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Allegany\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.25,39.55]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Garrett\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.6667,39.6667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Maryland\",\"county\":\"Allegany\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.25,39.55]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Maryland\",\"county\":\"Garrett\"}}"
         ],
         "subject_point_geospatial": [
             "39.6667,-78.6667",
@@ -141,7 +145,7 @@
         ],
         "system_create_dtsi": "2017-05-26T15:50:15Z",
         "system_modified_dtsi": "2023-09-15T14:47:57Z",
-        "timestamp": "2023-10-03T15:49:21.230Z",
+        "timestamp": "2025-10-31T15:47:47.938Z",
         "title_info_primary_tsi": "Map of military lots, tracts, patents, etc. in western Allegany and Garrett Counties, Maryland",
         "type_of_resource_ssim": [
             "Cartographic"

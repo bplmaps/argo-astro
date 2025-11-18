@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749866688643072,
+        "_version_": 1847512923593768960,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nb94f",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nb94f/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1450"
         ],
@@ -106,15 +109,16 @@
             "Hampton Roads",
             "Newport News",
             "North and Central America",
-            "United States"
+            "United States",
+            "Virginia"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.3333,37.0167]},\"properties\":{\"placename\":\"Hampton\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.3333,37.0167]},\"properties\":{\"placename\":\"Hampton, VA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.34967,36.97515]},\"properties\":{\"placename\":\"Hampton Roads\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.46965,37.08339]},\"properties\":{\"placename\":\"Newport News\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.3333,37.0167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"city\":\"Hampton\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.3333,37.0167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\",\"city\":\"Hampton\"}}"
         ],
         "subject_point_geospatial": [
             "37.0167,-76.3333",
@@ -128,7 +132,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:54:48Z",
         "system_modified_dtsi": "2023-09-15T14:47:38Z",
-        "timestamp": "2023-10-03T15:47:43.172Z",
+        "timestamp": "2025-10-31T15:47:04.459Z",
         "title_info_primary_tsi": "Carte des environs d'Hampton",
         "type_of_resource_ssim": [
             "Cartographic"

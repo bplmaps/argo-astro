@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750049676689408,
+        "_version_": 1847512996072390656,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -38,14 +38,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z352t",
         "extent_tsi": "1 map : manuscript pen and ink with watercolour ; 43 x 56 cm",
         "filenames_ssim": [
-            "k_top_121_31",
-            "commonwealth:hx11z351j_metadata"
+            "commonwealth:hx11z351j_metadata",
+            "k_top_121_31"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z351j",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z351j/manifest",
@@ -58,7 +61,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "George, III, King of Great Britain, 1738-1820",
             "George, IV, King of Great Britain, 1762-1830"
@@ -119,18 +122,19 @@
         ],
         "subject_geographic_sim": [
             "Mohawk",
+            "New York",
             "North and Central America",
             "Oneida (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.4667,43.3667]},\"properties\":{\"placename\":\"Mohawk (river)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.4667,43.3667]},\"properties\":{\"placename\":\"Mohawk (river), NY\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-75.462222,43.19611],[-75.42666,43.19611],[-75.42666,43.21388],[-75.462222,43.21388],[-75.462222,43.19611]]]},\"bbox\":[-75.462222,43.19611,-75.42666,43.21388]}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.4667,43.2]},\"properties\":{\"placename\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.4667,43.2]},\"properties\":{\"placename\":\"Oneida (county), NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.4667,43.3667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Mohawk (river)\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.4667,43.2]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Oneida\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.4667,43.3667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"other\":\"Mohawk (river)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.4667,43.2]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Oneida\"}}"
         ],
         "subject_point_geospatial": [
             "43.3667,-75.4667",
@@ -145,7 +149,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:03:20Z",
         "system_modified_dtsi": "2023-09-15T14:48:10Z",
-        "timestamp": "2023-10-03T15:50:37.683Z",
+        "timestamp": "2025-10-31T15:48:13.581Z",
         "title_info_primary_tsi": "Plan of the Forts at the Onoida or Great Carrying Place in the Province of New York in North America built by Major Charles Craven by Order of William Shirley Esq.r when General and Commander in Chiefe of all His Majesty's Forces in North America; and afterwards destroyed by Major Gen.l Webb on 31st. August 1756. Also of General Webbs Encampment and Lines before his Retreat to the German Flatts",
         "type_of_resource_ssim": [
             "Cartographic"

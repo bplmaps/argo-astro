@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749916537946112,
+        "_version_": 1847512946493620224,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -46,14 +46,17 @@
         "exemplary_image_ssi": "commonwealth:q524ng29z",
         "extent_tsi": "1 map : ms., col., sectioned and mounted on cloth ; 41 x 105 cm., folded to 21 x 19 cm.",
         "filenames_ssim": [
-            "la002153",
-            "commonwealth:q524ng28p_metadata"
+            "commonwealth:q524ng28p_metadata",
+            "la002153"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524ng28p",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524ng28p/manifest",
@@ -68,7 +71,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Adlum, John, 1759-1836",
             "Bingham, William, 1752-1804"
@@ -118,14 +121,15 @@
         "subject_geographic_sim": [
             "Bradford (county)",
             "North and Central America",
+            "Pennsylvania",
             "Sugar Creek",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.8667,41.7667]},\"properties\":{\"placename\":\"Sugar Creek\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.8667,41.7667]},\"properties\":{\"placename\":\"Sugar Creek, PA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.8667,41.7667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Bradford\",\"other\":\"Sugar Creek\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.8667,41.7667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Bradford\",\"other\":\"Sugar Creek\"}}"
         ],
         "subject_point_geospatial": [
             "41.7667,-76.8667"
@@ -137,7 +141,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:15:13Z",
         "system_modified_dtsi": "2023-09-15T14:47:47Z",
-        "timestamp": "2023-10-03T15:48:30.712Z",
+        "timestamp": "2025-10-31T15:47:26.299Z",
         "title_info_primary_tsi": "E. Sugar Creek, Bradford Co",
         "type_of_resource_ssim": [
             "Cartographic"

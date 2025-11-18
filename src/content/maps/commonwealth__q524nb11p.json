@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749853828907008,
+        "_version_": 1847512918443163648,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nb11p",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nb11p/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1284"
         ],
@@ -99,17 +102,18 @@
         ],
         "subject_geographic_sim": [
             "Morris (county)",
+            "New Jersey",
             "North and Central America",
             "Union (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.2667,40.6333]},\"properties\":{\"placename\":\"United States\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.5333,40.8333]},\"properties\":{\"placename\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.2667,40.6333]},\"properties\":{\"placename\":\"Union (county), NJ\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.5333,40.8333]},\"properties\":{\"placename\":\"Morris (county), NJ\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.2667,40.6333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Union\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.5333,40.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Morris\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.2667,40.6333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\",\"county\":\"Union\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.5333,40.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\",\"county\":\"Morris\"}}"
         ],
         "subject_point_geospatial": [
             "40.6333,-74.2667",
@@ -123,7 +127,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:33:09Z",
         "system_modified_dtsi": "2023-09-15T14:47:28Z",
-        "timestamp": "2023-10-03T15:47:30.908Z",
+        "timestamp": "2025-10-31T15:46:59.548Z",
         "title_info_primary_tsi": "Map showing roads to Morristown",
         "type_of_resource_ssim": [
             "Cartographic"

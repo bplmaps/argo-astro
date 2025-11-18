@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749829647695872,
+        "_version_": 1847512908472254464,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -53,7 +53,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n8428",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n8428/manifest",
@@ -68,7 +71,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1099"
         ],
@@ -109,10 +112,10 @@
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.15,40.5833]},\"properties\":{\"placename\":\"Staten Island\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.15,40.5833]},\"properties\":{\"placename\":\"Staten Island, NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.15,40.5833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"city\":\"New York\",\"city_section\":\"Staten Island\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.15,40.5833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"city\":\"New York\",\"city_section\":\"Staten Island\"}}"
         ],
         "subject_point_geospatial": [
             "40.5833,-74.15"
@@ -124,7 +127,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:05:27Z",
         "system_modified_dtsi": "2023-09-15T14:47:32Z",
-        "timestamp": "2023-10-03T15:47:07.846Z",
+        "timestamp": "2025-10-31T15:46:50.039Z",
         "title_info_primary_tsi": "Plan of New York and Staten Islands with part of Long Island",
         "type_of_resource_ssim": [
             "Cartographic"

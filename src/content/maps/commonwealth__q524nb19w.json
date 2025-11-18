@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749855120752640,
+        "_version_": 1847512918423240704,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nb19w",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nb19w/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Hills, John, (Surveyor)",
             "Morgan, Benjamin, (Draftsman)"
@@ -117,14 +120,15 @@
         "subject_geographic_sim": [
             "Hudson (county)",
             "Jersey City",
+            "New Jersey",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.0667,40.7167]},\"properties\":{\"placename\":\"Jersey City\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.0667,40.7167]},\"properties\":{\"placename\":\"Jersey City, NJ\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.0667,40.7167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Hudson\",\"city\":\"Jersey City\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.0667,40.7167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\",\"county\":\"Hudson\",\"city\":\"Jersey City\"}}"
         ],
         "subject_point_geospatial": [
             "40.7167,-74.0667"
@@ -136,7 +140,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:35:55Z",
         "system_modified_dtsi": "2023-09-15T14:47:36Z",
-        "timestamp": "2023-10-03T15:47:32.139Z",
+        "timestamp": "2025-10-31T15:46:59.529Z",
         "title_info_primary_tsi": "A plan of Paulus Hook with the road to Bergen and parts adjacent in the province of New Jersey",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749886545526784,
+        "_version_": 1847512931365814272,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -10,8 +10,8 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
-            "Maritime Charts and Atlases (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
+            "Maritime Charts and Atlases",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -46,7 +46,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nd23w",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nd23w/manifest",
@@ -61,7 +64,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_date_tsim": [
             "This date is inferred."
         ],
@@ -107,20 +110,21 @@
             "Alabama",
             "Baldwin (county)",
             "Dauphin Island",
+            "Mobile (county)",
             "Mobile Bay",
             "Mobile Point",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-88.0,30.4333]},\"properties\":{\"placename\":\"Mobile Bay, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-88.0,30.4333]},\"properties\":{\"placename\":\"Mobile Bay, AL\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-88.1,30.25]},\"properties\":{\"placename\":\"Dauphin Island, AL\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-88.0167,30.2167]},\"properties\":{\"placename\":\"Mobile Point (cape), North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-88.0167,30.2167]},\"properties\":{\"placename\":\"Mobile Point (cape), AL\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-88.0,30.4333]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Alabama\",\"other\":\"Mobile Bay\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-88.1,30.25]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Alabama\",\"city\":\"Dauphin Island\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-88.0167,30.2167]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Alabama\",\"county\":\"Baldwin\",\"other\":\"Mobile Point (cape)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-88.0,30.4333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Alabama\",\"other\":\"Mobile Bay\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-88.1,30.25]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Alabama\",\"county\":\"Mobile\",\"city\":\"Dauphin Island\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-88.0167,30.2167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Alabama\",\"county\":\"Baldwin\",\"other\":\"Mobile Point (cape)\"}}"
         ],
         "subject_point_geospatial": [
             "30.4333,-88",
@@ -135,7 +139,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:23:20Z",
         "system_modified_dtsi": "2023-09-15T14:47:42Z",
-        "timestamp": "2023-10-03T15:48:02.108Z",
+        "timestamp": "2025-10-31T15:47:11.872Z",
         "title_info_primary_subtitle_tsi": "Situado en latd. No. de 30\u2070 10\u02b9 m. tomado a\u0301 los Ingleses el dia 14 de Marzo de 1780",
         "title_info_primary_tsi": "Plano del Puerto de la Mobila",
         "type_of_resource_ssim": [

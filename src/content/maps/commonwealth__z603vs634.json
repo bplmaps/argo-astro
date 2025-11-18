@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750168996249600,
+        "_version_": 1847513029646745600,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vs634",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vs634/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Sauthier, Claude Joseph",
             "Ratzer, Bernard",
@@ -120,17 +123,18 @@
             "New Jersey",
             "New York",
             "North and Central America",
-            "Northeastern United States"
+            "Northeastern United States",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"placename\":\"New Jersey, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"placename\":\"New York, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"placename\":\"New Jersey\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"placename\":\"New York\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-72.45,38.7],[-70.45,38.7],[-70.45,45.55],[-72.45,45.55],[-72.45,38.7]]]},\"bbox\":[-72.45,38.7,-70.45,45.55]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"New Jersey\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"Northeastern United States\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"New York\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"area\":\"Northeastern United States\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\"}}"
         ],
         "subject_point_geospatial": [
             "40,-75",
@@ -143,7 +147,7 @@
         ],
         "system_create_dtsi": "2016-11-20T05:51:52Z",
         "system_modified_dtsi": "2023-09-15T14:48:24Z",
-        "timestamp": "2023-10-03T15:52:31.474Z",
+        "timestamp": "2025-10-31T15:48:45.600Z",
         "title_info_primary_subtitle_tsi": "reduc'd from the large drawing of that province, compiled from actual surveys by order of His Excellency William Tryon, Esqr. Captain General & Governor of the same",
         "title_info_primary_tsi": "A map of the Province of New-York",
         "type_of_resource_ssim": [

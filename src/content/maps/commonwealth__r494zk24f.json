@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778757934868594688,
+        "_version_": 1847513161105670144,
         "admin_set_ark_id_ssi": "commonwealth:mw22z436x",
         "admin_set_name_ssi": "Library and Archives Canada Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:mw22z436x"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library and Archives Canada Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -65,7 +65,10 @@
         "genre_specific_ssim": [
             "Manuscript maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:r494zk24f",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/r494zk24f/manifest",
@@ -82,7 +85,7 @@
             "English"
         ],
         "license_ss": "Contact host institution for more information.",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Bryce, Alexander",
             "Duberger, Jean-Baptiste, 1767-1821"
@@ -125,14 +128,15 @@
             "Great Lakes (North America)--Maps--Early works to 1800",
             "Canada--Boundaries--United States"
         ],
-        "subject_geo_other_ssm": [
-            "Great Lakes"
-        ],
         "subject_geographic_sim": [
-            "Great Lakes"
+            "Great Lakes",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-85.0,45.0]},\"properties\":{\"placename\":\"Great Lakes\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-85.0,45.0]},\"properties\":{\"placename\":\"Great Lakes, North and Central America\"}}"
+        ],
+        "subject_hiergeo_geojson_ssm": [
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-85.0,45.0]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Great Lakes\"}}"
         ],
         "subject_point_geospatial": [
             "45,-85"
@@ -143,7 +147,7 @@
         ],
         "system_create_dtsi": "2023-03-29T18:27:52Z",
         "system_modified_dtsi": "2023-03-29T20:12:24Z",
-        "timestamp": "2023-10-03T17:55:57.588Z",
+        "timestamp": "2025-10-31T15:50:50.968Z",
         "title_info_primary_tsi": "Sketch of the Straits of St. Mary between Lake Huron and Lake Superior laid down from bearings of the principal points, and computed distances, excepting a few places which have been more particularly surveyed, July 1796",
         "type_of_resource_ssim": [
             "Cartographic"

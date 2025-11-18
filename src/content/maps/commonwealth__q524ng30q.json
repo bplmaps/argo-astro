@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749916922773504,
+        "_version_": 1847512946644615168,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -46,14 +46,17 @@
         "exemplary_image_ssi": "commonwealth:q524ng310",
         "extent_tsi": "1 map : ms., col., sectioned and mounted on cloth ; 41 x 79 cm., folded to 21 x 14 cm.",
         "filenames_ssim": [
-            "la002154",
-            "commonwealth:q524ng30q_metadata"
+            "commonwealth:q524ng30q_metadata",
+            "la002154"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524ng30q",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524ng30q/manifest",
@@ -68,7 +71,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Adlum, John, 1759-1836",
             "Bingham, William, 1752-1804"
@@ -127,19 +130,20 @@
         "subject_geographic_sim": [
             "Clinton (county)",
             "North and Central America",
+            "Pennsylvania",
             "Sinnemahoning Creek",
             "United States",
             "West Branch Susquehanna River"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.7167,40.5667]},\"properties\":{\"placename\":\"West Branch Susquehanna River\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.1333,41.3333]},\"properties\":{\"placename\":\"Sinnemahoning Creek\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.8667,41.3667]},\"properties\":{\"placename\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.7167,40.5667]},\"properties\":{\"placename\":\"West Branch Susquehanna River, PA\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.1333,41.3333]},\"properties\":{\"placename\":\"Sinnemahoning Creek, PA\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.8667,41.3667]},\"properties\":{\"placename\":\"Clinton (county), PA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.7167,40.5667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"West Branch Susquehanna River\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.1333,41.3333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Sinnemahoning Creek\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.8667,41.3667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Clinton\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.7167,40.5667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"other\":\"West Branch Susquehanna River\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.1333,41.3333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"other\":\"Sinnemahoning Creek\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.8667,41.3667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Clinton\"}}"
         ],
         "subject_point_geospatial": [
             "40.5667,-78.7167",
@@ -160,7 +164,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:15:44Z",
         "system_modified_dtsi": "2023-09-15T14:47:48Z",
-        "timestamp": "2023-10-03T15:48:31.079Z",
+        "timestamp": "2025-10-31T15:47:26.442Z",
         "title_info_alternative_tsim": [
             "Susquehanna and Sinnemahoning"
         ],

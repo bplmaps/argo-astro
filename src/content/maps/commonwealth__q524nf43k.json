@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749903573352448,
+        "_version_": 1847512940982304768,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nf44v",
         "extent_tsi": "1 manuscript map : hand color 13 x 19 cm. on sheet 38 x 32 cm.",
         "filenames_ssim": [
-            "ct000359",
-            "commonwealth:q524nf43k_metadata"
+            "commonwealth:q524nf43k_metadata",
+            "ct000359"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nf43k",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nf43k/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Moffet, J.",
             "Washington, George, 1732-1799"
@@ -112,13 +115,14 @@
         "subject_geographic_sim": [
             "Frederick (county)",
             "North and Central America",
-            "United States"
+            "United States",
+            "Virginia"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.25,39.2167]},\"properties\":{\"placename\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.25,39.2167]},\"properties\":{\"placename\":\"Frederick (county), VA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.25,39.2167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Frederick\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.25,39.2167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\",\"county\":\"Frederick\"}}"
         ],
         "subject_point_geospatial": [
             "39.2167,-78.25"
@@ -128,7 +132,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:51:50Z",
         "system_modified_dtsi": "2023-09-15T14:47:43Z",
-        "timestamp": "2023-10-03T15:48:18.347Z",
+        "timestamp": "2025-10-31T15:47:21.043Z",
         "title_info_primary_tsi": "Map of the county of Frederick, 1769",
         "type_of_resource_ssim": [
             "Cartographic"

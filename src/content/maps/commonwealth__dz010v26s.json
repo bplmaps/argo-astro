@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750234025787392,
+        "_version_": 1847513048863997952,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -46,7 +46,10 @@
         "genre_specific_ssim": [
             "Views"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:dz010v26s",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/dz010v26s/manifest",
@@ -62,7 +65,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Berger, Daniel."
         ],
@@ -112,14 +115,15 @@
             "Gibraltar--History--Siege, 1779-1783--Pictorial works--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "Europe",
             "Gibraltar"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-5.35,36.1333]},\"properties\":{\"placename\":\"Gibraltar\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-5.35,36.1333]},\"properties\":{\"placename\":\"Gibraltar, Europe\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-5.35,36.14]}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-5.35,36.1333]},\"properties\":{\"territory\":\"Gibraltar\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-5.35,36.1333]},\"properties\":{\"continent\":\"Europe\",\"territory\":\"Gibraltar\"}}"
         ],
         "subject_point_geospatial": [
             "36.1333,-5.35",
@@ -132,7 +136,7 @@
         ],
         "system_create_dtsi": "2016-11-30T18:34:22Z",
         "system_modified_dtsi": "2023-09-15T14:48:32Z",
-        "timestamp": "2023-10-03T15:53:33.491Z",
+        "timestamp": "2025-10-31T15:49:03.927Z",
         "title_info_primary_subtitle_tsi": "gezeichnet vor Gibraltar im jahr 1782, nebst einer hierzu gehorigen beschreibung",
         "title_info_primary_tsi": "Prospect von Gibraltar mit seinen werken, umliegenden gegenden und iezigen neuern belagerungs anstalten",
         "type_of_resource_ssim": [

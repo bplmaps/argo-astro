@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749942668460032,
+        "_version_": 1847512957820338176,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nj22f",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nj22f/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 836"
         ],
@@ -98,13 +101,14 @@
         ],
         "subject_geographic_sim": [
             "Maine",
-            "North and Central America"
+            "North and Central America",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-69.0,45.0]},\"properties\":{\"placename\":\"Maine, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-69.0,45.0]},\"properties\":{\"placename\":\"Maine\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-69.0,45.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Maine\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-69.0,45.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Maine\"}}"
         ],
         "subject_point_geospatial": [
             "45,-69"
@@ -115,7 +119,7 @@
         ],
         "system_create_dtsi": "2017-05-26T14:24:57Z",
         "system_modified_dtsi": "2023-09-15T14:47:50Z",
-        "timestamp": "2023-10-03T15:48:55.632Z",
+        "timestamp": "2025-10-31T15:47:37.101Z",
         "title_info_alternative_tsim": [
             "Backers Town"
         ],

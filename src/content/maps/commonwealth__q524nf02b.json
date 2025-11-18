@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749897113075712,
+        "_version_": 1847512935463649280,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -10,8 +10,8 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
-            "Maritime Charts and Atlases (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
+            "Maritime Charts and Atlases",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -39,14 +39,17 @@
         "exemplary_image_ssi": "commonwealth:q524nf03m",
         "extent_tsi": "8 maps ; 44 x 44 cm. or smaller on 4 sheets 128 x 61 cm. or smaller.",
         "filenames_ssim": [
-            "cs000014r",
-            "commonwealth:q524nf02b_metadata"
+            "commonwealth:q524nf02b_metadata",
+            "cs000014r"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nf02b",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nf02b/manifest",
@@ -61,7 +64,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "De Brahm, John Gerar William, 1717-approximately 1799"
         ],
@@ -117,13 +120,14 @@
         ],
         "subject_geographic_sim": [
             "Florida",
-            "North and Central America"
+            "North and Central America",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,28.0]},\"properties\":{\"placename\":\"Florida, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,28.0]},\"properties\":{\"placename\":\"Florida\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,28.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Florida\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,28.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Florida\"}}"
         ],
         "subject_point_geospatial": [
             "28,-82"
@@ -136,7 +140,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:43:48Z",
         "system_modified_dtsi": "2023-09-15T14:47:42Z",
-        "timestamp": "2023-10-03T15:48:12.187Z",
+        "timestamp": "2025-10-31T15:47:15.780Z",
         "title_info_primary_tsi": "Special chart of Muskito Inlet",
         "type_of_resource_ssim": [
             "Cartographic"

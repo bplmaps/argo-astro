@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1780925150380687360,
+        "_version_": 1847513008982458368,
         "abstract_tsi": "A manuscript map of the town of St Andrews in New Brunswick showing the land available to United Empire Loyalists - those American Loyalists who resettled in British North America as an act of loyalty to George III after the British defeat in the American Revolutionary War. Ordered by Governor General of Nova Scotia, John Parr, and surveyed by Charles Morris.",
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
@@ -10,7 +10,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -38,15 +38,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z4849",
         "extent_tsi": "1 map : manuscript pen and ink with watercolour ; 30 x 49 cm",
         "filenames_ssim": [
-            "k_top_119_52",
-            "commonwealth:hx11z4831_metadata"
+            "commonwealth:hx11z4831_metadata",
+            "k_top_119_52"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
         "georeferenced_bsi": true,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z4831",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z4831/manifest",
@@ -59,7 +61,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzVWllz2zgSfs+vQPFhM1MlHrqPxJqyFU/iWfkoy5ns7ssWREIiYhLgAKBk7a/fBkhIpGQ5jjOb2bw4No4+vj7Q3czbXx7SBK2IkJSzE6fpBQ4iLOQRZcsT5+Pdr+7A+WX86m3KIznSPxCcZ3L0kFB2f+LESmUj31+v19667XGx9JvD4dA3u449KuljB1tB0PT/cTmdhTFJsUuZVJiFxN7SvGrXEh56S77y9Ya/ajs7odteH25JOpKG1JSHWJmN47fRI1uaf4QF7JeHzL9u2+17DzJyxq8QKmBQVCXkgi04yiVekhMnEzTFYuOgiMoswZspnpNku/zvctVQsDQYZzMu1PgUvfVrC5Uzhs/4Znp6hfgCqZigu+tP5veZQqdX727PP83QjKocKxIhrMyRDwRH+sgNlhKn+I+cR9EGneGNm2AKO7lCCy7M0dMw5MDIgKWvTPkGJ+g8pUuBmZLobzjN3mid5gAMcJhwkclS3EI2DYlfx2QHE8MpQWqTaYDAVJzhpA4B7N9gUPmSC0FlA01iLBICv/w0y8WKbLj42YJjj1auC14IUF+5IyItmSryoByEcxVzQdXmxAFjhIIkWHFRWf94e7H1FBptvWEFXjTPE7CfX96R4HI4ycnzL/hSrJyxVabUxUpZ6uLXlKno+wIg3xMILNJAFxcXDfR3iGBt1feCgGucgaqYsifwtGslJ3AL4oyb/fbAbQ5awQ9uiEXKnfGvXKREIL5m5Hsa4/c/zRa9Ftii/aPbImLCGb/j7HtEBPwQDfQbj1+AdqvrNvvD5g+OdqjmznjCmRJ0nqvvgflZntyThGwa6JaGkNKjr4e+2QdHD350R//ToNcaXS9uieS5CAlKMctlKGimTpwNkcADwOHwaGcxDe17XLuyI7UkTJAqLMt0mYVfBUjJ6BJsJShOng/M/kVfLdMg6LV6zf3KCaQkQvvXJd5WHEby/2NFmq3WoPeEItZmR/QBmZeU2QrKrlIpc10Vj1PIl3ULb7cqx3X8XMA6FGu7In7dDiO1cNA92byD/dJnmv1Bt6S0u1XxwLo8BfkEs2UOFW+VpV17KvSo5L320G3Nv8o89tazzWIv+IQtnfE5WyZUxqU6VTErWlY1KvTJ4o2kIU7ekcJcUBvXEAZUFE6uDTpjQaCWTrHS9Xe5YzGtnasQAGwIU+MmRHGGRpVYRhlhCAptBK0TWlMVo7X2r5AnEMLoDWoH6AF1hihMSxYlpaq3MLjAiLokEcV3YIsxNCBL4n/OyNJ6zcGRZ9xXdLH4lvufs9ZT18u9I8gXpPFcKoFD3TBVINMYlq2RgrLOtkYsEmQtAUh0RdZQbuVMrml4j2TM17oS0+cTDTVeYZrgeaKvo4+MajuepxmFzGKaISqhDXLhPJfQLkHxCPKxytY65kgQSRQ0P9pwprQDp0NX0MrF9gbCEgyLQHotYKJvq43mWJSIulxHeAHAGMEsiYgsdLEIRE2vZpnfkhVPcg0OuDz6hIWHrkVEBPCfb9B7Dl0xVFZA2iQezfCKrzCahVxRXJRCqKiKNADS9CbF3bL9QkU75pVW2QK/KwS4InUz6BUtqPZcEDnha9AFPD9WDfQ5l0p3nZJGxGjCQKuEMqiMoRiOJHLuoNuUKTVBVFVBS1kEwgcq0RRABqpX3EOttlar1UG/5YwgncgcK62RrS7pHfCU4FZEX3JaXXSrpxiA/jVcvmBh7CCqfSUCeFVhRVxotFUlIQvloR0hOI9175xhRguhMZgr5AJa6RVBZkdKlHFwdwTZDsJUux0zTsELg2YQGE9IfYp0Fs3BgoeigIg67YAScdn0O3fa+6dcwRuWEgxWJWgQaMGavQAtCAFDrGOaFBZwPunEsne8U5wDxQSXstA2gRMIw2ZiwNdDBvAZlqdz80epCQThF+A3sQmgbScQXGMsyFLnbbQUsCo3UpG0MDd41gaB14E4EulKqOBrUMvnCQ1NzIHjSjgq7klUSFtwYZCIVzQyhgQjqxjIIPKHRlJv6ImRrNoALQRPC1jhuHFaBE83Z0uTKfgbtKtnjUdqUeoh8pjW1GSE16cIigF2mKO8Mkm9lg0k9yY48bEJzht0MMIxblid4Zjsgsh2hqOl3U1wQj3BeYMiDq6fw0pBhOv8YY8KEqoCowX64J179XhsHCaKRplEuHDLagcYCKw11Vbehh5EnigjD2s7hTE8f0208FAf/vLgcTN/PJUNGjboGybqX9vkOMHw1PJlTizQ9ScCRNR9iJJFztMWKX/d2iWzxZV2ExAebC8tdZuQL3NJ8vRZRi/0v6mY/u7A9PLA8EdHd41nGH76lN3N5A7gNoYHVI3FCwujfRNDqfGIje0Qyz4sj2N/acC+ERB68O+7EsgGIir0Glr21D6/S1JB3ER3zQZQ9SSFIwI4Cocx0SfMzSmdC/30AbvY5BRIj5f4M5Hwppo5S/mqGsPGVESW/ZQz0B9cZ9AaHrdiWcNKBXRTwsyTDekmg5Cgc5pA5eqM9+Ln+mj8gHznDyEBXVi4/7Kd7YNsMIbnHBBOHpdP5vPPQL5aWiehjL9cVdt9SqRfEpG15h3Qp+G4XgEltsxx3cKuux7Gdc9B8g1ac3FvIrrSrRekdmVdye/7aVGr+f73sqslOyK6aU28JbydG49EuW9OHvQyj5zy+0HQ7Q+HNeViCnEnQhMf77fRU5+BZIKvqO4Jb8pfTP1XxcPW2vZg7XrIc6bEZjzBDEe4PGoXq9OKp2QpSVVGEnKfC6QfyiC+5LjT87oNt9fz+t0tu91uleUBwS+Y6AXCuL2+F/T6w3a/3ep3hs0+6nQ9PZ+At2bQbQbBMOgic6gdtPr9ZidoDWHLnBp0h8Og1em12/1B+69Rxby045l5b5ujTmPYtW5d7LxIBDPMItGFLs6KzAi9kKpHXfXTz/7XK/t42qw92Sb2/Q9JRz4l+ftiPCUblbfQNQnItiQ62zjIfIccQQm42IYbecgSLog3T7z83j+b/v6xOZrOJtc37ul0OjqbTgMwdGc46A8GHcffMYOSEqr4BdU53/DKBXXGmqgEqlCGemXLb95ltibQ5MXmQyfsjfxuMOwO/fih2fxPZ9C2Q+Ud0cqQpfx8WYXYtsb20+Y+rHsd9LRCwg46qktH+eQiOfimCZUGkfLE4UXmg2c/5MyMeL5Ve+C2z9wyywRZUbJ+OQtfxdCmMGjvjzPTjyv4DKULFwpGuiDyG3TyLYk6v6PwF5pOoCahpszZd1UtQ6g/F0FHWQggDW9ofwiT8ALONy4LXYn9jhf4jnVKSUwdIghk+Cg3gbY/kywpONCaQdGhn0HTmxWrkakwNZmivsFoUgoBoWukQKeqGGhrqa84c/U6ESGFsm0W627xNKH3uk4zBNFPkwk6+6d7NXFnpz9vpwp17Y/D8ny1TOsG9cAVR/dMV9shzzZFPwf1G4hc1GVflEDoRj7aH8QWq3qYDxE7K4bqZ5AJQcSboieth+Jj5w/JGWg502PZw4HtuBW0mm4wdNvBXas1andH7c6/6uQr9x+hHmO2JC+mvb19SLmcakKEQYMDoZqB1aPa7cO5p520Xi/KjgHEqT8Yj0ySQWry10+S4ceRKfLBHPlQu3JsvJtpzsr/ZrL/bapyxBljHNrPRY9crT2MO28tl/SP8av/Aj5xWOA=",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Morris, Charles, (Surveyor)",
             "George, III, King of Great Britain, 1738-1820",
@@ -123,6 +125,7 @@
         ],
         "subject_geographic_sim": [
             "Canada",
+            "North and Central America",
             "Province of New Brunswick"
         ],
         "subject_geojson_facet_ssim": [
@@ -130,7 +133,7 @@
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-67.0679373274917,45.062678585100905],[-67.03027714029785,45.062678585100905],[-67.03027714029785,45.08599024633783],[-67.0679373274917,45.08599024633783],[-67.0679373274917,45.062678585100905]]]},\"bbox\":[-67.0679373274917,45.062678585100905,-67.03027714029785,45.08599024633783]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-66.75,46.5]},\"properties\":{\"country\":\"Canada\",\"province\":\"Province of New Brunswick\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-66.75,46.5]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Province of New Brunswick\"}}"
         ],
         "subject_point_geospatial": [
             "46.5,-66.75"
@@ -141,7 +144,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:34:52Z",
         "system_modified_dtsi": "2023-09-15T14:48:12Z",
-        "timestamp": "2023-10-27T16:02:55.358Z",
+        "timestamp": "2025-10-31T15:48:25.893Z",
         "title_info_primary_tsi": "A PLAN of the TOWN of St ANDREWS Situated at the Head of Passamaquoddy Bay-laid out for the Accomodation of Loyal Emigrants & disbanded Corps",
         "type_of_resource_ssim": [
             "Cartographic"

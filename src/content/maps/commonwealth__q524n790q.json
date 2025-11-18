@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749823658229760,
+        "_version_": 1847512906312187904,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n790q",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n790q/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Montre\u0301sor, John, 1736-1799"
         ],
@@ -105,16 +108,17 @@
             "Danbury (Conn.)--History--Burning by the British, 1777--Maps, Manuscript--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "Connecticut",
             "Danbury",
             "Fairfield (county)",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.45,41.3833]},\"properties\":{\"placename\":\"Danbury\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.45,41.3833]},\"properties\":{\"placename\":\"Danbury, CT\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.45,41.3833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Fairfield\",\"city\":\"Danbury\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.45,41.3833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Connecticut\",\"county\":\"Fairfield\",\"city\":\"Danbury\"}}"
         ],
         "subject_point_geospatial": [
             "41.3833,-73.45"
@@ -124,7 +128,7 @@
         ],
         "system_create_dtsi": "2017-05-25T15:58:52Z",
         "system_modified_dtsi": "2023-09-15T14:47:30Z",
-        "timestamp": "2023-10-03T15:47:02.135Z",
+        "timestamp": "2025-10-31T15:46:47.979Z",
         "title_info_primary_tsi": "Gov. Tryon's expedition to Danbury, 1777",
         "type_of_resource_ssim": [
             "Cartographic"

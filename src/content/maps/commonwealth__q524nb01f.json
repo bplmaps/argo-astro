@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749852074639360,
+        "_version_": 1847512917094694912,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nb01f",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nb01f/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzVWElz2zgWvudXoHiZ7ipzkyxrmZhdiTLpTpftpGynZrlMQeQTiZgEGACUrH8/DyQhkdriJIeZuVAUgLd9eCtf//Zc5GQFUjHBr53QCxwCPBYJ4+m18/nxvTtxfotevS5EombmQfA8V7PnnPGnayfTupz5/nq99tZDT8jUD6fTqV/vOvaoYscODoIg9P9xe/MQZ1BQl3GlKY/BUhlZPbJcxF4qVr7Z8FdDZ6f00BsjlWIzVbO6ETHV9cZpanJky8hPqMT99lD96w7dsfesEid6RUgDg2Y6hw98KUilaArXTilZQeXGIQlTZU43N3QB+Xb53+1qzcHy4II/CKmjG1Dktd9b6pyqJUXIBA1TJKlILGRZv9wImZC5kHxN85zhEpC3DN+4KpEH+VKpr9VfKPmUsZwmkJcZo4RWpBDN2TuxgmIh4YKE4/G4VaCRZsz0+3YeM11vSrSc5hokR7hX4Bwq3miUnlbp5YI5LaCVWeK9C07zPp64/4kien+nPAWeASsuyHvJIJEszsibhBbkzypnlSIrwS3ilqjDSIpGlf7KI8iiFa/hWTuIpc6EZHpz7ZjrkZBTLWRn/fP9h60DsmTrZCt0zkWVo1v4LY1CT6Z5BS8n8FGcE80lmH+tKVbJ1hS/Z0vH3POIds3idPltc+w+A+Ubht8w5uC4zyeT8HIyDMfHb3Pn4RdknlGZYxh0126p/FoxdeY+7VprakI1YheOhxM3nASj/3dH0At0BMG1ZIvqZ5zBWPRxeQ9KVDIGUlBeqViyUl87G7zUaI7giFRSDNrYBmmPZMcKo09CF5a0SMv4uwBpBd3iXUlG85cDs0/o67QIgqvBVbifm1FLkCaH3NLSuk+t+f+wIeFgMLk6Y4i9sxP2oM4p4zat2lUTEHUqgaRT+NfDONEY/0+weYdbjReQrxXN2ZKBvHYYX4KUkJhY2haQDq+Op/XlNlJzzNIV1s6uJnbtXIgxJa6GU3ew+K5rsFQvht8S+EtJnei9RGCy1pqulh0juwY15pTZRrGY5u+guRXsSHq4Iyia5h9rcCIJSyELqs0ttDsW0965DgOEBriOwk6w4mtJ/koEJyoD0GR4SZ7J6IrEhddya4k6bBg3FRz0LSSMPiLqETYtKfhfSkhbosMjL6DXbLn8Gfov5eAcebt3AmTbY2nohMUFKYG72ONhr/lkQNKSxujtpKRYAL1tF6Zhj8U95AyWiKlYc7LYkIzGWSVBnSGZ0wL7NIr5I6kjC/stj4QTQnWvTdOi2RmMzM7vuahiUPqcMm1gxOgTxlgsBRiHYPrm6GZOTDIjYolMpcamp8DkEVPT440CNxxPpvg62EbrSeZNjXzMTKuIrwR/bbgfV0xViy8Q626g5rHKvq99aJmofh8pShZHO2Cw+Fdcb8gvd96f3q+u+wdTWPY2rnsPK5FXBpK6pR0Zc4euawAxXYL1Adf9GzYRG7IW8kkZ+LEJCGxBq2XtfKtV6KyZOuUnrKyziZeC1hsPksqvTx6knyOn/DAIBpdh0MMhw6RrpgDj67+DrcT99iSuoemA1drRrh+elZvoM2fGPR/Qm0B1z8sDAq4ZN7mj8S0MIzLHv1h6rJ9tye3JbvdxzoBWQqfFUPvCcdph3OgYDafeeDgcXrjjkRfiy1bq7khX7gHXb1zuCzVSaAZED+ZJYoqhPRsNL4KtKzXbP6RH3dtB8kGDLYKZUPpwuNrV8f7MdcMWCPTGZAFsDFNMU6ZjznMUwraDz3bgOjFy+fuqnNOPqXubhJK3OATXw/8sw8zUuLlCP8/jmG+jPi3G6OPB1XhEHH/HmSXoNHV70TKuJHMiy4HKJ6+thbEoCsHXgMNnVn9KwL2ZPwqmo6n/dTS45Isg3NaeLdMzglAxmrtCZyCdiEqTI7dXeYxB3n5h6F6KrUT268PRi7Cev6njB5MTecdWTO0u5oBLp8PoLp1Uo5L5wVcJGmM+UNeOaNIX48TEqGmtfhZdlLYv3AorJawYrH9chK+zqlhwyvLTwkwZQgdkbOliF8SWoH7CJt+y6Ms7CX9jKd5twszGUb+PTTfMVtAooGrZOYuBK6x4i43LY1dR/9ILfMc6vYLaOSSUUiRVHbX7PX/Loa3RppaZGt2uJgRbSWLYVDxBF6dk3iqBflhrQd7oZmA0Wt8J7pp1kDEOGuQhM03Lm5w9AblpGJJf5nPy9p/u3dx9ePOr7QD2rD8Ny8vNwhY3M/X/TpAnbnqtWJSbehHJFKpcU6lvaiARbpnsDzrNqhmWMaAfmqH1LaZWVPFTtUDwSBux2+x3eP6QXQ2t4GZIOhyfokEwCN0AB4npYxDOwsFsOPlXn32H/gj3zHzM+mHeW+pDzu04gRFGOcFQLfHWkx714cBhR5yPyznFmBK4nfYr0JEJDrWG/+oEBzx1InycGN8OBrhD69p5bTdhPLQfive//XSOOJFMbEN0hLJXZHfO2i6ZR/TqP1TdJZk=",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Wangenheim, Friedrich Adam Julius von",
             "Cornwallis, Charles Cornwallis, Marquis, 1738-1805"
@@ -109,14 +112,15 @@
         ],
         "subject_geographic_sim": [
             "Gloucester (county)",
+            "New Jersey",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.1333,39.7333]},\"properties\":{\"placename\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.1333,39.7333]},\"properties\":{\"placename\":\"Gloucester (county), NJ\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.1333,39.7333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Gloucester\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.1333,39.7333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\",\"county\":\"Gloucester\"}}"
         ],
         "subject_point_geospatial": [
             "39.7333,-75.1333"
@@ -126,7 +130,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:30:59Z",
         "system_modified_dtsi": "2023-09-15T14:47:35Z",
-        "timestamp": "2023-10-03T15:47:29.235Z",
+        "timestamp": "2025-10-31T15:46:58.262Z",
         "title_info_alternative_tsim": [
             "Billingsport jusqu'a Philadelphia"
         ],

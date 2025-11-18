@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749807147352064,
+        "_version_": 1847512899228008448,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:t722hs624",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/t722hs624/manifest",
@@ -60,7 +63,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Blaskowitz, Charles"
         ],
@@ -105,15 +108,16 @@
         "subject_geographic_sim": [
             "Massachusetts",
             "North and Central America",
-            "Rhode Island"
+            "Rhode Island",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.5,41.6667]},\"properties\":{\"placename\":\"Rhode Island, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.8333,42.25]},\"properties\":{\"placename\":\"Massachusetts, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.5,41.6667]},\"properties\":{\"placename\":\"Rhode Island\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.8333,42.25]},\"properties\":{\"placename\":\"Massachusetts\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.5,41.6667]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Rhode Island\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.8333,42.25]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Massachusetts\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.5,41.6667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Rhode Island\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.8333,42.25]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Massachusetts\"}}"
         ],
         "subject_point_geospatial": [
             "41.6667,-71.5",
@@ -125,7 +129,7 @@
         ],
         "system_create_dtsi": "2016-11-22T20:02:10Z",
         "system_modified_dtsi": "2023-09-15T14:47:27Z",
-        "timestamp": "2023-10-03T15:46:46.388Z",
+        "timestamp": "2025-10-31T15:46:41.223Z",
         "title_info_alternative_tsim": [
             "Sea coast from Boston Bay to the light house near Rhode Island"
         ],

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750002657492992,
+        "_version_": 1847512978152226816,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z090m",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z090m/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Brehm, Dietrich",
             "Sowers, Thomas",
@@ -122,15 +125,16 @@
             "Military art and science--Ontario, Lake (N.Y. and Ont.)--Maps, Manuscript--Early works to 1800",
             "Ontario, Lake (N.Y. and Ont.)--Maps, Manuscript--Early works to 1800"
         ],
-        "subject_geo_other_ssm": [
-            "Ontario, Lake"
-        ],
         "subject_geographic_sim": [
+            "North and Central America",
             "Ontario, Lake"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.0,43.666]},\"properties\":{\"placename\":\"Ontario, Lake\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.0,43.666]},\"properties\":{\"placename\":\"Ontario, Lake, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-79.883333,42.933333],[-76.033333,42.933333],[-76.033333,44.35],[-79.883333,44.35],[-79.883333,42.933333]]]},\"bbox\":[-79.883333,42.933333,-76.033333,44.35]}"
+        ],
+        "subject_hiergeo_geojson_ssm": [
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.0,43.666]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Ontario, Lake\"}}"
         ],
         "subject_point_geospatial": [
             "43.666,-78"
@@ -142,7 +146,7 @@
         ],
         "system_create_dtsi": "2016-11-17T22:54:43Z",
         "system_modified_dtsi": "2023-09-15T14:48:01Z",
-        "timestamp": "2023-10-03T15:49:52.842Z",
+        "timestamp": "2025-10-31T15:47:56.491Z",
         "title_info_primary_tsi": "PLAN OF LAKE ONTARIO Copied and inlarged from a French Original, the North Shore corrected in some places, likewise the South from Oswego to Niagara by a Sketh of Cap. Sowers",
         "type_of_resource_ssim": [
             "Cartographic"

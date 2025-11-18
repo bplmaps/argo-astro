@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749838417985536,
+        "_version_": 1847512911647342592,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n902h",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n902h/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Wilkinson, William Cumberland"
         ],
@@ -107,15 +110,16 @@
             "Saratoga County (N.Y.)--History--Revolution, 1775-1783"
         ],
         "subject_geographic_sim": [
+            "New York",
             "North and Central America",
             "Saratoga (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.85,43.1]},\"properties\":{\"placename\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.85,43.1]},\"properties\":{\"placename\":\"Saratoga (county), NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.85,43.1]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Saratoga\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.85,43.1]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Saratoga\"}}"
         ],
         "subject_point_geospatial": [
             "43.1,-73.85"
@@ -126,7 +130,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:15:06Z",
         "system_modified_dtsi": "2023-09-15T14:47:33Z",
-        "timestamp": "2023-10-03T15:47:16.211Z",
+        "timestamp": "2025-10-31T15:46:53.067Z",
         "title_info_alternative_tsim": [
             "Br\u00e6mus Heights on Hudson's River"
         ],

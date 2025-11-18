@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749955636199424,
+        "_version_": 1847512962555707392,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nj992",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nj992/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_date_tsim": [
             "This date is inferred."
         ],
@@ -98,16 +101,17 @@
             "Peekskill (N.Y.)--Buildings, structures, etc--Maps, Manuscript--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "New York",
             "North and Central America",
             "Peekskill",
             "United States",
             "Westchester (county)"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9167,41.2833]},\"properties\":{\"placename\":\"Peekskill\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9167,41.2833]},\"properties\":{\"placename\":\"Peekskill, NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9167,41.2833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Westchester\",\"city\":\"Peekskill\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9167,41.2833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Westchester\",\"city\":\"Peekskill\"}}"
         ],
         "subject_point_geospatial": [
             "41.2833,-73.9167"
@@ -118,7 +122,7 @@
         ],
         "system_create_dtsi": "2017-05-26T15:08:27Z",
         "system_modified_dtsi": "2023-09-15T14:47:55Z",
-        "timestamp": "2023-10-03T15:49:07.999Z",
+        "timestamp": "2025-10-31T15:47:41.617Z",
         "title_info_alternative_tsim": [
             "Kings-ferry, Peaks-hill, Crompond et Hunts-taverne"
         ],

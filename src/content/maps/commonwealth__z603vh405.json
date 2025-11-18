@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749531045756928,
+        "_version_": 1847512837332664320,
         "admin_set_ark_id_ssi": "commonwealth:4t64hr20k",
         "admin_set_name_ssi": "Boston Athenaeum, Cartographic Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:4t64hr20k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Boston Athenaeum, Cartographic Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vh405",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vh405/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "L'Isle, Guillaume de, 1675-1726",
             "L'Isle, Joseph Nicolas de, 1688-1768",
@@ -109,13 +112,14 @@
             "North America--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
-            "North America"
+            "North America",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America, North and Central America\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"area\":\"North America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"North America\"}}"
         ],
         "subject_point_geospatial": [
             "58.166,-104.466"
@@ -125,7 +129,7 @@
         ],
         "system_create_dtsi": "2016-11-22T19:56:39Z",
         "system_modified_dtsi": "2023-09-15T14:47:10Z",
-        "timestamp": "2023-10-03T15:42:23.078Z",
+        "timestamp": "2025-10-31T15:45:42.195Z",
         "title_info_primary_tsi": "Carte d'une partie de l'Ame\u0301rique Septentrionale",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750017002012672,
+        "_version_": 1847512983582801920,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z172w",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z172w/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
             "Royal United Services Institute for Defence and Security Studies"
@@ -118,18 +121,19 @@
             "Connecticut",
             "New York",
             "North and Central America",
-            "Pennsylvania"
+            "Pennsylvania",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.3333,41.2667]},\"properties\":{\"placename\":\"Connecticut (river), North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"placename\":\"New York, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.3333,41.2667]},\"properties\":{\"placename\":\"Connecticut (river)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"placename\":\"New York\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-73.716667,41.766667],[-71.466667,41.766667],[-71.466667,43.95],[-73.716667,43.95],[-73.716667,41.766667]]]},\"bbox\":[-73.716667,41.766667,-71.466667,43.95]}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"placename\":\"Pennsylvania, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"placename\":\"Pennsylvania\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.3333,41.2667]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Connecticut (river)\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"New York\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Pennsylvania\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.3333,41.2667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Connecticut (river)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\"}}"
         ],
         "subject_point_geospatial": [
             "41.2667,-72.3333",
@@ -144,7 +148,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:14:22Z",
         "system_modified_dtsi": "2023-09-15T14:48:04Z",
-        "timestamp": "2023-10-03T15:50:06.522Z",
+        "timestamp": "2025-10-31T15:48:01.669Z",
         "title_info_primary_tsi": "[Map showing Fort William Henry, Fort Carillon, Fort St Frederic, and the upper reaches of the Connecticut River]",
         "type_of_resource_ssim": [
             "Cartographic"

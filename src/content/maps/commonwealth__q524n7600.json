@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749819758575616,
+        "_version_": 1847512904217133056,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -53,7 +53,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n7600",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n7600/manifest",
@@ -68,7 +71,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 879"
         ],
@@ -104,13 +107,14 @@
             "Cabot",
             "North and Central America",
             "United States",
+            "Vermont",
             "Washington (county)"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.3,44.4]},\"properties\":{\"placename\":\"Cabot\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.3,44.4]},\"properties\":{\"placename\":\"Cabot, VT\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.3,44.4]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Washington\",\"city\":\"Cabot\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.3,44.4]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Vermont\",\"county\":\"Washington\",\"city\":\"Cabot\"}}"
         ],
         "subject_point_geospatial": [
             "44.4,-72.3"
@@ -120,7 +124,7 @@
         ],
         "system_create_dtsi": "2017-05-25T15:51:51Z",
         "system_modified_dtsi": "2023-09-15T14:47:30Z",
-        "timestamp": "2023-10-03T15:46:58.416Z",
+        "timestamp": "2025-10-31T15:46:45.981Z",
         "title_info_primary_tsi": "The Above is a plan of the town of Cabot, State of Vermont",
         "type_of_resource_ssim": [
             "Cartographic"

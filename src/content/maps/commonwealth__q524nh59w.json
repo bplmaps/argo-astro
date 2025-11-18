@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749938106105856,
+        "_version_": 1847512955703263232,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nh60n",
         "extent_tsi": "1 ms. map ; 52 x 74 cm.",
         "filenames_ssim": [
-            "lh000947",
-            "commonwealth:q524nh59w_metadata"
+            "commonwealth:q524nh59w_metadata",
+            "lh000947"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nh59w",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nh59w/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Pintado, Vicente Sebastia\u0301n, 1774-1829"
         ],
@@ -113,15 +116,16 @@
             "Manuscript maps"
         ],
         "subject_geographic_sim": [
+            "Louisiana",
             "North and Central America",
             "United States",
             "West Feliciana (county)"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-91.3667,30.85]},\"properties\":{\"placename\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-91.3667,30.85]},\"properties\":{\"placename\":\"West Feliciana (county), LA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-91.3667,30.85]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"West Feliciana\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-91.3667,30.85]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Louisiana\",\"county\":\"West Feliciana\"}}"
         ],
         "subject_point_geospatial": [
             "30.85,-91.3667"
@@ -133,7 +137,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:46:02Z",
         "system_modified_dtsi": "2023-09-15T14:47:53Z",
-        "timestamp": "2023-10-03T15:48:51.281Z",
+        "timestamp": "2025-10-31T15:47:35.082Z",
         "title_info_primary_tsi": "Mapa de las locaciones del Distrito de la Na Feliciana",
         "type_of_resource_ssim": [
             "Cartographic"

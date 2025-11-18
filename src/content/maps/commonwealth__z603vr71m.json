@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750149919506432,
+        "_version_": 1847513024010649600,
         "abstract_tsi": "Published in London by William Faden, this 1776 map of the Lake Champlain region is the earliest plan of the first naval battle of the Revolutionary War that accurately depicts the positions of the fleets during the attack, and their movements to and from the action. The map displayed here is the original issue, without the account of the battle below the map.",
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
@@ -10,7 +10,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -38,13 +38,16 @@
         "exemplary_image_ssi": "commonwealth:z603vr72w",
         "extent_tsi": "1 map : hand col. ; 25 x 42 cm.",
         "filenames_ssim": [
-            "commonwealth:z603vr71m_metadata",
-            "06_01_008217"
+            "06_01_008217",
+            "commonwealth:z603vr71m_metadata"
         ],
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vr71m",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vr71m/manifest",
@@ -60,7 +63,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Faden, William, 1749-1836"
         ],
@@ -108,15 +111,16 @@
         "subject_facet_ssim": [
             "Champlain, Lake--History--Revolution, 1775-1783--Maps--Early works to 1800"
         ],
-        "subject_geo_other_ssm": [
-            "Champlain, Lake"
-        ],
         "subject_geographic_sim": [
-            "Champlain, Lake"
+            "Champlain, Lake",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3333,44.5]},\"properties\":{\"placename\":\"Champlain, Lake\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3333,44.5]},\"properties\":{\"placename\":\"Champlain, Lake, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-73.45,44.55],[-73.2,44.55],[-73.2,44.75],[-73.45,44.75],[-73.45,44.55]]]},\"bbox\":[-73.45,44.55,-73.2,44.75]}"
+        ],
+        "subject_hiergeo_geojson_ssm": [
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3333,44.5]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Champlain, Lake\"}}"
         ],
         "subject_point_geospatial": [
             "44.5,-73.3333"
@@ -126,7 +130,7 @@
         ],
         "system_create_dtsi": "2016-11-20T05:16:19Z",
         "system_modified_dtsi": "2023-09-15T14:48:22Z",
-        "timestamp": "2023-10-03T15:52:13.282Z",
+        "timestamp": "2025-10-31T15:48:40.225Z",
         "title_info_primary_tsi": "The attack and defeat of the American fleet under Benedict Arnold, by the King's fleet commanded by Capt. Thos. Pringle, upon Lake Champlain, the 11th of October, 1776",
         "type_of_resource_ssim": [
             "Cartographic"

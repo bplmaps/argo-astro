@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749546212360192,
+        "_version_": 1847512842929963008,
         "admin_set_ark_id_ssi": "commonwealth:z603vh48c",
         "admin_set_name_ssi": "Harvard Map Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh48c"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Harvard Map Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vh872",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vh872/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Le Rouge, Georges-Louis",
             "De Brahm, John Gerar William, 1717-approximately 1799",
@@ -123,16 +126,17 @@
             "Georgia",
             "Hudson River",
             "North and Central America",
-            "South Carolina"
+            "South Carolina",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.0,32.0]},\"properties\":{\"placename\":\"Georgia, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,34.0]},\"properties\":{\"placename\":\"South Carolina, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.0,32.0]},\"properties\":{\"placename\":\"Georgia\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,34.0]},\"properties\":{\"placename\":\"South Carolina\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Hudson River\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.0,32.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Georgia\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,34.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"South Carolina\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Hudson River\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.0,32.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Georgia\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,34.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"South Carolina\"}}"
         ],
         "subject_point_geospatial": [
             "32,-84",
@@ -147,7 +151,7 @@
         ],
         "system_create_dtsi": "2016-11-20T02:14:05Z",
         "system_modified_dtsi": "2023-09-15T14:47:11Z",
-        "timestamp": "2023-10-03T15:42:37.542Z",
+        "timestamp": "2025-10-31T15:45:47.533Z",
         "title_info_alternative_label_ssm": [
             "Inset title:"
         ],

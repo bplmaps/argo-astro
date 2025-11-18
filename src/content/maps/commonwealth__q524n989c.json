@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749850167279616,
+        "_version_": 1847512917125103616,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n989c",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n989c/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Wiederholdt, Andreas, 1752?-"
         ],
@@ -107,15 +110,16 @@
         ],
         "subject_geographic_sim": [
             "Mercer (county)",
+            "New Jersey",
             "North and Central America",
             "Trenton",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.7333,40.2167]},\"properties\":{\"placename\":\"Trenton\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.7333,40.2167]},\"properties\":{\"placename\":\"Trenton, NJ\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.7333,40.2167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Mercer\",\"city\":\"Trenton\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.7333,40.2167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\",\"county\":\"Mercer\",\"city\":\"Trenton\"}}"
         ],
         "subject_point_geospatial": [
             "40.2167,-74.7333"
@@ -126,7 +130,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:29:04Z",
         "system_modified_dtsi": "2023-09-15T14:47:35Z",
-        "timestamp": "2023-10-03T15:47:27.416Z",
+        "timestamp": "2025-10-31T15:46:58.291Z",
         "title_info_primary_subtitle_tsi": "given on the 26th of December 1776 betwixt the American troops under command of General Washington, and three Hessian regiments under command of Colonell Rall, in which the latter a part surrendert themselves prisoner of war",
         "title_info_primary_tsi": "Sketch of the engagement at Trenton",
         "type_of_resource_ssim": [

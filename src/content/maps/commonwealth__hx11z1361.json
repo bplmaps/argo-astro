@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750010658127872,
+        "_version_": 1847512980893204480,
         "abstract_tsi": "Shows Lake Ontario and the River Saint Lawrence as far as lower Montreal (although the title page suggests detail extends eastwards as far as Three Rivers).",
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
@@ -10,7 +10,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z1361",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z1361/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Brasier, William",
             "La Broquerie, Pierre Boucher de",
@@ -127,18 +130,19 @@
             "Ontario, Lake (N.Y. and Ont.)--Maps, Manuscript--Early works to 1800",
             "Saint Lawrence River--Maps, Manuscript--Early works to 1800"
         ],
-        "subject_geo_other_ssm": [
-            "Ontario, Lake",
-            "Saint Lawrence River"
-        ],
         "subject_geographic_sim": [
+            "North and Central America",
             "Ontario, Lake",
             "Saint Lawrence River"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.0,43.666]},\"properties\":{\"placename\":\"Ontario, Lake\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.0,49.5]},\"properties\":{\"placename\":\"Saint Lawrence River\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.0,43.666]},\"properties\":{\"placename\":\"Ontario, Lake, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.0,49.5]},\"properties\":{\"placename\":\"Saint Lawrence River, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-79.966667,43.083333],[-73.8,43.083333],[-73.8,45.5],[-79.966667,45.5],[-79.966667,43.083333]]]},\"bbox\":[-79.966667,43.083333,-73.8,45.5]}"
+        ],
+        "subject_hiergeo_geojson_ssm": [
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.0,43.666]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Ontario, Lake\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.0,49.5]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Saint Lawrence River\"}}"
         ],
         "subject_point_geospatial": [
             "43.666,-78",
@@ -151,7 +155,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:04:51Z",
         "system_modified_dtsi": "2023-09-15T14:48:03Z",
-        "timestamp": "2023-10-03T15:50:00.472Z",
+        "timestamp": "2025-10-31T15:47:59.105Z",
         "title_info_primary_tsi": "Lake Ontario & River S.t Laurence from the Lake to Fort William Augustus in Three Rivers, this was taken from a French Draft that was on Board the Prise Williamson belonging to Monsr La Broquerie [middle sheet]",
         "type_of_resource_ssim": [
             "Cartographic"

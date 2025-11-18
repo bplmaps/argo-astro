@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749854791499776,
+        "_version_": 1847512918226108416,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nb17b",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nb17b/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1287"
         ],
@@ -97,14 +100,15 @@
         "subject_geographic_sim": [
             "Hudson (county)",
             "Jersey City",
+            "New Jersey",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.0667,40.7167]},\"properties\":{\"placename\":\"Jersey City\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.0667,40.7167]},\"properties\":{\"placename\":\"Jersey City, NJ\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.0667,40.7167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Hudson\",\"city\":\"Jersey City\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.0667,40.7167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\",\"county\":\"Hudson\",\"city\":\"Jersey City\"}}"
         ],
         "subject_point_geospatial": [
             "40.7167,-74.0667"
@@ -114,7 +118,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:34:50Z",
         "system_modified_dtsi": "2023-09-15T14:47:36Z",
-        "timestamp": "2023-10-03T15:47:31.826Z",
+        "timestamp": "2025-10-31T15:46:59.340Z",
         "title_info_primary_tsi": "Plan of Paulus's Hook and fortifications",
         "type_of_resource_ssim": [
             "Cartographic"
