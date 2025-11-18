@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750192806264832,
+        "_version_": 1847513036607193088,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vt76d",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vt76d/manifest",
@@ -60,7 +63,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Leach, J."
         ],
@@ -109,14 +112,15 @@
         ],
         "subject_geographic_sim": [
             "New Jersey",
-            "North and Central America"
+            "North and Central America",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"placename\":\"New Jersey, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"placename\":\"New Jersey\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-74.8,40.45],[-74.15,40.45],[-74.15,40.7],[-74.8,40.7],[-74.8,40.45]]]},\"bbox\":[-74.8,40.45,-74.15,40.7]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"New Jersey\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\"}}"
         ],
         "subject_point_geospatial": [
             "40,-75"
@@ -128,7 +132,7 @@
         ],
         "system_create_dtsi": "2016-11-20T06:33:32Z",
         "system_modified_dtsi": "2023-09-15T14:48:26Z",
-        "timestamp": "2023-10-03T15:52:54.182Z",
+        "timestamp": "2025-10-31T15:48:52.238Z",
         "title_info_primary_tsi": "Plan of the situation of the American & British armies, June 15st 1777",
         "type_of_resource_ssim": [
             "Cartographic"

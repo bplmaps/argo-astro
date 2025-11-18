@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1792996960049823744,
+        "_version_": 1847512900251418624,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,13 +37,16 @@
         "exemplary_image_ssi": "commonwealth:t722hs76g",
         "extent_tsi": "1 map ; 72 x 209 cm.",
         "filenames_ssim": [
-            "gan00021an011010Z",
-            "commonwealth:t722hs756_metadata"
+            "commonwealth:t722hs756_metadata",
+            "gan00021an011010Z"
         ],
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:t722hs756",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/t722hs756/manifest",
@@ -116,7 +119,7 @@
         ],
         "system_create_dtsi": "2016-11-22T20:13:16Z",
         "system_modified_dtsi": "2023-11-04T20:57:59Z",
-        "timestamp": "2024-03-08T21:59:10.194Z",
+        "timestamp": "2025-10-31T15:46:42.199Z",
         "title_info_primary_tsi": "The south west coast of the peninsula of Nova Scotia",
         "type_of_resource_ssim": [
             "Cartographic"

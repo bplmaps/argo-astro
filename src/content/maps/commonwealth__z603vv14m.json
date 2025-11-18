@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750199503519744,
+        "_version_": 1847513038848000000,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vv14m",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vv14m/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Brion de la Tour, Louis, fl. 1756-1803",
             "Jaillot, Alexis Hubert, 1632?-1712",
@@ -116,14 +119,15 @@
             "North America--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
-            "North America"
+            "North America",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-150.0,0.0],[20.0,0.0],[20.0,80.0],[-150.0,80.0],[-150.0,0.0]]]},\"bbox\":[-150.0,0.0,20.0,80.0]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"area\":\"North America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"North America\"}}"
         ],
         "subject_point_geospatial": [
             "58.166,-104.466"
@@ -133,7 +137,7 @@
         ],
         "system_create_dtsi": "2016-11-20T06:52:39Z",
         "system_modified_dtsi": "2023-09-15T14:48:28Z",
-        "timestamp": "2023-10-03T15:53:00.569Z",
+        "timestamp": "2025-10-31T15:48:54.375Z",
         "title_info_primary_subtitle_tsi": "tire\u0301e des relations de toutes ces nations",
         "title_info_primary_tsi": "Amerique Septentrionale divise\u0301e en ses principales parties, ou sont distingue\u0301s les vns des autres les estats suivant qu'il appartiennent presentemet aux Franc\u0327ois, Castillans, Anglois, Suedois, Danois, Hollandois",
         "type_of_resource_ssim": [

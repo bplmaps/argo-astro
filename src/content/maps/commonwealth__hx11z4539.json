@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750067816005632,
+        "_version_": 1847513006668251136,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z454k",
         "extent_tsi": "1 map on 3 sheets : manuscript pen and ink over pencil ; 111 x 50 cm",
         "filenames_ssim": [
-            "k_top_122_70",
-            "commonwealth:hx11z4539_metadata"
+            "commonwealth:hx11z4539_metadata",
+            "k_top_122_70"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z4539",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z4539/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJzVGW1T2zj6e3+Fxl+2O4PtOCFAcsUdCFuG3dAyDd176ezcKLZiq8iSR5KB3K+/R7Kc2AlJWXrTvXamBKTn/f1R3rx9LBi6J1JRwU+9KOh5iPBEpJRnp96n23f+ifc2fvWmEKkamx8I4LkaPzLK7069XOtyHIYPDw/BwyAQMguj0WgU2luvAVX0KcB+rxeF/7iezpKcFNinXGnME9JgGV4dNCaSIBP3obkI7wfeWuhBcAxYio6VJTUVCdb2Yjc2euLK8E+xhHsHZD/9gX8cPKrUi18hVJtBU83IFV8IVCmckVOvlLTAcumhlKqS4eUUzwlbHf/bnVoKHRrx52tcIrFAM0y5RjNaCK4QSIF+JXdLxtCVYvCX+uNN2EIycoRdQdaycVwQpJelkQrsIzhmHb7m/gZLHZ9VqhSVzIg8APZFRZgjuoJoYUlR8+2e3BJZOF6aPGoP4UrnQlK9PPVA8UQShrWQrfNPH69WXqHpyvL34LF5xcBWocNR4F7MKvJ8hDDRmRdPQHCRSVzmRDp9GkmdPmFHoZbOL7DhJYFAJgfo6urqAP0GGWN8eSkJ1ugc1AWn7rFpc+Y4pVgTL46OByd+dNLv/eDOWBTCi98JWRCJxAP/rs74/X/mi6M++GLwo/si5dKLLwQXL3eC0eXD4iNRUDESggrMK5VIWupTb0lUO+1o0tSmDsqaVEa4JG2DZEVWJn/KFI7RNXhJUsyeb5JNxFBnRa931D+KNks3SEmkiTQo0MppZCX/P1Yk6vdPjvYo0vhshz4gc0Z5002aU6pUZdpyDK1pw8Orqxa4yZwrOCdpa4p4GCSpXnjojiwv4N7FDJS6kaO0xmpFYFeemjx0w6yClttm2ZztSzqqxNFg5Pfnf8o9Ddaz3dIghIRDL/qFZ4yq3KnTFrOlZVujWp8yXyqaYHZBanfBJNOxMFhFY/bBWieWZAFFFmsNBnc3jU07cC0CYBvCdRxBFsPswdEAqZwQrdC4ldeoJNwOIjDHIQGTljlIKEN/Q1EUoUc07KGkcKwcxXbUcAhMTvQ1SSm+BZ/EMAllJPxSkqyJni2QZ+Brulh8C/6Xsr8P3d3t8IBrFUKT+EaKtErMBUoJ9Bam0EKKAk2qojCt57XOqYQUSKmF8VEpyT0VlWqOFBg2EVKSRP8cNCXXUO7ymZWEMdfL1gOb44VTRtDn+ticUr7iHwJ0tgKHi5ZnDWFzZLoihCe6rhSpCgQzM2YiqwhIa4oemgT9CM3nwQAOIMyINAEAtDFiBOLNSXEtFYDLDEui0QW+p4AI2XyA+iP0a8WWKBoNh3/sUfEjYZQsIAZhTEAlTaBlQUUDRB+EliCfiUIIcqI0AiZYmZ9gdTAL9HaS7rMe0FTIO0MzcCYxNuyja8oYUUhIFPXgH1oQ7X2VBEa8KuZggRRlkqZILZUmxR60v1MNgoOU4GPYRe4JSkRRYqWQFAqahkYJZAzowchCgzAU/jK2hR4NiFognTd3C/t7CdG7h987uz+0nIw5nOMm0lzy7iFwBWk+FzIFtwJ3WxCsS4xQs2YzCVALjOHkzkYmrwvJoruzgPsqvqAcIoykb79mYPAvFKDXMDDqenarh7nGErVZDNULwkiG2U8KWVh3DzOGzt/uS6RbsymlJhZSiSHQbkBGu3jpoFbup6f2LqOcoT8RWFlXWLEoHiP94KwEPZs6oFUCAaDJoAN0I8Et8HkBPEEr+I3oJDgw6to0NWgZadoqZlYELcrWSSIgXutKA1Uew4KbNlpP6VxC1zHsckg7mPYI8P0CibLsGjE3/6EeNeyngqeCHyDYM0bPsplz8POMlWwZqzY5noOXEAzVvQMDipFqsjJCg3BoCqINfYwKysgY+tIigEYTmY9juA2etrQ5aAV+YQ2f5DCQwqeREoYh7n514F0Lp845DfVuXdxtHzdrKEgzUkD+GupQpUpIFDqnDCYML/5cb9at2r2jFKpq/gXc3J5ZWKLyr48rzT0lKnREVPehQUBRjTsPDC5DX1/i4Gffr0N1PR76/i9YQv19EPJOGYdEJ71mBaqJrTul4/j99OjWmB9RA1u33kErgck9wd9LBZ3xHRrY8TXIoKUvA5JWoYXcmnefgAqjqNfvnYy2Xr2wvOvova5wm8q/tx0KcvBaQIOFHFptJiuMFp2cwiYjE5u1lxsQDUwiKq6X8SVb8mbfd0fbYHIZf+LUTM4zk8OqDS+3EEyDNlPu+1UvmpgWDsKfFVabFXoD2SFAbcQ+lYerbcoCdJBsbYldHW28bc/am/s+uzjpW+u52lQM2jnlRv94EMHId3R84J9EweBkMFhptAZp892i+pV4fIFERpLDw+MhAtFgUR8dInPSPxqeDMzRYNg7+YuktM0rrgdLXJZSPMKGoYkZeMeHvYPhsMnWGvBFEtkXHJJeQX9xzSYXSm8/I6939u7rctPJmkFhspolNt+Td7woh5ti7JONqo9uSyDp+dJD9juAcQ6rw6qKkMeSwSQfzFlQ3YXn098/RePpbPLhxj+bTsfn02kPhvLDUX8Y9Y68cM2MpmY+XlAznVpelaRebIgqoAr1JnDbLkzZkFkPBDOd2y8Z4G4cDnuj4SjMH6PoP4fD1aPDmmjrfcF9ddA2cbMNNl8rbJp1Y2mctkg0O377aCefSrKt7xNwkhClTj1RF3SYUEx5Ma8b36o9cNtk3jCzuyp5eDmLUOewLnFYi3czM+MPxAylCx+mN7og6ht0ChsSXX47zV9rOoExuN7PN0PVyJCYp2PY3GoBlOXNKKxtCvr7fOnzxFc4PAx6odcEpdnsoC9IUq6eBzabo6PgxbdmZDfdHZnRvT61ey4yZCpuViyMJk4ISF0rBTrTWtJ5ZaV+L7hvzolMYGNGs9wsxmeM3pnVwBJErycTdP5P//3En52t1qMN7Xeb5flqSZrlZtp5L9AdN4t8IsqlPTQjMYhssdRXJZBmYU433yDr04mJfK5n9XvyOVRCEPGmmoPxNlLxKfhtcta0gpsXye23yrjf60d+b+QPerf9/rg/HPdH/+qSb+E/QT3HPCMvpr3C3qbsHvQgw2CDhVSFcYukHeztJ7/mkfHDwq1OIE63YTzxiApSk7/+ERV+7HhA3XpC3dbOvZiun/Fm7ivezS9kWiBejHHSfFPyBGqnMa6j1R2ZH/Gr/wL1x8e6",
         "name_facet_ssim": [
             "Auspourger, Samuel",
             "George, III, King of Great Britain, 1738-1820",
@@ -121,17 +124,18 @@
         ],
         "subject_geographic_sim": [
             "Fort Frederica National Monument",
+            "Georgia",
             "Glynn (county)",
             "North and Central America",
             "Saint Simons Island",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.3833,31.2167]},\"properties\":{\"placename\":\"Fort Frederica National Monument (park)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.3833,31.2167]},\"properties\":{\"placename\":\"Fort Frederica National Monument (park), GA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-81.4475,31.00694],[-81.26583,31.00694],[-81.26583,31.35083],[-81.4475,31.35083],[-81.4475,31.00694]]]},\"bbox\":[-81.4475,31.00694,-81.26583,31.35083]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.3833,31.2167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Glynn\",\"island\":\"Saint Simons Island\",\"other\":\"Fort Frederica National Monument (park)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.3833,31.2167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Georgia\",\"county\":\"Glynn\",\"island\":\"Saint Simons Island\",\"other\":\"Fort Frederica National Monument (park)\"}}"
         ],
         "subject_point_geospatial": [
             "31.2167,-81.3833"
@@ -143,7 +147,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:27:54Z",
         "system_modified_dtsi": "2023-09-15T14:48:14Z",
-        "timestamp": "2023-10-03T15:50:54.982Z",
+        "timestamp": "2025-10-31T15:48:23.686Z",
         "title_info_primary_tsi": "[Map of Saint Simons and Jekyll Islands]",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750117953667072,
+        "_version_": 1847513016623431680,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:6108vv56q",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/6108vv56q/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJztWVtv47YSft9fMdDTLhBdbCdx7LPRInF32wBxNoiT0/YURUFLtMSNTKokZcf/vkNakiVfknQXpwWKvjg2yblyLh8n7z88zTNYUKmY4OdOxwscoDwSMePJufNw/8k9cz6Eb97PRayG5gPwPFfDp4zxx3Mn1Tof+v5yufSWPU/IxO8MBgPf7jrVUcX2HewGQcf/aXw9iVI6Jy7jShMe0YrKyGqRZSLyErHwzYa/6DkbpXteH6kUGyrL6lpERNuNw9SwZ8vIj4nE/fKQ/ev23L73pGInfAOwdoNmOqNXfCagUCSh504u2ZzIlQMxU3lGVtdkSrN6+bdy1XJo8Qhvry9uQMxApxRuPv4Inz7f3QPRcHt1fz+5fLj7/ge4EQs6n1IJnf7J4L3fIDb6+G2FNjpyMqegV7nRDv0kOMla8s3+LZE6nDwyzqk8gh9ZljEyL1nW+3toSr4x0dQJO/0gcDv9s+AZQinW6rZX7qmcl6w0fdIOkEKnQjK9OnfQb5GkGdFCNtYf7q7qS2VxfXELvPBpkaGr/ZJGYXSQrKCvJ/Bnc+GEn4Sco6vFEj1S2lNpWtrjtwxq2Pwtrh8LzmqB/zrQmPR5dkeVKGREwxE6QySS5CmLqoBvn6gpE8olbbohmSd59KccUAoaY3BLRrLXO2Kb0NfJPAhOu6ed7bqAWlJpgmJMclVaZDXfGILKJoxXKV2tIo9oKw7s0nYghL/cmmVTWXIp4iIy5RC40MBiyjWbMRr/WgquGbTupyGplFNMM6ZSKsNf1izxlg8wrE82yJlShanu4VzwrbustxrHTWkZSYqfcaMbLXtRrGcOPNLVd7h17qwoXs/vBcmMAvLcYXxGpaSxqUp1sWzwakRc28FrqRnhSYEFvalJtfZcrjElTnsDtzv9U4FWUb06wCoCn/LECT/yxLi5NKepZsPKpkXlPaYrxSKSfUdVJFluAqPlePSKJtln651Q0hnmM9HmGsqdyqmtcw0G6BsMiLADc5IDBt0xYChQrWAI8EUwTuMj3OLFWjrklAN2XUC4AEumU1ia9IlEhokN/wE4HsATnAYQVX2p5N8MLY4UnOoxjRm5xxsKsesm1P+S06QKsZ0jr6DHqJ59C/2XvPsceZUt+++j7BRC0/COZozO0I1YVGG6wi/EpIN1G/5MSZQWEhe8qpYaojaLCdIqsCgBPQ2KzXP8pgopRYFcEHAUObYqyOhMv8gmoxgPmGQmDZ/lhrGRvswOq8mMIf2CUaNjikyS1AIijD1tuGHNFEu7YmLKRgn+YLbLgELfUZgSCW/XX0mOHJ/wCjTNVtAZdrrBu2eUGIl8ZYRcxDGMFfR6R91ex7u58U49uABsUxlEYo5IThmfz0xYrgP6qAxncCEjLDaxjqCXcg/Gm/AmHIVYMGpkoBnolgjjV9p7mGKRfTShfwTOD3idyAzBngQt4JrRQnslMIASKMCdB5j2nrT3zhTMCDpCGladsz4WknUmMY3tJ0Nmb/FYieoqFh/eeXCHW4h157npD5dYrLCMwLhQtJhvtFxfHtxKqhRiicc1BVKicgZ4CytM0nxdpFEFTOWIZYdd3UKN+EgYvO7kvTHUfAX8WxX4/VJUMf1CI90szVmk0percrXPqPJLJqqN1kXOIgNuTKtbvy5c95ZyrlbZgnBGXNdswi3T2nVNWz9qhIHrfiQSg3Ep5KMyDuycBRVcXnPe1INS/F9n1JhlWMklJoHJNrxTFTG8SfpPsa/WG97eEu/d/197nfADytte7iVYP1cejQvfntxp/ntO+f2g0xt0+y3zUqwMCPJT0z2+pxWoaqPDCCuyXoUXWA6SlPJVaUa5vHtUrsIHrB+Y0BMsW1Q1z8sdAgR+3DTjG3RxamNnZGobyeACHwGoV01enWwxUEZE2Iyyyst2oy0MXRmaW1TTQiYV6rGrTdj6nE9KRo3HhNo2SEjsrMbu8DjwjnvYDNz+wBuc9Xq1JZsjTbk7XF+Il6/QyD0LvKADVrFB57QPdiE4HRwf28Xj7snfo6Rtu+Fkf/M96ta5tD73VQrZNyaNrzStMHgqlN6dp2zeS+0xS9XkrtlUmlI3wrZO7aNoe6ByYKTib6vxnG5M3VFsU6aIxpcrB+wwbJgimK5zXFETpTZSF1R508wrHv2ri/Hkt/8+dIfmS3AcuEHQDbr93iBw/I28+sElS3EI/pzQ8FXIGDu1V2JzhC342FpSkunUDtxwb+ifBIOTgX/aCc4Wi5PT3yuEWjNtvIbKMVrrFVii1WrEtu3ZLVB73WBRvUiaSwflFDLbma2RKEIscu6IdcVFxGHqin3ufqP1KG1beCUsl9QA068X4eu0mE85YdlhYQbFYNgwNnPxacRmVH2DTX7Foi3voPvXlo4Ej5nFqdvRanSIzPMZI3WtgLKyM4ZAVmHvna5cHrmK+Mde4DtVUCpaAcR6ALE9Bik5lBDPtF8D8crV2MB/MGzwTYGxTmBUKoHZa7WAC60lmxZW6xsEZGYd344IfmGCuUXhImOPFEPTMoS3oxFc/uzejNzJRf0i2LL+sFteb5ZFzohEbgQ8cvNEifCJYReRTKHKlkq9qIFEd8t4ewS0Xh2ZyOd6sh5/XWIxRBVvzeAl2krFfed32VnXCm6mKrvzlhCrUMcNBm4vuO/2hsHJsHvyvzb7Bv0e7inhCf1q3jX1Ludy/IAZRvD9gZeCtx63qHcHFNVI5PNsRDCnBG4n7Z6xZ+SDWtO/f+SDHwfGPTsDn13ryvnOZswwKf/dsT01bhxxQkKiao67h7TVGzfRWi6Zj/DNH4+lEhg=",
         "name_facet_ssim": [
             "Skinner, William, 1700-1780",
             "Skinner, Monier"
@@ -115,15 +118,16 @@
         "subject_geographic_sim": [
             "Allegheny (county)",
             "North and Central America",
+            "Pennsylvania",
             "Pittsburgh",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9833,40.4333]},\"properties\":{\"placename\":\"Pittsburgh\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9833,40.4333]},\"properties\":{\"placename\":\"Pittsburgh, PA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-80.01,40.439167],[-80.006944,40.439167],[-80.006944,40.4425],[-80.01,40.4425],[-80.01,40.439167]]]},\"bbox\":[-80.01,40.439167,-80.006944,40.4425]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9833,40.4333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Allegheny\",\"city\":\"Pittsburgh\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9833,40.4333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Allegheny\",\"city\":\"Pittsburgh\"}}"
         ],
         "subject_point_geospatial": [
             "40.4333,-79.9833"
@@ -135,7 +139,7 @@
         ],
         "system_create_dtsi": "2016-12-07T17:51:31Z",
         "system_modified_dtsi": "2023-09-15T14:48:17Z",
-        "timestamp": "2023-10-03T15:51:42.797Z",
+        "timestamp": "2025-10-31T15:48:33.180Z",
         "title_info_primary_tsi": "PLAN of the NEW FORT at PITTSBURGH November 1759",
         "type_of_resource_ssim": [
             "Cartographic"

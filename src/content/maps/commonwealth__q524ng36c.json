@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749917972398080,
+        "_version_": 1847512947344015360,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -46,14 +46,17 @@
         "exemplary_image_ssi": "commonwealth:q524ng37n",
         "extent_tsi": "1 map on 2 sheets : ms., col., sectioned and mounted on cloth ; 86 x 62 cm., sheets 88 x 47 cm. and 66 x 16 cm., folded to 22 x 16 cm.",
         "filenames_ssim": [
-            "la002157",
-            "commonwealth:q524ng36c_metadata"
+            "commonwealth:q524ng36c_metadata",
+            "la002157"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524ng36c",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524ng36c/manifest",
@@ -68,7 +71,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Adlum, John, 1759-1836",
             "Bingham, William, 1752-1804"
@@ -128,18 +131,19 @@
             "Armstrong (county)",
             "Jefferson (county)",
             "North and Central America",
+            "Pennsylvania",
             "United States",
             "Venango (county)"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.1167,41.25]},\"properties\":{\"placename\":\"United States\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.6833,41.1167]},\"properties\":{\"placename\":\"United States\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.8667,41.5]},\"properties\":{\"placename\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.1167,41.25]},\"properties\":{\"placename\":\"Jefferson (county), PA\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.6833,41.1167]},\"properties\":{\"placename\":\"Armstrong (county), PA\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.8667,41.5]},\"properties\":{\"placename\":\"Venango (county), PA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.1167,41.25]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Jefferson\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.6833,41.1167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Armstrong\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.8667,41.5]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Venango\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.1167,41.25]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Jefferson\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.6833,41.1167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Armstrong\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.8667,41.5]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Venango\"}}"
         ],
         "subject_point_geospatial": [
             "41.25,-79.1167",
@@ -160,7 +164,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:17:06Z",
         "system_modified_dtsi": "2023-09-15T14:47:48Z",
-        "timestamp": "2023-10-03T15:48:32.080Z",
+        "timestamp": "2025-10-31T15:47:27.110Z",
         "title_info_alternative_tsim": [
             "Jefferson, Venango, and Armstrong",
             "Jefferson, Armstrong & Venango"

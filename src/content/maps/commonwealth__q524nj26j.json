@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749943343742976,
+        "_version_": 1847512957880107008,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nj26j",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nj26j/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Langdon, Samuel, 1723-1797"
         ],
@@ -116,15 +119,16 @@
         "subject_geographic_sim": [
             "New Hampshire",
             "North and Central America",
+            "United States",
             "Vermont"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.0,44.0]},\"properties\":{\"placename\":\"Vermont, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.6667,44.0]},\"properties\":{\"placename\":\"New Hampshire, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.0,44.0]},\"properties\":{\"placename\":\"Vermont\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.6667,44.0]},\"properties\":{\"placename\":\"New Hampshire\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.0,44.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Vermont\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.6667,44.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"New Hampshire\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.0,44.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Vermont\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.6667,44.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Hampshire\"}}"
         ],
         "subject_point_geospatial": [
             "44,-73",
@@ -138,7 +142,7 @@
         ],
         "system_create_dtsi": "2017-05-26T14:26:40Z",
         "system_modified_dtsi": "2023-09-15T14:47:50Z",
-        "timestamp": "2023-10-03T15:48:56.276Z",
+        "timestamp": "2025-10-31T15:47:37.158Z",
         "title_info_primary_subtitle_tsi": "containing the principal places which relate to the present war on the continent of North America",
         "title_info_primary_tsi": "An accurate map of His Majesty's Province of New-Hampshire in New England & all the adjacent country northward to the River St. Lawrence, & eastward to Penobscot Bay",
         "type_of_resource_ssim": [

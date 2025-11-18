@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750278667862016,
+        "_version_": 1847513057017724928,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524mv534",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524mv534/manifest",
@@ -61,7 +64,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Buache, Philippe, 1700-1773"
         ],
@@ -102,13 +105,14 @@
             "Jamaica--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
-            "Jamaica"
+            "Jamaica",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.5,18.25]},\"properties\":{\"placename\":\"Jamaica\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.5,18.25]},\"properties\":{\"country\":\"Jamaica\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.5,18.25]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Jamaica\"}}"
         ],
         "subject_point_geospatial": [
             "18.25,-77.5"
@@ -118,7 +122,7 @@
         ],
         "system_create_dtsi": "2017-05-24T20:12:17Z",
         "system_modified_dtsi": "2023-07-13T13:46:44Z",
-        "timestamp": "2023-10-03T15:54:16.066Z",
+        "timestamp": "2025-10-31T15:49:11.703Z",
         "title_info_alternative_tsim": [
             "Plans des isles, rades, et ports de plusieurs lieux de l'Ame\u0301rique : tire\u0301s de la carte angloise de Mr. Popple publie\u0301e en 1733 a\u0300 Londres en vingt feuilles"
         ],

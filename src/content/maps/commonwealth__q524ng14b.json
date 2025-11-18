@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749914216398848,
+        "_version_": 1847512945504813056,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -10,8 +10,8 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
-            "Maritime Charts and Atlases (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
+            "Maritime Charts and Atlases",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -39,14 +39,17 @@
         "exemplary_image_ssi": "commonwealth:q524ng15m",
         "extent_tsi": "1 manuscript map 47 x 37 cm.",
         "filenames_ssim": [
-            "ct004166",
-            "commonwealth:q524ng14b_metadata"
+            "commonwealth:q524ng14b_metadata",
+            "ct004166"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524ng14b",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524ng14b/manifest",
@@ -61,7 +64,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_tsim": [
             "Title from P. L. Phillips' A list of maps of America, p. 227.",
             "Manuscript, pen-and-ink.",
@@ -103,17 +106,18 @@
             "James",
             "North and Central America",
             "United States",
+            "Virginia",
             "York"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,37.0]},\"properties\":{\"placename\":\"Chesapeake Bay, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.7833,37.5167]},\"properties\":{\"placename\":\"York (river)\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.7667,37.7833]},\"properties\":{\"placename\":\"James (river)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,37.0]},\"properties\":{\"placename\":\"Chesapeake Bay\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.7833,37.5167]},\"properties\":{\"placename\":\"York (river), VA\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.7667,37.7833]},\"properties\":{\"placename\":\"James (river), VA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,37.0]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Chesapeake Bay\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.7833,37.5167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"York (river)\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.7667,37.7833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"James (river)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,37.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Chesapeake Bay\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.7833,37.5167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\",\"other\":\"York (river)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.7667,37.7833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\",\"other\":\"James (river)\"}}"
         ],
         "subject_point_geospatial": [
             "37,-76",
@@ -129,7 +133,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:11:07Z",
         "system_modified_dtsi": "2023-09-15T14:47:48Z",
-        "timestamp": "2023-10-03T15:48:28.497Z",
+        "timestamp": "2025-10-31T15:47:25.356Z",
         "title_info_primary_tsi": "Chart showing the depth of the James and York rivers as they enter Chesapeake Bay, with towns adjacent",
         "type_of_resource_ssim": [
             "Cartographic"

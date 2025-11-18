@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1832306731365957632,
+        "_version_": 1847513305016434688,
         "admin_set_ark_id_ssi": "commonwealth:p8418t36h",
         "admin_set_name_ssi": "The New York Historical Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:p8418t36h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "The New York Historical Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -42,7 +42,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:v1190110q",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/v1190110q/manifest",
@@ -127,7 +130,7 @@
         ],
         "system_create_dtsi": "2025-03-24T17:54:41Z",
         "system_modified_dtsi": "2025-03-24T18:06:34Z",
-        "timestamp": "2025-05-16T19:31:09.482Z",
+        "timestamp": "2025-10-31T15:53:08.213Z",
         "title_info_primary_subtitle_tsi": "between 2000 English with 250 Mohawks under the command of general Johnson and 2500 French and Indians under the command of general Dieskau in which the English were victorious",
         "title_info_primary_tsi": "A prospective plan of the battle fought near Lake George on the 8th of September, 1755",
         "type_of_resource_ssim": [

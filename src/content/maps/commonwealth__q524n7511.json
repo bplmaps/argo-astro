@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749818801225728,
+        "_version_": 1847512904067186688,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n7511",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n7511/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Montre\u0301sor, John, 1736-1799"
         ],
@@ -115,19 +118,21 @@
             "Canada",
             "Chaudi\u00e8re, Rivi\u00e8re",
             "Kennebec",
+            "Maine",
             "North and Central America",
             "Penobscot",
+            "Quebec",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.2667,46.7333]},\"properties\":{\"placename\":\"Chaudi\u00e8re, Rivi\u00e8re (river)\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-68.5167,45.6]},\"properties\":{\"placename\":\"Penobscot (river)\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-69.7,45.5833]},\"properties\":{\"placename\":\"Kennebec (river)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.2667,46.7333]},\"properties\":{\"placename\":\"Chaudi\u00e8re, Rivi\u00e8re (river), Quebec\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-68.5167,45.6]},\"properties\":{\"placename\":\"Penobscot (river), ME\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-69.7,45.5833]},\"properties\":{\"placename\":\"Kennebec (river), ME\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.2667,46.7333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"other\":\"Chaudi\u00e8re, Rivi\u00e8re (river)\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-68.5167,45.6]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Penobscot (river)\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-69.7,45.5833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Kennebec (river)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.2667,46.7333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Quebec\",\"other\":\"Chaudi\u00e8re, Rivi\u00e8re (river)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-68.5167,45.6]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Maine\",\"other\":\"Penobscot (river)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-69.7,45.5833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Maine\",\"other\":\"Kennebec (river)\"}}"
         ],
         "subject_point_geospatial": [
             "46.7333,-71.2667",
@@ -143,7 +148,7 @@
         ],
         "system_create_dtsi": "2017-05-25T15:50:37Z",
         "system_modified_dtsi": "2023-09-15T14:47:29Z",
-        "timestamp": "2023-10-03T15:46:57.503Z",
+        "timestamp": "2025-10-31T15:46:45.838Z",
         "title_info_alternative_tsim": [
             "Sources of the Chaudie\u0300re, Penobscot, and Kennebec rivers"
         ],

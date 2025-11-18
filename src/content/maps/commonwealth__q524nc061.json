@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749868332810240,
+        "_version_": 1847512923813969920,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nc061",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nc061/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Stratton, James, (Engineer)"
         ],
@@ -103,10 +106,11 @@
         "subject_geographic_sim": [
             "North and Central America",
             "Portsmouth",
-            "United States"
+            "United States",
+            "Virginia"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Portsmouth (independent city)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\",\"other\":\"Portsmouth (independent city)\"}}"
         ],
         "subject_topic_tsim": [
             "Fortification--Virginia--Portsmouth--Maps, Manuscript--Early works to 1800",
@@ -115,7 +119,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:57:21Z",
         "system_modified_dtsi": "2023-09-15T14:47:39Z",
-        "timestamp": "2023-10-03T15:47:44.740Z",
+        "timestamp": "2025-10-31T15:47:04.670Z",
         "title_info_primary_subtitle_tsi": "shewing the works erected by the British forces for its defence, 1781",
         "title_info_primary_tsi": "A plan of Portsmouth Harbour in the province of Virginia",
         "type_of_resource_ssim": [

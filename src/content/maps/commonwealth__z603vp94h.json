@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749591493017600,
+        "_version_": 1847512858677477376,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vp94h",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vp94h/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Conder, Thomas, 1746 or 1747-1831"
         ],
@@ -116,23 +119,26 @@
             "Boston",
             "Charleston (county)",
             "Charleston Harbor",
+            "Cuba",
             "Delaware River",
             "Havana",
+            "Massachusetts",
             "North and Central America",
+            "South Carolina",
             "Suffolk (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.35,23.1167]},\"properties\":{\"placename\":\"Havana, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.8833,32.75]},\"properties\":{\"placename\":\"Charleston Harbor (bay)\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"placename\":\"Boston\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.2667,41.9333]},\"properties\":{\"placename\":\"Delaware River, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.35,23.1167]},\"properties\":{\"placename\":\"Havana, Cuba\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.8833,32.75]},\"properties\":{\"placename\":\"Charleston Harbor (bay), SC\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"placename\":\"Boston, MA\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.2667,41.9333]},\"properties\":{\"placename\":\"Delaware River\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.35,23.1167]},\"properties\":{\"continent\":\"North and Central America\",\"province\":\"Havana\",\"city\":\"Havana\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.8833,32.75]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Charleston\",\"other\":\"Charleston Harbor (bay)\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Suffolk\",\"city\":\"Boston\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.2667,41.9333]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Delaware River\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.35,23.1167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Cuba\",\"province\":\"Havana\",\"city\":\"Havana\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.8833,32.75]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"South Carolina\",\"county\":\"Charleston\",\"other\":\"Charleston Harbor (bay)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Massachusetts\",\"county\":\"Suffolk\",\"city\":\"Boston\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.2667,41.9333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Delaware River\"}}"
         ],
         "subject_point_geospatial": [
             "23.1167,-82.35",
@@ -150,7 +156,7 @@
         "system_create_dtsi": "2016-11-20T04:45:05Z",
         "system_modified_dtsi": "2023-09-15T14:47:14Z",
         "table_of_contents_tsi": "Plan of the harbour of New-York and parts adjacent -- The town & harbour of Boston &c. -- Draught of the River Delaware from Chester to Philadelphia -- Plan of the harbour of Charles Town, South Carolina -- Plan of the city & harbour of Havanna, capital of Cuba.",
-        "timestamp": "2023-10-03T15:43:20.724Z",
+        "timestamp": "2025-10-31T15:46:02.551Z",
         "title_info_primary_tsi": "Various plans and draughts of cities, towns, harbours &c",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749995524030464,
+        "_version_": 1847512975223554048,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z050n",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z050n/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Bastide, John Henry, approximately 1700-1770",
             "Ruvynes, Francois de",
@@ -131,14 +134,15 @@
         "subject_geographic_sim": [
             "Canada",
             "Louisbourg",
-            "North and Central America"
+            "North and Central America",
+            "Nova Scotia"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-59.9667,45.9333]},\"properties\":{\"placename\":\"Louisbourg\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-59.9667,45.9333]},\"properties\":{\"placename\":\"Louisbourg, Nova Scotia\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-59.99,45.888611],[-59.978889,45.888611],[-59.978889,45.895278],[-59.99,45.895278],[-59.99,45.888611]]]},\"bbox\":[-59.99,45.888611,-59.978889,45.895278]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-59.9667,45.9333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"city\":\"Louisbourg\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-59.9667,45.9333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Nova Scotia\",\"city\":\"Louisbourg\"}}"
         ],
         "subject_point_geospatial": [
             "45.9333,-59.9667"
@@ -151,7 +155,7 @@
         ],
         "system_create_dtsi": "2016-11-17T22:43:22Z",
         "system_modified_dtsi": "2023-09-15T14:48:00Z",
-        "timestamp": "2023-10-03T15:49:46.038Z",
+        "timestamp": "2025-10-31T15:47:53.698Z",
         "title_info_primary_tsi": "PLAN and Profil of the MINES for the Demolition of the Fortification of LOUISBOURG completed the 8.th of November 1760",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749797633622016,
+        "_version_": 1847512895649218560,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,13 +37,16 @@
         "exemplary_image_ssi": "commonwealth:z603vm03n",
         "extent_tsi": "1 map : hand col. ; 52 x 74 cm",
         "filenames_ssim": [
-            "gan00017an011016",
-            "commonwealth:z603vm02c_metadata"
+            "commonwealth:z603vm02c_metadata",
+            "gan00017an011016"
         ],
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vm02c",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vm02c/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1722-1824"
         ],
@@ -99,13 +102,14 @@
         "subject_geographic_sim": [
             "Canada",
             "Fort Beaus\u00e9jour National Historic Park",
-            "North and Central America"
+            "North and Central America",
+            "Province of New Brunswick"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.3,45.85]},\"properties\":{\"placename\":\"Fort Beaus\u00e9jour National Historic Park (historical park)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.3,45.85]},\"properties\":{\"placename\":\"Fort Beaus\u00e9jour National Historic Park (historical park), Province of New Brunswick\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.3,45.85]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"other\":\"Fort Beaus\u00e9jour National Historic Park (historical park)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.3,45.85]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Province of New Brunswick\",\"other\":\"Fort Beaus\u00e9jour National Historic Park (historical park)\"}}"
         ],
         "subject_point_geospatial": [
             "45.85,-64.3"
@@ -116,7 +120,7 @@
         ],
         "system_create_dtsi": "2016-11-20T03:27:28Z",
         "system_modified_dtsi": "2023-09-15T14:47:25Z",
-        "timestamp": "2023-10-03T15:46:37.316Z",
+        "timestamp": "2025-10-31T15:46:37.810Z",
         "title_info_primary_tsi": "The environs of Fort Cumberland in the Bay of Fundy",
         "type_of_resource_ssim": [
             "Cartographic"

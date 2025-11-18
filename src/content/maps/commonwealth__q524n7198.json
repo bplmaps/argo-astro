@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1832832002959605760,
+        "_version_": 1847512901681676288,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n7198",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n7198/manifest",
@@ -114,7 +117,7 @@
         ],
         "system_create_dtsi": "2017-05-25T15:44:00Z",
         "system_modified_dtsi": "2023-09-15T14:47:29Z",
-        "timestamp": "2025-05-22T14:40:07.510Z",
+        "timestamp": "2025-10-31T15:46:43.563Z",
         "title_info_primary_subtitle_tsi": "from the 8th of December, 1775 to the 13th of May, 1776",
         "title_info_primary_tsi": "Plan of the city and environs of Quebec, with its siege and blockade by the Americans",
         "type_of_resource_ssim": [

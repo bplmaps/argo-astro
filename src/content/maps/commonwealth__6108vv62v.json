@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750118958202880,
+        "_version_": 1847513016930664448,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -48,7 +48,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:6108vv62v",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/6108vv62v/manifest",
@@ -61,7 +64,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Skinner, William, 1700-1780",
             "Skinner, Monier"
@@ -122,14 +125,15 @@
             "Bedford",
             "Bedford (county)",
             "North and Central America",
+            "Pennsylvania",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.5,40.0167]},\"properties\":{\"placename\":\"Bedford\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.5,40.0167]},\"properties\":{\"placename\":\"Bedford, PA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-78.505556,40.018889],[-78.502778,40.018889],[-78.502778,40.020556],[-78.505556,40.020556],[-78.505556,40.018889]]]},\"bbox\":[-78.505556,40.018889,-78.502778,40.020556]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.5,40.0167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Bedford\",\"city\":\"Bedford\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.5,40.0167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Bedford\",\"city\":\"Bedford\"}}"
         ],
         "subject_point_geospatial": [
             "40.0167,-78.5"
@@ -141,7 +145,7 @@
         ],
         "system_create_dtsi": "2016-12-07T17:53:06Z",
         "system_modified_dtsi": "2023-09-15T14:48:18Z",
-        "timestamp": "2023-10-03T15:51:43.754Z",
+        "timestamp": "2025-10-31T15:48:33.473Z",
         "title_info_primary_tsi": "FORT BEDFORD",
         "type_of_resource_ssim": [
             "Cartographic"

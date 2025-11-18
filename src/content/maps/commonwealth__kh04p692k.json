@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749977137250304,
+        "_version_": 1847512969698607104,
         "abstract_tsi": "The original surveys for this plan of Mexico City were conducted in 1793, during the vice-regal administration of Conde de Revillagigedo. His administration, one of the most progressive of the colonial era, resulted in urban development and renewal that included the construction and the renovation of numerous public buildings and parks; improved sanitation, lighting, and security; the construction of roads and streets; and the establishment of professional schools, like the Royal Academy of San Carlos, where this map was produced. The city is divided into eight quarters, which are organized alphabetically by street name in the extensive key to the right of the map which coordinates with the labels found throughout the plan. Along the bottom are two panoramic views of the city from the east, on the new road toward Vera Cruz and from the west, on the road to Chapultepec. The mapmaker was Diego Garc\u00eda Conde (1760-1822), a native of Barcelona who came to Mexico and served as captain of the Spanish Dragoons in Mexico. Conde supervised several complex construction projects, including the road from Vera Cruz to Jalapa. In 1822 he was named director general of the Corps of Engineers and founded the Academy of Cadets. The plan\u2019s engraver was Jos\u00e9 Joaqu\u00edn Fabregat (1748-1807), a native of Valencia, who in 1787, was named Director of Engraving at the Royal Academy of San Carlos.",
         "admin_set_ark_id_ssi": "commonwealth:kh04p6570",
         "admin_set_name_ssi": "MacLean Collection Map Library",
@@ -10,7 +10,7 @@
             "commonwealth:kh04p6570"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "MacLean Collection Map Library"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -38,13 +38,16 @@
         "exemplary_image_ssi": "commonwealth:kh04p693v",
         "extent_tsi": "1 map ; 148 cm x 198 cm",
         "filenames_ssim": [
-            "MacLeanColl_21144_MexicoCity",
-            "commonwealth:kh04p692k_metadata"
+            "commonwealth:kh04p692k_metadata",
+            "MacLeanColl_21144_MexicoCity"
         ],
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:kh04p692k",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/kh04p692k/manifest",
@@ -61,7 +64,7 @@
             "Spanish"
         ],
         "license_ss": "Contact host institution for more information.",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Garc\u00eda Conde, Diego"
         ],
@@ -106,14 +109,15 @@
         ],
         "subject_geographic_sim": [
             "Distrito Federal",
+            "Mexico",
             "Mexico City",
             "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-99.138611,19.434167]},\"properties\":{\"placename\":\"Mexico City, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-99.138611,19.434167]},\"properties\":{\"placename\":\"Mexico City, Mexico\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-99.138611,19.434167]},\"properties\":{\"continent\":\"North and Central America\",\"territory\":\"Distrito Federal\",\"city\":\"Mexico City\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-99.138611,19.434167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Mexico\",\"territory\":\"Distrito Federal\",\"city\":\"Mexico City\"}}"
         ],
         "subject_point_geospatial": [
             "19.434167,-99.138611"
@@ -123,7 +127,7 @@
         ],
         "system_create_dtsi": "2021-01-20T20:37:27Z",
         "system_modified_dtsi": "2023-07-13T13:46:43Z",
-        "timestamp": "2023-10-03T15:49:28.504Z",
+        "timestamp": "2025-10-31T15:47:48.429Z",
         "title_info_primary_tsi": "Plano general de la ciudad de Mexico",
         "type_of_resource_ssim": [
             "Cartographic"

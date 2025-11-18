@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1798517152936886272,
+        "_version_": 1847512993340850176,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z316z",
         "extent_tsi": "1 map : manuscript pen and ink with wash colour ; 65 x 41 cm",
         "filenames_ssim": [
-            "k_top_121_1",
-            "commonwealth:hx11z315p_metadata"
+            "commonwealth:hx11z315p_metadata",
+            "k_top_121_1"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z315p",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z315p/manifest",
@@ -153,7 +156,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:51:28Z",
         "system_modified_dtsi": "2023-09-15T14:48:09Z",
-        "timestamp": "2024-05-08T20:20:16.305Z",
+        "timestamp": "2025-10-31T15:48:10.976Z",
         "title_info_primary_tsi": "A MAP OF THE PROVINCE OF NEW-YORK, & PART OF NEW ENGLAND WITH A PART OF NEW FRANCE the whole Composed from Actual Surveys",
         "type_of_resource_ssim": [
             "Cartographic"

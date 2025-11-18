@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1804926055392215041,
+        "_version_": 1847512951959846912,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -10,8 +10,8 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
-            "Maritime Charts and Atlases (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
+            "Maritime Charts and Atlases",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -39,14 +39,17 @@
         "exemplary_image_ssi": "commonwealth:q524nh06v",
         "extent_tsi": "1 manuscript map 31 x 62 cm.",
         "filenames_ssim": [
-            "lh000761",
-            "commonwealth:q524nh05k_metadata"
+            "commonwealth:q524nh05k_metadata",
+            "lh000761"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nh05k",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nh05k/manifest",
@@ -123,7 +126,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:33:07Z",
         "system_modified_dtsi": "2023-09-15T14:47:51Z",
-        "timestamp": "2024-07-18T14:07:02.040Z",
+        "timestamp": "2025-10-31T15:47:31.512Z",
         "title_info_primary_tsi": "Plano d. las aguadas d. Sn. Juan y Sn. Franco. d. An\u0303asco en la ysla de Pto. Rico, an\u0303o d. 1787",
         "type_of_resource_ssim": [
             "Cartographic"

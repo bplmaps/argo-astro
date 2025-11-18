@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750052500504576,
+        "_version_": 1847512997171298304,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z368q",
         "extent_tsi": "1 map : manuscript pen and ink with watercolour ; 34 x 43 cm",
         "filenames_ssim": [
-            "k_top_121_42",
-            "commonwealth:hx11z367f_metadata"
+            "commonwealth:hx11z367f_metadata",
+            "k_top_121_42"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z367f",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z367f/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "George, III, King of Great Britain, 1738-1820",
             "George, IV, King of Great Britain, 1762-1830"
@@ -119,16 +122,17 @@
             "Albany",
             "Albany (county)",
             "Fort Frederick (historical)",
+            "New York",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.75,42.65]},\"properties\":{\"placename\":\"Albany\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.75,42.65]},\"properties\":{\"placename\":\"Albany, NY\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.75361,42.65139]},\"properties\":{\"placename\":\"Fort Frederick (historical)\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-73.763055,42.64583],[-73.74333,42.64583],[-73.74333,42.65583],[-73.763055,42.65583],[-73.763055,42.64583]]]},\"bbox\":[-73.763055,42.64583,-73.74333,42.65583]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.75,42.65]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Albany\",\"city\":\"Albany\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.75,42.65]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Albany\",\"city\":\"Albany\"}}"
         ],
         "subject_point_geospatial": [
             "42.65,-73.75",
@@ -143,7 +147,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:07:19Z",
         "system_modified_dtsi": "2023-09-15T14:48:11Z",
-        "timestamp": "2023-10-03T15:50:40.376Z",
+        "timestamp": "2025-10-31T15:48:14.629Z",
         "title_info_primary_tsi": "PLAN of the City of ALBANY Shewing the Several works & Buildings made there in the Years 1756 & 57",
         "type_of_resource_ssim": [
             "Cartographic"

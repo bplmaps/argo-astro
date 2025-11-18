@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749545063120896,
+        "_version_": 1847512842101587968,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vp24t",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vp24t/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Anville, Jean Baptiste Bourguignon d', 1697-1782",
             "Hhaye, G. de la"
@@ -105,19 +108,18 @@
             "North America--Maps",
             "Saint Lawrence River--Maps"
         ],
-        "subject_geo_other_ssm": [
-            "Saint Lawrence River"
-        ],
         "subject_geographic_sim": [
             "North America",
+            "North and Central America",
             "Saint Lawrence River"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.0,49.5]},\"properties\":{\"placename\":\"Saint Lawrence River\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.0,49.5]},\"properties\":{\"placename\":\"Saint Lawrence River, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America, North and Central America\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"area\":\"North America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.0,49.5]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Saint Lawrence River\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"North America\"}}"
         ],
         "subject_point_geospatial": [
             "49.5,-65",
@@ -129,7 +131,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:34:44Z",
         "system_modified_dtsi": "2023-09-15T14:47:10Z",
-        "timestamp": "2023-10-03T15:42:36.446Z",
+        "timestamp": "2025-10-31T15:45:46.743Z",
         "title_info_primary_tsi": "Canada, Louisiane et terres angloises",
         "type_of_resource_ssim": [
             "Cartographic"

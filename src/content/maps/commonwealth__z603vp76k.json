@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749575654277120,
+        "_version_": 1847512852899823616,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -42,7 +42,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vp76k",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vp76k/manifest",
@@ -58,7 +61,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Hinton, John, -1781"
         ],
@@ -118,15 +121,16 @@
         ],
         "subject_geographic_sim": [
             "Fort Frederick (historical)",
-            "North America"
+            "North America",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.00361,39.61028]},\"properties\":{\"placename\":\"Fort Frederick (historical)\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-100.0,28.0],[-51.0,28.0],[-51.0,53.0],[-100.0,53.0],[-100.0,28.0]]]},\"bbox\":[-100.0,28.0,-51.0,53.0]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"area\":\"North America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"North America\"}}"
         ],
         "subject_point_geospatial": [
             "58.166,-104.466",
@@ -141,7 +145,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:42:33Z",
         "system_modified_dtsi": "2023-09-15T14:47:12Z",
-        "timestamp": "2023-10-03T15:43:05.620Z",
+        "timestamp": "2025-10-31T15:45:57.040Z",
         "title_info_alternative_label_ssm": [
             "Inset title:"
         ],

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749966193262592,
+        "_version_": 1847512966937706496,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nk556",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nk556/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Nicole, Pierre, -1784",
             "Montre\u0301sor, John, 1736-1799"
@@ -116,16 +119,17 @@
         "subject_geographic_sim": [
             "Fort Mifflin",
             "North and Central America",
+            "Pennsylvania",
             "Philadelphia",
             "Philadelphia (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"placename\":\"Philadelphia\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"placename\":\"Philadelphia, PA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.21296,39.87539]},\"properties\":{\"placename\":\"Fort Mifflin\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Philadelphia\",\"city\":\"Philadelphia\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Philadelphia\",\"city\":\"Philadelphia\"}}"
         ],
         "subject_point_geospatial": [
             "39.95,-75.15",
@@ -137,7 +141,7 @@
         ],
         "system_create_dtsi": "2017-05-26T15:35:08Z",
         "system_modified_dtsi": "2023-09-15T14:47:56Z",
-        "timestamp": "2023-10-03T15:49:18.066Z",
+        "timestamp": "2025-10-31T15:47:45.795Z",
         "title_info_primary_subtitle_tsi": "shewing the several works constructed by His Majesty's troops, under the command of Sir William Howe, since their possession of that city 26th. September 1777, comprehending likewise the attacks against Fort Mifflin on Mud Island, and until it's reduction, 16th November 1777",
         "title_info_primary_tsi": "A survey of the city of Philadelphia and its environs",
         "type_of_resource_ssim": [

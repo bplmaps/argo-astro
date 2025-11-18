@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750093336248320,
+        "_version_": 1847513012161740800,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z5306",
         "extent_tsi": "1 map : manuscript pen and ink with watercolour ; 21 x 30 cm",
         "filenames_ssim": [
-            "k_top_122_73",
-            "commonwealth:hx11z529f_metadata"
+            "commonwealth:hx11z529f_metadata",
+            "k_top_122_73"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z529f",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z529f/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Thomas, John, the Elder",
             "George, III, King of Great Britain, 1738-1820",
@@ -113,17 +116,18 @@
             "Saint Simons Island (Ga.)--Maps, Manuscript--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "Georgia",
             "Glynn (county)",
             "North and Central America",
             "Saint Simons Island",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.35,31.2167]},\"properties\":{\"placename\":\"Saint Simons Island\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.35,31.2167]},\"properties\":{\"placename\":\"Saint Simons Island, GA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-81.397777,31.1325],[-81.38527,31.1325],[-81.38527,31.1375],[-81.397777,31.1375],[-81.397777,31.1325]]]},\"bbox\":[-81.397777,31.1325,-81.38527,31.1375]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.35,31.2167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Glynn\",\"island\":\"Saint Simons Island\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.35,31.2167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Georgia\",\"county\":\"Glynn\",\"island\":\"Saint Simons Island\"}}"
         ],
         "subject_point_geospatial": [
             "31.2167,-81.35"
@@ -135,7 +139,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:46:27Z",
         "system_modified_dtsi": "2023-09-15T14:48:16Z",
-        "timestamp": "2023-10-03T15:51:19.320Z",
+        "timestamp": "2025-10-31T15:48:28.925Z",
         "title_info_primary_tsi": "2.e Plan d'une Batterie & d'une Redoute avec un Corps de Garde construit en forme de Redoute a Machecoulis pour y Servir de Rentranchement a une Garde de 20 hommes ou plus",
         "type_of_resource_ssim": [
             "Cartographic"

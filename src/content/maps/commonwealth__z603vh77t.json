@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749537669611520,
+        "_version_": 1847512839616462848,
         "admin_set_ark_id_ssi": "commonwealth:z603vh48c",
         "admin_set_name_ssi": "Harvard Map Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh48c"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Harvard Map Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vh77t",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vh77t/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Fage, Edward",
             "Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1722-1824"
@@ -109,14 +112,15 @@
         "subject_geographic_sim": [
             "North and Central America",
             "United States",
+            "Virginia",
             "York (county)",
             "Yorktown"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"placename\":\"Yorktown\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"placename\":\"Yorktown, VA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"York\",\"city\":\"Yorktown\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\",\"county\":\"York\",\"city\":\"Yorktown\"}}"
         ],
         "subject_point_geospatial": [
             "37.2333,-76.5"
@@ -128,7 +132,7 @@
         "system_create_dtsi": "2016-11-20T02:09:21Z",
         "system_modified_dtsi": "2023-09-15T14:47:10Z",
         "table_of_contents_tsi": "T.p. & table of contents (2 sheets), 24 maps & 10 views in 50 sheets.",
-        "timestamp": "2023-10-03T15:42:29.395Z",
+        "timestamp": "2025-10-31T15:45:44.373Z",
         "title_info_primary_tsi": "A plan of the posts of York and Gloucester in the province of Virginia, established by His Majesty's army under the command of Lieutt. General Earl Cornwallis, together with the attacks and operations of the American & French forces commanded by General Washington and the Count of Rochambeau, which terminated in the surrender of the said posts and army on the 17th. of October 1781",
         "title_info_uniform_ssim": [
             "Atlantic Neptune"

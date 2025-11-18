@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750215224819712,
+        "_version_": 1847513042165694464,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vv68x",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vv68x/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Simcoe, John Graves, 1752-1806",
             "Spencer, G."
@@ -114,14 +117,15 @@
             "Henrico (county)",
             "North and Central America",
             "United States",
-            "Varina Farm"
+            "Varina Farm",
+            "Virginia"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.3333,37.3667]},\"properties\":{\"placename\":\"Varina Farm\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.3333,37.3667]},\"properties\":{\"placename\":\"Varina Farm, VA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.386307,37.402885]}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.3333,37.3667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Henrico\",\"city\":\"Varina Farm\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.3333,37.3667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\",\"county\":\"Henrico\",\"city\":\"Varina Farm\"}}"
         ],
         "subject_point_geospatial": [
             "37.3667,-77.3333",
@@ -132,7 +136,7 @@
         ],
         "system_create_dtsi": "2016-11-20T07:07:13Z",
         "system_modified_dtsi": "2023-09-15T14:48:29Z",
-        "timestamp": "2023-10-03T15:53:15.561Z",
+        "timestamp": "2025-10-31T15:48:57.539Z",
         "title_info_primary_tsi": "Sketch of the action at Osburns, April 27th. 1781",
         "type_of_resource_ssim": [
             "Cartographic"

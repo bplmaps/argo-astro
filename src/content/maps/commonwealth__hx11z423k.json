@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750062475608064,
+        "_version_": 1847513004675956736,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z424v",
         "extent_tsi": "1 map : manuscript pen and ink wash ; 32 x 40 cm",
         "filenames_ssim": [
-            "k_top_122_39",
-            "commonwealth:hx11z423k_metadata"
+            "commonwealth:hx11z423k_metadata",
+            "k_top_122_39"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z423k",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z423k/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "George, III, King of Great Britain, 1738-1820",
             "George, IV, King of Great Britain, 1762-1830"
@@ -118,18 +121,19 @@
         "subject_geographic_sim": [
             "Allegany (county)",
             "Cumberland",
+            "Maryland",
             "North and Central America",
             "Potomac",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.3333,38.0]},\"properties\":{\"placename\":\"Potomac (river), North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.75,39.65]},\"properties\":{\"placename\":\"Cumberland\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.3333,38.0]},\"properties\":{\"placename\":\"Potomac (river)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.75,39.65]},\"properties\":{\"placename\":\"Cumberland, MD\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-78.767222,39.64777],[-78.76361,39.64777],[-78.76361,39.65388],[-78.767222,39.65388],[-78.767222,39.64777]]]},\"bbox\":[-78.767222,39.64777,-78.76361,39.65388]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.3333,38.0]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Potomac (river)\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.75,39.65]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Allegany\",\"city\":\"Cumberland\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.3333,38.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Potomac (river)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.75,39.65]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Maryland\",\"county\":\"Allegany\",\"city\":\"Cumberland\"}}"
         ],
         "subject_point_geospatial": [
             "38,-76.3333",
@@ -143,7 +147,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:20:05Z",
         "system_modified_dtsi": "2023-09-15T14:48:12Z",
-        "timestamp": "2023-10-03T15:50:49.889Z",
+        "timestamp": "2025-10-31T15:48:21.785Z",
         "title_info_primary_tsi": "A Plan of the Fort and Barracks at Mount Pleasant in Maryland",
         "type_of_resource_ssim": [
             "Cartographic"

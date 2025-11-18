@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750194779684864,
+        "_version_": 1847513037590757376,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,13 +37,16 @@
         "exemplary_image_ssi": "commonwealth:z603vt89g",
         "extent_tsi": "1 map ; 59 x 66 cm.",
         "filenames_ssim": [
-            "commonwealth:z603vt886_metadata",
-            "06_01_009590"
+            "06_01_009590",
+            "commonwealth:z603vt886_metadata"
         ],
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vt886",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vt886/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Maugein, Charles"
         ],
@@ -108,14 +111,15 @@
             "Gibraltar--History--Siege, 1779-1783--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "Europe",
             "Gibraltar"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-5.35,36.1333]},\"properties\":{\"placename\":\"Gibraltar\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-5.35,36.1333]},\"properties\":{\"placename\":\"Gibraltar, Europe\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-5.35,36.14]}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-5.35,36.1333]},\"properties\":{\"territory\":\"Gibraltar\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-5.35,36.1333]},\"properties\":{\"continent\":\"Europe\",\"territory\":\"Gibraltar\"}}"
         ],
         "subject_point_geospatial": [
             "36.1333,-5.35",
@@ -127,7 +131,7 @@
         ],
         "system_create_dtsi": "2016-11-20T06:36:35Z",
         "system_modified_dtsi": "2023-09-15T14:48:26Z",
-        "timestamp": "2023-10-03T15:52:56.064Z",
+        "timestamp": "2025-10-31T15:48:53.176Z",
         "title_info_primary_tsi": "Plan de la ville et des forts de Gibraltar, avec la Baye d'Algesiras",
         "type_of_resource_ssim": [
             "Cartographic"

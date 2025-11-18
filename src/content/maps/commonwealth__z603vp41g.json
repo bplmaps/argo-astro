@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749556601651200,
+        "_version_": 1847512846311620608,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vp41g",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vp41g/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzFWOtv3DYS/56/gtCXSwHrsU9792IVzuZxLmyniF3gesXhwKVmJcYSqSMpr7d//Q0lai3tw3ETXAskkpecN4czv9GbHx+LnDyA0lyKc28QRB4BwWTCRXru/XL3wT/zfoxfvSlkouf2QZBe6PljzsX9uZcZU87DcL1eB+tRIFUaDmazWVjvei2p5ocIh1E0CP95fXXLMiioz4U2VDBouayuHlsuWZDKh9BuhA8j78noUXCKXJrPdS3qSjJq6o3j3OTAltWfUIX7jqh++yP/NHjUiRe/IqQJg+Emh0uxkqTSNIVzr1S8oGrjkYTrMqebK7qEfLv8H7daS2hlCClupTLxhSBvwt5Kh6hWFFPGKkUNkIKWRK6IyYC8VdxwnZH3RckVEC7IjckCclGA4owSqokGg8wJWW5qhlJBzgsuqOKgLf3gdDp0mhs11r2w798hl82mRI9pbkAJDPMDePsWX7zMYvQ2+/NMrgRfSVUcMPcjCHwVVPxNo8Up/Z0LIK+vpEikOCHvRZpjYvzwcs2CFuCUlpijUtC8f/a4/zPFo/7Il9qq+Ckgr3+SmWh1bAkOMDnBCYbXw9SwJ4CBmUT+4HQ2fIZfycbs/sodqMJJNPBoPEIrk0k8qs25h7nL8Aiokaqz/svny+3F4sn28jzgpVtWOaZ76Hg03lCaV/ByhhDVefFCgf3lXGmNdK6EPV867nbOHb35tPoMWlaKQbzAOMhU0TLjrD2yPsWWMwWBmdmJQFqkJftDvjtF13g6itP85THYZQxNWkTRdDgd7FYVtBKUzahrWmrnUW35kyNobMpFm5TtKspgOylQL+3mQNxkvhO9JemdQEeWk1Qtc7zeoOLfdCCCf7d02+UOLde6sqU+LqTYOZrtVofcpvolrmNleOpM6xFLzMoj97B5h/vn3gYw2P+taM5XHNS5x8UKlAKs252y8SSqkz79aDU68canFdb2rh3t2nN3hms5Hc384fIPZU3L9eJsaRlCEKkX2wqFQXbudM3seNn1yB1ZttFYefN3oJnipW2ZvbBjVAzNP9XRiRXY4kmNwVNwO21Me3QdARgbLKzxoO4Cc5JhESVM5gH5OxlG5JEMx4QVgZPiiLtZImyLAXMNCad3GO4Yu2kK4ZcS0jZb9khewG/4avU9/F/K4XPsbeIfDm7b/A3En7G7wYroTK4FKTnDmocXP98EWzxgYIfFw5uJwa4SIGvQhqyULEhzWzHfMLwHCT7gPZCBd1zspSBViZ2K4BFmBo9L4UnOiW2LAbmm6TMWfUAFDeVuAz0hDwEZDU/IO2BB3bqfEXMpWI5Ga2J/1Z4gHARzQrwLwjLb9RyKQEXK1of29zUWDPuvLPkzHrrbigDPQIEiLLcCXUqh+ZLneEe9GHtw2441q/LyuLW9DnyXcU3sn4RbjNLUnMO8ulp+AWa65SJnOvt6pWj3EQaFTojuwxiJ+RP38JTv2/bg+++pyjdkLdW9JkaSwVkUtV2wZnrKWCf5z7P3o230NS6kXPj+QuZSIIvv/19dMKk44kFdX4MUQegmgKQKa8q9gnyAKjyNhrPxOOr5mGEXQgCV2SLwEdo212+/FCPQPzbnSL3R7bfPSWtksQ7O0X01TEqFXROTVMeTs2AwnZ74g2gcjKdTJ75L0VW7J/Qrgf4Gg/zZKIjI8Awf/iTC52QSRH+NWRqDC/GtfZLfGMWqNR9MTqIosv9bRNMQfZM1Nc6F5BKLkKshmdRmfyB5Am79OeWKrhXY4vePgNzmtMJijUUb702OarDB2LLmsIDtufqkqZ34TnO5BHwvpcRLZOsrNTnV0OLH7VBzZKwJd+1/zimuPwPWQWtp8haH4vpjwDxDBNFcIo23yIEGtrUdQeOmzOsPAxxF6XAyiJLxabLyV7NB5NNRMvMhGkf4iCiWgOmYzmZe+GQHT7Cw19ivnfcU9+JWH1X3wVZngbhzDTjCZrU+3JuHk2g2mYW/T6PRQzkebAHGVmgHGrrPCz3067p9++khvoE1+RUrFvnZAmBGrvgS7+9mBxxcdUS1MK27dFRfpfK9bw+UMdD63JNNycN5mUnRAPrvjAJq21XeKsMZ/YHD+ttVhCariqWgPD+uzLZRTCvOVz5iDL4C/R0+ha2Ivr6j4W88XSDI4vUdO5TNzHYyHMQbA3StG08dEMPocLnxBfM1DcdBFHptcuoG5igolUyq+grsDnpOgsMYtv9ZjOFWE4J4nFgxlUgw5ylZOCOwINRWkAtjFF9WtdU3Uvh2HRRDkElusS4Aucj5PWBq1gLJ68WCvP3Vv1n4txc/tAhmx/vjYXm5WzXIRDxwI8m9sNiXyXLTIE/EZGiyqwdfs0BhuFWyO+Q2qwub+cLcNgP+W6yyaOLBq3iIfl9cHVop7KS5P4PGw2g48KOZP5jcReP54GweRf/qi+/wH5COk1EKL5Y92JG95d6X7GYyvGFU2M9pJZ560uPen9raOfHTakHxTkncTvvN6MAcjFbDXz8H4+PIDLw3Be9754bep3Ht1n0O3v0k1iHxYkpZ+6XqAGuvdz5lq1uyj/jV/wBrTw32",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Gibson, J. (John), active 1750-1792"
         ],
@@ -111,14 +114,15 @@
             "Great Britain--Colonies--America--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
-            "North America"
+            "North America",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-93.0,28.0],[-50.0,28.0],[-50.0,55.0],[-93.0,55.0],[-93.0,28.0]]]},\"bbox\":[-93.0,28.0,-50.0,55.0]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"area\":\"North America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"North America\"}}"
         ],
         "subject_point_geospatial": [
             "58.166,-104.466"
@@ -129,7 +133,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:38:35Z",
         "system_modified_dtsi": "2023-09-15T14:47:11Z",
-        "timestamp": "2023-10-03T15:42:47.450Z",
+        "timestamp": "2025-10-31T15:45:50.758Z",
         "title_info_alternative_tsim": [
             "Accurate map of the British Empire in North America as settled by the preliminaries in 1762"
         ],

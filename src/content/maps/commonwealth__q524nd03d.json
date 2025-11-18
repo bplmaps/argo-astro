@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749883210006528,
+        "_version_": 1847512930067677184,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nd03d",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nd03d/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJzNGNty2zb2PV9xhk/tjCmSkiVZasxOoiSNZ+wkEzvbbV86EAiRiCGABUDL2red/b1+1B7wIpG6xU06u32RaeDc7wfPf3xcCnhg2nAlL72oF3rAJFUJl+ml9+nujX/h/Rg/e75UiZm6H0B4aaaPgsv7Sy+zNp8GwWq16q0GPaXTIJpMJkF56zWghh8C7IdhFPzz5vqWZmxJfC6NJZKyBsvx6qAJRXupegjcRfAw8LZCD3pjxDJ8akpS14oSW14cx4YDV45/QjTe10DlX3/gj3uPJvHiZwCVGSy3gl3JhYLCkJRdernmS6LXHiTc5IKsr8mcic3xb/VpSaFDI/5ApCFUCQIKbom0lsAN0fyPfxNIGPxExJydQV4wbRWsIdfM8IQrvBPwcd1zMK9NTuQf/yFguC1IotB5gOSoQm1KOKm0taz8vGVSwQ175JRIdQZCGRiEkGpEM9AfwhJ9UBIVxNqk16CuS8j+xagBXcNgDMsaVMk0cV8G/7ljkmm+YNAfDUGwtCAGMI4EM/ihoN8fA6vkRZUNkFI6RHVcouC8PqjEdVr8g2lCdfEv4BBdHKIYjfpHKB4m+JY8EEmeBy0XOK8GXbe2PL3O2fvFR2ZUoSmDJZGFoZrn9tJbM+PFM4KeQavkGacNlQ7KllTKpGZACpspze360kuXaU697cmnj1ebiOXJJiofMJrnhcA4CmpGN8SilYkwmAJEFOzPIwY2XYbhqD+KdkM2dR4kwotvSG5qjUrJ/8aKRH2MzROKND47og/KnHLZ+L05TZDFTDP8TVr1cDWgiV14cM/Wr/CqigL4vSCCLzjTlx7Jc60eMe0t8+JoPAprni1yrYjrsq4YCyIxylPWFqY5u2N6CS7ALj3LHq3X9gI3ajSY+P35n/JEg/VkDzQIAZOpF7/GVOQmq9Vpi9nSsq1RpU+erQ0WIfGKVZ7BYt2xPVrFEvG+tE6s2UJpNKjzRH3TGLUD1yKAtmHSxlErYfEzhylkWOKxOAqlf4DzITzC4BzoslcTrPFalLjESJPM3rCEkzu0fIy+TVnwOWdpjbQP8gR8yxeLb8H/nPdPodd3R+xckZbKsvhnl0nYpO7NFK568FZJnv4AaKQzWAhWaD9hPnq4MVCJ06VwowrpXKMkUKFsBnNC7zFZTqFsvHIGc4HgjiHMtVpJLO73p7h9wJaKdRizH7WV003HOYFyiwK67DVgsooDLAgmyPIUnytJRYF9xDW2ynQPDFzOnZattIRwFahGnCNjsBkrw2+5NZWbXdRJE6UosCyWc6bROnhWViKUPcdqxIX7EmqFlxj8mcWQxhjQUxiOThB9j51RP4koRgSm1BQGo/EkPA/64+NU63pEMRNdfAWYrkwzN8jF1zNwbQTUAt5hF87ghXMcJWcQjYehH40vJvg5Gg6+kvh1YZT/lrv+zyn8rLTAsL2YhAfJmWL+mVHbLpmCmuzL1bK558wENRHTHeVUzmn8gTWj3Euyhu/eCNL73ved/mewDXjff020WMNKYcoBTnXRRdjIW9HZZm/N7H+nwkwRY43vv8HyyBPi+x2dKmX+1grcdMr9Xy6rTeURUcsG2UuZteseS4qghNzrqAeggiiKBqNw2FEmZc1M2Y2qzfyyuW4hZTh/EE0zV+9/2oFoYKgrQHodf5LcJf6ty/9mKmrudhCk5dL1xCqBXZ2e4b84WTXJvEFvIDsEjGMR1wHVmLo8q0QPvih7LUhr0Da7MuLEz6VTJR6EvcFoND7zL8a9/kay7X2b6R7JL0TCE8UxqAM2HfcLlPQgmmKFOws3gVfdf5UgmglXsK8sa6bADNe8/bVyO8t2t81rPkczr109nuHahtukwQ8hkAkW192t6MheFOyKcko+bj42FTt5iftx+S4wzbCMV0lhMCsEpXKT6OPBaBKNzgfgBVu6PMG4KgfsmmyhuRc3+Di89OpJkKrlUskVI8Jm5RsD3k2DYTgZToLfh/1zmYSDpJmbNkRPMEKxiPBxqmHai4l2vWrjyEMERP300HZJM4Q1zxIH3dBE/bpMMSy08Io/cLN1yx6V1nzdPjoqRqHF3nMFoRSZX3qqKnXY/l0au83iW62L3HaZN8xyzR44W309i8BmOMJIwsVxZq73Y/hxvvBxB8AB0XyDTkFDosvvqPkrTdG3CXcXB6OeumUQh8pKAFPyFpxiuccWN1/7kvqGBOe9MPCaoDesDA7NcMVMijJnd7femoIX32XclH0P8G99mgAuUuDI4EDsJkCY1UJgHJZSwAtrcWYtSqnfKem7c6YprtpwmxFc+18Ifs/guiII381m8PIX/93Mv33xfTMi7mh/3CxPV6uccbHhv1NwL90MT1W+rgZfzB4UucQyX5RAo7l1srvqV6czF/nS3lbPNi+xsKKIH4o5Gg/qjN3Uvn34fXKlaZV0zwT7DwhxP+xHfoh79OQujKbDcDqMfu2Sb+EfoI57bMq+mvYGe59yvUxjhhHpHhxz9HrSwd5ft5sF//1iRjCnFF6n3f5z4AEDpWb//wcM/DnyeLH3fLGvXf1asV2ub+sX5LZaWGlpC8SL9WYQOoDZabHbYK2P3E/87L+XCzFl",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1653",
             "LC Luso-Hispanic World, 890"
@@ -102,15 +105,16 @@
             "Manuscript maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "Florida",
             "North and Central America",
             "Pensacola Bay",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-87.2,30.3667]},\"properties\":{\"placename\":\"Pensacola Bay\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-87.2,30.3667]},\"properties\":{\"placename\":\"Pensacola Bay, FL\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-87.2,30.3667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Pensacola Bay\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-87.2,30.3667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Florida\",\"other\":\"Pensacola Bay\"}}"
         ],
         "subject_point_geospatial": [
             "30.3667,-87.2"
@@ -122,7 +126,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:18:43Z",
         "system_modified_dtsi": "2023-09-15T14:47:41Z",
-        "timestamp": "2023-10-03T15:47:58.928Z",
+        "timestamp": "2025-10-31T15:47:10.634Z",
         "title_info_primary_tsi": "Pansacola o Santta Mari\u0301a de Galbe, puerto y presidio del Ry. de Espan\u0303a situado en la costa del nortte del Seno Mexicano, los 30 grados 25 mins. de lattd. nortte y los 286 grados y 37 ms. de longd. desde Tenerife 265 leguas inglesas o 227 espan\u0303olas al nordestte 1/4 al nortte de la Veracruz i 185 leguas inglesas o 162 espan\u0303olas al nordeste 1/4 al nortte de la Havana",
         "type_of_resource_ssim": [
             "Cartographic"

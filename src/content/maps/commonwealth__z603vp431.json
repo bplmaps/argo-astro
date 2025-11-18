@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749557917614080,
+        "_version_": 1847512846621999104,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vp431",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vp431/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Gibson, John, active 1750-1787",
             "Payne, John, -1787"
@@ -115,14 +118,15 @@
             "France--Colonies--America--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
-            "North America"
+            "North America",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-150.0,3.0],[-30.0,3.0],[-30.0,70.0],[-150.0,70.0],[-150.0,3.0]]]},\"bbox\":[-150.0,3.0,-30.0,70.0]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"area\":\"North America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"North America\"}}"
         ],
         "subject_point_geospatial": [
             "58.166,-104.466"
@@ -135,7 +139,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:38:48Z",
         "system_modified_dtsi": "2023-09-15T14:47:12Z",
-        "timestamp": "2023-10-03T15:42:48.704Z",
+        "timestamp": "2025-10-31T15:45:51.054Z",
         "title_info_primary_subtitle_tsi": "as stipulated by the preliminary articles of peace sign'd at Fontainebleau by the ministers of Great Britain, France & Spain, Novr. 3d, 1762",
         "title_info_primary_tsi": "An accurate map of the British, French & Spanish settlements in Nth. America and the West Indies",
         "title_info_uniform_ssim": [

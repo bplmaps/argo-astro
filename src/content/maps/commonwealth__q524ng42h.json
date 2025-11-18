@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749919044042752,
+        "_version_": 1847512947551633408,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -46,14 +46,17 @@
         "exemplary_image_ssi": "commonwealth:q524ng43s",
         "extent_tsi": "1 map : ms., col., sectioned and mounted on cloth ; 40 x 40 cm., folded to 14 x 14 cm.",
         "filenames_ssim": [
-            "la002161",
-            "commonwealth:q524ng42h_metadata"
+            "commonwealth:q524ng42h_metadata",
+            "la002161"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524ng42h",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524ng42h/manifest",
@@ -68,7 +71,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Bingham, William, 1752-1804"
         ],
@@ -114,14 +117,15 @@
         ],
         "subject_geographic_sim": [
             "North and Central America",
+            "Pennsylvania",
             "Tioga (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.5,41.8667]},\"properties\":{\"placename\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.5,41.8667]},\"properties\":{\"placename\":\"Tioga (county), PA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.5,41.8667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Tioga\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.5,41.8667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Tioga\"}}"
         ],
         "subject_point_geospatial": [
             "41.8667,-77.5"
@@ -134,7 +138,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:19:28Z",
         "system_modified_dtsi": "2023-09-15T14:47:48Z",
-        "timestamp": "2023-10-03T15:48:33.101Z",
+        "timestamp": "2025-10-31T15:47:27.308Z",
         "title_info_alternative_tsim": [
             "Twenty tracts, Tioga County"
         ],

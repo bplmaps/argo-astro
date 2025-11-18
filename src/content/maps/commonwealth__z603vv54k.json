@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750210236743680,
+        "_version_": 1847513041617289216,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vv54k",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vv54k/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Simcoe, John Graves, 1752-1806"
         ],
@@ -109,16 +112,17 @@
         ],
         "subject_geographic_sim": [
             "Hancocks Bridge",
+            "New Jersey",
             "North and Central America",
             "Salem (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.45,39.5]},\"properties\":{\"placename\":\"Hancocks Bridge\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.45,39.5]},\"properties\":{\"placename\":\"Hancocks Bridge, NJ\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.460556,39.5075]}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.45,39.5]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Salem\",\"city\":\"Hancocks Bridge\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.45,39.5]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\",\"county\":\"Salem\",\"city\":\"Hancocks Bridge\"}}"
         ],
         "subject_point_geospatial": [
             "39.5,-75.45",
@@ -129,7 +133,7 @@
         ],
         "system_create_dtsi": "2016-11-20T07:03:27Z",
         "system_modified_dtsi": "2023-09-15T14:48:29Z",
-        "timestamp": "2023-10-03T15:53:10.805Z",
+        "timestamp": "2025-10-31T15:48:57.015Z",
         "title_info_primary_tsi": "Surprize of rebels at Hancock's House",
         "type_of_resource_ssim": [
             "Cartographic"

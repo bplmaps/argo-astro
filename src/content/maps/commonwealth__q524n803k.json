@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749825347485696,
+        "_version_": 1847512906663460864,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n803k",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n803k/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Montre\u0301sor, John, 1736-1799"
         ],
@@ -104,17 +107,18 @@
         ],
         "subject_geographic_sim": [
             "Middle Atlantic",
-            "North and Central America"
+            "North and Central America",
+            "United States"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"Middle Atlantic\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"area\":\"Middle Atlantic\"}}"
         ],
         "subject_topic_tsim": [
             "Middle Atlantic States--History--Revolution, 1775-1783--Campaigns--Maps, Manuscript--Early works to 1800"
         ],
         "system_create_dtsi": "2017-05-25T16:00:49Z",
         "system_modified_dtsi": "2023-09-15T14:47:31Z",
-        "timestamp": "2023-10-03T15:47:03.745Z",
+        "timestamp": "2025-10-31T15:46:48.314Z",
         "title_info_primary_tsi": "Operations of the British army, from the 25th August to 26th Sept. 1777",
         "type_of_resource_ssim": [
             "Cartographic"

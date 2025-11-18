@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749816806834176,
+        "_version_": 1847512902823575552,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n736x",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n736x/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Montre\u0301sor, John, 1736-1799"
         ],
@@ -110,13 +113,14 @@
         ],
         "subject_geographic_sim": [
             "North and Central America",
-            "Ohio River"
+            "Ohio River",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-89.1333,36.9833]},\"properties\":{\"placename\":\"Ohio River, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-89.1333,36.9833]},\"properties\":{\"placename\":\"Ohio River\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-89.1333,36.9833]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Ohio River\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-89.1333,36.9833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Ohio River\"}}"
         ],
         "subject_point_geospatial": [
             "36.9833,-89.1333"
@@ -126,7 +130,7 @@
         ],
         "system_create_dtsi": "2017-05-25T15:47:39Z",
         "system_modified_dtsi": "2023-09-15T14:47:29Z",
-        "timestamp": "2023-10-03T15:46:55.601Z",
+        "timestamp": "2025-10-31T15:46:44.652Z",
         "title_info_primary_tsi": "Map of the Ohio River from Fort Pitt",
         "type_of_resource_ssim": [
             "Cartographic"

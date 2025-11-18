@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749841129603072,
+        "_version_": 1847512912752541696,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n9263",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n9263/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Deux Ponts, Christian, marquis de, 1752-"
         ],
@@ -107,16 +110,17 @@
             "West Point (N.Y.)--Buildings, structures, etc--Maps, Manuscript--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "New York",
             "North and Central America",
             "Orange (county)",
             "United States",
             "West Point"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.95,41.3833]},\"properties\":{\"placename\":\"West Point\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.95,41.3833]},\"properties\":{\"placename\":\"West Point, NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.95,41.3833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Orange\",\"city\":\"West Point\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.95,41.3833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Orange\",\"city\":\"West Point\"}}"
         ],
         "subject_point_geospatial": [
             "41.3833,-73.95"
@@ -127,7 +131,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:17:48Z",
         "system_modified_dtsi": "2023-09-15T14:47:34Z",
-        "timestamp": "2023-10-03T15:47:18.797Z",
+        "timestamp": "2025-10-31T15:46:54.121Z",
         "title_info_primary_tsi": "Plan de West-Pointe du nord leve\u0301 a vue",
         "type_of_resource_ssim": [
             "Cartographic"

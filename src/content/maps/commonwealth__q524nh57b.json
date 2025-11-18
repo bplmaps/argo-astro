@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749937727569920,
+        "_version_": 1847512955672854528,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nh58m",
         "extent_tsi": "1 ms. map ; on sheet 28 x 40 cm.",
         "filenames_ssim": [
-            "lh000944",
-            "commonwealth:q524nh57b_metadata"
+            "commonwealth:q524nh57b_metadata",
+            "lh000944"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nh57b",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nh57b/manifest",
@@ -60,7 +63,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Pintado, Vicente Sebastia\u0301n, 1774-1829"
         ],
@@ -109,13 +112,14 @@
         ],
         "subject_geographic_sim": [
             "North and Central America",
-            "Pearl River"
+            "Pearl River",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-89.0,32.8833]},\"properties\":{\"placename\":\"Pearl River, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-89.0,32.8833]},\"properties\":{\"placename\":\"Pearl River\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-89.0,32.8833]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Pearl River\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-89.0,32.8833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Pearl River\"}}"
         ],
         "subject_point_geospatial": [
             "32.8833,-89"
@@ -126,7 +130,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:45:20Z",
         "system_modified_dtsi": "2023-09-15T14:47:53Z",
-        "timestamp": "2023-10-03T15:48:50.919Z",
+        "timestamp": "2025-10-31T15:47:35.053Z",
         "title_info_primary_tsi": "Map of the Rigolet and the mouth of the Pearl River, Louisiana and Mississippi",
         "type_of_resource_ssim": [
             "Cartographic"

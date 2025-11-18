@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749840482631680,
+        "_version_": 1847512912747298816,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n9220",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n9220/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJzNWEtz2zYQvudXYHhKZ0SRlGzL0kTsJErSpmM7nciZNr10IHBFIiIBBgAt8993wYdEWpKdJp22F1oBdr99YJ958eN9lpI7UJpLMXeCoe8QEExGXMRz5+PtW/fS+TF89iKTkZ7ZD0F6oWf3KRebuZMYk888b7vdDrfjoVSxF0ynU6+6dVpSzY8Rjnw/8H6/vlqyBDLqcqENFQxaLiurx5ZKNozlnWcvvLuxs1d6PJwgl+YzXUFdSUZNdXGamxy5svIjqvC+Iar+umN3MrzXkRM+I6R2g+EmhXdiLUmhaQxzJ1c8o6p0SMR1ntLyiq4g3R3/2ZxWCD2McLkBwxIi18QkQBQgG9lKtdGEGvIbaEN+lVyYF16HpwOii9VtdUY1MXQDgqyVzCqsCDRTPLd+aOAzEvM7JFmVhNprUAYU2SaSMJoBMZIsjRRQ1iIHZGoS8kshYECCyWTaqLCTaJ3h9b3RcVCZw/v1B9CyUAxIRkVRazN3StBOuKDKyFjRPOGsRemx7KFiEAoILUwiFTfl3ImzOGfO/uTjh3e7h+bR7jHvMAhWRYru9xpB1xTt5TTVGDk0LeDvM3omznz/YnQRPHxp1BIUTZ3wmua6sajS/H9sSDAaXV48Ykj7ZifsQZ1jLtp3b08jFLFQgN+oU0a2YxaZtUM2UL7GqzoKyJeCpnzNQc0dLtagFGCSdWKtg9UJt77cWmpKRVxgJnY1ac9uQWFGYHTNHQP3xuk+AdfyYjx1R6u/9Qwt11e7v2XwQMRO+EbEKddJY05XzY6VXYtqe/Kk1JzR9PU+sXuOR68Ymr6vvBMqWEuVUWOfoblpndqj6wCgb0CYMOhkK/7MB2Q0IvdkfElYNmwwGtIOMxYMUALMNUSc3qKzQ6x8MXifc4gbpkOSr+A3fL3+Hv7P+egx9ubuhGtraCENdLJhQHIQLjYKbFib1iEVTZ/jZyzJW5tv2AE2+hHCD5ByWBOdyG1VmxPKkkLBYyxLpNUEXxjdw+tehw1DRIRmshBG24IvVSRsOz0N0yQFw3CwCB7GDCiwHTi8WhBbyCzODUpJyMsMCwejthWc+24wuZziz5E/fgrcprAT3iZcE/uT4N821Y8rhv3lMzDTTdKU6eTp/GzvOWivAdH9hitzzsK3Xae57g1sySfst+T5Er0AP7juvum6rvWB676hKi2broxNMrj0/bZnVZD7OGrk/nvW7JUlz2+Gn4ao/6uCp7bo6gHRRhXM2FgaEBwzansGZB/L/7RtJhYnTKuK4TAGY8ohRIVXUR5UzyNU3sQPzi78ac/4BHsGVSyxOfsTtINETdHSMJsJZfheYSGFxobm7JBOleFHwW2xrMJAd+nVAYMwXNj6V6eGzbsF/hO7ZpsmO/aWsgegrYiwjbzWvdVhXxD6MDyYAavT2hfek85ogDrTln5oDNYJLqzN4VkwHF+OxwN3Mh5Oz3c27Am6Ug8wnwiTr9RHoxFY3+wXp9IhCWZBMPB3QVlff5MeClI7SLwz0E4DidTmcCTfDzT9Sf2Kr9DNpS2JCyliTCqNP9IUhWAlOTKgHxuOvYeqPKYf1x/aihy9wt2i2qlmCZbpOmE0ZkzKmNgVjTibBL5/fjaaEMfbI/MIQ7CasxrgQnEnbBGwOw2bmYDJLJNiCzQ1SbWh4d3MO/en51Pvy/noTExHo/Yl9qCPCELFaOpK3D2UE1JlG4b/GEDaLG7dR2l7c7vUHX2INu7LKhuxzJHX/I7r/cMcoHQmre7RSTUKlR4se5QxFD53ZF0IuSA24+2M+b3eRWkPhbfCcgV3HLbfLsIzSZGtBOXpaWG2J2MAcr52cRrka9DfYZPXQvTlnXR/bSm+bcSr7fVY3DO7FuA2WyugK9kpZyA0NsxV6QrmauqdDX3PaYNeQxUcCnIlo6LK2ofLT4PQDCy2K9qBpTmN7MBFLEwhIgxxShaNEhiHlRbkpTGKr4pK6xscL+w5KIYbF1kmFLe/lynfALmqAcnzxYK8+uTeLNzlyx/aceiB9afd8vVm4aif2PHhRpKNsFMmk3lZHSIbDgm84tJPaqDQ3Sp6uPHVpwsb+cIs6+39FZZWVPHXYoXOI03G7qrfIf0hXOVaKey2eLhHhiN/FLg+blTTWz+Y+ePZ2dkfffgO/xH0xA4F34y94z5EbtYqzDAqCKZqjq8e9bgPF6921Xu/XlDMKYnXcb8DHVllUWv471dZ/JxYYw8W2UPrmr11v3Mtm/9/65qFlZZ1SJxQRe14dYSz12T3wdoc2U/47C8lvDod",
         "note_date_tsim": [
             "This date is inferred."
         ],
@@ -98,16 +101,17 @@
             "West Point (N.Y.)--Buildings, structures, etc--Maps, Manuscript--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "New York",
             "North and Central America",
             "Orange (county)",
             "United States",
             "West Point"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.95,41.3833]},\"properties\":{\"placename\":\"West Point\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.95,41.3833]},\"properties\":{\"placename\":\"West Point, NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.95,41.3833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Orange\",\"city\":\"West Point\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.95,41.3833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Orange\",\"city\":\"West Point\"}}"
         ],
         "subject_point_geospatial": [
             "41.3833,-73.95"
@@ -118,7 +122,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:17:21Z",
         "system_modified_dtsi": "2023-09-15T14:47:27Z",
-        "timestamp": "2023-10-03T15:47:18.179Z",
+        "timestamp": "2025-10-31T15:46:54.115Z",
         "title_info_primary_subtitle_tsi": "as taken from the description of them given by a deserter who came to Stoney Point, 9th June, 1779",
         "title_info_primary_tsi": "Sketch of the rebel works at West Point",
         "type_of_resource_ssim": [

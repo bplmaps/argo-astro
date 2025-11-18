@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750065960026112,
+        "_version_": 1847513006411350016,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z4432",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z4432/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Sauthier, Claude Joseph",
             "George, III, King of Great Britain, 1738-1820",
@@ -114,17 +117,18 @@
             "Salisbury (N.C.)--Maps, Manuscript--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "North Carolina",
             "North and Central America",
             "Rowan (county)",
             "Salisbury",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.4667,35.6667]},\"properties\":{\"placename\":\"Salisbury\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.4667,35.6667]},\"properties\":{\"placename\":\"Salisbury, NC\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-80.478888,35.65944],[-80.45972,35.65944],[-80.45972,35.675],[-80.478888,35.675],[-80.478888,35.65944]]]},\"bbox\":[-80.478888,35.65944,-80.45972,35.675]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.4667,35.6667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Rowan\",\"city\":\"Salisbury\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.4667,35.6667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"North Carolina\",\"county\":\"Rowan\",\"city\":\"Salisbury\"}}"
         ],
         "subject_point_geospatial": [
             "35.6667,-80.4667"
@@ -134,7 +138,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:25:26Z",
         "system_modified_dtsi": "2023-09-15T14:48:13Z",
-        "timestamp": "2023-10-03T15:50:53.212Z",
+        "timestamp": "2025-10-31T15:48:23.440Z",
         "title_info_primary_tsi": "PLAN of the Town of SALISBURY in Rowan County. NORTH CAROLINA",
         "type_of_resource_ssim": [
             "Cartographic"

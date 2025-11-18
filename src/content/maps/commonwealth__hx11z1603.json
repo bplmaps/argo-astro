@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750014827266048,
+        "_version_": 1847512982800564224,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -59,7 +59,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z1603",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z1603/manifest",
@@ -72,7 +75,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Wilson, Ensign",
             "Royal United Services Institute for Defence and Security Studies"
@@ -132,14 +135,15 @@
         "subject_geographic_sim": [
             "North and Central America",
             "Otter Creek",
-            "United States"
+            "United States",
+            "Vermont"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3167,44.2167]},\"properties\":{\"placename\":\"Otter Creek\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3167,44.2167]},\"properties\":{\"placename\":\"Otter Creek, VT\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-73.091389,43.250278],[-72.338889,43.250278],[-72.338889,43.745833],[-73.091389,43.745833],[-73.091389,43.250278]]]},\"bbox\":[-73.091389,43.250278,-72.338889,43.745833]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3167,44.2167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Otter Creek\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3167,44.2167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Vermont\",\"other\":\"Otter Creek\"}}"
         ],
         "subject_point_geospatial": [
             "44.2167,-73.3167"
@@ -151,7 +155,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:11:13Z",
         "system_modified_dtsi": "2023-09-15T14:48:02Z",
-        "timestamp": "2023-10-03T15:50:04.448Z",
+        "timestamp": "2025-10-31T15:48:00.923Z",
         "title_info_primary_tsi": "Plan of Part of Black River & Part of Otter Creek with the Distances by Computation",
         "type_of_resource_ssim": [
             "Cartographic"

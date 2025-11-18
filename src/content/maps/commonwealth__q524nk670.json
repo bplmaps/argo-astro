@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749968127885312,
+        "_version_": 1847512968176074752,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nk688",
         "extent_tsi": "1 manuscript map 166 x 75 cm. on 3 sheets 131 x 60 cm. or smaller.",
         "filenames_ssim": [
-            "ct000363Z",
-            "commonwealth:q524nk670_metadata"
+            "commonwealth:q524nk670_metadata",
+            "ct000363Z"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nk670",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nk670/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Washington, George, 1732-1799",
             "Lewis, Samuel, 1753 or 1754-1822",
@@ -117,13 +120,14 @@
         "subject_geographic_sim": [
             "Kanawha",
             "North and Central America",
-            "United States"
+            "United States",
+            "West Virginia"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.1833,38.15]},\"properties\":{\"placename\":\"Kanawha (river)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.1833,38.15]},\"properties\":{\"placename\":\"Kanawha (river), WV\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.1833,38.15]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Kanawha (river)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.1833,38.15]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"West Virginia\",\"other\":\"Kanawha (river)\"}}"
         ],
         "subject_point_geospatial": [
             "38.15,-81.1833"
@@ -135,7 +139,7 @@
         ],
         "system_create_dtsi": "2017-05-26T15:42:15Z",
         "system_modified_dtsi": "2023-09-15T14:47:56Z",
-        "timestamp": "2023-10-03T15:49:19.912Z",
+        "timestamp": "2025-10-31T15:47:46.977Z",
         "title_info_primary_subtitle_tsi": "showing land granted to George Washington and others",
         "title_info_primary_tsi": "Eight survey tracts along the Kanawha River, W.Va",
         "type_of_resource_ssim": [

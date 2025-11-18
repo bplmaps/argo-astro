@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749860766285824,
+        "_version_": 1847512921300533248,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nb55r",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nb55r/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Wangenheim, Friedrich Adam Julius von"
         ],
@@ -109,13 +112,14 @@
             "Chadds Ford",
             "Delaware (county)",
             "North and Central America",
+            "Pennsylvania",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.5833,39.8667]},\"properties\":{\"placename\":\"Chadds Ford\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.5833,39.8667]},\"properties\":{\"placename\":\"Chadds Ford, PA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.5833,39.8667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Delaware\",\"city\":\"Chadds Ford\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.5833,39.8667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Delaware\",\"city\":\"Chadds Ford\"}}"
         ],
         "subject_point_geospatial": [
             "39.8667,-75.5833"
@@ -126,7 +130,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:45:40Z",
         "system_modified_dtsi": "2023-09-15T14:47:37Z",
-        "timestamp": "2023-10-03T15:47:37.523Z",
+        "timestamp": "2025-10-31T15:47:02.273Z",
         "title_info_primary_tsi": "From Battle of Brandywine",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749870594588672,
+        "_version_": 1847512924729376768,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nc214",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nc214/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJzNWM1u2zgQvvcpCJ1aILIsO4ljo1aRuvsTIEmLJC22e1nQ1FhiI5MqScXRcd9vH2qHkmhLsZ2k7QLdi+2QM9/8D2fy+s39MiN3oDSXYuqFvb5HQDAZc5FMvY83v/on3pvoxeuljPXEfhCkF3pyn3FxO/VSY/JJEKxWq95q2JMqCcLxeBxUt54j1XwX4aDfD4M/Ls6vWQpL6nOhDRUMHJeV1WHLJOsl8i6wF8Hd0NsoPeyNkEvzia6gziWjprrYz012XFn5MVV43xBV3/7QH/XudexFLwip3WC4yeBMLCQpNE1g6uWKL6kqPRJznWe0PKdzyNbHfzWnFUIHI7qUBjTRhSIZfoO440oKTWIgn6W6nZAPGRUklkLAP3+TnCq80YSqHISBQiFhgaelfh20MK2aQVfPluplDu8XV6BloRiQJRWFZornZuqVoL1oRpWRiaJ5yplD6bBsoBIQCggtTCoVN+XUS5ZJzrzNycers3UIeLx28x2GZ15k6JigEXRBDShOM40xpVkB384YmGTZ7x8PjsOHMUAtQdHMiy5o7vxUaf4/NiQcDE6OHzHExWyPPahzwoWLuzuNUcRMAX7GrQJfDVlsFh65hfIdXtVZQL4WNOMLDmrqcbEApQDTPxydhI3AFlYr3bpya6mYv0mBNdLWxJ3dgFoSm11Tz8C98doh4FoeD8f+YP5NYXBcz3a/YwgWinrRrwodkzbWtLVsGdk2qDYnT0vNGc3eQR0V7Dwdv6NTDM3eV86JFCykWlJjo9DcOJ926FoA6Bos9yhsFSv+zMmEpNivCJOZVEQKolMAQ4ZDck+Ojwhb9hrghr+FyLF7KAHmAmJObzAAEfapBIIvOSQN0zbJM/gNXyx+hP9LPniMvbnb4+8aWmBDbVXIAcFW6aOb8Hm5JdZdK1tplc+cfyqWLsCZYFlhW63Ny/10TfIyjJvVIsDggk0h8KLzGbENh8gFuZTKpOR0iQXO6AEJR0d9H2tpjD8PR/2nwG2pedFNyrHZ40+C364kdyumi/kXYKZdTBnT6dN15O456KAB0d0nS+acRfZhMnIlyMtPtPfK93/n2khV+v41hwSsfSeh71vjff8XqrKSrJADXSlJeNJ39tZYm6A2An+CGVeQYOycNVbvA7JJoP/aBpOIPSZUXamXgDFlD+IiqCi32tgOqmAQhkfh8bhjZIrNmyqW2kL5DdyLXlM4GiYLYcrKE40Fzck2lSqjj4LbpnWNuQ66Ta+2GIThwracOvNt1c3wT3y8XBWs2R1lB0BbEdEnrrARckdbH3YF8UZ7G0cHyZ3+zcFjjmhgWiOPfmiKVPhOWouj4ag3GA6HB/7ouHe0NmBz3xa6BflEhjxTHY02QHRtPwmjPRJODg8P+ut8rK+/Sw8FmX3Mzwy4FzmV2mwPrJuhojvHnvM5erm07W4mRaJAa/yRZSgEi+vheLpnQA0eqvKYflxfuW4bv8XJu9o4Jim24LpWNBZLxphY94VkOQr7/UE4GhMv2CDzGPOvmnUa4EJxL3IIVN32moeZyeVSihXQzKTV/oJ3k+CoPz4aB1+PBoeCDcJD93ytQR8RhIrRzJcmBeVFVNnHYB3KXQBZs9a0g+LeQrfy7AyES/uyKkXscOQdv+N6E5gtlNa40z7aq0ahsq1ViDKGwqeerHsgF8SWu53zftS7KO2hcCcsV3DHYfX9IgKTFsu5oDzbL8y+t5iAnC98HMn4AvQP2BQ4iK68ve6vLcXYxtxe7Mx7Zkdzfge1ArqSnXEGQuObOC99wXxNg8NeP/Bc0muokkNBrmRcVFX7cAFpEJphxD6IdhhpTmOCcy2xMIWIMcUpmTVKYB5WWpBTYxSfF5XWl1L49hxHMdx6yHVKcQM7zfgtkPMakLyczcjbz/7lzL8+feVGnQfW73fL883CeTu1E8KlJLfCDgRM5mV1iGwaVa649JMaKHS3ih9uXfXpzGa+MNf1Bv0WWyuq+KGYo/NIU7Hr7rdNvw1XuVYKu7Ft73LRALuc38etZnzTDyfD4WQY/tmFb/HvQMe1IoHvxl5zbyM3uw1WGBUESzXHqMcd7u3tx+1b7xczijUl8TrpvkA71knUGn7qOgki8SL82LNLbm2T29Y1y+Nmx7lu/jvVNgs7LWuReJGK3by0g7PzyG6StTmyH9GLfwGO2uyF",
         "note_date_tsim": [
             "This date is inferred."
         ],
@@ -98,14 +101,15 @@
         "subject_geographic_sim": [
             "North and Central America",
             "United States",
+            "Virginia",
             "York (county)",
             "Yorktown"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"placename\":\"Yorktown\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"placename\":\"Yorktown, VA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"York\",\"city\":\"Yorktown\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\",\"county\":\"York\",\"city\":\"Yorktown\"}}"
         ],
         "subject_point_geospatial": [
             "37.2333,-76.5"
@@ -116,7 +120,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:00:14Z",
         "system_modified_dtsi": "2023-09-15T14:47:40Z",
-        "timestamp": "2023-10-03T15:47:46.896Z",
+        "timestamp": "2025-10-31T15:47:05.543Z",
         "title_info_primary_tsi": "Notes sur les environs de York: Plan donne\u0301 par des arpenteurs du pays",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750070559080448,
+        "_version_": 1847513007800713216,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z470z",
         "extent_tsi": "1 map : manuscript pen and ink with watercolour over pencil ; 40 x 30 cm",
         "filenames_ssim": [
-            "k_top_122_76",
-            "commonwealth:hx11z4696_metadata"
+            "commonwealth:hx11z4696_metadata",
+            "k_top_122_76"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z4696",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z4696/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Thomas, John, the Elder",
             "George, III, King of Great Britain, 1738-1820",
@@ -119,15 +122,16 @@
         "subject_geographic_sim": [
             "Camden (county)",
             "Cumberland Island",
+            "Georgia",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.4333,30.85]},\"properties\":{\"placename\":\"Cumberland Island\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.4333,30.85]},\"properties\":{\"placename\":\"Cumberland Island, GA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-81.452777,30.925],[-81.44361,30.925],[-81.44361,30.93055],[-81.452777,30.93055],[-81.452777,30.925]]]},\"bbox\":[-81.452777,30.925,-81.44361,30.93055]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.4333,30.85]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Camden\",\"island\":\"Cumberland Island\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.4333,30.85]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Georgia\",\"county\":\"Camden\",\"island\":\"Cumberland Island\"}}"
         ],
         "subject_point_geospatial": [
             "30.85,-81.4333"
@@ -140,7 +144,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:31:35Z",
         "system_modified_dtsi": "2023-09-15T14:48:13Z",
-        "timestamp": "2023-10-03T15:50:57.598Z",
+        "timestamp": "2025-10-31T15:48:24.765Z",
         "title_info_primary_tsi": "PLAN dun petit FORT pour l'Isle de S.t ANDRE capable de contenir outre les Magazins, des Barraques pour 200 Hommes de Garrison, & environ 20 Chambres de Surplus pour queleques autres Habitans",
         "type_of_resource_ssim": [
             "Cartographic"

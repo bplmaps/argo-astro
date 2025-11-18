@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749794741649408,
+        "_version_": 1847512894446501888,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,13 +37,16 @@
         "exemplary_image_ssi": "commonwealth:z603vk85x",
         "extent_tsi": "3 views on 1 sheet ; hand col. ; sheet 82 x 63 cm.",
         "filenames_ssim": [
-            "gan00017an011019",
-            "commonwealth:z603vk84n_metadata"
+            "commonwealth:z603vk84n_metadata",
+            "gan00017an011019"
         ],
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vk84n",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vk84n/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1722-1824"
         ],
@@ -103,18 +106,20 @@
         "subject_geographic_sim": [
             "Canada",
             "Grand Passage",
+            "Newfoundland and Labrador",
             "North and Central America",
+            "Nova Scotia",
             "Saint Mary's Bay",
             "Saint Marys, Cape"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-66.2167,44.0833]},\"properties\":{\"placename\":\"Saint Marys, Cape\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-66.2167,44.0833]},\"properties\":{\"placename\":\"Saint Marys, Cape, Nova Scotia\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-66.33946,44.26897]},\"properties\":{\"placename\":\"Grand Passage\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-53.8333,46.8333]},\"properties\":{\"placename\":\"Saint Mary's Bay\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-53.8333,46.8333]},\"properties\":{\"placename\":\"Saint Mary's Bay, Newfoundland and Labrador\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-66.2167,44.0833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"other\":\"Saint Marys, Cape\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-53.8333,46.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"other\":\"Saint Mary's Bay\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-66.2167,44.0833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Nova Scotia\",\"other\":\"Saint Marys, Cape\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-53.8333,46.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Newfoundland and Labrador\",\"other\":\"Saint Mary's Bay\"}}"
         ],
         "subject_point_geospatial": [
             "44.0833,-66.2167",
@@ -129,7 +134,7 @@
         ],
         "system_create_dtsi": "2016-11-20T03:17:01Z",
         "system_modified_dtsi": "2023-09-15T14:47:25Z",
-        "timestamp": "2023-10-03T15:46:34.558Z",
+        "timestamp": "2025-10-31T15:46:36.662Z",
         "title_info_primary_tsi": "South entrance of Grand Passage ; Cape St. Mary n.e. one mile ; St. Marys Bay",
         "type_of_resource_ssim": [
             "Cartographic"

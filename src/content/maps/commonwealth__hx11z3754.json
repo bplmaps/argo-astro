@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750053874139136,
+        "_version_": 1847512997240504320,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z376d",
         "extent_tsi": "1 map : manuscript pen and ink with watercolour ; 22 x 30 cm",
         "filenames_ssim": [
-            "k_top_121_50",
-            "commonwealth:hx11z3754_metadata"
+            "commonwealth:hx11z3754_metadata",
+            "k_top_121_50"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z3754",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z3754/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "George, III, King of Great Britain, 1738-1820",
             "George, IV, King of Great Britain, 1762-1830"
@@ -114,15 +117,16 @@
         "subject_geographic_sim": [
             "Crown Point",
             "Essex (county)",
+            "New York",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4167,44.0]},\"properties\":{\"placename\":\"Crown Point (cape)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4167,44.0]},\"properties\":{\"placename\":\"Crown Point (cape), NY\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-73.434722,44.03055],[-73.4325,44.03055],[-73.4325,44.03222],[-73.434722,44.03222],[-73.434722,44.03055]]]},\"bbox\":[-73.434722,44.03055,-73.4325,44.03222]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4167,44.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Essex\",\"other\":\"Crown Point (cape)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4167,44.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Essex\",\"other\":\"Crown Point (cape)\"}}"
         ],
         "subject_point_geospatial": [
             "44,-73.4167"
@@ -135,7 +139,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:08:30Z",
         "system_modified_dtsi": "2023-09-15T14:48:11Z",
-        "timestamp": "2023-10-03T15:50:41.686Z",
+        "timestamp": "2025-10-31T15:48:14.695Z",
         "title_info_primary_tsi": "CROWN POINT or ST. FREDERICK'S FORT at the head of LAKE CHAMPLAIN and the Mouth of WOOD CREEK",
         "type_of_resource_ssim": [
             "Cartographic"

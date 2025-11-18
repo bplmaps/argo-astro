@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749899130535936,
+        "_version_": 1847512939620204544,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nf15d",
         "extent_tsi": "1 manuscript map : hand color 46 x 44 cm.",
         "filenames_ssim": [
-            "ct000085z",
-            "commonwealth:q524nf144_metadata"
+            "commonwealth:q524nf144_metadata",
+            "ct000085z"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nf144",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nf144/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Washington, George, 1732-1799"
         ],
@@ -105,17 +108,18 @@
             "Fairfax (county)",
             "Mount Vernon",
             "North and Central America",
-            "United States"
+            "United States",
+            "Virginia"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Fairfax\",\"other\":\"Mount Vernon (historic site)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\",\"county\":\"Fairfax\",\"other\":\"Mount Vernon (historic site)\"}}"
         ],
         "subject_topic_tsim": [
             "Mount Vernon (Va. : Estate)--Maps, Manuscript--Early works to 1800"
         ],
         "system_create_dtsi": "2017-05-25T17:46:01Z",
         "system_modified_dtsi": "2023-09-15T14:47:42Z",
-        "timestamp": "2023-10-03T15:48:14.110Z",
+        "timestamp": "2025-10-31T15:47:19.744Z",
         "title_info_primary_tsi": "A plan of my farm on Little Huntg. Creek & Potomk. R",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749872251338752,
+        "_version_": 1847512925899587584,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nc31c",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nc31c/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Boss, Mr.",
             "Brailsford, Mr.",
@@ -118,15 +121,16 @@
             "Beaufort (county)",
             "Jasper (county)",
             "North and Central America",
+            "South Carolina",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.0167,32.4167]},\"properties\":{\"placename\":\"United States\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.7,32.3667]},\"properties\":{\"placename\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.0167,32.4167]},\"properties\":{\"placename\":\"Jasper (county), SC\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.7,32.3667]},\"properties\":{\"placename\":\"Beaufort (county), SC\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.0167,32.4167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Jasper\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.7,32.3667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Beaufort\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.0167,32.4167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"South Carolina\",\"county\":\"Jasper\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.7,32.3667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"South Carolina\",\"county\":\"Beaufort\"}}"
         ],
         "subject_point_geospatial": [
             "32.4167,-81.0167",
@@ -140,7 +144,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:02:56Z",
         "system_modified_dtsi": "2023-09-15T14:47:40Z",
-        "timestamp": "2023-10-03T15:47:48.477Z",
+        "timestamp": "2025-10-31T15:47:06.659Z",
         "title_info_alternative_tsim": [
             "South Carolina from Savannah Sound to St. Helena's Sound",
             "Savannah Sound to St. Helena's Sound"

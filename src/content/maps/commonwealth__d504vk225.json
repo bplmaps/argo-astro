@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778757925123129344,
+        "_version_": 1847513158363643904,
         "admin_set_ark_id_ssi": "commonwealth:mw22z436x",
         "admin_set_name_ssi": "Library and Archives Canada Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:mw22z436x"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library and Archives Canada Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -45,7 +45,10 @@
         "genre_specific_ssim": [
             "Manuscript maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:d504vk225",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/d504vk225/manifest",
@@ -62,7 +65,7 @@
             "English"
         ],
         "license_ss": "Contact host institution for more information.",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Cook, James, 1728-1779"
         ],
@@ -99,13 +102,14 @@
         ],
         "subject_geographic_sim": [
             "Canada",
-            "Newfoundland and Labrador"
+            "Newfoundland and Labrador",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-56.0,52.0]},\"properties\":{\"placename\":\"Newfoundland and Labrador\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-56.0,52.0]},\"properties\":{\"country\":\"Canada\",\"province\":\"Newfoundland and Labrador\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-56.0,52.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Newfoundland and Labrador\"}}"
         ],
         "subject_point_geospatial": [
             "52,-56"
@@ -115,7 +119,7 @@
         ],
         "system_create_dtsi": "2023-03-29T18:20:10Z",
         "system_modified_dtsi": "2023-03-29T20:12:16Z",
-        "timestamp": "2023-10-03T17:55:48.294Z",
+        "timestamp": "2025-10-31T15:50:48.354Z",
         "title_info_primary_tsi": "A chart of the sea-coast of Newfoundland between St. Laurence and Point May survey'd by order of Hugh Palliser esqr. commodore & c. & c.",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750191830040576,
+        "_version_": 1847513036517015552,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vt68q",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vt68q/manifest",
@@ -60,7 +63,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJztWVtvGzcWfs+vIOYlLeC5SLIlS42ncJS6dWEnge10b1gEFIeaYcwhJyRHtvrU/pr+mfyoHlIcaUaSndtiFwX2wbJFnjsPz/kO/ez7+5KjBVWaSXES9KIkQFQQmTGRnwRvbs7C4+D79MmzUmZ6Yj8Q0As9uedM3J4EhTHVJI7v7u6iu0EkVR73xuNx7HaDhlSzfYT9JOnFf7+8uCYFLXHIhDZYENpwWV0dNi5JlMtFbDfixSDYGD2IRsCl2UQ7UReSYOM2HuZGe7as/gwr2PdE7nc4CEfRvc6C9AlCqzAYZjg9F3OJao1zehJUipVYLQOUMV1xvLzAM8rXy2/9qpPQkZFOsTIUZTUyBf3wOzYKvlDEMcprquwXLDTiT09L2FXsfU3RNa0MFUaBf5jTA1RRsFkYxKlGWAiggz96o9HRARoN4Wd0gKhBo+NncUttyw5dz27cmqw//IY0RUbJekG9RPBAEFbh+h4RXFagYkGJ28nYfG6NAkpLxzGBX6CJVhLMhH34mWGDGbfU72tmZWsJcjPZmNnYblmteJwLqr2ha7ts1ONu2DcnIXAJFi8rewaQDTYmnSjb/dcQYwh0xcAY4YI9LagWcnmALhkkDPfi17R7+L2ODBsapL3R4TDsHSeHjzAq2YS5vXJDVelFGXpvAoRrU0jFzPIkgEwhinJspGqtv7k6X6cxy9apuoAUn9Uckiv2PBruA+Y1/XSGGNQF6VRR+8270hjpXYk7vrTc/YITeA0Jzaj63GDPeQTpPEwg4P2/esCrGcTmdT3jTBf0vxDyM6kMEwfo5wh98zPF4tsvyHQb+N7o/4F3BQj8eTW/olrWiqyKt8wVrgpGmhLVpVhz5lRANW/FIC/zinyW917RJRyMYph/ehS2GWOTl0ky7A972/0KrKTKJtMlrpo67CzfOALG5kw0RbhZdeW/mwRuaTsLUkge1kheU3QOoCXKC2qOLYWy/SvyZQR9h9zXVYo3vGvSFj/Tura4Ii2l2Dqt9VaL3Cb+OazTrAWD7gYkM/MA3dLlC9g/CZYU4v++xpzNwZiTgIm57deZvTLrXrsR1cqobgBXOjkWeQ1Aom1Hs/bYRWJaDgfjsD/7rERquD45gRqGeK5wkJ5ByyeF96ZtZcvJtkN/LRepyIP0B5HbPPpcH6tiqRnB/AXVRLHKQtBOZsHBG8xfuQRIFZ1LVWJjINH8TpM2HbqWAIgNoK20h0pcoQkqAK0iIqE/fodGA3SPhiNEyshL8cTtiwBITQlqLmnG8A2EOwV0mtP4XUXz5kLskHwCvwEk+DX876r+Y+zN3d4fXN+8pKHpa0DbFJVQ5IBbTNDfsC7g9hoJHfBFNG0C42i7nFeUMzpHupB3As2WEFlS1IrqR1jOBeG1xbhMZPQezpAUCuoLl/kSyTkKrqhYSKaRa0FsDsAZIDSg3hY67iJoWdm/3dyiUcm4RavWhOAxG3ZU25SAMcbQEqRqawlkmGKz2soFW9Hq9kYIKvwKtCPb4qwbyGf9w077O7qWb8WDiRVYzGbWYphwoMAuLLhH2VNcKfrhNxhf7EyjNQUVq+KHuZsHsI2HgR9kCX/XNg4QJnQl2QGaY2ZQhZXlvlYR2o/f5XzOiO0GZwrq+Ic/MNMH6JRlboqawkRhf19GVsglVqBU+/HqDC8pXL0DGErUwo4gmANOaMYtrErngx+7iNX70bCsENNNYXXAn4jZoK66wn5emHDeUWLa1Y4TXXy80DX7jOrYC9Hd2VJWjKQvoTUWFGt7p9C1PTQdhj8xDYhoGQKqMwUMXsLU9ptt+GH4A1Z8ie6kutXISAQjTtLgGidxcxu92kedMbl4wBdXeKMcTmAZ0ayOHeVOpd5DFR8mvd7heNjxtoAEAERZ2OrwI21afBeNYJhyugF5I5gtvau4eK8cVYePwMAKhw+F1DG7+zW14zfk8KktNQR73g1lG808bNtHAtl2kLRwpt62TyqAKNaHNDxOogQNjuEjHPXh8/AoStbWbeja9u2I/s+YpcFdml7bT/QvgmGCm/QOkqPkIEmSfzcqHM0XGeOKKs3OoQz5y1dIbXafVzYwtfvqcgVjP1YZ+ilCz5Wt+Vd0IbmrkQAGoHEoVx+nknPQaysnNuhS1lAnfoHckQ3ebD+m7HuiiLetfcwFpq8olAsozzR7vgyQe0KbFIAT1jeCYMAFMo9Ka8rCWeJe0jxiiMna4LjqDY/7Y7tw2IfaEY8Pt8H+5S8Xp1C+CSRGEG8Mg+IJiWxRrberVixIrQEaLMDqNvLaiCwBUd9RzE3hrIC9SXyUjI/G8a/DZLAww+P3TWNfC31EEZQ3zEMJV1QFaTJ8m/TeJiBtDaf3CeH+qa8zMHik0DwDpnDxVE5beOCp3neaO3wtrNdeelBxrfjOgyAmBHrfSSBX5RF6oC0Ubhb6ypiCtm3ljTLopwtG775cRWyKupwJzPjDymwzg6xlbB6WWLA51V/hU9yI6Op7MPwrT6dSZMzdz+3LYm0g9mWLLejKAO10cwYtT0PfnC1DQUKN48MoiYMm1TV1FV7RSsmsdjdp+9p4Cb7T215pO71fzRCAemTF1IDNFECcqTcCiomzAp228NhLKUK7ThWBwRxdQ1EC0MHZLUUXK4Hom+kUPf9H+HIaXp9+2+CILe8fDsunuwXArLAo4qVEt8KWRCKrpVu0EA9Mdlz6oxasCsr2+8BqdWozX5jr1dvIcyjZYKJ7lSHg7wwa5XJdMnfpd8W50EphJ/LdWT3tJ/1e2EvCpHeTJJPkeHI4+GdXfIt/j3QYr3L6sOxBmAxA/E1vPOkfTnrJluw1965kP9jBDcPCQl9AuTTrcO+Ofs2w+Wo+XfUAMKfb2fYM02A1/d8P0/DxwCC9M0rveucn583Md+3/R7P9ntgiCVKMSfPIt4e105o32eqX7Ef65E/DeWEd",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Capitaine du Chesnoy, Michel, 1746-1804",
             "Perrier, fl. 1760-1824",
@@ -119,20 +122,21 @@
         ],
         "subject_geographic_sim": [
             "North and Central America",
-            "Northeastern United States"
+            "Northeastern United States",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-80.0,38.0],[-72.0,38.0],[-72.0,45.0],[-80.0,45.0],[-80.0,38.0]]]},\"bbox\":[-80.0,38.0,-72.0,45.0]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"Northeastern United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"area\":\"Northeastern United States\"}}"
         ],
         "subject_topic_tsim": [
             "Northeastern States--History--18th century--Maps--Early works to 1800"
         ],
         "system_create_dtsi": "2016-11-20T06:30:09Z",
         "system_modified_dtsi": "2023-09-15T14:48:26Z",
-        "timestamp": "2023-10-03T15:52:53.251Z",
+        "timestamp": "2025-10-31T15:48:52.152Z",
         "title_info_primary_subtitle_tsi": "ou\u0300 se trouvent les principaux camps avec les diffe\u0301rentes places et epoques des batailles qui se sont donne\u0301es pendant ces campagnes",
         "title_info_primary_tsi": "Carte du the\u0301atre de la guerre dans l'Ame\u0301rique Septentrionale, pendant les anne\u0301es 1775, 76, 77, et 78",
         "type_of_resource_ssim": [

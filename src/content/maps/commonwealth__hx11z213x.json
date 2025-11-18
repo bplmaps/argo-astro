@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750024239284224,
+        "_version_": 1847512986380402688,
         "abstract_tsi": "The map shows the Ohio and Wabash Rivers. Lake Erie is promient and detail extends eastwards as far as the Potomac River.",
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
@@ -10,7 +10,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z213x",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z213x/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Bellin, Jacques Nicolas, 1703-1772",
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
@@ -119,24 +122,23 @@
             "Wabash River--Maps, Manuscript--Early works to 1800",
             "Erie, Lake--Maps, Manuscript--Early works to 1800"
         ],
-        "subject_geo_other_ssm": [
-            "Erie, Lake"
-        ],
         "subject_geographic_sim": [
             "Erie, Lake",
             "North and Central America",
             "Ohio River",
+            "United States",
             "Wabash River"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.75,40.35]},\"properties\":{\"placename\":\"Wabash River, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.0,42.0]},\"properties\":{\"placename\":\"Erie, Lake\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.75,40.35]},\"properties\":{\"placename\":\"Wabash River\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.0,42.0]},\"properties\":{\"placename\":\"Erie, Lake, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-88.116667,37.716667],[-76.7,37.716667],[-76.7,43.15],[-88.116667,43.15],[-88.116667,37.716667]]]},\"bbox\":[-88.116667,37.716667,-76.7,43.15]}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-89.1333,36.9833]},\"properties\":{\"placename\":\"Ohio River, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-89.1333,36.9833]},\"properties\":{\"placename\":\"Ohio River\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.75,40.35]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Wabash River\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-89.1333,36.9833]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Ohio River\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.75,40.35]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Wabash River\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.0,42.0]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Erie, Lake\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-89.1333,36.9833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Ohio River\"}}"
         ],
         "subject_point_geospatial": [
             "40.35,-84.75",
@@ -151,7 +153,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:25:23Z",
         "system_modified_dtsi": "2023-09-15T14:48:05Z",
-        "timestamp": "2023-10-03T15:50:13.424Z",
+        "timestamp": "2025-10-31T15:48:04.338Z",
         "title_info_primary_subtitle_tsi": "Depuis sa Source jusqu'a sa Jonction avec celle d'Ouabache, avec les pays les plus voisins",
         "title_info_primary_tsi": "CARTE DU COURS DE L'OHIO OU DE LA BELLE RIVIERE",
         "type_of_resource_ssim": [

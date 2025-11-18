@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749799194951680,
+        "_version_": 1847512896041385984,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,13 +37,16 @@
         "exemplary_image_ssi": "commonwealth:z603vm11b",
         "extent_tsi": "1 map ; 107 x 77 cm.",
         "filenames_ssim": [
-            "gan00015an011053",
-            "commonwealth:z603vm102_metadata"
+            "commonwealth:z603vm102_metadata",
+            "gan00015an011053"
         ],
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vm102",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vm102/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1722-1824"
         ],
@@ -112,19 +115,20 @@
             "Chignecto Isthmus",
             "Minas Basin",
             "Minas Channel",
-            "North and Central America"
+            "North and Central America",
+            "Nova Scotia"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.6667,45.25]},\"properties\":{\"placename\":\"Minas Channel\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.6667,45.25]},\"properties\":{\"placename\":\"Minas Channel, Nova Scotia\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.17934,45.90845]},\"properties\":{\"placename\":\"Chignecto Isthmus\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.06813,45.99185]},\"properties\":{\"placename\":\"Chignecto Isthmus\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.0,45.3333]},\"properties\":{\"placename\":\"Minas Basin (bay)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.0,45.3333]},\"properties\":{\"placename\":\"Minas Basin (bay), Nova Scotia\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.742744,45.572466]},\"properties\":{\"placename\":\"Chignecto Bay\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.6667,45.25]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"other\":\"Minas Channel\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.0,45.3333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"other\":\"Minas Basin (bay)\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.742744,45.572466]},\"properties\":{\"country\":\"Canada\",\"other\":\"Chignecto Bay\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.6667,45.25]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Nova Scotia\",\"other\":\"Minas Channel\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.0,45.3333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Nova Scotia\",\"other\":\"Minas Basin (bay)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.742744,45.572466]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"other\":\"Chignecto Bay\"}}"
         ],
         "subject_point_geospatial": [
             "45.25,-64.6667",
@@ -142,7 +146,7 @@
         ],
         "system_create_dtsi": "2016-11-20T03:30:53Z",
         "system_modified_dtsi": "2023-09-15T14:47:24Z",
-        "timestamp": "2023-10-03T15:46:38.805Z",
+        "timestamp": "2025-10-31T15:46:38.184Z",
         "title_info_primary_tsi": "The isthmus of Nova Scotia",
         "type_of_resource_ssim": [
             "Cartographic"

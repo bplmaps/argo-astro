@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749953269563392,
+        "_version_": 1847512962267348992,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nj85q",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nj85q/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Wilkinson, William Cumberland"
         ],
@@ -112,15 +115,16 @@
             "Saratoga County (N.Y.)--History--Revolution, 1775-1783"
         ],
         "subject_geographic_sim": [
+            "New York",
             "North and Central America",
             "Saratoga (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.85,43.1]},\"properties\":{\"placename\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.85,43.1]},\"properties\":{\"placename\":\"Saratoga (county), NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.85,43.1]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Saratoga\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.85,43.1]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Saratoga\"}}"
         ],
         "subject_point_geospatial": [
             "43.1,-73.85"
@@ -131,7 +135,7 @@
         ],
         "system_create_dtsi": "2017-05-26T15:03:03Z",
         "system_modified_dtsi": "2023-09-15T14:47:54Z",
-        "timestamp": "2023-10-03T15:49:05.742Z",
+        "timestamp": "2025-10-31T15:47:41.342Z",
         "title_info_primary_subtitle_tsi": "at Swords's and Freeman's Farms on Hudsons River near Stillwater, 1777, Position of the army on the 8th Octr. 1777",
         "title_info_primary_tsi": "The encampment & position of the army under His Excy. Lt. Gl: Burgoyne",
         "type_of_resource_ssim": [

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749922639609856,
+        "_version_": 1847512948659978240,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524ng70p",
         "extent_tsi": "1 map : ms. ; 28 x 40 cm.",
         "filenames_ssim": [
-            "lh000352",
-            "commonwealth:q524ng69x_metadata"
+            "commonwealth:q524ng69x_metadata",
+            "lh000352"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524ng69x",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524ng69x/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJzNGNuO2zb2PV9B6GkLjCzZnpvdWEXi7DYBZiZBPEW7WxQFTdESMzSpkJQ9KvpS9Pf6UXtIibbk26RJsdsXWSbP/X70/JvHJUcrqjSTYhL0e3GAqCAyZSKbBN/d/yu8Dr5Jnj1fylSP7QMBvNDjR87EwyTIjSnGUbRer3vrYU+qLOqPRqPI3QYeVLNDgIM47kc/3N7MSE6XOGRCGywI9ViWVweNS9LL5CqyF9FqGGyFHvauAEuzsXakbiTBxl0cx0YHriz/FCu4b4DcbzgMr3qPOg2SZwjVZjDMcPpGLCQqNc7oJCgUW2JVBShluuC4usFzyjfHPzenjkKHRvKOYyFRSjl6V1Jl7CuaiR6a5oppI+eY2xOO0Ws8xwIjzUyJUwkesodEgsgO+67XwFWa2xM0Lee4geLYpO56MESZ7qF+jJbwU/lrKbLmflQDnA8dgKZZKdCSKibd9X1On0ct2a05oq49WiaqCvp28Z5qWSpC0RKLUhPFCjMJKqqDZIpB20zhImfEU+mgbEllVCiKcGlyqZipJkG2zAoSbE++e/9m42qWbty5gjCYlxwcEDWMbrEBbTDXEDuYl/TPI0YmW8bx5eCyv+trkJIqzIPkFhe60chJ/jdWpD8YXF+eUMT77Ig+IHPGhPe7P02BxVRReKatQrIektQsAvRAq1dwVUcB+lhizhaMqknAxIIqRSHN+lejfsOwRasVbl2+NVfIo6yEXGxL4s/uqVoiG12TwNBHE7RdwLS8HI7CwfxPucFjfbL5PUKkCxwkswILpnP0K0JTrA3jDItGt7bMLZXb6tXKFXmlGcH8Fa19BPWu4wUwkcH8rTNVouhCqiU21ifNjbdwB65FAAxFhUn6kLoFGruC8DUaXKNHdB4jsuw1+A1YC5EJCDFBzS1NGb4HqydQBDMafSho1iDtg3wCvmGLxZfgfygGp9CbuyNmrUkLaWjyihYm10jnci3QvEJQroSNce1N4qC6OO+gEVBXSoGjGKN7m2NsQU+ggEfAsOCvNTM5ElLBE/qDyaHM04U5gfm9zXHoOw9jNDMK63mpMrTgtFRhSkPOTgpKRQhNEJrxwwmoW1DZiiYFIlyCYHNMHsAEp1BwlmkkyuWcKoQFnLkCwQQqoEgwbt+4XMMlRGJuIOoUBOQYDa6uj1NtklpbWkuwFpILpKgupNBsDllloOVCk4P+CE6DhoMtkOuxU/zHbyn75QxE+eN3d9KqOkcZEUgVGxER5BNV1A4ryc0U3ZRahq+hiEJWE/S9VDw9Q8OLwVPkbHULkvucaWRfEfz6KnhYZ13OP1Bi2vWLE50/Xbr8PaM6aojo7jQiC0aS13hlh4yXuEL/sAPEV2Fou9kZ2raCMPwnVrxCa6ketA3I/nUc+wbuiGxzqeH0v5N/KqGa6jC0sofhVptajb+16FsL24L7l8tqMnFEVNekehk1purRtIwc5F5XOwAVXcEgdH4x7CiTQy/HiuS2hH5L/YBXQ2w6l5IrBrnThJsvvP60A0tspVFVYj3aAPqjHThhmLCd6M5VSqhhaAp/YZBBL2zdJVt0D9klAGbpCuROatWiJ3VriLSGWr0roFTQJSDNdTIY9vr9y6uz8HrQG15s5NoCtLnu0XzC658ojwYlaDKzT/QjwbAVjK/PIMZ+8uTd/WcJoii3tf0N1OSm0OWwp+wvP9vBsbsT3bA52LmyxXwKuwkUdA0vnAMTqL27K8iRJSTaFeWUfEy/9wU9fQlbnNtexzlU+ToBNGQAJ0RsknrUv7yOrwbnKIi2dFkKUeWm2YZsqViQeHzox71m2CJyuZRiTTE3uduEba+OLuLRxSj6eDE4F9nl6NHPKhuiJxiBWJiH0IipChKex3G87T6HCPBmQW67xA8+fnk+6AYf9pVLMCiq6BVbMb11yx6V1gjbPjoqRqn43lKNCQHmk0DWZQ0mBZvEdpL/UusCt13mnlmh6IrR9eeziEwO047AjB9nZts7hB9jixA2ZBgI9RfoFHkSXX5HzV9rCr5Nmb04GPXELl9sRWsBtOPNGaFCQzubV6EgocbReS+OAh/0mrrgUBQqelq6nN1dMRsKzexje5ydfZrTFMGugiwZmKvtsIimjRAQh04K9MIYxealk/pOitCeU0Vgr0WzHMOO/YKzB4puaoIwy0zRy3+Hd9Nw9uIrP1ntaH/cLJ+ulptcobnfSfQg7HZAZFHV4yxkD4jssPSTEigwt0p39+r6dGojX5hZ/Y3kJRRWEPFdOQfjoSZjN7VvH36fnDOtFHYn39/Wk0E86Icx7K2j+3g4jvvj88v/dMm38A9Qz2FtpZ9Ne4O9T7nZVyHDMGwQyk73NO1g72+0fod+u5hiyCkJ11m3/xz4YABS0//rBwMqMrvE+NV59/vA3heCfe2aDwLbhXbWfOdsqwWVlrRAggRjovw3gn3UTo/dRmtzZB/Js/8C3Lm2ew==",
         "note_date_tsim": [
             "This date is inferred."
         ],
@@ -105,14 +108,15 @@
             "Manuscript maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "Cuba",
             "Havana",
             "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.35,23.1167]},\"properties\":{\"placename\":\"Havana, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.35,23.1167]},\"properties\":{\"placename\":\"Havana, Cuba\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.35,23.1167]},\"properties\":{\"continent\":\"North and Central America\",\"province\":\"Havana\",\"city\":\"Havana\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.35,23.1167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Cuba\",\"province\":\"Havana\",\"city\":\"Havana\"}}"
         ],
         "subject_point_geospatial": [
             "23.1167,-82.35"
@@ -124,7 +128,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:24:20Z",
         "system_modified_dtsi": "2023-09-15T14:47:47Z",
-        "timestamp": "2023-10-03T15:48:36.531Z",
+        "timestamp": "2025-10-31T15:47:28.365Z",
         "title_info_primary_tsi": "Plano del Puerto de Sn. Christobal de la Habana situado en la costa del N. de la ysla de Cuba en la latd. de 23 gs. 10 ms. y en la longd. de 293 gs. 43 ms. segun merio. de The",
         "type_of_resource_ssim": [
             "Cartographic"

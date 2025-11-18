@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778757948461285376,
+        "_version_": 1847513163734450176,
         "admin_set_ark_id_ssi": "commonwealth:mw22z436x",
         "admin_set_name_ssi": "Library and Archives Canada Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:mw22z436x"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library and Archives Canada Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -45,7 +45,10 @@
         "genre_specific_ssim": [
             "Manuscript maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:zs261862d",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/zs261862d/manifest",
@@ -62,7 +65,7 @@
             "English"
         ],
         "license_ss": "Contact host institution for more information.",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Pilkington, Robert, 1765-1834"
         ],
@@ -108,9 +111,6 @@
             "Toronto (Ont.)--Maps",
             "Penetanguishene (Ont.)--Maps"
         ],
-        "subject_geo_other_ssm": [
-            "Huron, Lake"
-        ],
         "subject_geographic_sim": [
             "Canada",
             "Huron, Lake",
@@ -121,17 +121,18 @@
             "Toronto"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,44.5]},\"properties\":{\"placename\":\"Huron, Lake\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.3,44.3833]},\"properties\":{\"placename\":\"Simcoe Lake\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,44.5]},\"properties\":{\"placename\":\"Huron, Lake, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.3,44.3833]},\"properties\":{\"placename\":\"Simcoe Lake, Ontario\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-86.0,50.0]},\"properties\":{\"placename\":\"Ontario\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.4167,43.7]},\"properties\":{\"placename\":\"Toronto\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9333,44.7833]},\"properties\":{\"placename\":\"Penetanguishene\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.4167,43.7]},\"properties\":{\"placename\":\"Toronto, Ontario\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9333,44.7833]},\"properties\":{\"placename\":\"Penetanguishene, Ontario\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.3,44.3833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"other\":\"Simcoe Lake\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-86.0,50.0]},\"properties\":{\"country\":\"Canada\",\"province\":\"Ontario\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.4167,43.7]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"city\":\"Toronto\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9333,44.7833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"city\":\"Penetanguishene\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,44.5]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Huron, Lake\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.3,44.3833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Ontario\",\"other\":\"Simcoe Lake\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-86.0,50.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Ontario\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.4167,43.7]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Ontario\",\"city\":\"Toronto\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9333,44.7833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Ontario\",\"city\":\"Penetanguishene\"}}"
         ],
         "subject_point_geospatial": [
             "44.5,-82",
@@ -149,7 +150,7 @@
         ],
         "system_create_dtsi": "2023-03-29T18:45:21Z",
         "system_modified_dtsi": "2023-03-29T20:12:35Z",
-        "timestamp": "2023-10-03T17:56:10.551Z",
+        "timestamp": "2025-10-31T15:50:53.476Z",
         "title_info_primary_tsi": "Sketch of a route from Yorktown on Lake Ontario to Penatangasheen on Lake Huron - Upper Canada",
         "type_of_resource_ssim": [
             "Cartographic"

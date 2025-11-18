@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750031929540608,
+        "_version_": 1847512988626452480,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z253w",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z253w/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Cornwallis, Charles Cornwallis, Marquis, 1738-1805",
             "Frazer, Sir Augustus Simon, 1776-1835",
@@ -119,14 +122,15 @@
         ],
         "subject_geographic_sim": [
             "North and Central America",
+            "United States",
             "Virginia"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,37.0]},\"properties\":{\"placename\":\"Virginia, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,37.0]},\"properties\":{\"placename\":\"Virginia\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-77.733333,36.7],[-74.983333,36.7],[-74.983333,38.65],[-77.733333,38.65],[-77.733333,36.7]]]},\"bbox\":[-77.733333,36.7,-74.983333,38.65]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,37.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Virginia\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,37.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\"}}"
         ],
         "subject_point_geospatial": [
             "37,-80"
@@ -138,7 +142,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:34:59Z",
         "system_modified_dtsi": "2023-09-15T14:48:05Z",
-        "timestamp": "2023-10-03T15:50:20.758Z",
+        "timestamp": "2025-10-31T15:48:06.480Z",
         "title_info_primary_tsi": "MARCH of the ARMY under Lieut:t General EARL CORNWALLIS in VIRGINIA, from the JUNCTION at Petersburg on the 20.th of May, til their arrival at Portsmouth on the 12.th of July 1781",
         "type_of_resource_ssim": [
             "Cartographic"

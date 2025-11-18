@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778757920796704768,
+        "_version_": 1847513157273124864,
         "admin_set_ark_id_ssi": "commonwealth:mw22z436x",
         "admin_set_name_ssi": "Library and Archives Canada Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:mw22z436x"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library and Archives Canada Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -45,7 +45,10 @@
         "genre_specific_ssim": [
             "Manuscript maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:2n49x349r",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/2n49x349r/manifest",
@@ -62,7 +65,7 @@
             "English"
         ],
         "license_ss": "Contact host institution for more information.",
-        "mods_xml_ss": "eJzFWFtv2zYUfu+vIPSwp8qS7MSx3VpFm7ZDhmQtkhQYNgwDLVESG4nUSCq2//0OadKW5EuTdthelITk+c79ltdvVlWJHomQlLO5Fw1CDxGW8JSyfO59uf/oT7w38YvXFU/lTH8QvGdytiope5h7hVL1LAiWy+VgORpwkQfRdDoNzK3nnkp66OEwDKPgt5vru6QgFfYpkwqzhDgqzatDVvJkkPPHQF8EjyNvJ/RocAFUks6kgbrmCVbm4jg1OnCl+adYwL19ZH76I/9isJKpF79AaGMGRVVJrljGUSNxTuZeLWiFxdpDKZV1idfXeEHK7fFf9tQgOAzG2R0XKn6LXgedg9YbwyeWD0QlBeIZUgVBtxTURh9WdcmpkggkNscESwV+S/Wza0oaRRhmcH+NHwiiDP1KlhlvWFoCgWW4QddKBV2tdooyXBGk1rVWEYzNGS49hBtVcEHVeu4xnLX+/nJ7tTU5TbdmdfeUyEADSvAcLhvy1OcBOw/D0dnFeNw1INx9xmCwS/gsBc0L9RL9wgvm7OnuD9BYnVKsiBdHF2ehH02GZycIBd+YqntyT0RloRRZqY5pwPGJICVWXHzbRI8QsYumhFgJLM03jHSAIEhU7hlj8FzguiDC6uMktfoEHYVaOrfiG1T6lN0SyRuREFRh1shE0FrNvTW4r8WEJi54OiQ7qJwwQdp2yau8Tp5lEcvoBpwlKC6fbpk+YaDyKgzHw3HUT1SQkgiI7fgG19JqZCQ/oUiZ5Jl6XvQbjI9cVM9IgR1NkGfDMIrC4Xg0Oe9rIGuS0IwmWgXnLXDcMW0APafMJbs7BbykF+bmqB/n8R/tcvKnZbF92gm0FuYGUSfdpSDwTVuNZjlKUgXF5IGs38PVJtDQ3w0uQSsi5h5lGRGCpDpfxxML3sJqBXNXuQ1XEDRvoFa3JXFnp9KYSj4eTf3h4lkh66ieHKqOICAMkvgDy0sqC6tOW8yWlm2NrK+KtaQJLt+Tjf+hBXYMD1ZRuPxkrBMLkkFQYaXdYG+cUTvvWgBgG8JUHLUKgg4xNEOFbkMJL7lAr9BoilZoFKGksoCWroVEGaQkI+qGpBTfg+VjaJQ5Cb7WJLdE+0+eQK9olv0I/dd6eIrchfRhO7u+rkinvdwXVCL9K4KfLooH26avWg6UzeIrSVS3ysjieUXGgshOs1S8pknczlozOUDxEDjlwvd14fP9D1iUa7Tk4kEixVE0CUNX3w3AzgaWy38n+zvCVdE8oCsGDmEg61FlfkBilbMjAptcHeREqfWApE1gXu4l94FXwUUYnk/CqKNSASUN5oNCR9HPxLXSXuUV/JHCPHzcay4c3cMOeQIkSqyhVzOcYvvUHbYL9ClZLFSr3cs+Fy6ggEN0y/h8+NI/H2857S7a3PawjnnHjDUkvVLE1eaCS9UNjPbA2p+arykYSayNwd5q9R6JRBtjoEtelsAM8rY/Ch8ZhoO+SKfkpPKWQJZDbyPpO9gJzC40K6DgbuMkgXoI88ZggRMf+uMgTwYJDgZQGKgAwd7gup5nMG2zFIrqT7iqX9F0Hk2mk+HU/GU+ugHMdb/ojQKXGKo3zxEggQ+8YCcrTYGv6adW1EZQL9YySRAKi4eBrf0JryrOlgSXqjC7GtzNgvNwej4NhuxsuhqdTV347UBPMIJkx6UPGUyEFxOYYqJxNDwbPh9iAaHKUz21G2ucACjtFtgZcGzldhviqSjpFfvrFpzrwO2jozwbUe6tiThJiITtlm8qEOxnCWeb0eoHvQHc+swds1qQR0qW388igAJcLRim5XFmuqFBClCa+TAl0IzIH9ApcBBdfkfNv9H0kkOL0BcuyCUx/hUEKmXamLzv50xJISUlhBUQKwwu0cUG6X9JUNUYLJiWUMWFXqY3gxMcui7e4/tvCGT2Wb1q8XptfkdkVVM9OaCjIkLHTvmSlRynyMwz35RvUyL6a8DmVLOBrLrbLHTvgBmw+NwswFTIps22Lu6/34fTYzow19P9/twfD8PhyA9H/nB6H01m0cXs/Oz3LnyL/gA6TKA5+W7sLfU+sh2DIfIxQ5BCNQYndKj3B2U3mn/KbC0Gcbo96sDqYcra/756wOfI2rG3eOxrZ/eM3Vh8Z/+j1v/HSOuJF5vC7naPfdpOA96Fqz3Sn/jFP1sHNCA=",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Cartwright, John, 1740-1824"
         ],
@@ -100,13 +103,14 @@
         ],
         "subject_geographic_sim": [
             "Canada",
-            "Newfoundland and Labrador"
+            "Newfoundland and Labrador",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-56.0,52.0]},\"properties\":{\"placename\":\"Newfoundland and Labrador\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-56.0,52.0]},\"properties\":{\"country\":\"Canada\",\"province\":\"Newfoundland and Labrador\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-56.0,52.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Newfoundland and Labrador\"}}"
         ],
         "subject_point_geospatial": [
             "52,-56"
@@ -117,7 +121,7 @@
         ],
         "system_create_dtsi": "2023-03-29T18:17:54Z",
         "system_modified_dtsi": "2023-03-29T20:12:11Z",
-        "timestamp": "2023-10-03T17:55:44.167Z",
+        "timestamp": "2025-10-31T15:50:47.314Z",
         "title_info_primary_tsi": "A sketch of the River Exploits and the east end of Lieutenants Lake in Newfoundland",
         "type_of_resource_ssim": [
             "Cartographic"

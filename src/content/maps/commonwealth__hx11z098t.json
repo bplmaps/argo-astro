@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750004061536256,
+        "_version_": 1847512978503499776,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -53,7 +53,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z098t",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z098t/manifest",
@@ -66,7 +69,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Labrosse, Paul, 1697-1769",
             "Royal United Services Institute for Defence and Security Studies"
@@ -130,10 +133,8 @@
             "Military art and science--Saint Lawrence River--Maps, Manuscript--Early works to 1800",
             "Fort de La Pr\u00e9sentation--Maps, Manuscript--Early works to 1800"
         ],
-        "subject_geo_other_ssm": [
-            "Saint Lawrence River"
-        ],
         "subject_geographic_sim": [
+            "New York",
             "North and Central America",
             "Ogdensburg",
             "Saint Lawrence (county)",
@@ -141,12 +142,13 @@
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.4833,44.6833]},\"properties\":{\"placename\":\"Ogdensburg\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.0,49.5]},\"properties\":{\"placename\":\"Saint Lawrence River\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.4833,44.6833]},\"properties\":{\"placename\":\"Ogdensburg, NY\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.0,49.5]},\"properties\":{\"placename\":\"Saint Lawrence River, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-75.511667,44.6875],[-75.488611,44.6875],[-75.488611,44.704167],[-75.511667,44.704167],[-75.511667,44.6875]]]},\"bbox\":[-75.511667,44.6875,-75.488611,44.704167]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.4833,44.6833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Saint Lawrence\",\"city\":\"Ogdensburg\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.4833,44.6833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Saint Lawrence\",\"city\":\"Ogdensburg\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.0,49.5]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Saint Lawrence River\"}}"
         ],
         "subject_point_geospatial": [
             "44.6833,-75.4833",
@@ -159,7 +161,7 @@
         ],
         "system_create_dtsi": "2016-11-17T22:56:14Z",
         "system_modified_dtsi": "2023-09-15T14:48:03Z",
-        "timestamp": "2023-10-03T15:49:54.181Z",
+        "timestamp": "2025-10-31T15:47:56.826Z",
         "title_info_primary_tsi": "[Map showing the location of Fort de la Presentation]",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778757935619375104,
+        "_version_": 1847513161191653376,
         "admin_set_ark_id_ssi": "commonwealth:mw22z436x",
         "admin_set_name_ssi": "Library and Archives Canada Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:mw22z436x"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library and Archives Canada Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -45,7 +45,10 @@
         "genre_specific_ssim": [
             "Manuscript maps"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:cz30ss36q",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/cz30ss36q/manifest",
@@ -62,7 +65,7 @@
             "French"
         ],
         "license_ss": "Contact host institution for more information.",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "De Pincier, Th\u00e9odore, 1750-1824",
             "Bouchette, Joseph, 1774-1841"
@@ -113,6 +116,7 @@
         ],
         "subject_geographic_sim": [
             "Canada",
+            "North and Central America",
             "Odanak",
             "Quebec"
         ],
@@ -121,7 +125,7 @@
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.83243,46.06676]},\"properties\":{\"placename\":\"Odanak\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.0,54.0]},\"properties\":{\"country\":\"Canada\",\"province\":\"Quebec\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.0,54.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Quebec\"}}"
         ],
         "subject_point_geospatial": [
             "54,-72",
@@ -136,7 +140,7 @@
         ],
         "system_create_dtsi": "2023-03-29T18:28:21Z",
         "system_modified_dtsi": "2023-03-29T20:12:25Z",
-        "timestamp": "2023-10-03T17:55:58.304Z",
+        "timestamp": "2025-10-31T15:50:51.051Z",
         "title_info_primary_tsi": "Plan des terres de Ab\u00e9naquis et Sokokis du village St-Francois situ\u00e9 dans le comt\u00e9 Buckinghamshire, district des Trois-Rivi\u00e8res dans la province du Bas Canada",
         "type_of_resource_ssim": [
             "Cartographic"

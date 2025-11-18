@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749828011917312,
+        "_version_": 1847512907613470720,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n830g",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n830g/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Erskine, Robert, 1735-1780",
             "Greene, Nathanael, 1742-1786"
@@ -115,18 +118,19 @@
             "Rockland County (N.Y.)--Maps, Manuscript--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "New York",
             "North and Central America",
             "Orange (county)",
             "Rockland (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.05,41.1667]},\"properties\":{\"placename\":\"United States\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.3167,41.4167]},\"properties\":{\"placename\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.05,41.1667]},\"properties\":{\"placename\":\"Rockland (county), NY\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.3167,41.4167]},\"properties\":{\"placename\":\"Orange (county), NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.05,41.1667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Rockland\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.3167,41.4167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Orange\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.05,41.1667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Rockland\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.3167,41.4167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Orange\"}}"
         ],
         "subject_point_geospatial": [
             "41.1667,-74.05",
@@ -138,7 +142,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:03:54Z",
         "system_modified_dtsi": "2023-09-15T14:47:31Z",
-        "timestamp": "2023-10-03T15:47:06.286Z",
+        "timestamp": "2025-10-31T15:46:49.219Z",
         "title_info_primary_tsi": "Map of Orange and Rockland counties area of New York",
         "type_of_resource_ssim": [
             "Cartographic"

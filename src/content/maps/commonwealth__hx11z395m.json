@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750057385820160,
+        "_version_": 1847513003414519808,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z396w",
         "extent_tsi": "1 map on 2 sheets : joined and laid on linen, manuscript pen and ink with watercolour ; 75 x 106 cm",
         "filenames_ssim": [
-            "k_top_122_4",
-            "commonwealth:hx11z395m_metadata"
+            "commonwealth:hx11z395m_metadata",
+            "k_top_122_4"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z395m",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z395m/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "George, III, King of Great Britain, 1738-1820",
             "George, IV, King of Great Britain, 1762-1830"
@@ -112,16 +115,17 @@
         ],
         "subject_geographic_sim": [
             "North and Central America",
+            "Pennsylvania",
             "Philadelphia",
             "Philadelphia (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"placename\":\"Philadelphia\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"placename\":\"Philadelphia, PA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-75.65,39.65],[-74.68333,39.65],[-74.68333,40.41666],[-75.65,40.41666],[-75.65,39.65]]]},\"bbox\":[-75.65,39.65,-74.68333,40.41666]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Philadelphia\",\"city\":\"Philadelphia\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Philadelphia\",\"city\":\"Philadelphia\"}}"
         ],
         "subject_point_geospatial": [
             "39.95,-75.15"
@@ -132,7 +136,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:13:01Z",
         "system_modified_dtsi": "2023-09-15T14:48:11Z",
-        "timestamp": "2023-10-03T15:50:45.034Z",
+        "timestamp": "2025-10-31T15:48:20.583Z",
         "title_info_primary_tsi": "A MAPP OF PENSYLVANIA IN AMERICA",
         "type_of_resource_ssim": [
             "Cartographic"

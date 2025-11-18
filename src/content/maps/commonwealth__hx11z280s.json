@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750036412203008,
+        "_version_": 1847512990999379968,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z280s",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z280s/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Moncrief, James, 1744-1793",
             "Wilson, John, 1755-1798",
@@ -128,16 +131,17 @@
         ],
         "subject_geographic_sim": [
             "Chatham (county)",
+            "Georgia",
             "North and Central America",
             "Savannah",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.1,32.0833]},\"properties\":{\"placename\":\"Savannah\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.1,32.0833]},\"properties\":{\"placename\":\"Savannah, GA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-81.112778,32.069167],[-81.0725,32.069167],[-81.0725,32.090278],[-81.112778,32.090278],[-81.112778,32.069167]]]},\"bbox\":[-81.112778,32.069167,-81.0725,32.090278]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.1,32.0833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Chatham\",\"city\":\"Savannah\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.1,32.0833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Georgia\",\"county\":\"Chatham\",\"city\":\"Savannah\"}}"
         ],
         "subject_point_geospatial": [
             "32.0833,-81.1"
@@ -150,7 +154,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:42:51Z",
         "system_modified_dtsi": "2023-09-15T14:48:07Z",
-        "timestamp": "2023-10-03T15:50:25.033Z",
+        "timestamp": "2025-10-31T15:48:08.743Z",
         "title_info_primary_tsi": "PLAN Of the Town of SAVANNAH, Showing the Works Constructed for its Defence; also, The Approaches and Batteries of the Enemy: Together with The Joint Attack of the French & Rebels on the 9th October 1779",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749906947670016,
+        "_version_": 1847512942001520640,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nf69q",
         "extent_tsi": "1 ms. map : col. ; 27 x 38 cm.",
         "filenames_ssim": [
-            "ct001306",
-            "commonwealth:q524nf68f_metadata"
+            "commonwealth:q524nf68f_metadata",
+            "ct001306"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nf68f",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nf68f/manifest",
@@ -107,7 +110,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:57:29Z",
         "system_modified_dtsi": "2023-09-15T14:47:46Z",
-        "timestamp": "2023-10-03T15:48:21.566Z",
+        "timestamp": "2025-10-31T15:47:22.015Z",
         "title_info_primary_tsi": "A plan of Chignecto (called also by the French Beau-Bassin) at the head of the Bay of Fundi upon the Istmus of Accadia shewing that harbour with its rivers, the situation of the English fort and fort possessed by the French, June 1755",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749841447321600,
+        "_version_": 1847512912941285376,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n928n",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n928n/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1206"
         ],
@@ -96,16 +99,17 @@
             "West Point (N.Y.)--Buildings, structures, etc--Maps, Manuscript--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "New York",
             "North and Central America",
             "Orange (county)",
             "United States",
             "West Point"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.95,41.3833]},\"properties\":{\"placename\":\"West Point\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.95,41.3833]},\"properties\":{\"placename\":\"West Point, NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.95,41.3833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Orange\",\"city\":\"West Point\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.95,41.3833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Orange\",\"city\":\"West Point\"}}"
         ],
         "subject_point_geospatial": [
             "41.3833,-73.95"
@@ -116,7 +120,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:18:06Z",
         "system_modified_dtsi": "2023-09-15T14:47:34Z",
-        "timestamp": "2023-10-03T15:47:19.100Z",
+        "timestamp": "2025-10-31T15:46:54.301Z",
         "title_info_primary_tsi": "Sketch of West Point",
         "type_of_resource_ssim": [
             "Cartographic"

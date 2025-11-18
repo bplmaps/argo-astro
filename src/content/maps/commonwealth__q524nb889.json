@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749865708224512,
+        "_version_": 1847512922820968448,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nb889",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nb889/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1143"
         ],
@@ -96,15 +99,16 @@
         "subject_geographic_sim": [
             "North Carolina",
             "North and Central America",
+            "United States",
             "Virginia"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,37.0]},\"properties\":{\"placename\":\"Virginia, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,35.5]},\"properties\":{\"placename\":\"North Carolina, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,37.0]},\"properties\":{\"placename\":\"Virginia\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,35.5]},\"properties\":{\"placename\":\"North Carolina\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,37.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Virginia\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,35.5]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"North Carolina\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,37.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,35.5]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"North Carolina\"}}"
         ],
         "subject_point_geospatial": [
             "37,-80",
@@ -116,7 +120,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:53:27Z",
         "system_modified_dtsi": "2023-09-15T14:47:38Z",
-        "timestamp": "2023-10-03T15:47:42.236Z",
+        "timestamp": "2025-10-31T15:47:03.723Z",
         "title_info_primary_tsi": "Part of the Province of Virginia",
         "type_of_resource_ssim": [
             "Cartographic"

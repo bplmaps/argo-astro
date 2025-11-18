@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749840805593088,
+        "_version_": 1847512912725278720,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -53,7 +53,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n924j",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n924j/manifest",
@@ -68,7 +71,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1204"
         ],
@@ -106,16 +109,17 @@
             "West Point (N.Y.)--Buildings, structures, etc--Maps, Manuscript--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "New York",
             "North and Central America",
             "Orange (county)",
             "United States",
             "West Point"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.95,41.3833]},\"properties\":{\"placename\":\"West Point\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.95,41.3833]},\"properties\":{\"placename\":\"West Point, NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.95,41.3833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Orange\",\"city\":\"West Point\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.95,41.3833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Orange\",\"city\":\"West Point\"}}"
         ],
         "subject_point_geospatial": [
             "41.3833,-73.95"
@@ -126,7 +130,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:17:35Z",
         "system_modified_dtsi": "2023-09-15T14:47:27Z",
-        "timestamp": "2023-10-03T15:47:18.487Z",
+        "timestamp": "2025-10-31T15:46:54.095Z",
         "title_info_primary_tsi": "Plan de West-Point du nord, leve\u0301 a vue",
         "type_of_resource_ssim": [
             "Cartographic"

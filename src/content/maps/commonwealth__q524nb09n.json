@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749853480779776,
+        "_version_": 1847512918284828672,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nb09n",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nb09n/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzdWVtz27gVfs+vwPApmREvkixLcmNmbCW7yY7t7FjOTNuXDkRCJGIQ4AKgZP77HpAgRVqXeJN2u9sXWQJwrjiXD8dv3z1lDG2IVFTwS2foBQ4iPBIx5cml8+XhJ3fmvAtfvc1ErC7MB4LzXF08McofL51U6/zC97fbrbcde0Im/nA+n/vVrtMcVfTQwVEQDP2/394so5Rk2KVcacwj0lAZWT0yJiIvERvfbPibsbNTeuxNgUrRC1WxuhER1tXGcWp0YMvIj7GEfXuo+uuO3an3pGInfIVQ7QZNNSOf+FqgQuGEXDq5pBmWpYNiqnKGyxu8Iqxd/pddrTj0eITLR6KjFIk1yrHU5q9OCZICx2gtRYZ+koSkgsVIC3RL45gR9CC2/K3f4dFhqorVQ7WmUrKFC6y4qUcqM6pStCJ6SwivRRAsG3HXkmqzfyWzEhU8JrJajkSWgUPMqY9UoQ9PEWEMQqNEPxPOLtCSSvSRcFmiBdy2FhyZ04YSxxtzk8BB5qo1ioBPEAYZA/RLwQkazQZoOJ3OrDGt7sbNft/Ph1yvyxw8j5kmksN1b8gB977QfcfFcZwRKymHaBMcs54Ys/8r3Fz4kTKmwDCR8gF6vSzkhpRCvrGc22MdUimau+uuPBCZWYGaPGkH4UKnAi6ovHQgliJJGNZCdta/3H9qA53GbTBvIAlWBYPw8y2NgozBrCAvJ/BBnBMuIFbglzWlUdKa4vds6Zj7HT60YTSoo2pgAuyE/5o1yzrGGnQdTsezd+5wOp/81T2vV+B5wbWkq+JHvG8s+ry+J0oUElISMrpQkaS5vnRKokAGOEckEucpjZo86JHsWCVwLaTrliRL8uh3OcQKuoXLkhSzlzvmOaGvkywIzkfnw+dFF7Qk0oTYLc6VtajS/E9syHA0mp2fMKS5syP2gM4J5U3lalZNRlS5S+JOR9+Oo1ivHfRIyvewVUcB+q3AjK4pkZcO5WsiJYlNMrXFucOrE2l9ubVUhnlSQFPsatKsnUoxqsT5eO6OVr/rGhqqF7u/IfAJT5zwA08YdD5rTlfNjpVdi2p78rRUNMLsPamvBbBGz/HgFY3Z58o7oSRrITOszTXYncapvXMdBuAbwnU4ggbKPEhZaKJ/Q9BfoasTjc7O0BOazFCUeZaRPd/hAIUU2iLRtySm+AE8HgISSYj/NSeJJdo/8gJ6TdfrH6H/mo9Okdu9I/61dV9o0kmJAcoJdwF5AIB8rBDI1qQWeE7Ixj8VSZ/BR6zqg1DaH9WJg/eEUbIG1wNuQKsSvmCTSCco7oSH5hWBQrlQ1KhfoaBEEg7E0AMrPZMCllcmOkj1G6+1RV44MjQnRFxFAM5yzCnEFOhUgQ8TJyZgGKmoUYVmAFYmNXeNV/ATtIigqUC0nLDZpijAYU0yOGqoJFE5mEFXlEFiOiFI/eTVgj20Q7E1yNLgqxrkfUtGBAlgtIXGB1WHGPgf3iyQKd2G3Z2QGnBpBqUywgYtTgJo7rM5fB3Nht9iXkOChxTAq/mK4G9T3A4bDxD0K3ivW5ZYpNJvV6RmnxLlWyaqD0dFTqPwVvBMwNEBuoZ6UF3HoIX4A3Tn/eLVkNh1jQcGaBfmrvsBS1airYBwNXB2OAuCpl9XzHfpYzX44+xqYfY9SUzovTaWvHFdeDYAdCld955sBCvMRVf2Tcwljv9iRu5Cu7Xvv62/TvgR9auO5iVE69IjceFXJ/da4IFT/jQYngWjWc/AFGoSINzU1NyfSYMG+xA5EgXXZRvC1gq7un9SluEXTk3PW5oyorrn5R4B15SbDlbnuylXC/gJ4KfJ/Za8OdlnAN5pg7A5Shu97MIpIy2bDhRWz1UUEsq+sSQ8C7zRZOBOz7zR+fm01Wx3oCt1j+ef4fonwf/f9e/S848IgPFsPK5CYDj8j4fACzVSYAYJl+YTRdhDw4vhaBC09abe/i49qkcoiT9B97edNBVK749Xdg+O/tTlhq7A0aVp4PCCBdSjFHxpgMmB2dWh8Yv/XJVT+lF13+CH+Lp0UDV+vEgBVNTJoCAbWBTxtuYn2XQUBOPJfI4cf8eZxhBc1TvIMi4kdcKGAyBFz2J2MxsTfEsw02k1zIS9C38SzCdz/7fJ6Iyvgnlj6Y7pCUGgGGauAPQnnRBLA2/aqzzEgNkZZ/dSGtjczD8PXkQT+WWVZ9DB0Hu6oWp3MXtcOi+h7tJRNQrJ9uaiOIpA+KUj6iJHeQ1D4Q34o94Fac+FN8JySTaUbL9fhK/TIltxTNlxYQZBQgBSunYzAORron7AJr9h0Zd31P21pXC3cfXKOBj3kXm20w2pFVCVbEYjwhXgnVXp8shV2D/zAt9pgl7VTwZJciniosra58MJy8HCawN4DLy2qzGCRw0ybOppMkYLqwTEYaUFutL1ZMtofSe4a9bh1Uah5i9TDC+iK0YfCbqpGaLXiwW6/od7t3CXV28a8P7M+uNueblZ8BRPDfq7E+iRG6gXibysFs0LCFSuqNQ3NZDgbhk/n8jUq4v6Abasp2vXUFpBxV+LFTgP2Yxtq9/++X12lWsFN9Oc/TlPOApGQzeYu6P5QwAtYnxxNv1nn32H/gD3FPOEfDfvlnqfsx17QIZhjiBVc7j1uEe9PxhpRjGf1wsMOSVgO+l3oAOjJtCa/O9HTfBxZMy0N2jat87OlXbjkKX9V9XzIXXnCLQRHDVz4wOkvS67i1a7ZD7CV/8GwTWtfQ==",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Hills, John, (Surveyor)",
             "Clinton, Henry, Sir, 1738?-1795"
@@ -119,16 +122,17 @@
             "Freehold",
             "Middletown",
             "Monmouth (county)",
+            "New Jersey",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.2667,40.25]},\"properties\":{\"placename\":\"Freehold\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.1167,40.3833]},\"properties\":{\"placename\":\"Middletown\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.2667,40.25]},\"properties\":{\"placename\":\"Freehold, NJ\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.1167,40.3833]},\"properties\":{\"placename\":\"Middletown, NJ\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.2667,40.25]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Monmouth\",\"city\":\"Freehold\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.1167,40.3833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Monmouth\",\"city\":\"Middletown\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.2667,40.25]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\",\"county\":\"Monmouth\",\"city\":\"Freehold\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.1167,40.3833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\",\"county\":\"Monmouth\",\"city\":\"Middletown\"}}"
         ],
         "subject_point_geospatial": [
             "40.25,-74.2667",
@@ -141,7 +145,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:32:54Z",
         "system_modified_dtsi": "2023-09-15T14:47:36Z",
-        "timestamp": "2023-10-03T15:47:30.576Z",
+        "timestamp": "2025-10-31T15:46:59.396Z",
         "title_info_alternative_tsim": [
             "Freehold to Middle Town"
         ],

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749531391787008,
+        "_version_": 1847512837521408000,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vp06w",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vp06w/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzVWNty2zYavs9TYHjT3RnzoLOlidlJlKTrHdtpLXdmuzc7EAmRiEGABUDJ2qttn88P1R8QKJE61Um229kbagTgP58+4PW3TwVDSyIVFfzK6wSRhwhPREp5duX9+PDBv/S+jV+9LkSqJuaD4DxXkydG+eOVl2tdTsJwtVoFq14gZBZ2xuNxaHe9+qiixw52o6gT/uP2ZpbkpMA+5UpjnpCayshqkTGRBJlYhmYjXPa8ndK9YARUik6UZXUjEqztxmlqdGTLyE+xhH13yP76PX8UPKnUi18htHGDppqRa74QqFI4I1deKWmB5dpDKVUlw+sbPCdsu/wvt2o5tHjEUyw1QSlBDKMbUVFFMSeIaFhSqMRrhZYCFrl6HTaoGmxUNX+wayl5/iWl8CEIP/8H3QboHvgxBisXSME3kURjKkHaN++ff9FYXyC8xlwjRtA72C+NKgXh2qkDmlNOnNytGOODsO2EnV84LgjS69J4BGIjOGYtm83+9yAmfksYJMgF+jtOfq7A0juaCIZrI7fHjpA69inWxIs7o6jnd0aj7hlCKWqHNVceiCwcK02etIdwpXMhqV5feWA4+IphLWRj/cf7620+0XSbM0vItXnFIMqho1GQmJhV5OUEIYjz4qkk5p8zpVbSmRK2bGmYe9T5iZClkNZFx7z/QZo6e4GzY5sX4vnXTT4mJkOUyU7IZq6O5cn/bQT0HCIguJZ0Xn1NFIxFHxf3RIlKJpv6FpnEZU6Tum7aJ7aUGeFQnA0vZEVWJp9lvxN0C5GXFLOX+2GfMNRZEUXD7rCz39JASyJNWd/isq5Xq/nOEFA2o7zuDPUqVaoyaRcXgu95ZLvVOG4K/BrWSdqYRqtekuqFhx7J+h3sX3lrAjb+XGFGF5TIK880E9P58ZzZ9jAYOBE7do3ItRXdyIXEziro6U1d6rVzKUuVGPbGfnf+WQGrqV4cqJogXEjsQSGDb3JnTVPLhpFNgzbmlPla0QSzd0QlkpbGXy3Pg1M0Zh+tc2JJFkIWWGsIhNupXdo612AAroEpEhe4RP1L9ISGHZQUgaNym83E4JB0nOhbklL8AN6NYWhmJPxUkqxOkIMjL6DXdLH4GvpPZfccuds74UzXR4Um8Y3g4KgKmmVaoQIaqqQwp7ntnt/Q51+Znf8fiKxdZKnaPKbCYB2kc2gQMCbQQooC/VABszlJkBZ257uKLZBYoFvyBOMUAZZBKygHszSDOY9BhsECd8HtGUn3hFGyQCoXK45KmkAvhIbA1mdIZnAWhgPVFIaDkaqBVl0gSBwNP0qYuSQxZfDHbF9zcCNHSwAn4GdHAn0XMwR+hsIR8pw4b1ZJ4zEuqiXACGAg5orIpYV88Idb/AMjEBITDEbmBMMJCCcG61TgR8KXVAqjo2kRgXfGNo2LElJf8AmApGOj8BO0cR60ZuFp5V33AKDpoBbERhJVgi50Thn0DC+G8Wkg2UwGqIZJ0Pzgn5CpJG1J1oDouDyAbJ9IoptNiiUq//3+VO9DOEPHRLWhq4DEiO8gvDl6U8DESLDvm3ng+++xZGu0EvJRmbTsXEZRPfYs0a5wHOf/nb41vP6DdNUZP6Gqbd9BRrReByStQnvyoN8fORWOomjUHQxbxuQw6AAe5abpfEfqSdrGVwkAGcgO6LObIJkKm8JfGNx1wJxlu5MtBjZBdx6r3WBXm1DonDJOlQYAUvtaQkZTDjxV3Otc+OPuVqndRlPaAa8/PTzdcb8ffXZ4TAtvl48zxG78If4dXAad4fDC70T9oD8c/pcd/UKFFFgBLdV8oYEGqDMZXEDRXUTbwtuc+CJVLJQn6TU0Vtdlc6H04ZV7h0vbN/EbvDJoiqC/BWjGcJXlMIzQVMCEScxkMa36Pc8YVTk03xJmR5JjO+AyJuYEfudCPG6mGdZwmSXH7uzHrs7hvv7njKLqniyI1TR9u/aQfWiZ5ADTNqmqIFcdMku2uquAr0tmH10osFLhoBOl/VG68BeXZOTjXjr2SdSP4BNh6IPDPh6PvXCnB02hRViM7dSoJPXiWh6Wj8FWZgH4fkUw07mVB3uTcBCNB+Pw38Ootyyj4aqGVVumZwSxJOFePOoPx93Ly/4ZSuYefZoBr8FZ/SAU35EV+gkaPvq+mjOaoBs6h/pa72G5mwarGkU3l07KqyQ7eBHCSUKUuvLEpiVRjkzPNdeHr/UfSNsXXgsrJVlSsvpyEaHOq2LOAbSdFmbgBiQkpQu/wJwuiPoKm8KaRVveSfdvLIUbe0ptdR6rg8S8qNAl2SigrGyIOuFQm+F87fPEVzjsB1Ho1WmtiC1gSUop0soWz/4N2HHw4oecKgsfEPy61dSgXmTYVDyFJMZo6pSAVmK1QG/05pHBaH0nuG/WiUwAZaMZdBSC3jD6SCA1LUP0l+kUvf3Jv5v6szd/rZHenvWn3fJyswAt5wY33Qn0yA34T0S5tosGoYLKrpP8ngYS3C3T/dv/ZtU8sEDlzjYvH2+hP4OKR0vx2PlDdta1gpu3gMNXgrgbdTt+NPY7g4eoOxlEk17vn232Dfoj3HO4OZMv5r2lPuTsrsxQYXANglItIeppi/rwUl1f4z8uphhqSsB21h5jR14pQGvyp75SEJ55MXxOPFEcPFIcWufeJHa365l7pN9/L2wc8WKMk/oJ7whpa+rustUtmU/86jeXra1Q",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Bellin, Jacques Nicolas, 1703-1772",
             "France. De\u0301po\u0302t des cartes et plans de la marine"
@@ -112,15 +115,16 @@
         "subject_geographic_sim": [
             "Louisiana",
             "North America",
-            "North and Central America"
+            "North and Central America",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-92.0,31.0]},\"properties\":{\"placename\":\"Louisiana, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-92.0,31.0]},\"properties\":{\"placename\":\"Louisiana\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America, North and Central America\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-92.0,31.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Louisiana\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"area\":\"North America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-92.0,31.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Louisiana\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"North America\"}}"
         ],
         "subject_point_geospatial": [
             "31,-92",
@@ -132,7 +136,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:32:17Z",
         "system_modified_dtsi": "2023-09-15T14:47:10Z",
-        "timestamp": "2023-10-03T15:42:23.408Z",
+        "timestamp": "2025-10-31T15:45:42.375Z",
         "title_info_primary_subtitle_tsi": "de\u0301die\u0301e a\u0300 M. Rouille\u0301, se\u0301cretaire d'E\u0301tat, ayant le De\u0301partement de la marine",
         "title_info_primary_tsi": "Carte de la Louisiane et des pays voisins",
         "type_of_resource_ssim": [

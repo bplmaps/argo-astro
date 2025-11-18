@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750142597300224,
+        "_version_": 1847513021624090624,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z116j",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z116j/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Demler, George",
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
@@ -119,17 +122,18 @@
             "Niagara River (N.Y. and Ont.)--Maps, Manuscript--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "New York",
             "Niagara (county)",
             "North and Central America",
             "Old Fort Niagara",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.05,43.25]},\"properties\":{\"placename\":\"Old Fort Niagara\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.05,43.25]},\"properties\":{\"placename\":\"Old Fort Niagara, NY\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-79.085833,42.862778],[-78.868056,42.862778],[-78.868056,43.289444],[-79.085833,43.289444],[-79.085833,42.862778]]]},\"bbox\":[-79.085833,42.862778,-78.868056,43.289444]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.05,43.25]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Niagara\",\"other\":\"Old Fort Niagara\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.05,43.25]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Niagara\",\"other\":\"Old Fort Niagara\"}}"
         ],
         "subject_point_geospatial": [
             "43.25,-79.05"
@@ -140,7 +144,7 @@
         ],
         "system_create_dtsi": "2016-12-07T19:23:39Z",
         "system_modified_dtsi": "2023-09-15T14:48:20Z",
-        "timestamp": "2023-10-03T15:52:06.299Z",
+        "timestamp": "2025-10-31T15:48:37.948Z",
         "title_info_primary_tsi": "A Map of Niagara River or ye Straights between the Lakes Erie and Ontario with the Islands, Falls, and Rapids, as also the Carrying Place with its Road and distance",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750204486352896,
+        "_version_": 1847513040003530752,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vv32j",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vv32j/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJzFWFtv2zYUfu+vIPSyDajuSRx7jYbEW7cOSTsk6a4YBlqiJTYSqZGUHe/X75CiZMmXNGsfBgQOTJ7Ldw7P1a++eaxKtCJCUs4unNALHERYyjPK8gvn/f1r99z5JnnxquKZnOkPBPRMzh5Lyh4unEKpeub76/XaW8ceF7kfTqdT39w6HamkhwijIAj9X2+u79KCVNilTCrMUtJxaV0jtpKnXs5Xvr7wV7GzBR17E+CSdCaNqGueYmUujnOjA1daf4YF3Fsi89+N3Yn3KDMneYFQ6wZFVUnesCVHjcQ5uXBqQSssNg7KqKxLvLnGC1L2x3/ZUyNhJCP5Y15goRBfIlUQlHIszZfvCTiI4j9f+QNard4f6z8ESW1qQIRLRQQDN6zIAbXzTtEdb1SB5lhweDCMwP5ON1oKXqE7xRlHtyBFIMXhq4duwKIvZHv2fHwMV8RCq+HZOMPlCJe+/wlckXxLJLrCQhD5Ev3IJakL9NpDv3joy+6bIBkRNH1Av+CyJOorq7SXcECq1ZxhBd4IJ1HkhufRyROM4A/Sfh+e3BNRWVGKPCoHYfAeF1RtLhx46FSQEisuBufvb9/0UUizPtJWEKGLpgRP+pZHQjjjsiHPZ/BBnZPMBdHfrCkdSGuKP7JlYO4gbsCad8tbInkjUggM8APPBa4LmnaPOaboOXPCBBl6IK/yOv1PtltFN/AsguLy+T7YZfRVXgXBWXQW7qYgoCRCx9oNrqW1yCDfGgJgc8q6cO1OQUa6EwLmaDcGkmvOMs6s6J5k9AIDWVZSsyipLIhIfvReexDc26jvWHqKARuVstElMqkgK8ev1F8NyHW4v4Fzkg0q+jpOM7V00APZfAv3F86GgN//bnBJl5QIqBx1LfgjFK42VyZTq2ErbRBMY9+1akvM8gbK4hBKd/ZUBlHJz+KpGy3+Uwx1XM+OnY7BJyx3ku9Yrv1szRnCHFg5tMg+YLGRNMUlvFsqaK27zcjz4BWFy3fGO4kgSy7Anwoewt50Ph3RDQSAbwhTSYgqXKMZNIbSQ1+jyTl6RKdnKK08K8DSDWOE6cJP1A3JKL4HTyfwlDnxP9Qk72Jlj+QZ/Ioul5/D/6GOnmLvwv6wX20154okdwriEIUIUuoBAhqZXmMa15pCKzMtFHoZQRRCvqqhQRDEuIAr3e7wCjOGi7Z7dU40cne0FHwtB8JMMzRiADpacAEtSAt8XUKYZtj0xmfIls3iA0nVMOrLVBYfD/junhLpWyFy3Nd5TdPE9m7X1dXOdb/DotygNRcPUiMMz4OgK+qGfOt3K/NJpCpnR4Ca7PJyotTGI1njG8q9dDxA5U+CYBKdnI9MKaAMQTMtdByAQbbOjUtxyhumxCZ5z6jOKhMUXens7nYYmIKHhFx5a4JBB8wcvkJvQJeVnidwz95RjgRIraJzcOc1czas9E9ht0AGHVbuYoS4gjEMTEni6KV7ftJD2l4Mte3J+shrfgIO9zz0TkMUB148Qe5k6p2eojjyTqL/B5oEv0J26k/0R4o9FM7iSfQyCIJuVm4pPgmKmaxI9kaRrkcVXKr98Xk7Koyn6luawjSfoR88dCX4mqFbsuJlo4sYNB4YVwUMzzWacxhbU32KsEI3OlrRz1BW+iGiH6ePDNT+LtqnTKDyliyJgAGAZFewoZjNbFZAT+oTE7YlXPLcqzSUlUFiFjTbnfy0B+zX4dl5NNUHJxHUJz+KTnYnrpufry+RICnEheNvkdEMUsqMGBZYI6iTaAQSIGDx4Fl1ULVhvFkT2GAKAwPuZv5pMD2d+v+cBfFqFUcfulbSC31CEdRQXLpcl24nCc7+CkL4C8Lw9AkhpV0hR0Ob7U3detkWAwLvKgvoRLApwVp04Dn3+AaDxfDoqOJGlHuLJk5TImE/5m2ZpgzpumUG0s/0KWjbVd4pqwVZUbL+dBW+KppqwTAtjyvTHRPCltKlW2FGl0R+hk1+J2Ks76j7W0vnMNJTk6C72aIxpHrlgh7fApBGd0lTwiQ058XGZakrsX/iBb7ThbpsJxRBYLTOGpNKu2ljJTjJfUGl6dkI/tvTDMEEibSYhunJA6O5BQHVxKBAl0oJujDFBr3lzNXnRKSwHaE7qEoEXZb0gaDrViD6cj5HV7+5b+fu3eVX3bCyY/1xtzzfLJhsCz2qvOXogemamPJ6Yw6BTQJkwyU/iqAtKLtLWns615HP1F27oF5BzQaIP+kFKgV7F9CQN33N3KffF2dcy5lej/YXpyQKotANAzcI74NgFgezIPx9LH7Af0B6AcsEOS47doMYxN+H01l0MgvjHdk9975ku0VAhmGGIFVrePVsxL2/Z3SbzbvlvG0CAGfc2g5sboCa/P+bG3wc2dr29rZ96+yatt0y7uxvf7s/6QxInATjtPul5QDrqDdvo9Ue6Y/kxb9FF13z",
         "name_facet_ssim": [
             "Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1722-1824"
         ],
@@ -105,14 +108,15 @@
         ],
         "subject_geographic_sim": [
             "Georgia",
-            "North and Central America"
+            "North and Central America",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.0,32.0]},\"properties\":{\"placename\":\"Georgia, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.0,32.0]},\"properties\":{\"placename\":\"Georgia\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-81.51,30.37],[-79.55,30.37],[-79.55,32.42],[-81.51,32.42],[-81.51,30.37]]]},\"bbox\":[-81.51,30.37,-79.55,32.42]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.0,32.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Georgia\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.0,32.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Georgia\"}}"
         ],
         "subject_point_geospatial": [
             "32,-84"
@@ -122,7 +126,7 @@
         ],
         "system_create_dtsi": "2016-11-20T06:57:34Z",
         "system_modified_dtsi": "2023-09-15T14:48:28Z",
-        "timestamp": "2023-10-03T15:53:05.321Z",
+        "timestamp": "2025-10-31T15:48:55.477Z",
         "title_info_alternative_tsim": [
             "Coast of South Carolina and Georgia from Stono River to St. Mary's River"
         ],

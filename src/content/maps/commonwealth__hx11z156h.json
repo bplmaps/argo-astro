@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750014150934528,
+        "_version_": 1847512982589800448,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z156h",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z156h/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Pfister, Francis, 1740-1777",
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
@@ -120,17 +123,18 @@
             "Fort Newport (Rome, N.Y.)--Maps, Manuscript--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "New York",
             "North and Central America",
             "Oneida (county)",
             "Rome",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.45,43.2]},\"properties\":{\"placename\":\"Rome\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.45,43.2]},\"properties\":{\"placename\":\"Rome, NY\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-75.471944,43.214167],[-75.466945,43.214167],[-75.466945,43.216667],[-75.471944,43.216667],[-75.471944,43.214167]]]},\"bbox\":[-75.471944,43.214167,-75.466945,43.216667]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.45,43.2]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Oneida\",\"city\":\"Rome\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.45,43.2]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Oneida\",\"city\":\"Rome\"}}"
         ],
         "subject_point_geospatial": [
             "43.2,-75.45"
@@ -142,7 +146,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:10:23Z",
         "system_modified_dtsi": "2023-09-15T14:48:02Z",
-        "timestamp": "2023-10-03T15:50:03.802Z",
+        "timestamp": "2025-10-31T15:48:00.723Z",
         "title_info_primary_tsi": "PLAN OF FORT NEW-PORT with ye Situation done by a Scale 100 feet to one Inch",
         "type_of_resource_ssim": [
             "Cartographic"

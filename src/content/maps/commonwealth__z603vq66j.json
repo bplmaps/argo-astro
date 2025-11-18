@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749618134188032,
+        "_version_": 1847512867981492224,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,8 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": true,
         "georeferenced_bsi": true,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vq66j",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vq66j/manifest",
@@ -57,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzFWFtv2zYUfu+vIPSyFqgsyXd5tYrU7bYUSRo0KbBuGAZaOpaYSKRKUna8X79DWbIlX9I2feiLkpDnfOfCc82r1w9ZSpYgFRN8ankd1yLAQxExHk+tT7e/2WPrdfDsVSYiNTEfgvRcTR5Sxu+nVqJ1PnGc1WrVWfU6QsaO5/u+U95aNalixwi7rus5f15e3IQJZNRmXGnKQ6i5jKwWWyrCTiyWjrlwlj1rp3SvM0IuxSaqhLoQIdXlxWlucuTKyI+oxPuKqPxp9+xR50FFVvCMkI0bNNMpnPOFIIWiMUytXLKMyrVFIqbylK4v6BzS7fG/1WmJ0MIIrlPKiVgQnQAJmV6b368TltII0jxh9JXTIDbynbYCDZ3WOXxYfAQlChlCMKNSi1hSBAlrpjbFljMGLoHQQidCogpTK87iPLR2J58+nm9dyaKtu5bo5nmRooFOJeiSapCMpgrfhqYFfD+jo+PMdYfdobfvS9QSJE2t4JLmqrKo1HxnCCobM167pT5FjI21e0e3IDNifDK1NDxoK2j6/XUlYUtZITr7kBVgMU+ZSkAG72ko5uS9SLgSfIuyvW7wMKUKE+9BJvjeS22vGuQRuugczyFqpOeqF0Z6YZF7WL/F+6m1BvT9l4KmbMFATq0vBSiTCnSeghV4I79fidjBNcKq7cCNXAzQuMAgb+pSn+27sBlETIlhz7e78+8KpJrrmwOoZnCAx1bwjsfG0ZU5TTUbVjYtqp4vWSsW0vQtqFCy3Dis5Xr0iqbph9I7gYSFkBnVGl+iuql92qJrAKBvgOvAIxnNya+k2ycPpDciYdapOCuCZnRwzAgO+hIiRm/RxQGWkhicuxziOkoOSL6BX7PF4kf47/LuY+x1wB936AaaCw3BWZ4DlYowTt7TDBT5Awsvg18UOSMKo0UTGoai4Pqx6li7r0Rs45/zMC0ixMV4KDHKnFXmt1JxTIvj3KqY30Gom6Gchir5ehTX9wyUU4GodsUXOQtbVYY8v6adF7ZtSpptv6MyXZOVkPeKaEG8sevWlbvk3Lm3gn9UaR3zEzqX2dOJQet1B6LCKSkP0u0IlTNyvX7fHbasSrDOUBkm5rl/h7qQtett+ZDr4Ehjq24OqeU6+MSZybEbjaVKNenlAQPXjJsEusLASQh2cTLDP7FdkLMMG0u4E1dTtgHYCe1YrVt18JixFVSj76p9NQWGODfWBD2/4w9e2qNBxxtsddtdN2UeIH4lCJ6gjdGj6w57bs91x/5gPOoTo2B3NBz4g5HvD7seMTSuP+qOR+5gMPR63Q3NuNdHeq83Hrq90c+xROFjQHBjvuRvb+L5LzFz/qmxy8snaSEhRROicw11k0uE0odD3G7gaM92JqtNvdkEZTsQtwPdiZHO2dfgMbWY+ggLLGk4MURvcAgth+9Jgo1qk80K07nqTaFIUzQS67Hq8HWeloM4plmmnIHnRv1RRG0Az7NpL/JtcPsuflyKtWjYp75vOTs9WIR5VI4ZlRqFZFZQy6PyvrOVmeGIswKa6qSUh3cTZ+D6A9/5D8Nm+WU4vKubyha0MYFU43xr4KoaTD3qB1ewIp+xdJJrM2uF5ILNMVPXe/3oogFVTwPNo5PyCpkezPrYoEDhiiI2tRc7mSkv5Sj5g15AafvCa2G5hCWD1dNFODopsjmnLD0tzHREDCvGFnZGOVuA+gGbnBqiLe+k+zeWzgSPmLk4Gs2hBORawkYBVcrGVweusPnO1zYPbUWdfsd1rDo4FZR9QUIuRVSUKbC/YlQIVnCbMFU2YsLMAFGeRgTHPmJgCh5hzFMyq5Qgs40W5ExryeZFqfWV4LY5BxniXkNuEoo71lnK7gFDswQkz2cz8uazfTWzb85e1MPInvWn3fLtZuE4mphR5EqQey5WJkzzdXlIzBiEVWlTD76mgUR3y2h/vdqczkzkc32zWS3fYJ1EFY+m4jH6Q7jStYKbpeZw3Qm6btezXd/2Brduf9IfT7zBX234Bv8R9AQ3AHgy9pb7ELka/THDcK3HVM3x1aMW9+FyUK8jHxYzijkl8Dput5Mj6xZqDT9/3cLPiVXrYNk6tK7arXYbwk3175emWVhpwwaJFVAaynrdOmRt9c5dtFZH5hM8+x9Ye3vY",
+        "mods_xml_ss": "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",
         "note_tsim": [
             "Appears in James Hardie's A short account of the city of Philadelphia.",
             "Includes list of places of interest."
@@ -94,16 +96,17 @@
         ],
         "subject_geographic_sim": [
             "North and Central America",
+            "Pennsylvania",
             "Philadelphia",
             "Philadelphia (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"placename\":\"Philadelphia\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"placename\":\"Philadelphia, PA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-75.20630300895874,39.9276595799621],[-75.09728705561324,39.9276595799621],[-75.09728705561324,39.98345871386037],[-75.20630300895874,39.98345871386037],[-75.20630300895874,39.9276595799621]]]},\"bbox\":[-75.20630300895874,39.9276595799621,-75.09728705561324,39.98345871386037]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Philadelphia\",\"city\":\"Philadelphia\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Philadelphia\",\"city\":\"Philadelphia\"}}"
         ],
         "subject_point_geospatial": [
             "39.95,-75.15"
@@ -113,7 +116,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:54:36Z",
         "system_modified_dtsi": "2023-09-15T14:47:15Z",
-        "timestamp": "2023-10-03T15:43:46.132Z",
+        "timestamp": "2025-10-31T15:46:11.424Z",
         "title_info_primary_tsi": "Plan of the city of Philadelphia",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750018773057536,
+        "_version_": 1847512983894228992,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,13 +37,16 @@
         "exemplary_image_ssi": "commonwealth:hx11z183d",
         "extent_tsi": "1 map :  manuscript pen and ink with watercolour ;  36 x 45 cm",
         "filenames_ssim": [
-            "commonwealth:hx11z1824_metadata",
-            "add_ms_57712_14"
+            "add_ms_57712_14",
+            "commonwealth:hx11z1824_metadata"
         ],
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z1824",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z1824/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
             "Royal United Services Institute for Defence and Security Studies"
@@ -113,23 +116,22 @@
             "Champlain, Lake--Maps, Manuscript--Early works to 1800",
             "Crown Point State Historic Site (N.Y.)--Maps, Manuscript--Early works to 1800"
         ],
-        "subject_geo_other_ssm": [
-            "Champlain, Lake"
-        ],
         "subject_geographic_sim": [
             "Champlain, Lake",
             "Crown Point",
             "Essex (county)",
+            "New York",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4167,44.0]},\"properties\":{\"placename\":\"Crown Point (cape)\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3333,44.5]},\"properties\":{\"placename\":\"Champlain, Lake\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4167,44.0]},\"properties\":{\"placename\":\"Crown Point (cape), NY\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3333,44.5]},\"properties\":{\"placename\":\"Champlain, Lake, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-73.431389,44.025],[-73.397778,44.025],[-73.397778,44.0425],[-73.431389,44.0425],[-73.431389,44.025]]]},\"bbox\":[-73.431389,44.025,-73.397778,44.0425]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4167,44.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Essex\",\"other\":\"Crown Point (cape)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4167,44.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Essex\",\"other\":\"Crown Point (cape)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3333,44.5]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Champlain, Lake\"}}"
         ],
         "subject_point_geospatial": [
             "44,-73.4167",
@@ -143,7 +145,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:16:40Z",
         "system_modified_dtsi": "2023-09-15T14:48:04Z",
-        "timestamp": "2023-10-03T15:50:08.210Z",
+        "timestamp": "2025-10-31T15:48:01.967Z",
         "title_info_primary_tsi": "Sketch of the Isthmus to the NE of Crown Point",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750076919742464,
+        "_version_": 1847513008827269120,
         "abstract_tsi": "A manuscript map of Lake Erie within its wider geographical setting together with a detailed plan of the fort itself and three cross sectional drawings. Built under the direction of John Montresor and drawn by Francis Pfister in 1764.",
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
@@ -10,7 +10,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -38,14 +38,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z482r",
         "extent_tsi": "2 maps and 3 building cross sections on 1 sheet : manuscript pen and ink with watercolour ; sheet 28 x 46 cm",
         "filenames_ssim": [
-            "k_top_119_17",
-            "commonwealth:hx11z481g_metadata"
+            "commonwealth:hx11z481g_metadata",
+            "k_top_119_17"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z481g",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z481g/manifest",
@@ -58,7 +61,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Pfister, Francis, 1740-1777",
             "George, III, King of Great Britain, 1738-1820",
@@ -116,15 +119,16 @@
             "Erie, Lake--Maps, Manuscript--Early works to 1800",
             "Erie, Lake--Defences--Early works to 1800"
         ],
-        "subject_geo_other_ssm": [
-            "Erie, Lake"
-        ],
         "subject_geographic_sim": [
-            "Erie, Lake"
+            "Erie, Lake",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.0,42.0]},\"properties\":{\"placename\":\"Erie, Lake\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.0,42.0]},\"properties\":{\"placename\":\"Erie, Lake, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-78.927777,42.855],[-78.84,42.855],[-78.84,42.89583],[-78.927777,42.89583],[-78.927777,42.855]]]},\"bbox\":[-78.927777,42.855,-78.84,42.89583]}"
+        ],
+        "subject_hiergeo_geojson_ssm": [
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.0,42.0]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Erie, Lake\"}}"
         ],
         "subject_point_geospatial": [
             "42,-81"
@@ -138,7 +142,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:34:23Z",
         "system_modified_dtsi": "2023-09-15T14:48:12Z",
-        "timestamp": "2023-10-03T15:51:03.664Z",
+        "timestamp": "2025-10-31T15:48:25.745Z",
         "title_info_primary_tsi": "[A coloured chart of the upper part of Lake Erie at Fort Erie and a detailed plan of Fort Erie, together with three cross sectional drawings]",
         "type_of_resource_ssim": [
             "Cartographic"

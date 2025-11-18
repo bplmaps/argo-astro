@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749517570506752,
+        "_version_": 1847512832844759040,
         "admin_set_ark_id_ssi": "commonwealth:4t64hr20k",
         "admin_set_name_ssi": "Boston Athenaeum, Cartographic Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:4t64hr20k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Boston Athenaeum, Cartographic Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -47,7 +47,10 @@
         "genre_specific_ssim": [
             "Nautical charts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:4t64hr21v",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/4t64hr21v/manifest",
@@ -61,7 +64,7 @@
             "French"
         ],
         "license_ss": "Contact host institution for more information.",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Southack, Cyprian, 1662-1745",
             "Sartine, Antoine de, comte d'Alby, 1729-1801",
@@ -116,14 +119,15 @@
         "subject_geographic_sim": [
             "Casco Bay",
             "Cumberland (county)",
+            "Maine",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.05,43.6333]},\"properties\":{\"placename\":\"Casco Bay\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.05,43.6333]},\"properties\":{\"placename\":\"Casco Bay, ME\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.05,43.6333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Cumberland\",\"other\":\"Casco Bay\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.05,43.6333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Maine\",\"county\":\"Cumberland\",\"other\":\"Casco Bay\"}}"
         ],
         "subject_point_geospatial": [
             "43.6333,-70.05"
@@ -135,7 +139,7 @@
         ],
         "system_create_dtsi": "2015-12-04T11:11:46Z",
         "system_modified_dtsi": "2023-09-15T14:47:09Z",
-        "timestamp": "2023-10-03T15:42:10.227Z",
+        "timestamp": "2025-10-31T15:45:37.914Z",
         "title_info_primary_tsi": "Plan de la baie et du havre de Casco et des i\u0302les adjacentes",
         "type_of_resource_ssim": [
             "Cartographic"

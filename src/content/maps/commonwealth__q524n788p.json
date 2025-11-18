@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749823331074048,
+        "_version_": 1847512906290167808,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n788p",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n788p/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Foot, Israel"
         ],
@@ -105,15 +108,16 @@
         ],
         "subject_geographic_sim": [
             "Colchester",
+            "Connecticut",
             "New London (county)",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.3167,41.5667]},\"properties\":{\"placename\":\"Colchester\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.3167,41.5667]},\"properties\":{\"placename\":\"Colchester, CT\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.3167,41.5667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"New London\",\"city\":\"Colchester\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.3167,41.5667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Connecticut\",\"county\":\"New London\",\"city\":\"Colchester\"}}"
         ],
         "subject_point_geospatial": [
             "41.5667,-72.3167"
@@ -123,7 +127,7 @@
         ],
         "system_create_dtsi": "2017-05-25T15:58:28Z",
         "system_modified_dtsi": "2023-09-15T14:47:30Z",
-        "timestamp": "2023-10-03T15:47:01.823Z",
+        "timestamp": "2025-10-31T15:46:47.958Z",
         "title_info_primary_tsi": "Colchester, May the: 6:th: Day: A.D.: 1765",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1780112939097784320,
+        "_version_": 1847512972834897920,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z0127",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z0127/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
             "Royal United Services Institute for Defence and Security Studies"
@@ -114,14 +117,15 @@
         "subject_geographic_sim": [
             "Canada",
             "Cape Breton Island",
-            "North and Central America"
+            "North and Central America",
+            "Nova Scotia"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-60.75,46.166667]},\"properties\":{\"placename\":\"Cape Breton Island\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-60.75,46.166667]},\"properties\":{\"placename\":\"Cape Breton Island, Nova Scotia\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-61.983333,45.166667],[-59.633333,45.166667],[-59.633333,47.033333],[-61.983333,47.033333],[-61.983333,45.166667]]]},\"bbox\":[-61.983333,45.166667,-59.633333,47.033333]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-60.75,46.166667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"island\":\"Cape Breton Island\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-60.75,46.166667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Nova Scotia\",\"island\":\"Cape Breton Island\"}}"
         ],
         "subject_point_geospatial": [
             "46.166667,-60.75"
@@ -131,7 +135,7 @@
         ],
         "system_create_dtsi": "2016-11-17T22:35:05Z",
         "system_modified_dtsi": "2023-09-15T14:47:59Z",
-        "timestamp": "2023-10-18T16:53:10.315Z",
+        "timestamp": "2025-10-31T15:47:51.419Z",
         "title_info_primary_tsi": "A PLAN OF THE ISLAND OF CAPE BRETON",
         "type_of_resource_ssim": [
             "Cartographic"

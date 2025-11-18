@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749550577582080,
+        "_version_": 1847512844192448512,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,8 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
         "georeferenced_bsi": true,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vp32h",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vp32h/manifest",
@@ -60,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJztWUuT2zYSvvtXoHjIJlXDh96PeJgay3Hs1MzYNRpXbTaV2oJIiIKHBBgAlMw97U/Kda973NoftQ0QlEhJI4/HyXpdtRfNCEC/PnQ3ultPv3ufpWhNhKScnTsdL3AQYRGPKUvOnbe3L9yx81345GnGYznVHwjOMzl9n1J2d+6slMqnvr/ZbLxNz+Mi8TuTycQ3u059VNJjB7tB0PH/fHU5j1Ykwy5lUmEWkZpKy2qRpTzyEr729Ya/7jk7pXveCKgknUrD6pJHWJmN+6nRkS0tP8YC9u0h89ftuSPvvYyd8AlCFQyKqpS8YkuOCokTcu7kgmZYlA6KqcxTXF7iBUm3y3+1q4ZDzYNxNudChbcrgp76raXGKSMpzAVfU4BGIr5E12SDfuLi7gyBtubbj4ADKb9FG6pWKMdC6WNvCJM0XWNGcXVSgSCwkgiWEaYMq1vBqUQ3dE3Jv/8uiKwOXnGmBMGp1apSQdvut40/hocqc4ADpwrEwB2siXNozWzFBU8Ezlc0winKcK510epFvADRJVoQtSGEoYt0gVl5hl7LDUn4GXoB6KAXAvQjDEeVtimgsm/HwzVnOCNW6RxQ5Ayn7VuC/TeAaPiSpymIO0NznBWkxma7fYTEso2xAhA6o+7Y7YyDzglCwStt2yu3RGSWlSLvlYNwoQBAqspzB5wrEiTFiovG+tubV1vPp/HWu9cQFYsiBX/0LY2EEMJpQR5O4IM4J5yBd8A3a0qtpDXFb9nSMPcRoP9IlksiSvDL2xXPsPxY1N3OaPTFI64WgLgOSboofm/Um6YxvPywSfU+JdLXDD9g0MFxn42DYDicDPvHb3yOSyLO0A1fEKEeEWQDuPJJ//9XbvMtWPR6eUMkL0QEiRewqBNvnRLbJ7aUCWGCNFFIsiSPPsp+K+gKrkZQnD4ch31CXyUZOE132Nl/X0FLInTyuMJ5nRyM5jtDQNmEsjrp16vAI9pzA7O07wfhz5ecxZz9YplvD7XuoMHN8ioWKZUrIsI3gsJjFaMlF9qplYeMhyPP88zrdeuhOsnVzLa0DYZUykLXRmHG2d4Nbrcax3U4vIJ1ELwr5Ta9KFYQ4nekfA77506po/fXAqd0SYk4d34tiNRlE16kJpiGYytix67haW1gK7nwQiYFFERNXeq1UyFGJR/2Jm538VEOVlM92LFqAp+wxAm/Z4kG2prTVLNhZdMie7erUuq65TmRkaC5BqwFPaCicPraoBMKAhefYaVdwO7UmLbONRgANlCehRFPPVMadXoD9B4NuijKPEtrjzT9g+mCi6grElN8CyCHUHgmxH+Xk6T2k4MjD6BXdLn8FPp3efcUee3yxyGt62RFwltduSHKUJHD2wW4CEBtii5Q9IfXkiZUnwu8YWgpeGYcFNCnEZKFWJNSokVpyxO0q1cSUmkFyiqOXgLHK/wOwqus79CY1TbypVYB7p0LEp84BikFHvIMciMgCSBUGeoEwQ1JKVkiueJgQ04jeFEgraanVLlg8Adrr+XMtFl8imwF/CdZo1w3IugrnOXfNjqRs4NOhMmyakWQ8V2dkNC1ZwnnHCCtwJ3hnKCXhP2c8l9yuDTA7hJD0uwP//lbP/jXP06oPAfzJMJxRhmVSpjmA2JuTXWLKE8QvmJRWsRw0c41fPWce0/a7CU1MLqF0raBg+TAni5oCjnLCStHAY8AS0Bvi5mHINkIvAY8fwdnkcXiHYlUM4GmkVx9XPFmmch2f8bBPcLtvX4916Z+47r6eXXd77FIS7SBHan1hG4mqKsIQ7cLaMv8c6p80XYEHVo5hzsyaWLrFl+IaVVYfWHKfs4bUAm7xyZTDngJURBdJC58c/Kgfjhyyh8FwWgwHLSsXkHhBO2BeXx+IPVD1C4s7UMUvmVUJ1TjoHWxV+/tEcDzwvQLfw1v1MogN4OvUOmiC533I7wlr0+2GJgM1biLGjiz3CxcT6lvdWm0DHJfTS4gkWtrwn5w5o4GW612G01pB7z+Jy50/EVdqE5y/4Xr7P0B1/kIPdzR0Ov3R5NRZzic9LrBuI96Y6/XHw+DyQC+6XhE7ijwRvB/p9cZDMZBJ5ig/sDrBT34rzMcDCbDbu/zmCLhHqAw0Z8owh7qTIeD4CzYZrZq/1GKmFkBiV9BJWLLkhWX6nDYumt82zPYS7wR0BpCsQUdaYqLZAXlOZpBuQJiIC/r2sY2SLrcgyIlWoFuulhJ+UJPihecQ6rWroxViuXh0PWesau/r/8po6i8IVAkaU3jZ6WDzM8K0xW0VVVkSwht20lFW92lx8o8NT8xQIBm0h90grg/ipfuEuOOi3vxxCVBP4CPAMNDM+zjycTxd3rQWBf4uim2ahSCOmEtD4s7byszg4Z8Q3CqVkYe7E39ATjnxP/bMOit8163bjB3TE8ISqOIOeGoP5x0h/3xCcrU/sTRmjrYNqr++WNXFb3RM4UIXdIF5If6OTg43uh6m0v3yitEevD7B44iIuW5w6sMDh2bTmlmlPKJ+IG0feG1sFwQ6NY2jxfhq1WRLRim6f3CdA0ODknp0s2gk1kS+Qk2+TWLtrx74a8snUGnR010HouDSE/lodKqFJBGNtw6YRCb/qJ0WeRK7Pe9wHdqt5ZVWSZILnhcmODZH7FZDk54u4K+RNdnCP7a1WqupdkULAYnxmhmlYBUYrRAF6qaYmqtrzlz9ToRETSgaA4ZhUBfTu8IuKZhiL6ezdCzn9zrmTu/+KZuf/asvx+Wh5slKGQ8qGCvObpjui+OeF6aRd3Sgco2k3xIAwFwi3h/vFitzsxsQc2r0eozyM+g4tFQPHb+kJ2BljM9vDsc64XdoNtxg4nbGdwGvelgNB1M/tJm36A/wn2FWUIezXtLfcjZjrggwjBDEKo53Hrcoj4cgtVjt9fLGYaY4rCdtJ+xI2NF0Jp8/rEifNwzUjwYKh5aZ2eIuznY3P4kvf+DROOIE2Ic1b8RHCFtvbo7b7VL+iN88h8c8wMK",
         "name_facet_ssim": [
             "Holland, Samuel, 1728-1801",
             "Jefferys, Thomas, -1771",
@@ -125,16 +127,17 @@
         "subject_geographic_sim": [
             "New Jersey",
             "New York",
-            "North and Central America"
+            "North and Central America",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"placename\":\"New Jersey, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"placename\":\"New York, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"placename\":\"New Jersey\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"placename\":\"New York\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-76.44797166932084,38.34860950847565],[-70.78471315580109,38.34860950847565],[-70.78471315580109,45.30310916559623],[-76.44797166932084,45.30310916559623],[-76.44797166932084,38.34860950847565]]]},\"bbox\":[-76.44797166932084,38.34860950847565,-70.78471315580109,45.30310916559623]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"New Jersey\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"New York\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\"}}"
         ],
         "subject_point_geospatial": [
             "40,-75",
@@ -148,7 +151,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:35:47Z",
         "system_modified_dtsi": "2023-09-15T14:47:11Z",
-        "timestamp": "2023-10-03T15:42:41.705Z",
+        "timestamp": "2025-10-31T15:45:48.737Z",
         "title_info_alternative_tsim": [
             "Chorographical map of the country between Albany, Oswego, Fort Frontenac, and les Trois Rivie\u0300res"
         ],

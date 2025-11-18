@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749960623226880,
+        "_version_": 1847512964795465728,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nk289",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nk289/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Campbell, Archibald, Sir, 1739-1791"
         ],
@@ -107,15 +110,16 @@
         "subject_geographic_sim": [
             "Georgia",
             "North and Central America",
-            "Savannah River"
+            "Savannah River",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.85,34.4333]},\"properties\":{\"placename\":\"Savannah River, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.0,32.0]},\"properties\":{\"placename\":\"Georgia, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.85,34.4333]},\"properties\":{\"placename\":\"Savannah River\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.0,32.0]},\"properties\":{\"placename\":\"Georgia\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.85,34.4333]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Savannah River\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.0,32.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Georgia\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.85,34.4333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Savannah River\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.0,32.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Georgia\"}}"
         ],
         "subject_point_geospatial": [
             "34.4333,-82.85",
@@ -127,7 +131,7 @@
         ],
         "system_create_dtsi": "2017-05-26T15:21:16Z",
         "system_modified_dtsi": "2023-09-15T14:47:57Z",
-        "timestamp": "2023-10-03T15:49:12.754Z",
+        "timestamp": "2025-10-31T15:47:43.752Z",
         "title_info_primary_tsi": "Roads and country that Col. Campbell marched thro'--Ebenezer to Augusta in Georgia",
         "type_of_resource_ssim": [
             "Cartographic"

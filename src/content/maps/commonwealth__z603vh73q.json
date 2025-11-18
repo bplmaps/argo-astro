@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749534811193344,
+        "_version_": 1847512838625558528,
         "admin_set_ark_id_ssi": "commonwealth:z603vh48c",
         "admin_set_name_ssi": "Harvard Map Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh48c"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Harvard Map Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vh73q",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vh73q/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzFWFtv47gVfp9fQeihaAFbFztxbO9Ei8R7GzTJDJIMpu1gUdASLXFCkSpJ2dH++j2kKFuyncvstF3AsGHy3HkuH/n2+8eCoTWRigp+7kV+6CHCE5FSnp17H+9/Gk697+M3bwuRqrn5QkDP1fyRUf5w7uVal/Mg2Gw2/mbsC5kF0Ww2C+yu15IqeoxwFIZR8I/rq7skJwUeUq405glpuYyuHhsTiZ+JdWA2gvXY2xk99s+AS9G5sqKuRIK13XiaGx3ZMvpTLGHfEdnf4Xh45j+q1IvfINSEQVPNyDu+EqhSOCPnXilpgWXtoZSqkuH6Ci8J2y7/261aCT0Z8SXW8IPECv1cUZauhEwHaCWqLNdIcKRzgqJTnRuCayyTHEVn08hHHxjmZs3sL0GEkeG4OMESLXCREj5AF1VWKY2iic4HhjV8G3SUG3+CvkPHfNR1CS5iponkENc1OeLHvkEv2/ON5lScQrCKI6ZcaIaVsaWxQ7VmXRRE0gTMvCVrwSqTID4YMRu/3giOC+L0l5B7gmPmIVzpXEiq63OP41Xn/8fbd9sMpOk2y9p9SlRgBCpIZMwq8lrygE/D8DQcT8Ke82bvA5Y6/gnbUH+ijFFcOGe2u0c4nEcp1nCy0dnJbBhNx5NnGKVoAtVfuSeycKI0edS9wEAVJJIwrIV8OUBrKN9lxaBwAsfzQoiOMASgzosXkph/zpXWSOdK0POl424n6cCb96tbokQlExIvIA4ik7jMadImSZ9iy5kRLkk3AlmRlclX+e4UXcOxSIrZ62OwzxjorAjDyWgS7fcnsJJIyOH4GpfKeWQt3zkCxmaUt2XQroKMZC8F7NJ+DsRXgqeCO9Fbkt4JdGQ5SdWSUZUTGX+GEkf3PrSPlDD2a8uw3e8wUaUqMz3iQvC9M9pudchNsr+DdZJ2ht1mnKQaKviB1D/A/rlXQ3FCRUzPnKQdVydl+hFqxEM3zCqYDF2V7dpzdUKVmIxnw9HyqzKl5Xp1hrQMAeGZF//IMxNP507XzI6XXY/cMeW1gn7KfiAqkbQ0/bQXYYiKxuy9jU4sienW0JAh4G6njWmPriMAYkO4jkeogOQ0wzBCcOhEoznKYU6jRDAffYcIhqk4GqFHFM1QUvgDQ9oQjqewejo1q06Zk9nNG27GGtHXJKX4Hk4lhpGdkeBLSbI2fw5IXsGv6Wr1LfxfytFz7G0pHD8D19+FBoAhYNSqXGzQpRkiKkcmdttZqKUQJSqFooZXDZDp1DlUA5Ki0gQWtqSA6CxQkUSbtjoACgxo0B6FJOQBaD+ZlkMIugWQINuYWzP6Rt0SRsnKmsXRsobzTPJKEvUMy0VZApBQiPI5+oUq6Op1O9gTXJSYZtxOeoMqrE0GKAG1pYDuDD+So1KKNYVWYElvhITYOP9QgK4oAZc55nq4EExwwtA9loxoAxSaRjbfdSOLp858VPpodDaBf+H0OfOZEgh3fPgKlAIJD2OHGA/QhoLJtiBM8Mw5GabmrFoRRw8ay4Ka44Ru2wQqsZBigFQl16S2SzmWS5idA/QXiOh3CZSSxg+Eo7SSjSasEVlDAa0qhgAAUQFgFY7PKBWrFU0AE7VG3IoaM3Qhi3oXu08+cuDEwK6no+W6I8BxTQpQ12SdKiFB6ZIy6Ile/Bn0OojTCP31uDxVLb+QRHebLEtU/nUwzQlRfbQpSprEBrYb1I4WgACAo1JkgLaofoBu/IVvUyUaDs2UHQ5/hJyq0UbIBwXniiJAcy2YsBJ31e3U/v+caWF6x/526a71I/zf+KEz/oQbdm75kP+69klaBZbyYNAdoYIL5uz05GTWczSngHhMi4Ou+TNpkUIfyiSi4rqO/w7pnOONc8ItHhLKOv7IqRlsdyZhVZdeHjBwDW0URlDTfEyJLuCvNLXSlOqWvaXsC4DguGNqCWlrlVt4zkMnpINj1b6BkMuUGz/i8Yk/Go/Hg+E09Cdbs3b7XaUHIl84+leao8AHEt+Zb/Q5wX40j6aDSRi2ULDZ/1MMOYkG4X/FEHtlIek76HWu8eVC6cOL7Q6D9++7v2C5xtCAoCqhCTEGwukWcm8vtU9ca4N9E56zi6pbsoIBDwM0vaw9ZB955jlgu17PoUs/b2yylQiBKfMgjMLwbHYyOgkSDHBPZF6wU0UhnQEwQeK2t3tJvdiIVCATywffocREFIDvNwQznds3JNibB6dQ57Pgt0k4Xudn4/+0uGkrtIPL3ctQ77rhMFT7arQN6BVdQiHVe1DrqiOixcbdpSf1VJIdPBfhBLCIOvdE0w8Brpi6tzenb/QetO0rb5WVkqwp2fxxFYHOq2LJMWVPKzNTGDKG0tWwwJyuiPoGn4JWRF/fk+FvPF0A7LCw9iBRjQ2JAbGAUxsDlNXNAMJwBTNyWQ95MlQ4OPHDwGuTUhHbsCUBGJlWtsz2b9ROghff51TZ4Yjg162myNxnjZiKp5DrGC2cEVC41gqAhVrSZQP7bgQfmnUiE7jGozsoKsCHjD4QSE0rEP11sUCX/xzeLIZ3F39rAdCe90+H5fVuweUsN4jhRqAHbkB7IsraLhpgBiZbLvWiBRLCLdP914RmdWEyn+u75iXlEnogmPjB3PWTvVI8Rn8ozoZWcHOTP7zjx6NwFA3D2TA6vQ/Hc/icnPyrL77Df0Q6XEEz8odlb7kPJbuLMFQYNvcVUsKppz3uw6tyezl/v1o0zRXM6Y+KI48PYDX58x8f4OuJh4eDp4dD79xLw+7ye+de8PffHjskXoxx0j4JHmHtjcVdtrol8xW/+R1GHKG1",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Faden, William, 1749-1836"
         ],
@@ -107,13 +110,14 @@
             "Camden",
             "Kershaw (county)",
             "North and Central America",
+            "South Carolina",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.6,34.2333]},\"properties\":{\"placename\":\"Camden\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.6,34.2333]},\"properties\":{\"placename\":\"Camden, SC\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.6,34.2333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Kershaw\",\"city\":\"Camden\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.6,34.2333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"South Carolina\",\"county\":\"Kershaw\",\"city\":\"Camden\"}}"
         ],
         "subject_point_geospatial": [
             "34.2333,-80.6"
@@ -124,7 +128,7 @@
         ],
         "system_create_dtsi": "2016-11-20T02:07:14Z",
         "system_modified_dtsi": "2023-09-15T14:47:10Z",
-        "timestamp": "2023-10-03T15:42:26.669Z",
+        "timestamp": "2025-10-31T15:45:43.427Z",
         "title_info_alternative_tsim": [
             "Plan of the battle fought near Camden, August 16th 1780"
         ],

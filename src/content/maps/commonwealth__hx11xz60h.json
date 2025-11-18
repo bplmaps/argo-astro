@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1832832004162322432,
+        "_version_": 1847512971516837888,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11xz60h",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11xz60h/manifest",
@@ -136,7 +139,7 @@
         ],
         "system_create_dtsi": "2016-11-17T22:27:48Z",
         "system_modified_dtsi": "2023-09-15T14:47:58Z",
-        "timestamp": "2025-05-22T14:40:08.656Z",
+        "timestamp": "2025-10-31T15:47:50.163Z",
         "title_info_primary_tsi": "[Map of Quebec and environs showing the position of the English and French troops]",
         "type_of_resource_ssim": [
             "Cartographic"

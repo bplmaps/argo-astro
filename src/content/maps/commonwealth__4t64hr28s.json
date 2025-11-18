@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749521224794112,
+        "_version_": 1847512834078932992,
         "admin_set_ark_id_ssi": "commonwealth:4t64hr20k",
         "admin_set_name_ssi": "Boston Athenaeum, Cartographic Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:4t64hr20k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Boston Athenaeum, Cartographic Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:4t64hr28s",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/4t64hr28s/manifest",
@@ -58,7 +61,7 @@
             "English"
         ],
         "license_ss": "Contact host institution for more information.",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Conder, Thomas, 1746 or 1747-1831",
             "Anburey, Thomas",
@@ -122,6 +125,7 @@
             "Maps--United States--1780-1790"
         ],
         "subject_geographic_sim": [
+            "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
@@ -129,7 +133,7 @@
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-79.5,36.5],[-69.5,36.5],[-69.5,45.0],[-79.5,45.0],[-79.5,36.5]]]},\"bbox\":[-79.5,36.5,-69.5,45.0]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-98.0,38.0]},\"properties\":{\"country\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-98.0,38.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\"}}"
         ],
         "subject_point_geospatial": [
             "38,-98"
@@ -141,7 +145,7 @@
         ],
         "system_create_dtsi": "2015-12-04T11:14:47Z",
         "system_modified_dtsi": "2023-09-15T14:47:09Z",
-        "timestamp": "2023-10-03T15:42:13.712Z",
+        "timestamp": "2025-10-31T15:45:39.092Z",
         "title_info_primary_subtitle_tsi": "delineating the march of the army",
         "title_info_primary_tsi": "Map for the interior travels through America",
         "type_of_resource_ssim": [

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750116932354048,
+        "_version_": 1847513015922982912,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:6108vv502",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/6108vv502/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Skinner, William, 1700-1780",
             "Skinner, Monier"
@@ -116,17 +119,19 @@
             "Albany (county)",
             "Canada",
             "Louisbourg",
+            "New York",
             "North and Central America",
+            "Nova Scotia",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-59.9667,45.9333]},\"properties\":{\"placename\":\"Louisbourg\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.75,42.65]},\"properties\":{\"placename\":\"Albany\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-59.9667,45.9333]},\"properties\":{\"placename\":\"Louisbourg, Nova Scotia\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.75,42.65]},\"properties\":{\"placename\":\"Albany, NY\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-73.759167,42.644444],[-73.743333,42.644444],[-73.743333,42.656667],[-73.759167,42.656667],[-73.759167,42.644444]]]},\"bbox\":[-73.759167,42.644444,-73.743333,42.656667]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-59.9667,45.9333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"city\":\"Louisbourg\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.75,42.65]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Albany\",\"city\":\"Albany\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-59.9667,45.9333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Nova Scotia\",\"city\":\"Louisbourg\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.75,42.65]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Albany\",\"city\":\"Albany\"}}"
         ],
         "subject_point_geospatial": [
             "45.9333,-59.9667",
@@ -138,7 +143,7 @@
         ],
         "system_create_dtsi": "2016-12-07T17:50:05Z",
         "system_modified_dtsi": "2023-09-15T14:48:17Z",
-        "timestamp": "2023-10-03T15:51:41.822Z",
+        "timestamp": "2025-10-31T15:48:32.512Z",
         "title_info_primary_tsi": "A PLAN of the City of ALBANY Shewing the Several works and Buildings made there in the Year 1756 & 57",
         "type_of_resource_ssim": [
             "Cartographic"

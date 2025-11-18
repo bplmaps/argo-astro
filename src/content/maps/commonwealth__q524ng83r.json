@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1784019899530608640,
+        "_version_": 1847512949759934464,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524ng841",
         "extent_tsi": "1 map : ms., col. ; 47 x 67 cm.",
         "filenames_ssim": [
-            "lh000461",
-            "commonwealth:q524ng83r_metadata"
+            "commonwealth:q524ng83r_metadata",
+            "lh000461"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524ng83r",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524ng83r/manifest",
@@ -126,7 +129,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:28:06Z",
         "system_modified_dtsi": "2023-09-15T14:47:49Z",
-        "timestamp": "2023-11-30T19:52:38.139Z",
+        "timestamp": "2025-10-31T15:47:29.414Z",
         "title_info_primary_tsi": "Plano del pto. de Fuerte Delfin en la Ys. Espan\u0303ola de Sto. Domingo situado en la latd. de 19\u207040\u02b9 N. y en longd. de 66\u207020\u02b9 al O. del veal observatorio de Ca\u0301diz, 2 legs. al S. 61\u2070 O. del a Bahi\u0301a del Manzanillo y 6 al E. del Gua\u0301rico con la de vota de li\u0301neas voxas qe. manifiesta a el conosimiento del a entrada, vendido alas Armas Catholicas el di\u0301a 29 de enero por las fuerias combinadar, de mar y tierra mandadas por el Exmo. Sr. Dn. Gabriel de Aristisaval, theniente genl. de la Rl. Armada y comte. genl. de esta escuadra levantado pr. orden del Dho. Sr. Exmo., pr. el theniente de Navo. de la Rl. Armada Dn. Miguel Josef Serquero, encargado en la derrota de la dha. escuadra, an\u0303o de 1794",
         "type_of_resource_ssim": [
             "Cartographic"

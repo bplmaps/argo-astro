@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750027030593536,
+        "_version_": 1847512987434221568,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z2278",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z2278/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJzlGdlu27j2vV9xoIeLFIgW2/E6jQaOm7aZyVLESduZwcWAkWibjUQKJBXH9+vnUFskL02aFh0U1w92QvLsh2fjq1/v4wjuqFRM8EOr5XgWUB6IkPH5oXV99cYeWL/6L17FIlQj8wV4nqvRfcT47aG10DoZue5yuXSWHUfIudsaDodutmuVRxXbdrDteS3309npNFjQmNiMK014QEsoQ6sBFonAmYs712y4dx3rgemO00coxUYqQ3UqAqKzjd3QsGXL0A+JxP3iUPZrd+y+c69Cy38BkKtBMx3REz4TkCoyp4dWIllM5MqCkKkkIqtTckOjavnvYjXD0MDhT38/vpq8g4s3cPXuGCbvji8vfj/GPy6uz68u/4AxD+GMyGABYgZ6QeFKCpEouOYhldnCRMQxcm32T1OqHVyIHHgrCdegRXbkjIVhROE/JE5+gSMS3MKUaiQej7RyoNXvtV65NZaMlG5TzAfJOYkp6FViZEbtC06ihlRm/z2R2p/qFH/24Tex4AW6am/L+QJnSDS1/Fa/NbBb/f7wC4BS5Kw2V66ojAtUmt5rC0iqF0IyvTq00BKBpBHRQtbWry9PKjdhYeUKd+hCN2mExnMLGIX+RqKUPh3ADfTc8ifIuJhLkiyoLOQpOS3kcRsC1WR+htozw6PW8X/19Wpve3Zr4PV+crUTxS1/rJQIGMoVgpHju2q+Lh4ns8fFKvcZVa5B+IhQG8ddPui0+kO8F9utPo7RuZSxO53NqFxBtXBEpHjO/evj/Rv2f3JHmMXC8t8IGWOsFEv+fe5fIGQiZKanbaa4FCsSYXxmxvOmVN6xgCo4wdzGdKopzISE13SGGZaCidtTGqRGD4ABM2RfvLT/Xyo3Il3MLqkSqQxoLYyyoExPzRMV5JxySetqmMfzJPgqBRSEztDMkpHo6YpYB3T1PPa8XrvXWq8NkEsqTRg/I0lp9YzzB0GQ2TnjZQIuVxFHsOYH2dK6I/h/vTfLpjJIpAjTwJREwIUGFlKu2YzR8L8F4QpBwz41SgWd9CZiCkOL/5fJ65An+QpJtVsDYUqlpqrzY8HX7Fdt1Y6bADSRNIvbD1XoshOEGuPsLV29xq1Da4UhFMNUzytQ1cBqDtXUX04gInyeYs1WJ1qufekqMSV6naHdvvkqPyqhnuw/JYBLOdYOx3xuNFqIU2ezJmVdosJMi5ViAYleUxVIlhi7N3SMWtEkusi040uKISkm2mi82CmV2jhXQ4C6QQfyWxCTBNCn2oBWp1rBCOCzYJyG+7jF05w6JJRnoQ47AlgyvYCluR2BiPDewi8ALW8A99DpQhAXlAsCdTfiCMKpPqMhI1doIh8r6zl1Pyd0XrrTxpEnwOM1mH0L/Oek/SXw8mZsN0iROoSmjSoR0BiS3aTZfZ1JEeP9pXdMpAqOTFWgFnDKbiS6C2CfQyIxT/GWwJ6iFMZhiCX9gdfpOdR5WQZWQ6FJ75JGjM7QbhikIWEBBm8MV9HK2Q0yxbMKsp4AOYQALYRhNqIznVtVoYAUbogEjG9i+SgmAiENTCZldxQCESdE4aKUYgnIjIlQKBQXElEXjYwWSdkHoec9SkAy0yDugxQEu1bjgejp6KV7mJ80vJfM5OC3FFvRPBVny6ciDUXKXz6KPcB2KseahUllOEPDmfZqL8SUjsyP8foKe4ImFbdom49EvsxVZcKVMjfncVEmIlkZdaNh4UxBt7/fbx04rZ4DR8imuVRw6Vw7U+fEgQ8igtNPn04+OZDzWLuEJAxZ5lDIptXqWQYQL2bAIoM9TbC4RYXNF9hBnhIWGuZM38kwbqHNMVJT01VSvMoBk4EJVhCZRGZsY9QsMl9SYB1YDnxcYPmzY//15fjj8SW0hzA9nlydXJxDByGOMDruABjjWfega8GeUbakSZ4dKv5fltLiyd6gLliJyYHjO5Pz8mQoIuMIUYi973tixM7CEZZKtwVFArOIYmgKkaOVyiyGOAnuMoqwmQWt0w9vLXR0jswsEJGkSmUoKv4qMSp+dlu5UX0P8bP1pEpvPtNA17NSFKjF17UfBRLVnEUIDAF+5agnHEMYV7ZtSpN9OKu8yLaPiYxWsBTyVhkJsVssU3CO4yHmFYR+HPtbbvXe1Jk4mJXM1sufUZwiGsHeFeX8Z5Wk8qs3QuBViiIFU8weLIB3GHCWZJXb6QeIped8h1RZCebMqdYrh4apm53cqNm2nHJ7ntf2BoOG3HNalrpbvLKq9aszNUgMMTKLu5hM366dKM8E6BFarvyyydQmmxRYy701AJNMTUV1nqVTE0cnJn1jbB9jp4bEKvDyZL0P2M3UI7qvSxbUGji1zp+QWOgbMXx70HUGgw5+oHPg9LpgD9pOG7CeOejhp18x+gBSZ3WDyr/sHe1Op9vp96xn2XjlnwkuBa3bdsO0P8oXKsUZEr6JR5jyaMlbvtqkhEqsRbFyCpUtP827vtJ1Ol2ni56zbw8OnPZ39pMnspPVwP40q4RJgm33PbYJmmIIa41aQ2/fq8JXfvJZLGXDFhqeaFp2qwuh9ObjwsPgoPnmsN5ETEQU0Ww6sP4OsOMlwF1n40u8MXVJZ1Sa6is8WlmQvQyNFth2VhdHUWP/vNykyrmJnPTWPRmfTf/+cN0emT+8A8/2PPOy1D/oWe4DvWqUIQtyWHlbvsGrEDEWZE7RxWKDEQu+pCTCes28PuHeyO16w+7QXdy3Wv9rt/uDspWrkNbmBsWbUmMcUrR15XvTumbXur/TGoqyd68v7aSTymjjoYkE2HOoQ0vkYQyLTHNfs7nPN0qP1NaJl8SyPpQun0/C1Ys0vuGERbuJmaIX3YaxmY39C5tR9Q0yuSWKJr2d6s8lnQhedEvr3mp4CMygCT01Z0BltCOGFY3COuhmZfPAVsQ9cDzXKp1S5R0mNgfVJG59HlhgsPyrBVNZxQP4W6xmrSsYNGn28kdgUjCRPQAiFzCuDQ3OBbfNOpUBdvXYHhHs1McRu6XomhlC2JtM4OgP+3xiT8dVs7sm/W61PF2srKfEqvBcwC03w4YAG9psEcEUspxBqUc5kGZWEK7PQvPVifF8rqf5HPgIgyGy+N5MI4O1q7jt/Ca6TLWCm1Hj5hDSb3vtlu0N7Y531W6NOt1R9+DPJvoa/BbsC8Ln9Nm4K+hNzMWgDm8Y4WZklKDVwwb05iivHB5ezCb5KAnZaeaMLcNR5Jr++8NR/NoxGN0YjW5KV0xCH+Zx0+Ltf/35pHbE8gkJygeNLaCN3PjgrcWS+fJf/AOYZnO6",
         "name_facet_ssim": [
             "Stuart, John, 1718-1779",
             "Grant, James, 1720-1806",
@@ -125,15 +128,16 @@
             "Fort Prince George",
             "Monroe (county)",
             "North and Central America",
+            "Tennessee",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-85.883333,34.65],[-82.2,34.65],[-82.2,36.466667],[-85.883333,36.466667],[-85.883333,34.65]]]},\"bbox\":[-85.883333,34.65,-82.2,36.466667]}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.2,35.5833]},\"properties\":{\"placename\":\"Fort Loudon\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.2,35.5833]},\"properties\":{\"placename\":\"Fort Loudon, TN\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Fort Prince George\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.2,35.5833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Monroe\",\"city\":\"Fort Loudon\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.2,35.5833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Tennessee\",\"county\":\"Monroe\",\"city\":\"Fort Loudon\"}}"
         ],
         "subject_point_geospatial": [
             "35.5833,-84.2"
@@ -146,7 +150,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:28:39Z",
         "system_modified_dtsi": "2023-09-15T14:48:06Z",
-        "timestamp": "2023-10-03T15:50:16.086Z",
+        "timestamp": "2025-10-31T15:48:05.342Z",
         "title_info_primary_tsi": "SKETCH OF THE CHEROKEE COUNTRY And March of the Troops Under the Command of Luet. Col. Grant to the Middle & Back Settlem:ts. 1761",
         "type_of_resource_ssim": [
             "Cartographic"

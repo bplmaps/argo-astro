@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750046918934528,
+        "_version_": 1847512994856042496,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z3380",
         "extent_tsi": "1 map : manuscript pen and ink with watercolour ; 37 x 33 cm",
         "filenames_ssim": [
-            "k_top_121_22",
-            "commonwealth:hx11z337q_metadata"
+            "commonwealth:hx11z337q_metadata",
+            "k_top_121_22"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z337q",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z337q/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzdGtly2zjyPV+B4ssmVSYpkrJlaWJNOc4xrpGdVOxMkt3a2oJISERMAhyAtMz9+u0GSYnUFcfJHN4XWQLQ94Huhp//fJcm5JYpzaU4sTynZxEmQhlxMT+xPly/to+tn8dPnqcy0iP8IHBe6NFdwsXNiRXneTZy3cVi4SwCR6q56w2HQ9fsWs1Rzbcd9Hs9z/10MbkKY5ZSmwudUxGyBgppdcASGTpzeevihnsbWCumA2cAUJqPtEE1kSHNzcZuaLJlC+lHVMF+fcj8tQN74NzpyBo/IaRSQ87zhJ2LmSSFpnN2YmWKp1SVFom4zhJaTuiUJcvl/9SrBkMHx/hfpySlGZEzMqE3jLxhoBhGZkqm5LVUOfnIk4TTlPzChCpJLsk1D6WImJJz+u/nbgsTMud2uVsxLGjKSF5myCooTQqadJjB/XdU5eOKgQNyfn5+QH4FF0DW3ihGc/JC8ZxyURNZQmzBUlOKaM6ssTcIjm3v2O/tAVSyEqC7cs1UWqPK2V1uEVrksQQuyhML1BoqltBcqtb6h/fnS5vzaGnXW/CHaZGAJdwaRoPz0KRg9wdwZ6m0xmCTlCkiF4KpWp6G01oetyNQS+bvMcZvP8wWRz7YInjstoiEssYvpZB/ghHeyznsH5D3cspU/gDv92xvMDx85BoP86k1PpMiV3xa5N+hd5To7ew907JQIYPkJwodKp7lJ1bJNNAA5ci5olnMwyafdUBWqOaQE1lbLfN0noXfpJCa0AXYSnGa3F8x64BuPk97vSP/yFu/A4BLptC5Lmima4kM539jQTzfPz7aI0hjsx3yAM9zLpobqFnlWhd4v49TCNyuhZdbreMYP+ewzqJWObIIwiifWeSGlS9hv/YZb3B4VGNaQbU8sMtPhT6hYl7A3d0m2aztCz2u5VEwtP3pN5mngbq3WRoAl4m5NX4l5gnXcS1Om82WlG2JKnmyuNQ8pMlLVpkLSqKOhkErOU3eGu2MFZvB5UbzHBRe7zQ67ZxrIQDdMJGPPVPCjFqxTDImCNRSBIpAsuB5TBboX6FMIITJTyQYkDsSBCRMaxI1pra3CAAQLL9gEafXYIsxlFJz5n7J2Lzxmo0j94DP+Wz2PfBfMn8feL23Q/P1RSFzNj4l6Kp4o9OpLHKCPky4JmAAk2LBClDt5TEsoXap3lIP/kMTKAZ1rooQKYCSNZEKikOGmkeUh8YKeQwlJULjgYgBgCyXRwZOk6eRrS6T1im5AikMmxc8gVhDFuf8Fs2bk0QuoBgCt4gBdQxkidcjKZ7DY+z3giYoRJ94rg/UoDbXe4h9RD+hJGHggigBxDh5emq/ebZOikfgK3xWYkWU1KW+RhYRDdJJCswWRmzrjAoK9hHklQhpmqUAan2diYiFUgHiWwYaTjOqNVFSM6ILlcpCoHWmJZybJQwcOmIkKVH1HBkDylCYABpjPygypKnv8StYcg/tq1gutpnZ2NAst4r/PXjOjQbACLTSiPXR2KYqZEhIFfAZEfSsqaQ5HAtBNr1PKxVnRhhFwxvjtSQDID4F51CSRnuAz1CBQN/kAbwEya/Otcwcz/cc/wi9kBLNwW2oIjGIugfVNXY2EQG3jBRdCAK3k1jrnSxEiJyeUchZcl5UzgtkD8g7BTELf18CMJgJvrE8dA4wNtLGYeasuZvAeU3wyKy1AiksYVW0QaRScOmosfOETxWkbiSHuk0wvC/oFwi3sqre6+bOqDHmKmrIT8CmUhwQaJKG9xIe8yhGyBbxD9q9Y+q0+0ZWeQ4c0TFD+UmmQDYNiNCCJoLA2dNC8Cqmfqq1vEpQB0QaazU5wYfIPqwjHmgANxjlI+KRmUMC+OFAnjc/PPyx3TZVYCyvjtSYKoyhDoS/aAEUs/5aH+/aJKrN2WDH5ghuS3JRaFakez0zKzG5rDul72D+uoVAjyr3nCvGhK0zLkBZcMmqCHaTImUOMQljTQQaRdy4CADDTRjypGE8U0xrqN5vIDF9+nTu+lARoFxWx4OX+S5hs9zsU5x1lARAk4RYft+cKbKsyYkOuQbsOA+RTdVWxauEeoPoHDJfw0JXO8hiyRIgt4XqUqwNqfBeB3zWKXTDYAPLIR9uHqRnU1tw9EG/5/WNFA2DTTxh7MBNd92x+dkqDrOI7qKui+kXONWu35JQx18v3Zp9zrRbI9Hd6Y3MeDhGq2nbvmQL8lmCUZ9e5RD1z2y7CUZj1qf4CYtVEsLq2biJbb+iKinJAiBN+HjHvaYxr9Cv6omahz9Psq4Al85nBwq8DTn031+QLdepEedRytG6/x+nFB8Ex9rJhAkEzi9c51KVtv1aQZqMTdI5F6Zc+0jVAd45fdsbHAV/vJj5XOyQ0nRlzhzK0tJhUeGakxtt3JZTrud50MQFHT2s6otOjC0b6eVuCybm0Hir0GS+N2snmjMhlqWq7Gq4xtrsrQFgrYpd16WpVlH3Z/ATWnxSp/UleHOyPeXZx1RNoTXK0evEoU/hAnkc9wPnOAiCA3sQOH3vaLCkujrSpruB9StGfgBHyMnA94b9PukbnoJjgmvBoF46PhwO/B/M5x/tjEe9nu95PetbHQtKd7oli9bSmN1NRyzHEL8Q020H3PC/R+ywfd+468DzHpkX+L2joX84XJ/tgRKFztDImYQeaVfGWr+EfkzWKsevtGZ3/6++skxuAXz7a5KbadjG1SiHZtD23fEUaMP16Y28fu+gt7w6q5MPYsm8FbDoPGfN8DSWOt9881zNhbtPoet1/6rEX3/n3PHS6a6zsY83rt+zGcOyg0UvSouYB+tRrNhsGT/sLsM+25kmTnHjvpj89sEbTa7O3r6zTyeT0YvJpOf1ev3h8WBwOLDcFbF6PgUuVNMqFLfGiFQDVmj+nHqiit22FAtGkzw2L+KwN3IPe8PDoRvfed5/g2DwezNtXCJtzbDr4Vdbxc3ksXkDX1fr2oBy0kLRzJHbSzvpFCrZePymYQjt7Yklq1QGfSJGF07Qv1d6oLZOvCEGLfUtZ4uHk3DzuEingvJkNzFsK8FnOJ/Z0BDzGdPfIZPboOjS26n+StIzSLpV/73uqshDiM/C/JZVDGhDO+EhExoK8mlpi9DW1O07PddqnFIzkxYVg3wQVRPk9WuhxmCNr3GihaU2Dkbq1QjnZgTRFHgdEErOaiYgdA0X5LQeZiPXl1LYuM5UyCELX8U4EzxN+A1OzgxC8vTsjLz4bF+e2Venz5q5zZr0u9Vyf7HMyATak0tJboRcoJtmZTVbVjgd5wZKf5UDhVPiaP2dq1rFt1KI2KvqzfIFZEJg8V0xBeWtheK285vojGqlwFevzfewsQ+1nd0b2kHv2vdHPW/U7/2zi74FvwV7TMWcPRj3EnoTc/1oBBEGPR2EKk6Cow705rNS85D1dlbPCYGd7oWx5aEOuGZ//UMdfOx4pNt4ptuUrn6VWz0ZXdX/j7T+9N86Yo0pDZvX+C2gnYtx5a31En6Mn/wPSasDxg==",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "George, III, King of Great Britain, 1738-1820",
             "George, IV, King of Great Britain, 1762-1830",
@@ -126,20 +129,21 @@
             "Fort Ticonderoga",
             "Fort William Henry",
             "George, Lake",
+            "New York",
             "North and Central America",
             "United States",
             "Warren (county)"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4167,43.8333]},\"properties\":{\"placename\":\"George, Lake\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4167,43.8333]},\"properties\":{\"placename\":\"George, Lake, NY\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-73.721944,43.41638],[-73.37944,43.41638],[-73.37944,43.85972],[-73.721944,43.85972],[-73.721944,43.41638]]]},\"bbox\":[-73.721944,43.41638,-73.37944,43.85972]}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.711,43.42]},\"properties\":{\"placename\":\"Fort William Henry\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3833,43.8333]},\"properties\":{\"placename\":\"Fort Ticonderoga (transport point)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.711,43.42]},\"properties\":{\"placename\":\"Fort William Henry, NY\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3833,43.8333]},\"properties\":{\"placename\":\"Fort Ticonderoga (transport point), NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4167,43.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"George, Lake\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.711,43.42]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Warren\",\"area\":\"Fort William Henry\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3833,43.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Essex\",\"other\":\"Fort Ticonderoga (transport point)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4167,43.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"other\":\"George, Lake\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.711,43.42]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Warren\",\"area\":\"Fort William Henry\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3833,43.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Essex\",\"other\":\"Fort Ticonderoga (transport point)\"}}"
         ],
         "subject_point_geospatial": [
             "43.8333,-73.4167",
@@ -155,7 +159,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:59:17Z",
         "system_modified_dtsi": "2023-09-15T14:48:08Z",
-        "timestamp": "2023-10-03T15:50:35.053Z",
+        "timestamp": "2025-10-31T15:48:12.421Z",
         "title_info_primary_tsi": "[A map of Lake George from Fort William Henry to Ticonderoga]",
         "type_of_resource_ssim": [
             "Cartographic"

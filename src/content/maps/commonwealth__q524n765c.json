@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749820402401280,
+        "_version_": 1847512905066479616,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -10,8 +10,8 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
-            "Maritime Charts and Atlases (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
+            "Maritime Charts and Atlases",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -55,7 +55,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n765c",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n765c/manifest",
@@ -70,7 +73,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 942"
         ],
@@ -111,14 +114,15 @@
         ],
         "subject_geographic_sim": [
             "Boston Harbor",
+            "Massachusetts",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.9667,42.3333]},\"properties\":{\"placename\":\"Boston Harbor\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.9667,42.3333]},\"properties\":{\"placename\":\"Boston Harbor, MA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.9667,42.3333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Boston Harbor\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.9667,42.3333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Massachusetts\",\"other\":\"Boston Harbor\"}}"
         ],
         "subject_point_geospatial": [
             "42.3333,-70.9667"
@@ -132,7 +136,7 @@
         ],
         "system_create_dtsi": "2017-05-25T15:53:54Z",
         "system_modified_dtsi": "2023-09-15T14:47:30Z",
-        "timestamp": "2023-10-03T15:46:59.030Z",
+        "timestamp": "2025-10-31T15:46:46.791Z",
         "title_info_primary_tsi": "Boston Harbor, Massachusetts",
         "type_of_resource_ssim": [
             "Cartographic"

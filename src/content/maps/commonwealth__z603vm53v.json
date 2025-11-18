@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749638631751680,
+        "_version_": 1847512875103420416,
         "admin_set_ark_id_ssi": "commonwealth:mc87pw948",
         "admin_set_name_ssi": "Massachusetts Historical Society Map Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:mc87pw948"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Massachusetts Historical Society Map Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -45,7 +45,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vm53v",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vm53v/manifest",
@@ -61,7 +64,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Evans, Lewis, 1700?-1756",
             "Hebert, L."
@@ -111,17 +114,18 @@
         ],
         "subject_geographic_sim": [
             "Middle Atlantic",
-            "North and Central America"
+            "North and Central America",
+            "United States"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"Middle Atlantic\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"area\":\"Middle Atlantic\"}}"
         ],
         "subject_topic_tsim": [
             "Middle Atlantic States--Maps--Early works to 1800"
         ],
         "system_create_dtsi": "2016-11-20T03:46:11Z",
         "system_modified_dtsi": "2023-09-15T14:47:16Z",
-        "timestamp": "2023-10-03T15:44:05.680Z",
+        "timestamp": "2025-10-31T15:46:18.216Z",
         "title_info_primary_tsi": "A map of Pensilvania, New-Jersey, New-York, and the three Delaware counties",
         "type_of_resource_ssim": [
             "Cartographic"

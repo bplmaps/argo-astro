@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749923222618112,
+        "_version_": 1847512949605793792,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524ng74s",
         "extent_tsi": "1 map : ms. ; 46 x 65 cm.",
         "filenames_ssim": [
-            "lh000368",
-            "commonwealth:q524ng73h_metadata"
+            "commonwealth:q524ng73h_metadata",
+            "lh000368"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524ng73h",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524ng73h/manifest",
@@ -118,7 +121,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:25:18Z",
         "system_modified_dtsi": "2023-09-15T14:47:49Z",
-        "timestamp": "2023-10-03T15:48:37.086Z",
+        "timestamp": "2025-10-31T15:47:29.267Z",
         "title_info_primary_tsi": "Descripcio\u0301n ychonogra\u0301fica de la ciudad, puerto y bahi\u0301a de Santiago de Cuba situado en 20\u20706\u02b9 de latitud norte y en longd. de Thenerife de 300\u207022\u02b9, silla episcopal de dha. Ysla la de Xamayca y la Florida",
         "type_of_resource_ssim": [
             "Cartographic"

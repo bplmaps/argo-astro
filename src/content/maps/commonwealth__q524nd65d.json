@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749891873341440,
+        "_version_": 1847512933374885888,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nd65d",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nd65d/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_tsim": [
             "Manuscript, pen-and-ink and watercolor.",
             "Relief shown by shading and hachures.",
@@ -93,14 +96,15 @@
         "subject_geographic_sim": [
             "Crown Point",
             "Essex (county)",
+            "New York",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4333,43.95]},\"properties\":{\"placename\":\"Crown Point\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4333,43.95]},\"properties\":{\"placename\":\"Crown Point, NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4333,43.95]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Essex\",\"city\":\"Crown Point\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4333,43.95]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Essex\",\"city\":\"Crown Point\"}}"
         ],
         "subject_point_geospatial": [
             "43.95,-73.4333"
@@ -111,7 +115,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:32:54Z",
         "system_modified_dtsi": "2023-09-15T14:47:45Z",
-        "timestamp": "2023-10-03T15:48:07.190Z",
+        "timestamp": "2025-10-31T15:47:13.787Z",
         "title_info_primary_subtitle_tsi": "With the disposition of the English Army under the command of Genl. Amherst encamp'd there 1759",
         "title_info_primary_tsi": "Plan of the fort and fortress at Crown Point with their environs",
         "type_of_resource_ssim": [

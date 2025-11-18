@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749529313509376,
+        "_version_": 1847512836830396416,
         "admin_set_ark_id_ssi": "commonwealth:z603vh48c",
         "admin_set_name_ssi": "Harvard Map Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh48c"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Harvard Map Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vh651",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vh651/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Le Rouge, Georges-Louis",
             "Ebeling, Christophe Daniel, 1741-1817"
@@ -110,13 +113,14 @@
             "Bouill\u00e9, Fran\u00e7ois-Claude-Amour, marquis de, 1739-1800"
         ],
         "subject_geographic_sim": [
-            "Dominica"
+            "Dominica",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-61.3333,15.5]},\"properties\":{\"placename\":\"Dominica\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-61.3333,15.5]},\"properties\":{\"country\":\"Dominica\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-61.3333,15.5]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Dominica\"}}"
         ],
         "subject_name_tsim": [
             "Bouill\u00e9, Fran\u00e7ois-Claude-Amour, marquis de, 1739-1800"
@@ -131,7 +135,7 @@
         ],
         "system_create_dtsi": "2016-11-20T02:05:19Z",
         "system_modified_dtsi": "2023-09-15T14:47:10Z",
-        "timestamp": "2023-10-03T15:42:21.426Z",
+        "timestamp": "2025-10-31T15:45:41.716Z",
         "title_info_primary_subtitle_tsi": "conquise par M. le Mis. de Bouill\u00e9 Marechal des camps et arm\u00e9es du Roi, le 7 Septembre 1778",
         "title_info_primary_tsi": "La Dominique situ\u00e9e entre La Martinique et La Guadeloupe",
         "type_of_resource_ssim": [

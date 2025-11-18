@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749924514463744,
+        "_version_": 1847512949713797120,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524ng82g",
         "extent_tsi": "1 map : ms. ; 72 x 50 cm.",
         "filenames_ssim": [
-            "lh000435",
-            "commonwealth:q524ng816_metadata"
+            "commonwealth:q524ng816_metadata",
+            "lh000435"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524ng816",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524ng816/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzNGNty2zb2PV9xhi9tZ0yRlGzZ0kbsOEqbpmMnmci97c5OBwIhEjEEMABoWTP70tnfy0ftAS8SqYvtNp1uXygKOPf74fOv75cC7pg2XMmJF/VCD5ikKuEynXg/3HzrX3hfx8+eL1Vixu4BCC/N+F5weTvxMmvzcRCsVqveatBTOg2i0WgUlLdeA2r4IcB+GEbBz9dXM5qxJfG5NJZIyhosx6uDJhTtpeoucBfB3cDbCj3onSOW4WNTkrpSlNjy4jg2HLhy/BOi8b4GKn/9gX/euzeJFz8DqMxguRXstVwoKAxJ2cTLNV8SvfYg4SYXZH1F5kxsjn+tT0sKHRrxO0GkgpSpJfv0m9WcKkgYCAKaJATWQIlmkunydEYkfI+GY+gfB0IVCgyKUp6IXo22NvioXl9pIpHI86DFzmkQdFVoabXO2dvFe2ZUoSmDJZGFoZrnduKtmfHiKdFWpZrkGacNlQ7KllTKpGZACpspze164qXLNKfe9uSH96833uHJxgN36Ll5IdBmQc3omlimOREG3U1EwX4/YmDTZRgO+8No1z2pMy0RXnxNclNrVEr+N1Yk6vcvhg8o0vjsiD4oc8pl4/fmNEEWU83wmbRyfzWgiV14cMvWL/GqigL4WBDBF5zpicflgmnNMDOi89GgZtii1Qq3Lt+KK4Z+WmD6tCVpzm6YXoKLroln2b312i7gRg0HI78//11uaLCebP4GITA58eJZTiQ3GfwHYEqM5YITWevWlrmlclu9Srk8WxtOiXjJKh9hiep4AU1kiXhbmirWbKH0kljnk/qmsXAHrkUADcWkjSNM3RzGsDQ9+Aec9+EezkKgy16NX4O1ELnEEJPMXrOEkxu0eox1K2XBh5ylNdI+yBPwLV8sPgf/Q95/CL2+O2LWirRUlsXvmeBsASZTKwnzNb4QF+I9eMlym5nWhSqkuzGNrUr0LrFLCxkjCagFlEV0DO+wzGP+wUt+x7EhffpNPoD+jkkf2wy2u1vAX8gx4bh4AOEaZXJBoCRQoWwGc0JvnfTHUV5LKoqEGXD/HtLlmqQpQhXLOdMoDZ6VNYDLWiz3JtQKLzHYMouBpTHmxtC/OD1Otc5b42gtMdKcpTQzuZKGzzFxLDZCin+sLniiIFcaeRh4wXRKpOWSmRNwvizmGu81dsEfMdIxnSw7QSE//bfshq2Sc1QEinniwiHAZGLYSHG4iK+mcFUY5X+HFRRTmsJPSovkBE4HZ4+Rc6XNi28ybsC9Av42JfCwNUwx/8CobRcvQU32eN1q7jkzQU3EdKcHlXMazwjmBbxibij4wsCXr1BHbPlf+b7raCewbQe+/w3RYg0rpW8NWAXRRRg2Tbyktc2nmuFfp8ZUYUU1vl+L7/tdvSpt/tYabA3tau+fLqtN5RFRy37VS5m16x5LiqCE3GtwB6CCKIyGZxfnHWUybOtE08xVU7R+PYBUEA0MdeVo3Qm9WpP6Zge6zGhsN2+UxtrlKt4U/+K0ApdYNJHTBruB7BLgO8y+aCab8qYSPnhU+ppYa4I1u4IqjZUf09rEUb8XDofnJ/4w6p0PBoONhFuQNt89qo949okSGVSDxTP3hH9R0oNoHEUnwzD8d0O/BPhDkmgmXKF/jQW6rm0ZLhP7+8l2UOyuLVd8jqZeu8o+VTLF6m7wRQhkguV2d+U4snQEu6I8JB8375sanrzARatcMMcZFvYqyg2GuaBUbjJ3FA4vBqOzEXjBli5PMMDK6bUmW2juxQ0+0be9eriiarlUcsWIsFm5rOLdODgLkWDw8ax/KtOLaNjMJhuiDzBCsYjwsX0z7cUiC8Nw23AOERD1Dtt2STPoNPvtQTc0kb8ucw0rZzOWyJ1x6arFoRlZ20dHxSi02Nt7CaXIfOKpqnbh2ODy2U3un2td5LbLvGGWa3bH2eqPswhshqOPJFwcZ+Y6OoYf5wsfN2K+YOYzdAoaEl1+R81faYq+Tbi7OBj11C1b/I5VApiSt+CUSYM9a772JfUNCU57YeA1QW9YGRya5VolRZmzuytlTaEed1wjc+NOfZoA7ibgyOC47CZHmNZCYByWUsCltZrPi1LqN0r67pxpinsszDKCO/Wl4LcMriqC8OV0Ci9+8d9M/dnlV80wtaP9cbM8Xa1yjMUO/kbBrXRDP1X5upptMXvcBxiHZR6VQKO5dbK7R1enUxf50s6qbyIvsLCiiO+KORoP6ozd1L59+H1ypWmVdDv4/nYe98N+5Ie4p45uwsE4PB1Hg392ybfwD1DPcE1lT6Z9ukN7g71Pud5PMcMIrhPoFPR60sHe32CbnfntYkowpxRep93+c+ADAUrN/q8fCJhMvRgfR74H7H0R2Neu/gCwXWBn9afItlpYaWkLxIsJobr5JrCP2umx22itj9wjfvY/XHab8w==",
+        "mods_xml_ss": "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",
         "note_date_tsim": [
             "This date is inferred."
         ],
@@ -104,15 +107,16 @@
             "Manuscript maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "Grenada",
             "North and Central America",
             "Saint George (county)",
             "Saint George's"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-61.7333,12.0667]},\"properties\":{\"placename\":\"Saint George's, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-61.7333,12.0667]},\"properties\":{\"placename\":\"Saint George's, Grenada\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-61.7333,12.0667]},\"properties\":{\"continent\":\"North and Central America\",\"county\":\"Saint George\",\"city\":\"Saint George's\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-61.7333,12.0667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Grenada\",\"county\":\"Saint George\",\"city\":\"Saint George's\"}}"
         ],
         "subject_point_geospatial": [
             "12.0667,-61.7333"
@@ -124,7 +128,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:27:35Z",
         "system_modified_dtsi": "2023-09-15T14:47:49Z",
-        "timestamp": "2023-10-03T15:48:38.319Z",
+        "timestamp": "2025-10-31T15:47:29.370Z",
         "title_info_primary_tsi": "Plano geome\u0301trico de la rada y carenero de San Jorge en la costa occidl. de la ysla de la Granada",
         "type_of_resource_ssim": [
             "Cartographic"

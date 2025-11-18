@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749901420625920,
+        "_version_": 1847512939761762304,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nf322",
         "extent_tsi": "1 manuscript map : hand color 25 x 42 cm.",
         "filenames_ssim": [
-            "ct000324",
-            "commonwealth:q524nf31s_metadata"
+            "commonwealth:q524nf31s_metadata",
+            "ct000324"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nf31s",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nf31s/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzNWFtv2zgWfu+vIPQyu4BlSXZsx0ajQevuzBZI26DJYC8vC5o6ktjIpEpScby/fg4lypZ8a6bFXl4cm+T5zv2W1z8/rwvyBEpzKW68aBh6BASTCRfZjffbwy/+tfdz/Or1WiZ6YT8Ivhd68Vxw8Xjj5caUiyDYbDbDzXgoVRZE8/k8qG+99qnmpx6OwjAK/v7h9p7lsKY+F9pQwaClsrx6ZIVkw0w+BfYieBp7e6HHwxlSab7QNdStZNTUF+epyYkryz+hCu/do/qvP/Znw2edePErQhozGG4KeC9SSSpNM7jxSsXXVG09knBdFnR7S1dQ7I7/5U5rhB5GfFdQQRIgxU/UGPq1AgKm/k0JEmto7rguwJ3+qkBQ+xXImHypeFEgQTSbzV8HHVgradAXdS+9oGsgZltaudGCUtCiJ5m9v6PKxJ/+TYWAAbnjoBQ4wN3tCQqHmlADXhzNxjM/uo7GFwiVbITtnzyAWjsoA8/GI7QyuVTcbG88tCdTUFAjVef8t8/vd87myc6hTxgIq6pAFwSORmPU0KKClxMEyM6LlwrsL6dKK6RTJejp0lG3EzGozaf0M2hZKQZkTUWlmeKlufG2oBEfDSMzRcucs9ZzPZI9VAZCQdck2Tor2R8yhmP0Af2kOC1ebpRDwsBk6zCcjqbRYeijlKBsYH2gpXYa1ZL/HysSjUbX0wuKtD47ow/KnHHR5lp7apOhjh5IOnV1M2aJST3yCNt3eNVEAfla0YKnmG03HhepTbrE5tEuuTtYnUjr8224YlnJKixNXUnas0vpxbWcjuf+aPWH3NBSvdj8LUGQKurFv2BNY7nTpitlR8muQo06Zb7VnNHiHTRewYLfszsaxdDiU22cWEEq1RprLHrB3bQ27b3rAKBpQJg46iQrfi3JguTYJgiThVRkNCHP5GpE2Hro8BxZB4gLDDIB5gMknD6g3WPsChkEX0rIHNHxkxfQG56mP0L/pRxdInd3Z8zsCr800EmMASlB+GgdbOaPA7Kx2VXbaUCsyTJemNZMNWUf5zMUHFKic7kRZLXFL9QmywUKdBraGl264SYnQir8NHKDLZyYHHuk3IDCTple4nrHGRZ2rAHWuRfevResqBLQ2IedIZ6A2Bt9nshlGcMAs3bDnoJJDXbGiW+XxFZGIlPysZb7zRorEaMDbOaT0I9m1/MBGUXh7DvBbyst/b9iJaOCM/I3qYpkQK7G0bfgmt79kHNUFL8S/NuWotN66mr1BZjpFpGC6fzb9aO956ADB6L7E5IsOYubgQft8hazF6cemQ7qecf3rf0GZB99vv8Xqoot2Uj1qDEOSHQdhm0zrbH2Ue0Y/tfV+M9LbTJxRui6/g4zMGY7hKQK6pdHBfvEq2AWhlezWdRTK8c2hbNYbmvDr9DOLv1hjslKGLVtlXdatKfd4ekSmsPqTEj6kI1UWCkwXHUcjYZRNJ0N/Gk0nE6nsx3P/ZMu3yPUb1j6hRJpVAPie/tJGB2SaDEOB+HOr831d8lRj6WQvDfQ9vBcanO8WezHkP7CcctXaOitrTtLKTIFWuMX3CKYLSKHS8SZNSI4FOWSfFx/bitT8hZXpHo1XORYrpqY0xh0BWNil1GzyXQ+uY6uiRfscXmClb6ejRxspbgXt/RUPQ5dI2dyvZZiA7Qweb1m4t0imITzyTz4OhldiXQctQPcHvQCIxSLFr7EhqK8mBn04nh0dQGgcNtn1yVtE20305NuaON+WzdLrBPkHX/ieu+WI5TOeNQ9OitGpYqjjZUyhsxvPNlUEi5wshH1XPij1kVuh8xbZqWCJw6b72cRmLxarwTlxXlmtk9h+HGe+jjC8RT0D+gUtBB9fmfN32iKvk24vTgZ9cyO8jhGNALomnfBGQiNvWS19QXzNQ2uhmHgtUGvoQ4OBaWSSVXn7OHC4hBcE7dtxTZxd5oQnIOJhalEgiFOydIJgXFYS0HeGKP4qqql/iiFb89xjLMT0n1OcWN7U/BHILcNIPnTckne/sP/uPTv3/y5HREOtD9vlperhfN5bjvrR0kehZ0QmSy39SGSaRS5ptLflEChuVVyuKU1p0sb+cLcNxv3WyysKOJdtULjEZexu9p3/P4YrjatFHbDO9794lE4ivwQt6D5QzhajKLFZPLPPnyH/gQ6riEZfDf2jvoY2e1CmGFUEEzVEr2e9KiPt6V2P/uULinmlMTrrN9/TqyfKDX8T9dPEJkX48eZ3fNo+zzWzi2b++Xo3v0T8fCfVp0nXqx2w9AJyl6L3QerO7If8avfAW6SfN8=",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Ozanne, Pierre, 1737-1813"
         ],
@@ -109,13 +112,14 @@
             "Grenada--Maps, Manuscript--Early works to 1800"
         ],
         "subject_geographic_sim": [
-            "Grenada"
+            "Grenada",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-61.6667,12.1167]},\"properties\":{\"placename\":\"Grenada\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-61.6667,12.1167]},\"properties\":{\"country\":\"Grenada\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-61.6667,12.1167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Grenada\"}}"
         ],
         "subject_point_geospatial": [
             "12.1167,-61.6667"
@@ -126,7 +130,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:49:30Z",
         "system_modified_dtsi": "2023-09-15T14:47:43Z",
-        "timestamp": "2023-10-03T15:48:16.295Z",
+        "timestamp": "2025-10-31T15:47:19.879Z",
         "title_info_primary_tsi": "Plan de l'attaque et de la prise de l'isle de la Grenade le 3 juillet 1779",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749778490818560,
+        "_version_": 1847512887123247104,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,13 +37,16 @@
         "exemplary_image_ssi": "commonwealth:z603vj81m",
         "extent_tsi": "1 map ; 70 x 104 cm",
         "filenames_ssim": [
-            "gan00009an011026",
-            "commonwealth:z603vj80b_metadata"
+            "commonwealth:z603vj80b_metadata",
+            "gan00009an011026"
         ],
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vj80b",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vj80b/manifest",
@@ -114,7 +117,7 @@
         ],
         "system_create_dtsi": "2016-11-20T02:36:19Z",
         "system_modified_dtsi": "2023-09-15T14:47:21Z",
-        "timestamp": "2023-10-03T15:46:19.060Z",
+        "timestamp": "2025-10-31T15:46:29.679Z",
         "title_info_primary_tsi": "Port Campbell",
         "type_of_resource_ssim": [
             "Cartographic"

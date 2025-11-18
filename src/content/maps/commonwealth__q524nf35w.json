@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749902171406336,
+        "_version_": 1847512940912050176,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -10,8 +10,8 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
-            "Maritime Charts and Atlases (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
+            "Maritime Charts and Atlases",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -48,14 +48,17 @@
         "exemplary_image_ssi": "commonwealth:q524nf365",
         "extent_tsi": "1 manuscript map : hand color 72 x 50 cm.",
         "filenames_ssim": [
-            "ct000340",
-            "commonwealth:q524nf35w_metadata"
+            "commonwealth:q524nf35w_metadata",
+            "ct000340"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nf35w",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nf35w/manifest",
@@ -70,7 +73,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Campo, Josef del"
         ],
@@ -120,15 +123,16 @@
         "subject_geographic_sim": [
             "Delaware Bay",
             "Delaware River",
-            "North and Central America"
+            "North and Central America",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.2667,41.9333]},\"properties\":{\"placename\":\"Delaware River, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.05]},\"properties\":{\"placename\":\"Delaware Bay, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.2667,41.9333]},\"properties\":{\"placename\":\"Delaware River\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.05]},\"properties\":{\"placename\":\"Delaware Bay\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.2667,41.9333]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Delaware River\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.05]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Delaware Bay\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.2667,41.9333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Delaware River\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.05]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Delaware Bay\"}}"
         ],
         "subject_point_geospatial": [
             "41.9333,-75.2667",
@@ -142,7 +146,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:50:37Z",
         "system_modified_dtsi": "2023-09-15T14:47:43Z",
-        "timestamp": "2023-10-03T15:48:17.011Z",
+        "timestamp": "2025-10-31T15:47:20.976Z",
         "title_info_primary_tsi": "Plano de la Bahia de la Ware y entrada de Filadelfie",
         "type_of_resource_ssim": [
             "Cartographic"

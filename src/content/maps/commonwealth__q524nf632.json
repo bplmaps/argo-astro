@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749906327961600,
+        "_version_": 1847512942030880768,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -46,14 +46,17 @@
         "exemplary_image_ssi": "commonwealth:q524nf64b",
         "extent_tsi": "1 ms. map : col. ; 47 x 20 cm.",
         "filenames_ssim": [
-            "ct000688",
-            "commonwealth:q524nf632_metadata"
+            "commonwealth:q524nf632_metadata",
+            "ct000688"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nf632",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nf632/manifest",
@@ -68,7 +71,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_date_tsim": [
             "This date is inferred."
         ],
@@ -115,17 +118,18 @@
         ],
         "subject_geographic_sim": [
             "De Soto (county)",
+            "Louisiana",
             "North and Central America",
             "Sabine (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-93.7667,32.0667]},\"properties\":{\"placename\":\"United States\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-93.55,31.5667]},\"properties\":{\"placename\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-93.7667,32.0667]},\"properties\":{\"placename\":\"De Soto (county), LA\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-93.55,31.5667]},\"properties\":{\"placename\":\"Sabine (county), LA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-93.7667,32.0667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"De Soto\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-93.55,31.5667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Sabine\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-93.7667,32.0667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Louisiana\",\"county\":\"De Soto\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-93.55,31.5667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Louisiana\",\"county\":\"Sabine\"}}"
         ],
         "subject_point_geospatial": [
             "32.0667,-93.7667",
@@ -139,7 +143,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:56:14Z",
         "system_modified_dtsi": "2023-09-15T14:47:46Z",
-        "timestamp": "2023-10-03T15:48:20.975Z",
+        "timestamp": "2025-10-31T15:47:22.042Z",
         "title_info_primary_tsi": "Map of Las Ormigas Grant, Sabine and DeSoto Parishes, Louisiana",
         "type_of_resource_ssim": [
             "Cartographic"

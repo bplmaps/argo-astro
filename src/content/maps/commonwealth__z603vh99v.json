@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749766479380480,
+        "_version_": 1847512882824085504,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vh99v",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vh99v/manifest",
@@ -60,7 +63,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_date_tsim": [
             "This date is inferred."
         ],
@@ -99,14 +102,15 @@
         ],
         "subject_geographic_sim": [
             "Boston Harbor",
+            "Massachusetts",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.9667,42.3333]},\"properties\":{\"placename\":\"Boston Harbor\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.9667,42.3333]},\"properties\":{\"placename\":\"Boston Harbor, MA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.9667,42.3333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Boston Harbor\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.9667,42.3333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Massachusetts\",\"other\":\"Boston Harbor\"}}"
         ],
         "subject_point_geospatial": [
             "42.3333,-70.9667"
@@ -118,7 +122,7 @@
         ],
         "system_create_dtsi": "2016-11-20T02:19:15Z",
         "system_modified_dtsi": "2023-09-15T14:47:19Z",
-        "timestamp": "2023-10-03T15:46:07.605Z",
+        "timestamp": "2025-10-31T15:46:25.579Z",
         "title_info_primary_tsi": "Plan d'une partie de la rade de Boston pour faire connaitre le dispositif de ses deffenses",
         "type_of_resource_ssim": [
             "Cartographic"

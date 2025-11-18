@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749915260780544,
+        "_version_": 1847512946235670528,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -10,8 +10,8 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
-            "Urban Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
+            "Urban Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -39,14 +39,17 @@
         "exemplary_image_ssi": "commonwealth:q524ng21r",
         "extent_tsi": "1 map : ms., col. ; on sheet 41 x 33 cm.",
         "filenames_ssim": [
-            "ct006729z",
-            "commonwealth:q524ng20g_metadata"
+            "commonwealth:q524ng20g_metadata",
+            "ct006729z"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524ng20g",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524ng20g/manifest",
@@ -61,7 +64,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Dermott, James R. (James Reed)"
         ],
@@ -112,13 +115,14 @@
         "subject_geographic_sim": [
             "Alexandria",
             "North and Central America",
-            "United States"
+            "United States",
+            "Virginia"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.0333,38.8]},\"properties\":{\"placename\":\"Alexandria\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.0333,38.8]},\"properties\":{\"placename\":\"Alexandria, VA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.0333,38.8]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"city\":\"Alexandria\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.0333,38.8]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\",\"city\":\"Alexandria\"}}"
         ],
         "subject_point_geospatial": [
             "38.8,-77.0333"
@@ -128,7 +132,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:13:04Z",
         "system_modified_dtsi": "2023-09-15T14:47:48Z",
-        "timestamp": "2023-10-03T15:48:29.494Z",
+        "timestamp": "2025-10-31T15:47:26.053Z",
         "title_info_primary_tsi": "Map of Alexandria, Virginia",
         "type_of_resource_ssim": [
             "Cartographic"

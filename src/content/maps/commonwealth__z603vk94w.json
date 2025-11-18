@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1798517152873971712,
+        "_version_": 1847512898567405568,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,13 +37,16 @@
         "exemplary_image_ssi": "commonwealth:8w32rb98w",
         "extent_tsi": "1 map ; 80 x 117 cm.",
         "filenames_ssim": [
-            "gan00004an031007",
-            "commonwealth:z603vk94w_metadata"
+            "commonwealth:z603vk94w_metadata",
+            "gan00004an031007"
         ],
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vk94w",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vk94w/manifest",
@@ -126,7 +129,7 @@
         ],
         "system_create_dtsi": "2016-11-21T15:34:28Z",
         "system_modified_dtsi": "2023-11-04T20:57:58Z",
-        "timestamp": "2024-05-08T20:20:16.305Z",
+        "timestamp": "2025-10-31T15:46:40.593Z",
         "title_info_primary_tsi": "The coast of Nova Scotia, New England, New-York, Jersey, the Gulph and River of St. Lawrence : the islands of Newfoundland, Cape Breton, St. John, Antecosty, Sable, &c, and soundings thereof ...",
         "type_of_resource_ssim": [
             "Cartographic"

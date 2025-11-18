@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750028196610048,
+        "_version_": 1847512987566342144,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -47,7 +47,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z233d",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z233d/manifest",
@@ -60,7 +63,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
             "Royal United Services Institute for Defence and Security Studies"
@@ -119,16 +122,17 @@
         ],
         "subject_geographic_sim": [
             "Escambia (county)",
+            "Florida",
             "North and Central America",
             "Pensacola",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-87.2167,30.4167]},\"properties\":{\"placename\":\"Pensacola\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-87.2167,30.4167]},\"properties\":{\"placename\":\"Pensacola, FL\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-87.215278,30.406111],[-87.207778,30.406111],[-87.207778,30.410556],[-87.215278,30.410556],[-87.215278,30.406111]]]},\"bbox\":[-87.215278,30.406111,-87.207778,30.410556]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-87.2167,30.4167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Escambia\",\"city\":\"Pensacola\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-87.2167,30.4167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Florida\",\"county\":\"Escambia\",\"city\":\"Pensacola\"}}"
         ],
         "subject_point_geospatial": [
             "30.4167,-87.2167"
@@ -140,7 +144,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:29:58Z",
         "system_modified_dtsi": "2023-09-15T14:48:06Z",
-        "timestamp": "2023-10-03T15:50:17.197Z",
+        "timestamp": "2025-10-31T15:48:05.468Z",
         "title_info_primary_tsi": "PLAN of the FORT at PENSACOLA",
         "type_of_resource_ssim": [
             "Cartographic"

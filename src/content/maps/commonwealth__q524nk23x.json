@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749959655391232,
+        "_version_": 1847512964752474112,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nk23x",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nk23x/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Desandrou\u0308ins, Jean Nicolas, 1729-1792"
         ],
@@ -112,13 +115,14 @@
         "subject_geographic_sim": [
             "North and Central America",
             "United States",
+            "Virginia",
             "Williamsburg"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.7,37.2667]},\"properties\":{\"placename\":\"Williamsburg\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.7,37.2667]},\"properties\":{\"placename\":\"Williamsburg, VA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.7,37.2667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"city\":\"Williamsburg\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.7,37.2667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\",\"city\":\"Williamsburg\"}}"
         ],
         "subject_point_geospatial": [
             "37.2667,-76.7"
@@ -128,7 +132,7 @@
         ],
         "system_create_dtsi": "2017-05-26T15:19:01Z",
         "system_modified_dtsi": "2023-09-15T14:47:55Z",
-        "timestamp": "2023-10-03T15:49:11.832Z",
+        "timestamp": "2025-10-31T15:47:43.712Z",
         "title_info_primary_subtitle_tsi": "Carte des environs de Williamsburg en Virginie ou\u0300 les arme\u0301es franc\u0327oise et ame\u0301ricaine ont campe\u0301s en Septembre 1781",
         "title_info_primary_tsi": "Arme\u0301e de Rochambeau, 1782",
         "type_of_resource_ssim": [

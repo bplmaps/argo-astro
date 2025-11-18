@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778757931214307328,
+        "_version_": 1847513159511834624,
         "admin_set_ark_id_ssi": "commonwealth:mw22z436x",
         "admin_set_name_ssi": "Library and Archives Canada Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:mw22z436x"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library and Archives Canada Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -45,7 +45,10 @@
         "genre_specific_ssim": [
             "Manuscript maps"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:tt44sn62b",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/tt44sn62b/manifest",
@@ -62,7 +65,7 @@
             "English"
         ],
         "license_ss": "Contact host institution for more information.",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Hamilton, John, active 1753-1777",
             "Dixon, Mathew"
@@ -107,15 +110,16 @@
             "Annapolis Royal",
             "Canada",
             "Fort Anne National Historic Park",
-            "North and Central America"
+            "North and Central America",
+            "Nova Scotia"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.5333,44.7333]},\"properties\":{\"placename\":\"Annapolis Royal\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.4333,44.7333]},\"properties\":{\"placename\":\"Fort Anne National Historic Park (historical park)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.5333,44.7333]},\"properties\":{\"placename\":\"Annapolis Royal, Nova Scotia\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.4333,44.7333]},\"properties\":{\"placename\":\"Fort Anne National Historic Park (historical park), Nova Scotia\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.5333,44.7333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"city\":\"Annapolis Royal\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.4333,44.7333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"other\":\"Fort Anne National Historic Park (historical park)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.5333,44.7333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Nova Scotia\",\"city\":\"Annapolis Royal\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.4333,44.7333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Nova Scotia\",\"other\":\"Fort Anne National Historic Park (historical park)\"}}"
         ],
         "subject_point_geospatial": [
             "44.7333,-65.5333",
@@ -128,7 +132,7 @@
         ],
         "system_create_dtsi": "2023-03-29T18:25:06Z",
         "system_modified_dtsi": "2023-03-29T20:12:21Z",
-        "timestamp": "2023-10-03T17:55:54.103Z",
+        "timestamp": "2025-10-31T15:50:49.449Z",
         "title_info_primary_tsi": "A general plan of Annapolis Royal",
         "type_of_resource_ssim": [
             "Cartographic"

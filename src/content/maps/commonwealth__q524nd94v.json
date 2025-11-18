@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749895802355712,
+        "_version_": 1847512934592282624,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nd94v",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nd94v/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_tsim": [
             "Title from manuscript catalog of Peter Force map collection.",
             "Manuscript, pen-and-ink and watercolor.",
@@ -98,15 +101,16 @@
         "subject_geographic_sim": [
             "Monongahela River",
             "North and Central America",
-            "Pennsylvania"
+            "Pennsylvania",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.1667,39.4667]},\"properties\":{\"placename\":\"Monongahela River, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"placename\":\"Pennsylvania, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.1667,39.4667]},\"properties\":{\"placename\":\"Monongahela River\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"placename\":\"Pennsylvania\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.1667,39.4667]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Monongahela River\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Pennsylvania\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.1667,39.4667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Monongahela River\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\"}}"
         ],
         "subject_point_geospatial": [
             "39.4667,-80.1667",
@@ -118,7 +122,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:41:31Z",
         "system_modified_dtsi": "2023-09-15T14:47:46Z",
-        "timestamp": "2023-10-03T15:48:10.937Z",
+        "timestamp": "2025-10-31T15:47:14.949Z",
         "title_info_alternative_tsim": [
             "Braddock's rout, 1755"
         ],

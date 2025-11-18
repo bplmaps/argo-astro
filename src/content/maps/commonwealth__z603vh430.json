@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749539131326464,
+        "_version_": 1847512840829665280,
         "admin_set_ark_id_ssi": "commonwealth:4t64hr20k",
         "admin_set_name_ssi": "Boston Athenaeum, Cartographic Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:4t64hr20k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Boston Athenaeum, Cartographic Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vh430",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vh430/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Rocque, John, -1762",
             "Halifax, George Montagu-Dunk, Earl of, 1716-1771"
@@ -119,16 +122,17 @@
             "Canada",
             "Halifax",
             "Halifax Harbour",
-            "North and Central America"
+            "North and Central America",
+            "Nova Scotia"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-63.55,44.6167]},\"properties\":{\"placename\":\"Halifax Harbour (harbor)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-63.55,44.6167]},\"properties\":{\"placename\":\"Halifax Harbour (harbor), Nova Scotia\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-63.66551,44.71548]},\"properties\":{\"placename\":\"Bedford Bay\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-63.5833,44.6333]},\"properties\":{\"placename\":\"Halifax\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-63.5833,44.6333]},\"properties\":{\"placename\":\"Halifax, Nova Scotia\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-63.55,44.6167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"other\":\"Halifax Harbour (harbor)\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-63.5833,44.6333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"city\":\"Halifax\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-63.55,44.6167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Nova Scotia\",\"other\":\"Halifax Harbour (harbor)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-63.5833,44.6333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Nova Scotia\",\"city\":\"Halifax\"}}"
         ],
         "subject_point_geospatial": [
             "44.6167,-63.55",
@@ -144,7 +148,7 @@
         ],
         "system_create_dtsi": "2016-11-22T20:52:23Z",
         "system_modified_dtsi": "2023-09-15T14:47:10Z",
-        "timestamp": "2023-10-03T15:42:30.789Z",
+        "timestamp": "2025-10-31T15:45:45.530Z",
         "title_info_primary_tsi": "Carte du havre de Chibucto avec le plan de la ville de Halifax sur la coste de l'Accadia ou Nova Scotia latitude 44\u00b0 31\u02b9",
         "type_of_resource_ssim": [
             "Cartographic"

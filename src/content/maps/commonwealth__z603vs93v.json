@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750175895879680,
+        "_version_": 1847513031831977984,
         "abstract_tsi": "The map displayed here is an unrecorded version of a German broadside known only at the Library of Congress. This state is unique in that it was sold by a different person, and there are differences in the text portion of the broadside. It is a variant state of LC Maps of North America, 1750-1789, 142.",
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
@@ -10,7 +10,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vs93v",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vs93v/manifest",
@@ -60,7 +63,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Pingeling, T. A. (Thomas Albrecht), 1727-1803",
             "Ritter, F. C."
@@ -115,14 +118,15 @@
             "North America--History--Revolution, 1775-1783--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
-            "North America"
+            "North America",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-93.0,28.0],[-51.0,28.0],[-51.0,52.0],[-93.0,52.0],[-93.0,28.0]]]},\"bbox\":[-93.0,28.0,-51.0,52.0]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"area\":\"North America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"North America\"}}"
         ],
         "subject_point_geospatial": [
             "58.166,-104.466"
@@ -132,7 +136,7 @@
         ],
         "system_create_dtsi": "2016-11-20T06:00:21Z",
         "system_modified_dtsi": "2023-09-15T14:48:23Z",
-        "timestamp": "2023-10-03T15:52:38.054Z",
+        "timestamp": "2025-10-31T15:48:47.684Z",
         "title_info_primary_tsi": "Allgemeine charte von Nord America als den sitz des krieges zwischen den Konigl. Engl. truppen u:den provinzialen",
         "type_of_resource_ssim": [
             "Cartographic"

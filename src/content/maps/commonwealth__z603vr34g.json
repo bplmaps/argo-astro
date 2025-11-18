@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750136929746944,
+        "_version_": 1847513020622700544,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vr34g",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vr34g/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJzdWVtz2zYWfs+vwPBl0xnzIsmSJW3MjqNuWs/YTtZyutvd2clA4BGJmAJYAJSsvu3/64/qAUVSpCSrzm0z2QdLNnAu37ngAOf4xfcPi5QsQWkuxbnT8QKHgGAy4iI+d97evXKHzvfhsxcLGemx/SBIL/T4IeXi/txJjMnGvr9arbxVz5Mq9juj0cgvdp2KVPNDhN0g6Pj/vL6asgQW1OVCGyoYVFxWV4stlcyL5dK3G/6y52xB97wz5NJ8rAtRV5JRU2w8zk0ObFn9EVW4XxIV327PPfMedOSEzwjZuMFwk8KlmEuSaxrDuZMpvqBq7ZCI6yyl6ys6g7RefleuFhJaMsIrms/nJAJN5mmuNX5PjUdwVYEwv3GylIL8PYcZMDLjmlCBtIJMAchrYaji8oXfkNYQr/PZXbHW9cgspZEpCet1a4zftmZroKALIGadWdPQyVLQtAXe7r+hyoQ/AUdAJ2SSKK4NR3yvFIdIcZYU2CNQpZaapSFGyQp0c+UO1KJUbuDBOITmJpGKm/W5g+5kClJqpGqsv729rGPNozqeS8yDWZ5iBPySR2PS0DSHpzP4qM4JJwrsX6UpFcjSFL9lS8PcRsKgNa/nt6BlrhiEE/SDjBXNEs6qILQpas4YhIKmB+JFnLEPsr1UdE0NKE7Tp/tgl9E38SIIBt1BZzfRESUomyPXNNOlRQXyrSEINuaiSrNqFWWwnRQolnZzILzIYz3LVVwKr4laMWhIK2Xls5TrBFR4JEHJJokrGTVLQw7XOre1KVxIsRO4eqtBHqHHLnEdokYpXfVYZOYOuYf1D7h/7qwBQ/FrTlM+56DOHZplSj5gxTCYcZ2zQVBq2Epr5FfbnRu1KRVxjvWoCaVaO3aouJaD3sjtzj4orSquJ6dTxeBHkDvhjwiIVk5vomwY2TSoDGiy1pzR9AfQTPHMVvmW49EphqavC+eECuYSlRiDcSh3Kpe26BoC0DVYeMMOWdCMjEmCFwJhMvXIX0lnSB5Id0DYwiullMTNPBF4VASYa4g4vUNvhxjOGPz3GVSZu0/yBH7D5/NP4X+fdY+xV6l/2LllyZcGwltIOcyJTuRKkIwzrIlYGNJ15ZGCqM3ySsnFzkn7iyYXCywpjApub2ySq19zSFM4IuZSkDzDu4hgyBIzJp3+ceJNeh2mwTvwPTDTPAIp08mfZ3+1z0H7pRDdvtQlOiWcUvQyXuIrvMQZkFuODxXXtaXRdf9GVbomK6nuNTESkyqojvmGdxuNUsH/DvYNrMgvCIw8nxosOd99A5DLR9A3gBQfcb//1z7jnr9RcskxL76Qf00sHgFdlGIvBmPWHkS5X1Du1e4DVP5Z0Ol1uv2WWTFUF+HBfK8fATVVgzfB+w4fcoktNj/uUFQ0TArDha2vN1KZhNhKPME/8ZlRVY9Sx5ay+RY4pqPU0HiF6V3lUuGtjadAh6cjr3/iDvq1tu1WU9+etK8es+CsPxg6H+73HJ28Dt8Kbu/NohTo2vbN3ucJVO0Qq6KuPpXbisUvE9DeiXv2DYazPwxOPzicWVltwk0XWd301erB0E+ooBH9IjH/3LHsn2Isu99cLLvBcHj2WDktL7UTrKj38H9UR3veYDDAcA0/c7g+Aos77HoBQUQBwfSxvw694OvA0uhXCKf2k/ybUY90xr2TIAjsz38qFQXNR4Ep5hgQXRqo2r9EarM/ido25u0B1S02ylRF5CePvFT21X8LS5nmtjfAno78gyqCrxgykfh8Z3aVUEOubc0gP2OjIasOrzmgOjR28nfRHjOB61uYQ/HaiF6uHVJMG8cJ9nv1uWMU+zsZewsLZVkgKYaOZefnsxqwn3UGw+7ILpx28WXndwfB7nzj+uerC6KAYWY4/haZbWZM0b2XwHLFndAi0AiBqnuvVMfkYiHFCmhqkgIG7o39fjDqj/zfBkFvqXqndYNYCz2iCF+fNHWlSUA5YTB4F3TeBSjtNDgiJC3Hoq0BSdnyVSNTbMsRHmBcdcJFbKRt1g6Ec4+v0bQ3lx5VnKt0b3hKGQOtzx25qcJcEFuSivHPJ/oUte0qr5RlCpYcVh+vwjdJvpgJytPHldn+E9OW87mLXSmfg/4Em/xKRFvfo+7fWDqRIuLFAd09LRYDswNOfLdvAOhCd8oZCI1tzWztCuZq6p96ge9Uqa6huEsU4GMiyoujtHtsSglOeJdwXXQ4BL/L1YjMpSJWTC7sbICSSQkCq0mBglwYo/isKDbkRgrXroNiHK+uKVYlIBcpvwdytRFInk8m5OUv7s3EnV58V7X+O9Y/7panm1WMILDJu5HkXtiayGS2LhaRTSPkgkv/KYJNQdkdiW5WJzbzhZluxsEvsWYjxDd2NsnQ3hleyeu6Zu7T74srXCuFnTzuzyTDbtDtuMHI7QV33d64czruD//VFt/gPyA9oSKGx2X33KDndoK7zmjcPR0HnR3ZNfe+5HJChyeMCoJHNcOoRy3u/RleNTV8PZ9sLgGE077aDgxFETV81aEoiNgJ8eORiejeTHTfunIEuh3eTcv/Z+3+A6VB4oSUsqpZP8Daupu32Vou2Y/w2R8eC7Oz",
         "name_facet_ssim": [
             "Heiden, Christian Friedrich von der"
         ],
@@ -111,28 +114,27 @@
             "Ontario--Maps--Early works to 1800",
             "Que\u0301bec (Province)--Maps--Early works to 1800"
         ],
-        "subject_geo_other_ssm": [
-            "Saint Lawrence River",
-            "Ontario, Lake"
-        ],
         "subject_geographic_sim": [
             "Canada",
             "New York",
             "North and Central America",
             "Ontario, Lake",
             "Quebec",
-            "Saint Lawrence River"
+            "Saint Lawrence River",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.0,49.5]},\"properties\":{\"placename\":\"Saint Lawrence River\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"placename\":\"New York, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.0,49.5]},\"properties\":{\"placename\":\"Saint Lawrence River, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"placename\":\"New York\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.0,54.0]},\"properties\":{\"placename\":\"Quebec\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.0,43.666]},\"properties\":{\"placename\":\"Ontario, Lake\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.0,43.666]},\"properties\":{\"placename\":\"Ontario, Lake, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-82.0,43.0],[-72.0,43.0],[-72.0,48.0],[-82.0,48.0],[-82.0,43.0]]]},\"bbox\":[-82.0,43.0,-72.0,48.0]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"New York\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.0,54.0]},\"properties\":{\"country\":\"Canada\",\"province\":\"Quebec\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.0,49.5]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Saint Lawrence River\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.0,54.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Quebec\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.0,43.666]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Ontario, Lake\"}}"
         ],
         "subject_point_geospatial": [
             "49.5,-65",
@@ -148,7 +150,7 @@
         ],
         "system_create_dtsi": "2016-11-20T05:04:48Z",
         "system_modified_dtsi": "2023-09-15T14:48:19Z",
-        "timestamp": "2023-10-03T15:52:00.894Z",
+        "timestamp": "2025-10-31T15:48:36.993Z",
         "title_info_primary_subtitle_tsi": "2. bladt",
         "title_info_primary_tsi": "Lauff des flusses St. Laurentzi von Quebec bis an den See Ontario",
         "type_of_resource_ssim": [

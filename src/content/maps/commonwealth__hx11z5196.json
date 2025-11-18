@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750091588272128,
+        "_version_": 1847513011404668928,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z520z",
         "extent_tsi": "1 map : manuscript pen and ink ; 44 x 56 cm",
         "filenames_ssim": [
-            "k_top_119_92",
-            "commonwealth:hx11z5196_metadata"
+            "commonwealth:hx11z5196_metadata",
+            "k_top_119_92"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z5196",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z5196/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Bastide, John Henry, approximately 1700-1770",
             "George, III, King of Great Britain, 1738-1820",
@@ -122,14 +125,15 @@
         "subject_geographic_sim": [
             "Canada",
             "Louisbourg",
-            "North and Central America"
+            "North and Central America",
+            "Nova Scotia"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-59.9667,45.9333]},\"properties\":{\"placename\":\"Louisbourg\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-59.9667,45.9333]},\"properties\":{\"placename\":\"Louisbourg, Nova Scotia\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-59.988055,45.88861],[-59.97222,45.88861],[-59.97222,45.89611],[-59.988055,45.89611],[-59.988055,45.88861]]]},\"bbox\":[-59.988055,45.88861,-59.97222,45.89611]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-59.9667,45.9333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"city\":\"Louisbourg\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-59.9667,45.9333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Nova Scotia\",\"city\":\"Louisbourg\"}}"
         ],
         "subject_point_geospatial": [
             "45.9333,-59.9667"
@@ -140,7 +144,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:44:24Z",
         "system_modified_dtsi": "2023-09-15T14:48:14Z",
-        "timestamp": "2023-10-03T15:51:17.652Z",
+        "timestamp": "2025-10-31T15:48:28.202Z",
         "title_info_primary_tsi": "Plan of the City and Fortress of LOUISBOURG Surrendered to his Britanick Majesty by Capitulation the 17 June 1745. to Lieut. Genl. Pepperel and Commodore Warren after 55 Days Blockade and 42 days open Trenches",
         "type_of_resource_ssim": [
             "Cartographic"

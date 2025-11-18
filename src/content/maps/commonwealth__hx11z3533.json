@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750050035302400,
+        "_version_": 1847512996052467712,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z354c",
         "extent_tsi": "1 map : manuscript pen and ink with watercolour ; 50 x 72 cm",
         "filenames_ssim": [
-            "k_top_121_32",
-            "commonwealth:hx11z3533_metadata"
+            "commonwealth:hx11z3533_metadata",
+            "k_top_121_32"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z3533",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z3533/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "George, III, King of Great Britain, 1738-1820",
             "George, IV, King of Great Britain, 1762-1830"
@@ -113,17 +116,18 @@
         ],
         "subject_geographic_sim": [
             "Hudson River",
+            "New York",
             "North and Central America",
             "Oneida (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-73.586944,43.15527],[-73.57638,43.15527],[-73.57638,43.16583],[-73.586944,43.16583],[-73.586944,43.15527]]]},\"bbox\":[-73.586944,43.15527,-73.57638,43.16583]}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.4667,43.2]},\"properties\":{\"placename\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.4667,43.2]},\"properties\":{\"placename\":\"Oneida (county), NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Hudson River\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.4667,43.2]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Oneida\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Hudson River\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.4667,43.2]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Oneida\"}}"
         ],
         "subject_point_geospatial": [
             "43.2,-75.4667"
@@ -136,7 +140,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:04:09Z",
         "system_modified_dtsi": "2023-09-15T14:48:08Z",
-        "timestamp": "2023-10-03T15:50:38.025Z",
+        "timestamp": "2025-10-31T15:48:13.562Z",
         "title_info_primary_tsi": "PLAN of the Great Falls on Hudsons River",
         "type_of_resource_ssim": [
             "Cartographic"

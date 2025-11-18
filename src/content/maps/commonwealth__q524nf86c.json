@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749909584838656,
+        "_version_": 1847512943191654400,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nf87n",
         "extent_tsi": "1 ms. map : col., silk ; on sheet 61 x 122 cm.",
         "filenames_ssim": [
-            "ct002019",
-            "commonwealth:q524nf86c_metadata"
+            "commonwealth:q524nf86c_metadata",
+            "ct002019"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nf86c",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nf86c/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Hawk, James, (Cartographer)"
         ],
@@ -107,14 +110,15 @@
             "Havana (Cuba)--History--Siege, 1762--Maps, Manuscript--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "Cuba",
             "Havana",
             "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.35,23.1167]},\"properties\":{\"placename\":\"Havana, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.35,23.1167]},\"properties\":{\"placename\":\"Havana, Cuba\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.35,23.1167]},\"properties\":{\"continent\":\"North and Central America\",\"province\":\"Havana\",\"city\":\"Havana\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.35,23.1167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Cuba\",\"province\":\"Havana\",\"city\":\"Havana\"}}"
         ],
         "subject_point_geospatial": [
             "23.1167,-82.35"
@@ -124,7 +128,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:02:23Z",
         "system_modified_dtsi": "2023-09-15T14:47:44Z",
-        "timestamp": "2023-10-03T15:48:24.081Z",
+        "timestamp": "2025-10-31T15:47:23.150Z",
         "title_info_primary_tsi": "Plan of the siege of the Havana surrenderid [sic] Aug. 12, 1762 to the English commanded by the Earl of Albemarle General and Sir George Pococke K.B. Admiral",
         "type_of_resource_ssim": [
             "Cartographic"

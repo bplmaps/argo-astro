@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1804926055391166464,
+        "_version_": 1847512950871425024,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -46,14 +46,17 @@
         "exemplary_image_ssi": "commonwealth:q524ng98c",
         "extent_tsi": "1 manuscript map : hand color 25 x 61 cm. on sheet 50 x 66 cm.",
         "filenames_ssim": [
-            "lh000753",
-            "commonwealth:q524ng973_metadata"
+            "commonwealth:q524ng973_metadata",
+            "lh000753"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524ng973",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524ng973/manifest",
@@ -123,7 +126,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:31:39Z",
         "system_modified_dtsi": "2023-09-15T14:47:50Z",
-        "timestamp": "2024-07-18T14:07:02.039Z",
+        "timestamp": "2025-10-31T15:47:30.474Z",
         "title_info_primary_tsi": "A Plan of the island of Porto Rico",
         "type_of_resource_ssim": [
             "Cartographic"

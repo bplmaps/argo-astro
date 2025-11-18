@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750148547969024,
+        "_version_": 1847513023844974592,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vr63x",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vr63x/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzdWW1v2zgS/t5fQejDbReI3uzEjr2NFqm33aabpEWSbvfucChoiZbYUKRAUna8v/6GNGVLtpOm7aFF74tjk5z34czDybNf70qG5kQqKviJFweRhwhPRUZ5fuK9u3npH3u/Jk+elSJTY/OB4DxX4ztG+e2JV2hdjcNwsVgEi34gZB7Go9EotLtec1TRfQd7URSHf12cX6cFKbFPudKYp6ShMrI6ZEykQS7modkI531vo3Q/GAKVomNlWZ2LFGu7cT812rNl5GdYwr47ZP/6fX8Y3KnMS54gtHKDppqRMz4TqFY4JydeJWmJ5dJDGVUVw8tzPCVsvfzBrVoOHR7J9S3RaYHEDOmCoEooahRvfj+X8FMVaCZkShTCGr1g9G/grQt0IxYcvRWUa4RnmkhDQCWSRNeSo5kUJZoIzkmqaVpr9BLL8gBRvpIjxZyCq42cF1hp9Bo8SZbPwpZmLVVVPb2xazXPVoJQKsoSnGUYFFQhcpcSxpYBOie01jpAvxPOAvQHX1YFrhXhB0isRB+D6q9rTlA8PI6cwDV/4+Cw6+GN0zkuCdLLyrgb1BUcs45Dzf5bLHXyijKmDtBrUYBYVcs5WQrp+K4PtQilaMxtr9wQWTpxmtxpD+FaFwICsjzxIKipJAxrIVvr767O1hlHs3VWzSEbpzWDPAgdjYLUxawmjycIQZyXTCQxv5wpjZLOlLBjS8vchz3YNovj2afNafYpUaFh+Aljdo6H/DiKjqL+INofvZc4M+nyHoJIcflA2Jo1Z1GGNbgoHh6O/Pi4P/jB411NIbnf1lMG1598ecSNPW9mV0SJGipIMgFPiFziqqBpc9G6J9aUOeGStH2Ql3mVfpb1TtAFBEZSzB7vhW3CUOdlFA16g3i7wIKWRJo6cIEr5Syymm8MAWVzyptS0qwCj3QrCezSdhYk54JngjvW6yOdCLR4OU5N3BKTxWWAbE43p9ebLQqqVG16X1IKvhWg9VbruMn1M1gnWatVL/pppuEC35Llb7B/4i3hbsKFOD50nDZUrXzpumfFnmGe19DX2iKbtYeuCVVi0B/5velnpUlD9ej0aAhCwnMvecFz409nTlvNlpVti1yMiqWiKWa/EZVKWpmu2/EweEVj9sZ6J5EEOnCJtQaHu53Gp51zLQbgG8J1EqMSV2gM/RLa4S9oEKM7dBSjtAwcA3eunQsc0p4TfUEyim/A0wmAiJyEHyuSNzmxc+QR9JrOZl9D/7HqPUTepPd+v7qSLTRJwFdgMXhyQQELcCHhUwsLDuoK+hICXxa68Y8l6TK4IoySGVKFQUDTJXzB5gY8QHENR5VBUeADusKGABCmkma5xUBTgTUsGEDTQDBl1inP6JxmNWZrKFZzqhXKagkSN5DLNGZjxLWGO8bRmYKEyx5Q6AZPmZUMmUUk3GFAdxaUZfBlVoNLwA+Ur7IOtLmflbuLygguwa8rpqoCC+iUMriBXgI+MmAIOWAE3qsBovX6WYCuSA5f/4HL6heElYLvcKnkfnEA0z4CnGzfeJaq4vMgg2OiulhYVDRNXrbj4/uXZOFwqe+b8u77L7BkS7QQ8lYZZ8cAJJouZhlsstBJ+Xa6b3D508vgdfCz77+iCjo56B4byJtCaGr5g1tyReaC1SY6BwDfh0c+NJf+D2DSdWVu64wSlqGn77h5YE1EzfXyAH37YOmc32OYbXFBTrReBiSrQ3typyfuOQUv6cGg1z/qmF5QQEYyLUwx/p00oKILeVLrhcS6xJnglnaPSXvO1G1b5FT7vNwh4Jpy09cubXk3hXUCPwGqodMSQF2K1+TNyS4DcE07bM1p2qjmFh4y0nFqQV61raWQ0DiMMclhFAzjwfDAHx4G/bVum/220B2W3zn6wyge9KL4/yz66zr0LWI/OLKR7/2PI/+FygC6HfVWCsURRPf7aKXArwCdzCf6d4oDFI/j/kEURf9p+NsDX6SJfeeS7AwwiwMwhVB6dz62ebZ1x2ZXNC2wzNCrAICZgYGb1gQvBPQeSwS1G6o8Y2YABgUf8NmFSVb0J0DXdb63R137Bk/htrYPmUDVVYPmsudLD9kZ6LgAiLe+voBtMBN5UBpV5lYTOwp1z4gwXSscVvHguDcyC4c96HlhfDzcfv1e/Hl+CmAvhbTwwo1mACK5AVJmVGcVA7DqJUYDBSpgeRs4cWaIJ/iCYKYLqwbsjcOjaHQ0Cv8eRP25HPTvGsy/ZvqAIOjLmPnCoFcviQYfovhDFB3Hh8MHmDA3rO08oN0johnkJnC/JUD191gV0BK04D+pfeHcoWu9ANtL9wquJdsZ6eIU0Lk68cSqmFOOTNmyw4Gv9ClI2xbeCKskmVOy+HIRoS7qcsoxZfcLM/Ae0pbSmV9iTmdEfYVNYcOiK+9e968snQh4YtkLun1bjA6peVfROVkpoKxsRgGeKQB806XPU1/h8DCIQq9JdUVsv5EEnlNZba/S9rVxHLzkxoyuDa5D8NetZuaZiAyb1bAbo4lTAqqJ1QKdai3p1BYbdAkvFbNOZEqhvV1DVSLolNFbgs5XDNHTyQQ9/6d/OfGvT39uXlZb1t/vlsebZZ/NAH8vBbrlpiamolraRfMgBJUtlfqkBquCsj0wW61OTOZzfb0aFj6Hmg0q2jFlCvZOoR8v1zVz9/wuO+tawc28aneSlfSiXuxHI78f3fT64148Pjr6V5d9i34P9wLznNzPu+9HfT+ObuLRuHc4jnpbvNfUu5zduAduGObwbicVRD3rUO8OhJoR1JvZZNUEQJ1ua9szYgOtyfcfscHHPeO1nQHbrnVunrYZB127/7JtD9hbR7wE47SZeu8h7fTmTba6JfORPPkv+Z7sFA==",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Hills, John, surveyor",
             "Faden, William, 1749-1836"
@@ -114,19 +117,20 @@
         ],
         "subject_geographic_sim": [
             "Elizabeth",
+            "New Jersey",
             "North and Central America",
             "Springfield",
             "Union (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.3,40.7167]},\"properties\":{\"placename\":\"Springfield\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.2,40.65]},\"properties\":{\"placename\":\"Elizabeth\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.3,40.7167]},\"properties\":{\"placename\":\"Springfield, NJ\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.2,40.65]},\"properties\":{\"placename\":\"Elizabeth, NJ\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.210701,40.663992]}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.3,40.7167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Union\",\"city\":\"Springfield\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.2,40.65]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Union\",\"city\":\"Elizabeth\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.3,40.7167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\",\"county\":\"Union\",\"city\":\"Springfield\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.2,40.65]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\",\"county\":\"Union\",\"city\":\"Elizabeth\"}}"
         ],
         "subject_point_geospatial": [
             "40.7167,-74.3",
@@ -141,7 +145,7 @@
         ],
         "system_create_dtsi": "2016-11-20T05:14:18Z",
         "system_modified_dtsi": "2023-09-15T14:48:21Z",
-        "timestamp": "2023-10-03T15:52:11.974Z",
+        "timestamp": "2025-10-31T15:48:40.066Z",
         "title_info_primary_subtitle_tsi": "under the command of his excelly. Leiutt. Genl. Knyphausen, on the 8th June 1780",
         "title_info_primary_tsi": "Sketch of the position of the British forces at Elizabeth Town Point after their return from Connecticut Farm, in the province of East Jersey",
         "type_of_resource_ssim": [

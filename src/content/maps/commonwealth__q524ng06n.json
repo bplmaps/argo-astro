@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749912872124416,
+        "_version_": 1847512945263640576,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -46,14 +46,17 @@
         "exemplary_image_ssi": "commonwealth:q524ng07x",
         "extent_tsi": "1 manuscript map 40 x 102 cm.",
         "filenames_ssim": [
-            "ct003704",
-            "commonwealth:q524ng06n_metadata"
+            "commonwealth:q524ng06n_metadata",
+            "ct003704"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524ng06n",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524ng06n/manifest",
@@ -68,7 +71,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJzNGMly2zb0nq/A8NBJZsxNsiVLjZlxlKXp2E7GcqbLpQOREIkYBBgAlKy/7wMJSqQW27E7bS+Sjbfv7+n1m7ucoQWRigp+5oRe4CDCY5FQnp45X28+uKfOm+jF61wkamw+EOBzNb5jlN+eOZnWxdj3l8ult+x7QqZ+OBqN/ArqNKiK7kPsBUHo/355MY0zkmOXcqUxj0lDZWR1yJiIvVQsfAPwF31no3TfGwKVomNVsboQMdYV4DA12gMy8hMsAW6Rqm+37w69O5U40QuEajdoqhn5xOcClQqn5MwpJM2xXDkooapgeHWBZ4Stn/+yrxWHDo/oC8MciTnSGUGUM6KPkNISU/j+CefFz0iLZYUw1R46L9NSacrJa7/Fwmjld9XaaMpxTpBeFUZH8JbgmHW0MPAvWOroWiyF1NkRmuLcslvDWvhS1BK7LzdE5laKJnfaQbjUmZBUr84ccEAsCcNayNb71+tP6+jQZB2BBURuVjLwmW9pFIQZs5I8nsAHcU40kcT8Z01plLSm+B1bWua2QgzWfJ5fEyVKGROUY16qWNJCnzkrooA/OEakEhcZjRv3d0g2rFLCJWm7JM3TIv4hZ1hBl1gTSTF7vFO2CX2d5kEw6A3C7VwFLYk02XGJC2UtqjT/HxsS9nqng3sMaWJ2wB7QOaW8KZjmNQERVfaQpNUIl/040XMH3ZLVOwDVWYAKQTlkBDQOCVn/vcSMzimRZ873kijTgvCMQTKGw0FgVWhxf6ZQwpP7RY72i7SvXeNrLaAZpSU0tLZmzdt9NU6VGPRHbm/2Q7nQUD06BxoCn/DUid7zlFGVWXPaarasbFtU21NkK0VjzN6ROjfAY51AgFc0Zp8r70SSzIXMsTZhsZDGqR28FgPwDeE6ClstA/4s0HGA7lAY9FCce5aHRW0RQ2CJ5ERfkoTiG3B2BAMkJf63gqSWaBflEfSazufPof9W9O4jt7ADrrWTRmjSKskjVBDuwryFuX/bOKTC6VI4V8JDI885iGFzEkpQkxzcaYalJKoQXNEZZZCJTgQzDa0HXEIKmKWqlAvpoY91s3iIewyxNubAkJkTScyWEl1MkGmVRt6V4YzOc2hNMT5C4fAkcMPh6Qj+HPQHT2R+USrh/gKtDXMao9+EZMkRGgXDvexUOftGYt0uShar7OF6bOCUKN8yUd09RRQ0Bg9C4DcLCLomKWiMXn5g2HvlusYRR2gTXdd9jyVbIXD5rYIdBoWnQdMBa4abrLFS/z1bLjuFqf5pXXXKD6hatTIvJVqvPJKUfoW50/v2YPnDIDw+7p90jMmg68NulZmK+0iaXaS7nMWi5Hplo/eryHgzCS1gF1muoq+cmn43NRXVwZc7BNwkA7SwugCgmtEE/oWCaophTd5gdhhURRt9YOCppEGt37py6NqG7RW4ArWXuvu8Yrm1Nje1bZCQMHmN3VFv5J2e9vtH7mno9ddmbOBtoTssH0iXR6qjwAYSTc0nirGHwvHoKFznZg19khrVqkyST9AxbQ/KhNK758lmNepeLRd0Bk5emdY3ETyFdqvgD8ZACHSF7evkwH3ib6tyn35UXTfNMXkLd1Z1X44z6Jh13SgoHBbHfN0Lhv3BKDwZBMjxN3xpAilYrUuWbSmpEzX0WN56dqzHIs8FXxLMdFbdqgAb+yfB6GTkfz/pHfM0GDR2bpjeIwjUwswVcOZJJ4p1EPSHwfE9DJg9YdshacZrc97uDUOT86uqGqEvo3d0QdUmLDtcWstS++mgGqVkO2cvjmMQfuaIuhtSjkzFmzXxud4FadvCG2GFJAtKlk8X4euszGccU3ZYmBmzkH6Uzl1Y6OicqGfY5DcsuvIOur+2FGKbUAPYm/Wx2ezpgtQKqEo2ozHhCqbgbOXy2FXYP/YC32mSXpEqOSQppEjKqma3jyjLwYluMqqq0Yjg274mCLZiZNiUPIEUx2hilYA8rLRA51pLOisrra8Ed807kTFcbmiaYbgizxm9JeiiZoheTibo7R/u1cSdnr9qtsEt6w+75fFmwbaemZ3gSqBbbn5ZiUWxqh7NzggqV1TqQQ0kuFsm25dj/Toxmc/1tP4V4C00VlDxSzkD5yFbsevet4u/y65yreDmANw9DaNe0AvdAI6i0U3QG/dPx0Hvzy77Fv0e7hkcSOTJvNfUu5ztZQQVhjmCUi0g6kmHevd2aq61z/MJhpoSAE6782fPNQpak//+GoWPA5fozi26a509PTdn09T+Ern9Q1oLxYnkemfaQ9kZsZtktU/mI3rxN9mWlko=",
         "name_facet_ssim": [
             "Roworth, Sam"
         ],
@@ -115,16 +118,17 @@
             "Manuscript maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "Florida",
             "North and Central America",
             "Saint Augustine",
             "Saint Johns (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.3,29.8833]},\"properties\":{\"placename\":\"Saint Augustine\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.3,29.8833]},\"properties\":{\"placename\":\"Saint Augustine, FL\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.3,29.8833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Saint Johns\",\"city\":\"Saint Augustine\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.3,29.8833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Florida\",\"county\":\"Saint Johns\",\"city\":\"Saint Augustine\"}}"
         ],
         "subject_point_geospatial": [
             "29.8833,-81.3"
@@ -135,7 +139,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:09:24Z",
         "system_modified_dtsi": "2023-09-15T14:47:47Z",
-        "timestamp": "2023-10-03T15:48:27.216Z",
+        "timestamp": "2025-10-31T15:47:25.126Z",
         "title_info_primary_tsi": "Plan of the inlet, strait, & town of St. Augustine",
         "type_of_resource_ssim": [
             "Cartographic"

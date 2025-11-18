@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1804926055391166466,
+        "_version_": 1847512947776028672,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524ng51g",
         "extent_tsi": "1 map : ms. ; 48 x 76 cm.",
         "filenames_ssim": [
-            "lh000039",
-            "commonwealth:q524ng506_metadata"
+            "commonwealth:q524ng506_metadata",
+            "lh000039"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524ng506",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524ng506/manifest",
@@ -124,7 +127,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:21:23Z",
         "system_modified_dtsi": "2023-09-15T14:47:49Z",
-        "timestamp": "2024-07-18T14:07:02.039Z",
+        "timestamp": "2025-10-31T15:47:27.521Z",
         "title_info_primary_tsi": "Carta esfe\u0301rica de la canal entre Puerto Rico y Santo Domingo",
         "type_of_resource_ssim": [
             "Cartographic"

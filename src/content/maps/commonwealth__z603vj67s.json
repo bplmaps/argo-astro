@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749810412617728,
+        "_version_": 1847512900453793792,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:z603vj682",
         "extent_tsi": "col. map 46 x 64 cm.",
         "filenames_ssim": [
-            "ct000252",
-            "commonwealth:z603vj67s_metadata"
+            "commonwealth:z603vj67s_metadata",
+            "ct000252"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vj67s",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vj67s/manifest",
@@ -60,7 +63,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "[Page, Thomas Hyde, Sir], 1746-1821"
         ],
@@ -107,15 +110,16 @@
         ],
         "subject_geographic_sim": [
             "Boston",
+            "Massachusetts",
             "North and Central America",
             "Suffolk (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"placename\":\"Boston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"placename\":\"Boston, MA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Suffolk\",\"city\":\"Boston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Massachusetts\",\"county\":\"Suffolk\",\"city\":\"Boston\"}}"
         ],
         "subject_point_geospatial": [
             "42.35,-71.05"
@@ -128,7 +132,7 @@
         ],
         "system_create_dtsi": "2016-11-28T21:28:34Z",
         "system_modified_dtsi": "2023-09-15T14:47:28Z",
-        "timestamp": "2023-10-03T15:46:49.503Z",
+        "timestamp": "2025-10-31T15:46:42.392Z",
         "title_info_primary_tsi": "A plan of the town of Boston and its environs, with the lines, batteries, and incampments of the British and American armies",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749989984403456,
+        "_version_": 1847512973522763776,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z018w",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z018w/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Davenport, R. A.",
             "Royal United Services Institute for Defence and Security Studies"
@@ -117,14 +120,15 @@
         "subject_geographic_sim": [
             "Canada",
             "Halifax",
-            "North and Central America"
+            "North and Central America",
+            "Nova Scotia"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-63.5833,44.6333]},\"properties\":{\"placename\":\"Halifax\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-63.5833,44.6333]},\"properties\":{\"placename\":\"Halifax, Nova Scotia\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-63.686389,44.427222],[-63.448889,44.427222],[-63.448889,44.754722],[-63.686389,44.754722],[-63.686389,44.427222]]]},\"bbox\":[-63.686389,44.427222,-63.448889,44.754722]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-63.5833,44.6333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"city\":\"Halifax\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-63.5833,44.6333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Nova Scotia\",\"city\":\"Halifax\"}}"
         ],
         "subject_point_geospatial": [
             "44.6333,-63.5833"
@@ -135,7 +139,7 @@
         ],
         "system_create_dtsi": "2016-11-17T22:36:17Z",
         "system_modified_dtsi": "2023-09-15T14:47:59Z",
-        "timestamp": "2023-10-03T15:49:40.756Z",
+        "timestamp": "2025-10-31T15:47:52.076Z",
         "title_info_primary_tsi": "A PLAN OF HALIFAX HARBOUR IN NOVA SCOTIA 1760",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749939412631552,
+        "_version_": 1847512955752546304,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nh68v",
         "extent_tsi": "1 map : ms. ; 45 x 35 cm.",
         "filenames_ssim": [
-            "lh000975",
-            "commonwealth:q524nh67k_metadata"
+            "commonwealth:q524nh67k_metadata",
+            "lh000975"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nh67k",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nh67k/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Sa\u0301nchez, Josef Mari\u0301a"
         ],
@@ -114,13 +117,14 @@
             "Calhoun (county)",
             "North and Central America",
             "San Antonio Bay",
+            "Texas",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-96.7333,28.3]},\"properties\":{\"placename\":\"San Antonio Bay\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-96.7333,28.3]},\"properties\":{\"placename\":\"San Antonio Bay, TX\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-96.7333,28.3]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Calhoun\",\"other\":\"San Antonio Bay\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-96.7333,28.3]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Texas\",\"county\":\"Calhoun\",\"other\":\"San Antonio Bay\"}}"
         ],
         "subject_point_geospatial": [
             "28.3,-96.7333"
@@ -132,7 +136,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:47:53Z",
         "system_modified_dtsi": "2023-09-15T14:47:50Z",
-        "timestamp": "2023-10-03T15:48:52.527Z",
+        "timestamp": "2025-10-31T15:47:35.129Z",
         "title_info_primary_tsi": "Plano del Lago de San Bernardo en el Seno Mexicano",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749791952437248,
+        "_version_": 1847512892482519040,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,13 +37,16 @@
         "exemplary_image_ssi": "commonwealth:z603vk670",
         "extent_tsi": "1 map : hand col. ; 71 x 53 cm.",
         "filenames_ssim": [
-            "gan00019an011025",
-            "commonwealth:z603vk66q_metadata"
+            "commonwealth:z603vk66q_metadata",
+            "gan00019an011025"
         ],
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vk66q",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vk66q/manifest",
@@ -123,7 +126,7 @@
         ],
         "system_create_dtsi": "2016-11-20T03:10:41Z",
         "system_modified_dtsi": "2023-09-15T14:47:24Z",
-        "timestamp": "2023-10-03T15:46:31.898Z",
+        "timestamp": "2025-10-31T15:46:34.790Z",
         "title_info_primary_tsi": "Port Amherst ; Port Haldimand",
         "type_of_resource_ssim": [
             "Cartographic"

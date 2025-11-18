@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749900746391552,
+        "_version_": 1847512939796365312,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nf25n",
         "extent_tsi": "1 manuscript map : hand color on sheet 38 x 25 cm.",
         "filenames_ssim": [
-            "ct000274",
-            "commonwealth:q524nf24c_metadata"
+            "commonwealth:q524nf24c_metadata",
+            "ct000274"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nf24c",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nf24c/manifest",
@@ -60,7 +63,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJzVGNlu20jyPV9R4NMEMEkdviREDBxlDgNyMoid3ey+LFpkiey42c3pbkrWYN/29+ajppoiJdKS7BwPOwMBFFVdd9epV68fcgFL1IYrOfH6Qc8DlLFKuEwn3se7n/xL73X04lWuEjN2DyB8acYPgsv7iZdZW4zDcLVaBathoHQa9kejUVideg2q4YcQB71eP/x0M7uNM8yZz6WxTMbYUDlZHTKh4iBVy9AdhMuht1N6GFwQleFjU7GaqZjZ6uA4NRw4cvITpum8Rqq+/aF/ETyYxIteAGzcYLkVeC0XCkrDUpx4heY502sPEm4KwdYzNkexBf+nhlYcOjyiXwX7nUGCIBgsuRDV+89MLPH3V2ELz4kOu7Jb6qwLfL/4gEaVOkbImSxNrHlhJ94ajRdNmbYq1azIeNxw6ZDsWKUoNQIrbaY0t+uJl+ZpEXs7yMcP11u38mTruiW5fF4KMjasBd0wi5ozYeiemCjx6wlDm+a93vngvP/Yr6Qlaia86IYVprao0vwvbEh/MLg8f8KQ5s6O2EM6p1w2995AExIx1UjPpJW0q2Gc2IUH97h+S0ebKIDfSib4gqOeeFwuUGukkO5fXFzWAlu8WuHWlbuRKphMS4r7tiYN7A51Di66Jp7FB+u1r4AbdT4c+YP5V11DQ/XF7m8IQlMwL7otmOQmg/8CTJmxXHAma9vaOrdMbpv39zJYMOtFM6p9X21hka0Nj5l4i5sopOrZiTMKAsvE+yoYIo0LpXNmXdTVJ00MdfBaDMgzKG3UbxUnei1gDBnVXIiVUBqUBJMhWhhewgMMziDOg5pxTd/iyCVll0R7gwlnd+T/iGptiuHnAtOaaB/lC+gtXyy+h/5zMXiKvD474u8Na6ksRneuzsNCq7zqc6rxRHXYRd0VjxMoUPrkUeqm9+A8u3JFqHLvEwzovsi7dJsrbjOQStPTqhW1QrAZwlxZq/In6D3qMCQCeCoZ8TmBUs8xB0bFjoy0wHKlT+q2RlDIFMnA/IRE5Sip5SXcUn1CMGWZB3AlpYJE/vE/HsDNLJjS523w6VPwj+vr68A7rsa1jEWZoAHL5uQ7tQDq6JZT0sfmuPZ18sbcVkNDSNGNGt0gEs2mMCuN8n+hok1VJIZ/Ki2SExidXTzHzlVTL7rLuAH3CvTdVN3Dqphy/hlj2y4fIjbZ85WjOedowpqJ6U4aquBxVHv/hxkLXvq+a5wnsAsc3/+RabGGldL35D8F/cter5kVKvpd7NZCnlTdpvKI5lXdClK0dh1gUoYV5l6hO4BF8+Lp4HJ42bEto37GdJy5XPoZmyFng9HgxKqUdh1dmRilmxdrM2rwPqpeRx8ld+lwSyGBpo2v9wgkVVtXmt5VWeNSbko/qanDVU7tP2Zb8gazw8BFKEYzVVKqMNkgb6BdSeTHqDMZVpCNL8JnnVEzaU2C5rElStP44AyOhr2APD088Ue9YLTVf3feFrrH8pko+UJ1DNmA0a17QswC6I/7J71tSG5Ov0kNjcKNONcWm7adKWP3R/PdqNWd2Gd8Tk5eu+oyVTLVaAy9CEFCdrG1HdqPjO3hY1We0o+bD01JSt7QjlHtVuOM6tQmXQzli4hjua0IF8PzUf/89BS8cMeXJxR71fxXsy0196KGnun7oG7escpzJVfIhM2qPY3OxuFZb3Q2Cn87G5zKxeC0WSN2TJ8QRGox4SvqJNqLYku3OLg4fYKBqNe39pU0/bJZ7Q5eQxPz6yoNqcTBW77krZTf49Iaidqgo2qUWuytfCyOSfjEU5siyCW4VHej4Pd6l6Q9Ft4IKzQuOa6+XURoszKfS8bFcWGuQVH4cb7waWzjCzTfYVPYsOjKO+r+jaV0tzQb0MHBqI/dusKXuFHAVLIFd2WeeuF87cvYNyw8DXqh1wS9wSo4NBZaJWWVs4+XsppD3b1dR3Tdu4YmQLMvODalTCjEGUxrJSgOKy3gylrN52Wl9TslfQenGYw2QbjNGG2lV4LfI8w2DOGH6RTe/Mt/N/Vvr142s8Ej64+75cvNopk8c5PBOwX3Uq1cmBbrCkhkhlSuqMyzGmhyt04eb6Ib6NRFvrS3m38V3lBhJRV/LefkPKgzdlv79vH32VWuVdJtsfv7bTToDfp+jxaf0V1vMB70x4PRv7vsW/QHuNPqkeI3895S73Ou9x/KMCaBUrWgW0861PsbUrOTvV9MGeWUouO0238ObJykNf5fN06UqRfR48i+ubdx7ltXL5i7Pei2/heubRZV2riF4kU6aUalA5SdFrsL1hrkHtGLPwEXej7R",
         "note_date_tsim": [
             "This date is inferred."
         ],
@@ -101,14 +104,15 @@
         "subject_geographic_sim": [
             "Ascension (county)",
             "Galvez",
+            "Louisiana",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-90.9,30.2833]},\"properties\":{\"placename\":\"Galvez\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-90.9,30.2833]},\"properties\":{\"placename\":\"Galvez, LA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-90.9,30.2833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Ascension\",\"city\":\"Galvez\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-90.9,30.2833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Louisiana\",\"county\":\"Ascension\",\"city\":\"Galvez\"}}"
         ],
         "subject_point_geospatial": [
             "30.2833,-90.9"
@@ -118,7 +122,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:48:39Z",
         "system_modified_dtsi": "2023-09-15T14:47:43Z",
-        "timestamp": "2023-10-03T15:48:15.651Z",
+        "timestamp": "2025-10-31T15:47:19.912Z",
         "title_info_primary_tsi": "Plaza de la villa de Galvez",
         "type_of_resource_ssim": [
             "Cartographic"

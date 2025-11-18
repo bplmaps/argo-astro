@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749905967251456,
+        "_version_": 1847512941988937728,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nf62s",
         "extent_tsi": "1 map : ms., vellum ; on sheet 40 x 33 cm., folded to 18 x 13 cm.",
         "filenames_ssim": [
-            "ct000671r",
-            "commonwealth:q524nf61h_metadata"
+            "commonwealth:q524nf61h_metadata",
+            "ct000671r"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nf61h",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nf61h/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzNWG1z2zYS/p5fgeGXtjPmmyRLli5mx1bSNjd2krGd6d11Oh2IhEjEIMACoGT++1uQoETqzU7SuetMhpEB7O6zi33F6x+fcoZWRCoq+KUTeoGDCI9FQnl66Xx6+Mm9cH6MXr3ORaJm5oPgPFezJ0b546WTaV3MfH+9XnvroSdk6ofT6dSvd532qKKHDg6CIPT/dXtzH2ckxy7lSmMek5bKyOqRMRF7qVj5ZsNfDZ0t6KE3ASpFZ6pmdSNirOuN49TowJaRn2AJ+/ZQ/b87dCfek0qc6BVCjRk01Yy840uBSoVTcukUkuZYVg5SZVEwSpJLpyLKQQlVBcPVDV4Qtjn1h12tGfZYRg+ZyLFCv5Q6zsAe3yEGiFAqMdfI/MpxgbRAYLkA4VgShShHvxKl0U9MSJrg136Hm8Hr9wEf0kFXBaiAmSaSg91W5ACwa0k1VRkqsCaABTA8eBuYZyicTMZnSCwtMs/8rKEDvC9GxnFOLKgCblhwzHqIzP5HLHX0ppRAKJMz9JZRMNuvmD0SaRlvTh2gtNwTUMaJcGx0NioEbjiZjk7QS9Fg7688EJlbjpo8aQfhUmegs64uHbhvuCaGtZCd9U937za+SZON/63AbxclAxfxLQ240AqzkrycwAdxTjSXxPxlVWlBWlX8ni4ddTvOAdp8WN4RJUoZE3A7XqpY0kI3fh3NwTAC3LLIaNxeZI9kyyolXJKuSdI8LeIvMoYVdAvXJSlmLzfKLqGv0zwIxoNxuBuagJJI42e3uFBWoxr531iRcDC4GJ9QpL2zI/oA5pTyNvTaVRMTtfeQpFMG1sM40UsHPZLqDWzZ7PZniRldUiIvHcqXREoCSdKkAiuww6vjaX25jVTIFWkJmbSLpF07FV5UifFw6g4WX3QNLdWLzd8S+ISnTvSWpwxyoVWnC7OjZVejRp8iqxSNMXtDmmuBAtUzPFhFY/ahtk4kCSS2HGtzDXanNWrvXIcB2AZScxTWRWKGcuWdQYVkrMzRP5DgSGWEaDQK0BMaDlGcw/ZSsAQEQDYPL2A5rJetHMuuI4ByUyGIviUJxQ9wIRGUs5T4nwuSWqL9Iy+g13S5/Bb6z8XgFLndO2J+WxiEJtF9JtaqW3FHKKcMaizBUGChoumMoFuqlPlXFBTdQd2QyFGMpplmFZIkFyuw51KKHF1DAuboTpQp8Zw2yRoxfaEPpv41FCvCEyG/AwgE7l16x4k+Yk4YqkvnDH1laVad2nxClAl3Q+L8s+QEDYBVeDGC9NkU94TEtMgg4SxACUVT6B9KkySZEsblCoPzBHNwYoAMFltTnSEuJHy1WEMLVtuaiTXYlyRgwRO2INwFMNA+Pp449S6HVmJJYj1Dvwhzp5gJntYBgKBVJeoULY9ZmQCNST8nzjmD0Wh44q5tEoMuU5PcXBWYFVq4QnBFF5RB6nKiRWV7mW1vc1/KFamERD83qf05/k1X85BRhcxPRM1NN9n5MHhVLj6DZbp5lcUqez6ltvuUKN8yUf3eURQ0jm42EaVc90aUVFHMset2IgSUXJRygTm6gnrhum+xhHhaC/momuwUBG2bUbPchrWV+7/T5ihq9P0N9n5wXdNBnKFt+f2rtdEpP6JMXbG8FLJH5ZGk9OuTeyXuwCl/EoST89Gwp24GhR2618wkzZ9J2+31299YlFxX0VuTIDuGsdrY3X0KWUWfODWBf2+CQXXPyz0CriFAoRS9r/ODcaY5/AmRgK5yaIdivCFvT/YZgJWiA+BoC80unNLXcup0vWoXJcQq5UaZaBh4o/Mzdxp64fkG2na7K3OP4zN+8EI0ClSAema+6LdwFp6fjUfB7y3vevOvQnFoWOt6K8fLLws9w/CZxnjvuM/FdBCE43B47vQtsZnitgWxmbEPT3k7s9ARM9SzFkneQRq3qmdC6f2pedtb94fpG7oAT6tM/p9DFYIaoOAHYyAEupLdQfnIqOzvQjmFj6o7AiUAGnqSXFcOqp9nZhl0mY19FRiYxTHfmHgajC9GwXCCHH/LlyYQXHXDb9mWkjpRS4/lo2eb01jkueBrgpnO6qce2Jv558H0fOr/eT4Y8eU4bPvnLdMTggAWZq6ApkA6UayhkxlPQnmCA7NPQN07aTvA9nno4D20kV/ViQZyOXpDV1Rt72WPS6fn7y4dhVFKtvdshOMYhF86osn20JmZZGamnW81L0jbFd4KKyRZUbL+ehG+zsp8wTFlx4WZVgP8j9Klm2NOl0R9g05+y6Iv76j5G03hbhNqNg66fWwGVGjkGwCqls1oTLiCvLKoXB67CvsjL/Cd1usVqZ1DkkKKpKyDdncMtxxsH2ZKv+nD7CpMCNDOGTYldNASYTS3IMAPaxToSmtJF2WN+r3grlknMobZH91nGFrsK0YfCbppGKLv53N0/W/3/dy9v/qh7fJ2tD9ulperJc2kA13Re4EeuVgbNy2qetF0sgC5plLPIpBgbpnsvj00q3Pj+VzfN+9I15BZAeLHcgHGQzZiN8lv//w+u9q0gteDzN6LRjQIBqEbwGw/fQgGs8F4Ngz/02ffoT/APYM5n3w17w31Pmc74EOEQX8JoVrArSc96v0ngPbR4cNyjiGmBGyn/QJ04FEFUJP//6MKfI48qOw9qexrZ19QtpP9vX3J332K7RxxIozjtoQcIO0V2a232iXziV79F34orwY=",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Durnford, Elias Walker, active 1770-1794"
         ],
@@ -115,14 +118,15 @@
         "subject_geographic_sim": [
             "Baton Rouge",
             "East Baton Rouge (county)",
+            "Louisiana",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-91.15,30.45]},\"properties\":{\"placename\":\"Baton Rouge\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-91.15,30.45]},\"properties\":{\"placename\":\"Baton Rouge, LA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-91.15,30.45]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"East Baton Rouge\",\"city\":\"Baton Rouge\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-91.15,30.45]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Louisiana\",\"county\":\"East Baton Rouge\",\"city\":\"Baton Rouge\"}}"
         ],
         "subject_name_tsim": [
             "Hutchins, Thomas"
@@ -136,7 +140,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:55:46Z",
         "system_modified_dtsi": "2023-09-15T14:47:46Z",
-        "timestamp": "2023-10-03T15:48:20.631Z",
+        "timestamp": "2025-10-31T15:47:22.003Z",
         "title_info_alternative_tsim": [
             "British patent to T. Hutchins, 1776, of 2000 a. of land in Florida"
         ],

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749519778807808,
+        "_version_": 1847512833208614912,
         "admin_set_ark_id_ssi": "commonwealth:z603vh48c",
         "admin_set_name_ssi": "Harvard Map Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh48c"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Harvard Map Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vh51p",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vh51p/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJzVGdty27j1PV+B4UO7O2OK1M2ytDF3HO9m4xnb2bGdbredTgcCIRIxCXAAUDL79T2AAImUZMVJ2m3zQo+Acz8H5+bXPz6VBVpSqZjg50G/FweIciJSxrPz4MPD2/As+DF59boUqZqZDwJ4rmZPBeOP50GudTWLotVq1VsNe0JmUX86nUb2NvCgih0CHMRxP/rrzfU9yWmJQ8aVxpxQj2V4ddAKQXqZWEbmIloOg63Qw94EsBSbKUvqWhCs7cXz2OjAleGfYgn3Dsj+DYfhpPek0iB5hdDaDJrpgl7xhUC1whk9DyrJSiybAKVMVQVurvGcFpvjf7pTS8HT4ILfC6mTC/Q66hy0YCyfpMQVEgukc4qIqLmWDWIcrXJGcnuIZdmgmqdUomvdQ79QTiUu0JtaZqLhcE80TQ2KpYDLCrOMG4r9yWTimK85tVirev5gz1ROVxAKFhmUAQMrL41l/Ccg+IP9CSqS7SXozgmrQBDgD85QjtOGsLFm1DXn1sIclxTppjK2BS8Ljouu9eD+VwzWuqEpwcWCnqAb6Q3p71rwUnj12icPVJaOi6ZPOkC41rmQTDfngdFV0gJrIVvnH+6uNlHF0k3kLCHi5nUBvo4cjoLwxEVNX44QAbsguZTU/HKqeCGdKlFHl5a6xw3XVovjxafV8feMqsgQ/IQye+ARP4vjcTw8jQ877S1OKT9Bv7GiYLg84jZ/5jRKsQYT9Sejadg/G55+6/7Wc/C3gAfN5vXX+Nxo9H5xR5WoJaHJJdhCZBJXkCH8C+tCbDAzyiVtWyErs4p8lv6O0Q24RjJcvNwOu4iRzso4Ph2c9nfTaLbOaEFygyufRqzkW0VA2Ixxn0P8qc1I3TCwR7txkFwLngruSG9AOh5o0XKU6nnBIDvK5Leyh2xIe9DNTQucKVWb8paUgu94Z3PVAjehfgXnkLm31Xg1JKmG9/tIm5/g/jxo4GnCeziLHaUtVitYurZZky8wz2ooXW2W/uzYK2FKnA6n4WD+WTHisV4cGx4hojwLkp95Zuzp1GmL2dKyrZFzUN4oBsXhJ6qIZJUpQh0Lg1U0Lt5b6ySSLoQssTal0t14m3bgWgTANpTrpI9MgZ6hHJoHKNBFD/2AxhP0hAZniJQ9R8UBtwOCQ+BzqqGCMfwA5k6gWcho9LGimQ+MPZAX4Gu2WHwN/sdqcAzdx/hh4/reRtPkjhaMLpDKxYqjeQP2IXktqept+h1Nd1CuOCrECvoYSMZg7Bn61b2kFGFlu4oLosE9khKt0Fs6b3qorzQyL+AI2XeAvDJpBsg+HuHvgh7aQE1L8JZpZUDgCpoXNmcFhHqQpBKv1bmRPeSbD/A4BKrESxAUrjb54DAr6IA+ggLtZ1UQlX9eWXZEVKfAalExktzSFfpdyEf03b3R5PswfMcU1JcmDO/oUhS1cdaJ6f7GIVhuGIYmr4bhz1gWDVoBJthaoD7UcF8+LN2t8x3zP04l38v+WaErvsTKKzD5BmT/C8QdFPn/jqQ6488IarNpL6NaNz2a1pGF3Eu/B6CiSRxPzgZnHVVyBhUYmn/z5H+hvn51S6sbTpIPnJksaoPPl2t/t4PANeMmLd7C4JMjk0Av4aeZXi5K6AoI3qB7yA4B+1K9gb3V7Fm7ch+T3QnS6pjUroxCQvE1qiSj0Uk4GW5E2l60ue3R+j/w5vj02/Gmz15/gDuH4M7xf9idL5RDgfA0uTdf9HeCoYzNTkfxSRzH//AMLMQXiWInDJpeQRVzJS0XSndTU3vk3l04vMNyiWWKIGGhS1EU1A7wBzYFh8b3aFeEY3IxdUcXVEKHS9M3TYDs2miWQzPWSbhs3svXMtmwBsNUeRTH08kwHo5HEcHQn4ksiLasGFRfaIQgVBynWrIgMSQV0IQ2oOfaOiJKSB4rigud260U3M2icTwdT6N/ncbDZT7uV74f2hA9wqgghAdJVqJJP44Hg3h0BLlwi6rOWOEaK7/E2njjms0h7pud/uu6RcJ3wu2jZ/nUstjbXmFCqFLngVhnJsaReap2QvpK0wG3XeaeWSXpktHVl7OIdF6Xc45Z8Twz04FBuDG2CEvM2YKqr9Ap8iS6/J41/1pTmPRTZi72otzIQMzehy3pWgBleReMUK6gu5g3ISehwtGoF0eBj2hFbY6VtJIire0b3Z2cHYUgeciZsk0Hgr/uNEUw8iBDZr08xOjSCQGv3kqBLvR6OWGkvhU8NOdUEhjX0T28SOjHC/ZIITQtQfTd5SV683t4exneX3zvm98d7Z83y8vVglEsN73WrUCP3IwXRFSNPTT9Ooi83jh+UgKYIyDr724N1qdmMQMv9n69MXkDCRREtPMI2XmKh+D3yVnTCm7m9v2JPhnEg34YT8P++CEezOLRbDT4W5d8C/8AdRg+M/rFtDfY+5Td2AsvDHMET7UCr6cd7P3B2I/i7xeX68wM4nTrzIFVA0hN//erBvg8s2bYWzTsa+f2CtuJ+N79Q2F3z9gCCRKMiV/9HUDt1NRttLoj80le/RuXDNme",
         "name_facet_ssim": [
             "Medcalfe, Mr",
             "Faden, William, 1749-1836"
@@ -112,15 +115,16 @@
         "subject_geographic_sim": [
             "New York",
             "North and Central America",
+            "United States",
             "Vermont"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.0,44.0]},\"properties\":{\"placename\":\"Vermont, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"placename\":\"New York, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.0,44.0]},\"properties\":{\"placename\":\"Vermont\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"placename\":\"New York\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.0,44.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Vermont\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"New York\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.0,44.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Vermont\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\"}}"
         ],
         "subject_point_geospatial": [
             "44,-73",
@@ -133,7 +137,7 @@
         ],
         "system_create_dtsi": "2016-11-20T02:02:29Z",
         "system_modified_dtsi": "2023-09-15T14:47:09Z",
-        "timestamp": "2023-10-03T15:42:12.333Z",
+        "timestamp": "2025-10-31T15:45:38.262Z",
         "title_info_primary_subtitle_tsi": "shewing the marches of the army & the places of the principal actions",
         "title_info_primary_tsi": "A map of the country in which the army under Lt. General Burgoyne acted in the campaign of 1777",
         "type_of_resource_ssim": [

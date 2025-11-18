@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749851455979520,
+        "_version_": 1847512917050654720,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n9972",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n9972/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1275"
         ],
@@ -98,14 +101,15 @@
         "subject_geographic_sim": [
             "Gloucester (county)",
             "National Park",
+            "New Jersey",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.1667,39.85]},\"properties\":{\"placename\":\"National Park\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.1667,39.85]},\"properties\":{\"placename\":\"National Park, NJ\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.1667,39.85]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Gloucester\",\"city\":\"National Park\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.1667,39.85]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\",\"county\":\"Gloucester\",\"city\":\"National Park\"}}"
         ],
         "subject_point_geospatial": [
             "39.85,-75.1667"
@@ -115,7 +119,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:30:17Z",
         "system_modified_dtsi": "2023-09-15T14:47:35Z",
-        "timestamp": "2023-10-03T15:47:28.645Z",
+        "timestamp": "2025-10-31T15:46:58.220Z",
         "title_info_primary_tsi": "Red Banke",
         "type_of_resource_ssim": [
             "Cartographic"

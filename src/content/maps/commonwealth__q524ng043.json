@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749912549163008,
+        "_version_": 1847512945204920320,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -46,14 +46,17 @@
         "exemplary_image_ssi": "commonwealth:q524ng05c",
         "extent_tsi": "1 ms. view : mounted on cloth backing ; 49 x 28 cm.",
         "filenames_ssim": [
-            "ct003601",
-            "commonwealth:q524ng043_metadata"
+            "commonwealth:q524ng043_metadata",
+            "ct003601"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524ng043",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524ng043/manifest",
@@ -68,7 +71,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_tsim": [
             "Shows aerial view of the port of Sint Eustatius in the northern Leeward Islands of the West Indies including buildings, ships, and fortifications.",
             "Relief shown pictorially.",
@@ -105,13 +108,14 @@
             "West Indies (Federation)--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "North and Central America",
             "Sint Eustatius"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-63.0,17.05]},\"properties\":{\"placename\":\"Sint Eustatius\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-63.0,17.05]},\"properties\":{\"placename\":\"Sint Eustatius, North and Central America\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-63.0,17.05]},\"properties\":{\"island\":\"Sint Eustatius\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-63.0,17.05]},\"properties\":{\"continent\":\"North and Central America\",\"island\":\"Sint Eustatius\"}}"
         ],
         "subject_point_geospatial": [
             "17.05,-63"
@@ -124,7 +128,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:08:47Z",
         "system_modified_dtsi": "2023-09-15T14:47:47Z",
-        "timestamp": "2023-10-03T15:48:26.908Z",
+        "timestamp": "2025-10-31T15:47:25.070Z",
         "title_info_primary_tsi": "St. Eustatius, Leeward Islands",
         "type_of_resource_ssim": [
             "Cartographic"

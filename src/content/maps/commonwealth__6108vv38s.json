@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750113469956096,
+        "_version_": 1847513015504601088,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:6108vv38s",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/6108vv38s/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Skinner, William, 1700-1780",
             "Skinner, Monier"
@@ -116,15 +119,16 @@
         ],
         "subject_geographic_sim": [
             "Canada",
+            "Newfoundland and Labrador",
             "North and Central America",
             "Saint John's"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-52.6667,47.55]},\"properties\":{\"placename\":\"Saint John's\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-52.6667,47.55]},\"properties\":{\"placename\":\"Saint John's, Newfoundland and Labrador\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-52.683333,47.561944],[-52.678056,47.561944],[-52.678056,47.564722],[-52.683333,47.564722],[-52.683333,47.561944]]]},\"bbox\":[-52.683333,47.561944,-52.678056,47.564722]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-52.6667,47.55]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"city\":\"Saint John's\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-52.6667,47.55]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Newfoundland and Labrador\",\"city\":\"Saint John's\"}}"
         ],
         "subject_point_geospatial": [
             "47.55,-52.6667"
@@ -137,7 +141,7 @@
         ],
         "system_create_dtsi": "2016-12-07T17:46:56Z",
         "system_modified_dtsi": "2023-09-15T14:48:16Z",
-        "timestamp": "2023-10-03T15:51:38.521Z",
+        "timestamp": "2025-10-31T15:48:32.113Z",
         "title_info_primary_tsi": "PLAN of PALLISSERS TOWER",
         "type_of_resource_ssim": [
             "Cartographic"

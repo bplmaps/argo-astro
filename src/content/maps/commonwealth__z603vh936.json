@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749551303196672,
+        "_version_": 1847512844306743296,
         "admin_set_ark_id_ssi": "commonwealth:z603vh48c",
         "admin_set_name_ssi": "Harvard Map Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh48c"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Harvard Map Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vh936",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vh936/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Petrie, E. (Edmund)",
             "Abernethie",
@@ -114,13 +117,14 @@
             "Charleston",
             "Charleston (county)",
             "North and Central America",
+            "South Carolina",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9167,32.7667]},\"properties\":{\"placename\":\"Charleston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9167,32.7667]},\"properties\":{\"placename\":\"Charleston, SC\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9167,32.7667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Charleston\",\"city\":\"Charleston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9167,32.7667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"South Carolina\",\"county\":\"Charleston\",\"city\":\"Charleston\"}}"
         ],
         "subject_point_geospatial": [
             "32.7667,-79.9167"
@@ -130,7 +134,7 @@
         ],
         "system_create_dtsi": "2016-11-20T02:17:59Z",
         "system_modified_dtsi": "2023-09-15T14:47:11Z",
-        "timestamp": "2023-10-03T15:42:42.397Z",
+        "timestamp": "2025-10-31T15:45:48.846Z",
         "title_info_primary_tsi": "Plan of the city of Charleston, South Carolina",
         "type_of_resource_ssim": [
             "Cartographic"

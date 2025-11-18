@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750119662845952,
+        "_version_": 1847513017021890560,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -45,7 +45,10 @@
         "genre_basic_ssim": [
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:6108vv65p",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/6108vv65p/manifest",
@@ -58,7 +61,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Massey, Eyre, 1st Baron Clarina, 1719-1804",
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
@@ -110,16 +113,17 @@
             "Old Fort Niagara (N.Y.)--Maps, Manuscript--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "New York",
             "Niagara (county)",
             "North and Central America",
             "Old Fort Niagara",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.05,43.25]},\"properties\":{\"placename\":\"Old Fort Niagara\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.05,43.25]},\"properties\":{\"placename\":\"Old Fort Niagara, NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.05,43.25]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Niagara\",\"other\":\"Old Fort Niagara\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.05,43.25]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Niagara\",\"other\":\"Old Fort Niagara\"}}"
         ],
         "subject_point_geospatial": [
             "43.25,-79.05"
@@ -130,7 +134,7 @@
         ],
         "system_create_dtsi": "2016-12-07T17:55:18Z",
         "system_modified_dtsi": "2023-09-15T14:48:17Z",
-        "timestamp": "2023-10-03T15:51:44.427Z",
+        "timestamp": "2025-10-31T15:48:33.560Z",
         "title_info_primary_tsi": "[Account of the action at Fort Niagara]",
         "type_of_resource_ssim": [
             "Cartographic"

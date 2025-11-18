@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749563358674944,
+        "_version_": 1847512848407724032,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vp51q",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vp51q/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Bell, Peter, (Geographer)",
             "Anville, Jean Baptiste Bourguignon d', 1697-1782",
@@ -114,14 +117,15 @@
             "North America--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
-            "North America"
+            "North America",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-98.0,28.0],[-50.0,28.0],[-50.0,55.0],[-98.0,55.0],[-98.0,28.0]]]},\"bbox\":[-98.0,28.0,-50.0,55.0]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"area\":\"North America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"North America\"}}"
         ],
         "subject_point_geospatial": [
             "58.166,-104.466"
@@ -131,7 +135,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:39:39Z",
         "system_modified_dtsi": "2023-09-15T14:47:12Z",
-        "timestamp": "2023-10-03T15:42:53.894Z",
+        "timestamp": "2025-10-31T15:45:52.757Z",
         "title_info_primary_tsi": "A new and accurate map of North America",
         "type_of_resource_ssim": [
             "Cartographic"

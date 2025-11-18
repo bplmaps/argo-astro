@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749983368937472,
+        "_version_": 1847512971052318720,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11xz52t",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11xz52t/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzFWFtz4jgWfu9fccoPuzNVMTaQkMB0PEUIPe1dLilMOjv7MiVsgdWxLZckQphfP0fCBpuQdE937XZXFwFJ5zv3i/T+1+c0gScqJOPZtdVsuBbQLOQRy1bX1v38g31l/eq9e5/ySPb0B+D5TPaeE5Y9XluxUnnPcTabTWPTbnCxcprdbtcxu1Z5VLJTB1uu23T+Mx4FYUxTYrNMKpKFtKTSvGpkCQ8bK/7k6A3nqW0dhG43LpFKsp40UCMeEmU2XqeGE1uaf0QE7heHzF+7bV82nmVkee8AdmZQTCXUz5Yc1pKs6LWVC5YSsbUgYjJPyHZEFjTZL/9RrBqEGoZ3M30YDYN/BjAZPsDddPDv4RzG/TuYfoD5xyHcT/z58BaCeX8+DPRifzyc+YP+e6eCUQGV68XcrD34848G4Wbmz/3gI2IHwTAI/OnE4Az6k/5t/wwm0099CAbTuY8/+pNbvYeifJjeT25H+LsHt/4n/xZl8CfzqUH8MBtOBh/N4eCuP9Hg8+EM2Uxn/k7I0fTeD3zkYA59GOGG5kXCkAsdVqA4zGMKd4ImLGUZmgj6QrEwoRL4Eu4oCekZBGyV0QiIgk/oaMISva2QruU2VAz/IlljC83Lq3Zhjb3y2k9O3VEH32UkpaC2ufYawvKMJDW/6P07IpR3wzfI8AwGRKDMimcF5v7ACaICOCKKWl7zsnVuNy+77TcIBS8dWF2ZU5EWUIo+KwvIWsVcMLW9tjCgQrQbUVxU1u9n/j7aWbSP6CfMhMU6QQM7BY3EtCHJmn49gZMv0EJ360XCZExFoUwpZqGMU9OmonAlaVCf6XJGJV+LkHpoVsVXguQxC0tv1U/sKVc0E7Rqg1W6ysO/pX3BaIyOEYwkX2+FY0JHrVLX7bQ6zeNkRymp0ME0JrksNDKSHxRBYVcsK+OxXEWM8CgIzNJxFHij6eR2OukV2PszNRdUwAqo0nHeHcaxwoRacgH/IGn+CwQ8iWCxNUl1JziWK4oex+Iw8ye/zacT2JUnrAwKYiYBNSsoDRY8EEFjvpaYrBPegE4XgoaCO7JOJAxidGIMv2M9PStl24tSkY9JudZl30t5dhQP+63KcZ1aA0GJVuTQpjbtMFJLCx7p9ha3rq0tlToB97WhQlYJ0Lo/dgwSkq3WWNSrTMu1t/KSSd5pd+3W4m/FZUn11fFYEjg0W1neMFtpixbqVMWsaFnVqIiJeCtZSJJbKkPBct0razZGqyiSTI11PEExYFKitMWLndKotXMVALQNzZTXhBQDpgcQ8hxrLYamoug0dPITeu0MYmy3uJdgusMvABcuPMN5B8K0wC9gqsGCASwyqsY0YmSOjvCwwa6o8zmnqzJoXhz5CnrFlsvvof+ct94iL+P/tNmLFsIV9WbYEOkSZMw3GeQsxGzEopNsG2VF1YfqJIHSVm3qvqnTWFucRWg2tmTUJDdTEliam4S14YZsM+xl9gO2U0ZS+RYySnEg/Umn0M/AMkj4hgpkJNDrb5BLQ246sO7hIcqEVRxjJVZvUPmZpEqf33Exx2HDsN8XEwL4vl8qO9cZvdW/DhPCFxWS6AEKCyIOXArZULcbTFtMKNBWXaNdx+xtyAHPtxqnH0UwltC8OLtoXzQuGxCk6DcQ6AKcKtNcy1hij7FgrlM9BOkBFuvmmGTrXUQAiSKm40LLghO0PqQ9ajIh2k0/YyyL+n+eM5gxhIANlWqj51bQCYUQu4PWiDzS0lQPHGW2XtekNrngBN/90kmp4y5Fw2kOgsqcZ5ItWIJlr+xU8MM6zmk9cUD8TENVrdpJKOMvF+xyn1HpFCCyPsxzTFbvPmNaW5OR0rb1HGDbQyKSLWy4eJTam80r1y3HHUN0KA8F8v9P3gkXOq9SnGxC8r+RV62yV8Q1Pa2xokptGzRaO+bkiyZ44pRz6ba65+duTaGY4eyF3tfl9TdazhH1oQpDh9R1LhQxG9Uh6i20HVZYmV5lnU3IzS1Hx4B3cdVodjpndtM9b5x3OgV89USV7QvQLxj6GwSyu+1G56qN/6B1oWXrdC7Bvmg2rprmK367NNs/RlRTm73AVGiS54I/Y39VFAOy2euctdudM3cfjruz3ySUudrQyMcCVlSzmEv18np+mNSPbu1FJR+xhdCX1wHHzhPqun3iYn7qJuoci/GWbEzO6JIKnHZpdLO1wLyt9GKcy/ZpIqkOVxOyT9ivFklj/ej4/XHwx6f7Vk9/cdst23Vb7tVl2+1azoHfflgQBbu1YJancSUCE/HYKMa8kKc4om8oSVRs3m9wr+dcuN2LrhM/N5vPf160VDkF7UErg3XxKlO7nBQTUflic2zZo8FpVIEoh9vq0qt81iJ58VRDwpBKeW3xXdHChhvybHfR+k7tkdsx85JZLugTo5tvZ+GoeJ0uMpx1Xmemux6GDWNLOyUZW1L5HTo5JUSd36vm32k64FkxyBxHq5Yh1HMbRupOAGl4JwynMIkNa7G1s9CWxDlvuI5VBqWkZrgRFItCtDa5dnwBLxAsb64nB93BAP8Wq7shRMOsswhjncCgEAKz10iBI4cSbLE2Uk9wRNbrVIQ4gEOAuUWhnzAcqEY7QPhpMICb3+3JwA76P5cDx5H2r5vl69UyIzC27wmHx0zfC/A2td3NxTh2ociGSn5RAkH189vx48NudaAjP1PB7uHlBoshimiefMKjVDx1/iWcMS3PbncXvqNbutdyW03b7dptd95ye83zXuvqv3X4Cv0JdLw3rug3Y++pXyIXN1nMMILXL3QKej2qUb+865a36+lyQDCnOG6v6j3jxOsBSk1//OsBfrzycvDi7eCldsVTweEqGxSv58ePlZUjlkdIWL4gniCt9cZDtBZL+sN79xeUIWWH",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Bowles, Carington, 1724-1793"
         ],
@@ -113,14 +116,15 @@
             "North America--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
-            "North America"
+            "North America",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-93.683333,25.166667],[-51.816667,25.166667],[-51.816667,51.783333],[-93.683333,51.783333],[-93.683333,25.166667]]]},\"bbox\":[-93.683333,25.166667,-51.816667,51.783333]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"area\":\"North America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"North America\"}}"
         ],
         "subject_point_geospatial": [
             "58.166,-104.466"
@@ -131,7 +135,7 @@
         ],
         "system_create_dtsi": "2016-11-17T22:26:35Z",
         "system_modified_dtsi": "2023-09-15T14:47:58Z",
-        "timestamp": "2023-10-03T15:49:34.447Z",
+        "timestamp": "2025-10-31T15:47:49.720Z",
         "title_info_primary_subtitle_tsi": "WITH THE BRITISH POSSESSIONS OF CANADA, NOVA SCOTIA, AND OF NEWFOUNDLAND: DIVIDED INTO THE FRENCH AND SPANISH TERRITORIES OF LOUISIANA AND FLORIDA, according to The Preliminary Articles of Peace, Signed at Versailles the 20.th Jan.y 1783",
         "title_info_primary_tsi": "BOWLES'S NEW POCKET MAP OF THE UNITED STATES OF AMERICA",
         "type_of_resource_ssim": [

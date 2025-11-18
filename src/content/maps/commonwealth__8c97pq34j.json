@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778757948849258496,
+        "_version_": 1847513163619106816,
         "admin_set_ark_id_ssi": "commonwealth:mw22z436x",
         "admin_set_name_ssi": "Library and Archives Canada Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:mw22z436x"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library and Archives Canada Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -45,7 +45,10 @@
         "genre_specific_ssim": [
             "Manuscript maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:8c97pq34j",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/8c97pq34j/manifest",
@@ -62,7 +65,7 @@
             "English"
         ],
         "license_ss": "Contact host institution for more information.",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Mann, Gother, 1747-1830"
         ],
@@ -100,14 +103,15 @@
         "subject_facet_ssim": [
             "Huron, Lake (Mich. and Ont.)--Maps"
         ],
-        "subject_geo_other_ssm": [
-            "Huron, Lake"
-        ],
         "subject_geographic_sim": [
-            "Huron, Lake"
+            "Huron, Lake",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,44.5]},\"properties\":{\"placename\":\"Huron, Lake\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,44.5]},\"properties\":{\"placename\":\"Huron, Lake, North and Central America\"}}"
+        ],
+        "subject_hiergeo_geojson_ssm": [
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,44.5]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Huron, Lake\"}}"
         ],
         "subject_point_geospatial": [
             "44.5,-82"
@@ -117,7 +121,7 @@
         ],
         "system_create_dtsi": "2023-03-29T18:45:28Z",
         "system_modified_dtsi": "2023-03-29T20:12:35Z",
-        "timestamp": "2023-10-03T17:56:10.921Z",
+        "timestamp": "2025-10-31T15:50:53.366Z",
         "title_info_primary_tsi": "Sketch of Lake Huron",
         "type_of_resource_ssim": [
             "Cartographic"

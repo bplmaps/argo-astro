@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750233369378816,
+        "_version_": 1847513047823810560,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -46,7 +46,10 @@
         "genre_specific_ssim": [
             "Views"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:dz010v22p",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/dz010v22p/manifest",
@@ -62,7 +65,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1722-1824"
         ],
@@ -105,15 +108,16 @@
         ],
         "subject_geographic_sim": [
             "New Castle",
+            "New Hampshire",
             "North and Central America",
             "Rockingham (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.7167,43.0667]},\"properties\":{\"placename\":\"New Castle\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.7167,43.0667]},\"properties\":{\"placename\":\"New Castle, NH\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.7167,43.0667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Rockingham\",\"city\":\"New Castle\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.7167,43.0667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Hampshire\",\"county\":\"Rockingham\",\"city\":\"New Castle\"}}"
         ],
         "subject_point_geospatial": [
             "43.0667,-70.7167"
@@ -124,7 +128,7 @@
         ],
         "system_create_dtsi": "2016-11-30T18:33:32Z",
         "system_modified_dtsi": "2023-09-15T14:48:32Z",
-        "timestamp": "2023-10-03T15:53:32.866Z",
+        "timestamp": "2025-10-31T15:49:02.935Z",
         "title_info_primary_tsi": "A view of New Castle with the fort and light house on the entrance of Piscataqua River",
         "type_of_resource_ssim": [
             "Cartographic"

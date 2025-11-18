@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750003371573248,
+        "_version_": 1847512978278055936,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z094q",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z094q/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Ratzer, Bernard",
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
@@ -121,19 +124,20 @@
         "subject_geographic_sim": [
             "Canada",
             "Chimney Island",
+            "New York",
             "North and Central America",
             "Ontario",
             "Saint Lawrence (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.4333,44.7333]},\"properties\":{\"placename\":\"Chimney Island\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.4333,44.7333]},\"properties\":{\"placename\":\"Chimney Island, NY\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-86.0,50.0]},\"properties\":{\"placename\":\"Ontario\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-75.481667,44.736389],[-75.449722,44.736389],[-75.449722,44.752222],[-75.481667,44.752222],[-75.481667,44.736389]]]},\"bbox\":[-75.481667,44.736389,-75.449722,44.752222]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.4333,44.7333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Saint Lawrence\",\"island\":\"Chimney Island\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-86.0,50.0]},\"properties\":{\"country\":\"Canada\",\"province\":\"Ontario\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.4333,44.7333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Saint Lawrence\",\"island\":\"Chimney Island\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-86.0,50.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Ontario\"}}"
         ],
         "subject_point_geospatial": [
             "44.7333,-75.4333",
@@ -146,7 +150,7 @@
         ],
         "system_create_dtsi": "2016-11-17T22:55:21Z",
         "system_modified_dtsi": "2023-09-15T14:48:03Z",
-        "timestamp": "2023-10-03T15:49:53.522Z",
+        "timestamp": "2025-10-31T15:47:56.611Z",
         "title_info_primary_tsi": "Plan of the Battery on the South Shore Erected against Fort Levy on the 21. of August 1760",
         "type_of_resource_ssim": [
             "Cartographic"

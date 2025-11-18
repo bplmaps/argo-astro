@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1780925935198928896,
+        "_version_": 1847512832981073920,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vn86m",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vn86m/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Janvier, Jean",
             "Lattre\u0301, Jean",
@@ -113,17 +116,18 @@
         "subject_geographic_sim": [
             "Mesoamerica",
             "North America",
+            "North and Central America",
             "South America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-56.683,-3.55]},\"properties\":{\"placename\":\"South America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,10.0]},\"properties\":{\"placename\":\"Mesoamerica\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,10.0]},\"properties\":{\"placename\":\"Mesoamerica, North and Central America\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"area\":\"North America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"North America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-56.683,-3.55]},\"properties\":{\"continent\":\"South America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,10.0]},\"properties\":{\"area\":\"Mesoamerica\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,10.0]},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"Mesoamerica\"}}"
         ],
         "subject_point_geospatial": [
             "58.166,-104.466",
@@ -135,7 +139,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:29:50Z",
         "system_modified_dtsi": "2023-09-15T14:47:09Z",
-        "timestamp": "2023-10-27T16:15:23.820Z",
+        "timestamp": "2025-10-31T15:45:38.044Z",
         "title_info_primary_subtitle_tsi": "divise\u0301e en ses principaux etats, assujetie aux observations astronomiqes",
         "title_info_primary_tsi": "L'Amerique",
         "type_of_resource_ssim": [

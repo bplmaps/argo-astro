@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749969142906880,
+        "_version_": 1847512969302245376,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nk74d",
         "extent_tsi": "1 map on 4 sheets : col. ; 63 x 160 cm. or smaller.",
         "filenames_ssim": [
-            "ct000539Zz",
-            "commonwealth:q524nk734_metadata"
+            "commonwealth:q524nk734_metadata",
+            "ct000539Zz"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nk734",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nk734/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Urrutia, Jose\u0301 de, 1728-1800",
             "Fora, Nicolas de la, approximately 1730-"
@@ -106,6 +109,7 @@
         ],
         "subject_geographic_sim": [
             "Mexico",
+            "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
@@ -113,8 +117,8 @@
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-102.0,23.0]},\"properties\":{\"placename\":\"Mexico\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-98.0,38.0]},\"properties\":{\"country\":\"United States\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-102.0,23.0]},\"properties\":{\"country\":\"Mexico\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-98.0,38.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-102.0,23.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Mexico\"}}"
         ],
         "subject_point_geospatial": [
             "38,-98",
@@ -126,7 +130,7 @@
         ],
         "system_create_dtsi": "2017-05-26T15:47:22Z",
         "system_modified_dtsi": "2023-09-15T14:47:57Z",
-        "timestamp": "2023-10-03T15:49:20.880Z",
+        "timestamp": "2025-10-31T15:47:48.051Z",
         "title_info_primary_tsi": "Mapa, que comprende la Frontera, de los Dominios del Rey, en la America Septentrional",
         "type_of_resource_ssim": [
             "Cartographic"

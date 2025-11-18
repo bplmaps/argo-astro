@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750058203709440,
+        "_version_": 1847513003095752704,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z4008",
         "extent_tsi": "1 map : manuscript pen and ink with watercolour ; 35 x 45 cm",
         "filenames_ssim": [
-            "k_top_122_11_a",
-            "commonwealth:hx11z399q_metadata"
+            "commonwealth:hx11z399q_metadata",
+            "k_top_122_11_a"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z399q",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z399q/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Meyer, Elias, -1766",
             "George, III, King of Great Britain, 1738-1820",
@@ -122,18 +125,19 @@
         "subject_geographic_sim": [
             "North and Central America",
             "Northumberland (county)",
+            "Pennsylvania",
             "Shamokin",
             "Sunbury",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.55,40.7833]},\"properties\":{\"placename\":\"Shamokin\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.7833,40.85]},\"properties\":{\"placename\":\"Sunbury\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.55,40.7833]},\"properties\":{\"placename\":\"Shamokin, PA\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.7833,40.85]},\"properties\":{\"placename\":\"Sunbury, PA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-76.793333,40.875],[-76.79,40.875],[-76.79,40.87694],[-76.793333,40.87694],[-76.793333,40.875]]]},\"bbox\":[-76.793333,40.875,-76.79,40.87694]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.55,40.7833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Northumberland\",\"city\":\"Shamokin\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.7833,40.85]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Northumberland\",\"city\":\"Sunbury\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.55,40.7833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Northumberland\",\"city\":\"Shamokin\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.7833,40.85]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Northumberland\",\"city\":\"Sunbury\"}}"
         ],
         "subject_point_geospatial": [
             "40.7833,-76.55",
@@ -148,7 +152,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:14:01Z",
         "system_modified_dtsi": "2023-09-15T14:48:10Z",
-        "timestamp": "2023-10-03T15:50:45.815Z",
+        "timestamp": "2025-10-31T15:48:20.279Z",
         "title_info_primary_tsi": "PLAN DU FORT AUGUSTA",
         "type_of_resource_ssim": [
             "Cartographic"

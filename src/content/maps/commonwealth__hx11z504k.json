@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750089160818688,
+        "_version_": 1847513010220826624,
         "abstract_tsi": "A manuscript map by John Brewse illustrating the proposals and projections for Halifax in Nova Scotia.",
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
@@ -10,7 +10,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -38,14 +38,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z505v",
         "extent_tsi": "1 map : manuscript, pen and ink with watercolour ; 28 x 43 cm",
         "filenames_ssim": [
-            "k_top_119_77",
-            "commonwealth:hx11z504k_metadata"
+            "commonwealth:hx11z504k_metadata",
+            "k_top_119_77"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z504k",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z504k/manifest",
@@ -58,7 +61,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Brewse, John, -1785",
             "George, III, King of Great Britain, 1738-1820",
@@ -120,14 +123,15 @@
         "subject_geographic_sim": [
             "Canada",
             "Halifax",
-            "North and Central America"
+            "North and Central America",
+            "Nova Scotia"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-63.5833,44.6333]},\"properties\":{\"placename\":\"Halifax\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-63.5833,44.6333]},\"properties\":{\"placename\":\"Halifax, Nova Scotia\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-63.591944,44.63694],[-63.56805,44.63694],[-63.56805,44.66222],[-63.591944,44.66222],[-63.591944,44.63694]]]},\"bbox\":[-63.591944,44.63694,-63.56805,44.66222]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-63.5833,44.6333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"city\":\"Halifax\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-63.5833,44.6333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Nova Scotia\",\"city\":\"Halifax\"}}"
         ],
         "subject_point_geospatial": [
             "44.6333,-63.5833"
@@ -138,7 +142,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:40:50Z",
         "system_modified_dtsi": "2023-09-15T14:48:15Z",
-        "timestamp": "2023-10-03T15:51:15.337Z",
+        "timestamp": "2025-10-31T15:48:27.074Z",
         "title_info_alternative_tsim": [
             "PROJECT for Fortifying the Town of HALIFAX ; in NOVA SCOTIA"
         ],

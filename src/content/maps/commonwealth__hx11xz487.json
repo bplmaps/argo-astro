@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749982703091712,
+        "_version_": 1847512970471407616,
         "abstract_tsi": "We Are One: This map, probably drawn by British Lieutenant Richard Williams, depicts the positions of the British and American troops in October 1775. The map delineates the envelopment of the city by \"rebel\" forces that led to the British evacuation of Boston on March 17, 1776. Williams's map features the Continental Army Headquarters in Cambridge and the fortifications constructed by American troops. His manuscript map was sent to London where it was engraved and printed less than two weeks before the British troops left the city. British military and political leaders used maps like this to gain a better sense of the American war.",
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
@@ -10,7 +10,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11xz487",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11xz487/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzVWdly4zYWfc9XoPiS7iqLpCTviZWS1c60Z7x0We5kMqmpFERCItokwAFIy8rXz7ngIkqy3Z1klsqLLGO5G85d9e13T1nKHoWxUqszr++HHhMq0rFUizPv4/33vWPvu9FX32Y6tqf0wXBe2dOnVKqHMy8pivw0CJbLpb8c+tosgv7JyUngdr3mqJXPHRyEYT/4+/XVNEpExntS2YKrSDS3iNfGtVRH/kI/BrQRPA69tdBD/wi3rDy1jtSVjnjhNl6+zZ7ZIv4xN9ivD7m/vWHvyH+ysTf6irHKDIUsUnGp5pqVli/EmZcbmXGz8lgsbZ7y1RWfibRd/qVedRQaGkqrqTbFaMy+DTYWOmccn9GHq/EN03N2fju9v71hkJHJwrIL9SiNVpbZRCzxWKxIBCtMKdhUFqUzAN16Ly275p+ELVZfW3ZvtM7tniPCU6txSVtB5+j2nYDY9huWygeQxDpPU7fxPQTDrTsR6xKs6faFKgxwkmRCYUUYERUiZrMVm+kiYWOTSWFrzSo1yHrBpvnWFlU8g/CrnGyJV9WKp5vWwv4HDuv8KNNU8oyEkVGCx2qs1xx45lJNOOaF8EY8KuSjYP2jg7DXPzo6fOW+0ZXYmyv3wmQ1xUI8FR7jJYxoZLE68/DakREpL7TprH+8u2yhKOMWbo+A6axMAZCgvmOBaZ6W4ssvBNwqbzS2VkeS0wOQHrVKjbC1SsGGTh21O7iGVrfzO2F1aSIxmsAeemF4nsioebrNE+3NhVBGdC2xyBZ59JtsUDO6hhpGAptfbIvti0GxyMLwcHDY3/ZHSCkMIeua5w04neRrRSDsQqoGnM0qaERbUHBL21gY/fyBlsmfcqPjMnJeqHTBZAw/kXMp4n/WjFsCG+/T4VTzKWephIub0c8VSWFeItie7FyX1pYUVUeZVltv2W51jpOPTIxwUFpngeUwiou5xx7E6h22zryVwPP8q+QpCWDOPKnmwhiBGAmXOqjpd2h1ELdp4IprytWiRCDtStKsveZu0urD4UlvMPtNQGtufTHAmguBUAtvdKEWZOZana6YHS27GtXvmKysjHj6TtjIyJyAsWF4WKXg6a2zzsiIuTYZL+gZ6p3GqBvnOgRgGwBi1GcZz9kpwx9VVpxYLlSVNdQDW0pE5yW5SqRTODH7hrH9Q/bEDg9ZlNVMalpdGCncUKK4FrHk93iNETLbQgSfcrFo4LRz5AvuA8HzP3L/Uz547XrjGc/bviLNZ7YwyAqjHwXSlmC3Spyy+wRpE5bcIz+e8Vm6YrHhS0UJ7hwwAwDYlRQl7MRV0eQits5OschlhMRI2TPXVhJP2+TZhgI9yjhD1Iq4Quqm1IxHYrdRoWdwc/IlH6II96axQE1F3lQRFepRpDqn9NuQjQB/EtAzlMc9BgxF7jQvWAokFXqDu3jk0bpOONe2oG8K1YKJEjDfIwEO/Vapr51F2BwylKaWYqIRhBRk4Cnl/BV7L3iMwGDwGE6XCc9mRsYL4ZSlK5CK4lZVolkW4QNVS1M9bJnDd/VLB8skwZKj6CG9odCVVjFkXiLsCZRFbg9uavgj6BFL1GCKaKfCOlOA8lKzpRAPls3IzcSGUepXSMW8aG3qt7uZTOF9ZlVR1viHYIXTPCZ9SwtGkNC6Cgr3ITtkXHAYgoMb/NmQ5OuKq1V3yY1fo7UF5Lo60oUY3eH9xRzVnq5gaBNO0dmJgn8THiUldF34bT1ZiC0SU9yFRFR+0dtYmeX4ZktjdEkFYcHKHOUXQ3BJiipUpE5oqIXYz96Mex/eQg+CYYVeSC6ekLNUhaMaYVVoqe3xZmEEAhAszZbakNVXzxaljt5KpKleusMblakHntnKe/tZ5Yzmsf3sKYtXE2zGDekMhq3OYHd8HLIVdQGvUJnoLOc1ctCFrMiUErmiRZvDR52PHSTYG55Co3KRVHa1KfGjsIIICAMDzWRh5yT0Pm/3mDdmrvS//b4u/ffWtf/ND5d3tzdT/5ni//L+4/j+8ta1DO8vp+x6/NeL6f1PX0/Z+O76J5+Nb96x8dX0lt2/v51eEPX79xfs7uL84gr03jVRDi+LTAffFs5IdXhAaDK+C0xeFZkahUnFjD8gLCB3kT6ogoCGBH5I4s0IAm0EfSVyrnn5bCoEo0qN/c2/17nfH4T+EAGRjOCWJxN/4Mf+vu/wIp44wbkNsh3JXn3JfEU8xzGIWtY/2DsAD3CZZtT8EPLRFma5C5F1FLgGrsuM1KMOVMOkCrRaD3CL5F/It3hFFwWu67CVo2xOOLmFFUAQojkgANJ3Gvz7Q/ZORKx/vA/rvihyXQyJp0TOqrSCmqT6R8SnzOumMbDNyfx1mIGv3cE/2NzoDM3co07LRuhLhYwl8OE6cLTnXMlfq5BMxryhckSxc59diUeANUHUI50mgtIuGdAF0QokHwj4EV55ZhAr99gg7B98Vh9YuRBNNkN6yaEYdEKIRd/8Oio/S7vq/FxOp69MUmqqKtbn79py9gkNbbfWTCObfL7MbPbR/AY1EbvRyBYadcHovFQP0OA9QL/HzlHnpRTp9mp99mBaa32Xfw96PcI6LTU5sNe74AawqaIp3q5/HIZNf+bIryufWob/nWbXbYZE302eaiNJmCI1rKUcZZFRbK9Xqfon064G+Bv3Pm//ZMJ/VBQh2JQcDQ+AHFxos+r11oGgRlz/6Hj439etWKgXVHOtl78ATla+iMvAndzp1Z45FRyGYT8cDDaUT9ChUkVLldpfRNMDbzbzEeqfYjWalvO5Th9qJerF3YNmtWnL7nmzc6EukEcIoXXRREHTUMFcReX2enNykwCMU+OuOSh3pMLKVLhhQze0dM43u91Rw8uG+cwrdq0bdWZEdlt1bVChkoVGvaO+H6KyOjhk+wN/ODg5GgxY7yj0Tw7DwdGxWzymxdYY67tdmXfY/WdEdfXgaOqqQqRMo5/QXrrc3D/t7+/tt0CvDv4uidzITsSXyHJ1WkKBW2z6aXcwuj0GXredLq2i9UrT6lW3x6wvDFqDbTFek03au6aOi89XHnMD/dMExV3rgFYQehyCHoX1Z6lfPgSX4+vpLz98HJzSl3A46IXhIDw+GoYnXrDm1w6vTM0OnYs3IroWhLl58Os5R6SzTKuloOLZ/WiAvdPgIDw5OAmSp37/6df946NmAtAS7UyW6p8CNiZq9TSg+Zlg27JbQ4OrDolmutNdepFPadKd3wd4hI7cnnm6CocoEsnt3ejwD2oPbtvMG2a5EY9SLH8/i6BIymymuExfZkYFFGAj5byHSlHOhf0DOgUNiU1+L5q/0nSiVewq4h20kgwRjSKB1EoA63ijTKVu3AazVU9FPcuDfT8MvAaUtppaGLEe5m6PlGsKdXVJuZGqy3o1do0JkUF7TRUrm9RCwHudFGxcFEbOqjL8BvUQrQsTSaSHaUIt5tiNEq4qguzNZMLOf+rdTHrTcdsMb2n/slm+XC3XDaOIuNHsQdHAIUKfVLXIqM0hsrtlPyuBgblNvD1Or1ZpdgSPnVY/JTzbO7Qxa/f8LjlnWq1oQr07ux4NwkG/F570huH9IDztD0/3h//YJN+5/wz1hKuF+N2029u7lOtRLjwMzQ1clQYL8cbt3WFvM16+nU84fEpje7GZM54Zn0Nq8f8fn+PjhdH5zvB8V7t6Vr4e407rn2y3f4TrHPFGnEemGZ/vXt3IjWu01kv0Mfrq32pavWU=",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Williams, Richard, active 1750-1776"
         ],
@@ -119,6 +122,7 @@
         "subject_geographic_sim": [
             "Boston",
             "Bunker Hill",
+            "Massachusetts",
             "North and Central America",
             "Suffolk (county)",
             "United States"
@@ -127,7 +131,7 @@
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-71.088056,42.329722],[-70.960278,42.329722],[-70.960278,42.389722],[-71.088056,42.389722],[-71.088056,42.329722]]]},\"bbox\":[-71.088056,42.329722,-70.960278,42.389722]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Suffolk\",\"city\":\"Boston\",\"city_section\":\"Bunker Hill\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Massachusetts\",\"county\":\"Suffolk\",\"city\":\"Boston\",\"city_section\":\"Bunker Hill\"}}"
         ],
         "subject_topic_tsim": [
             "Bunker Hill, Battle of, Boston, Mass., 1775--Maps, Manuscript--Early works to 1800",
@@ -137,7 +141,7 @@
         ],
         "system_create_dtsi": "2016-11-17T22:25:29Z",
         "system_modified_dtsi": "2023-09-15T14:47:59Z",
-        "timestamp": "2023-10-03T15:49:33.812Z",
+        "timestamp": "2025-10-31T15:47:49.166Z",
         "title_info_primary_tsi": "A PLAN of BOSTON and its Environs shewing the true Situation of His Majesty's Troops, and also those of the Rebels; likewise all the Forts, Redouts and Entrenchments erected by both Armies",
         "type_of_resource_ssim": [
             "Cartographic"

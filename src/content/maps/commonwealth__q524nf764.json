@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749908278312960,
+        "_version_": 1847512943068971008,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nf77d",
         "extent_tsi": "1 ms. map : col. ; 33 x 21 cm.",
         "filenames_ssim": [
-            "ct001619",
-            "commonwealth:q524nf764_metadata"
+            "commonwealth:q524nf764_metadata",
+            "ct001619"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nf764",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nf764/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Neff, P. M."
         ],
@@ -104,14 +107,15 @@
         "subject_geographic_sim": [
             "Allen (county)",
             "Fort Wayne",
+            "Indiana",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-85.1167,41.1167]},\"properties\":{\"placename\":\"Fort Wayne\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-85.1167,41.1167]},\"properties\":{\"placename\":\"Fort Wayne, IN\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-85.1167,41.1167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Allen\",\"city\":\"Fort Wayne\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-85.1167,41.1167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Indiana\",\"county\":\"Allen\",\"city\":\"Fort Wayne\"}}"
         ],
         "subject_point_geospatial": [
             "41.1167,-85.1167"
@@ -121,7 +125,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:58:58Z",
         "system_modified_dtsi": "2023-09-15T14:47:47Z",
-        "timestamp": "2023-10-03T15:48:22.834Z",
+        "timestamp": "2025-10-31T15:47:23.032Z",
         "title_info_primary_subtitle_tsi": "ms. map of Fort Wayne said to have been made on July 18, 1795, for General Anthony Wayne",
         "title_info_primary_tsi": "Indiana Fort Wayne",
         "type_of_resource_ssim": [

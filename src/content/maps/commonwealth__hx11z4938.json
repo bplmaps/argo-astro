@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1792997184676823040,
+        "_version_": 1847513009939808256,
         "abstract_tsi": "A manuscript map of Nova Scotia showing the post routes by James Peachey produced to accompany the Deputy Postmaster General's report.",
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
@@ -10,7 +10,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -38,15 +38,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z494j",
         "extent_tsi": "1 map on 2 sheets : joined, manuscript pen and ink with watercolour ; 42 x 95 cm",
         "filenames_ssim": [
-            "k_top_119_59_2_b",
-            "commonwealth:hx11z4938_metadata"
+            "commonwealth:hx11z4938_metadata",
+            "k_top_119_59_2_b"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": true,
         "georeferenced_bsi": true,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z4938",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z4938/manifest",
@@ -147,7 +149,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:37:38Z",
         "system_modified_dtsi": "2023-11-04T20:58:01Z",
-        "timestamp": "2024-03-08T22:02:44.415Z",
+        "timestamp": "2025-10-31T15:48:26.806Z",
         "title_info_primary_tsi": "[A map of Nova Scotia showing the post roads]",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749836732923904,
+        "_version_": 1847512911578136576,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n8916",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n8916/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_date_tsim": [
             "This date is inferred."
         ],
@@ -104,17 +107,19 @@
             "Clinton (county)",
             "Grand Isle",
             "Grand Isle (county)",
+            "New York",
             "North and Central America",
             "United States",
-            "Valcour Island"
+            "Valcour Island",
+            "Vermont"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4167,44.6167]},\"properties\":{\"placename\":\"Valcour Island\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.2833,44.7167]},\"properties\":{\"placename\":\"Grand Isle\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4167,44.6167]},\"properties\":{\"placename\":\"Valcour Island, NY\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.2833,44.7167]},\"properties\":{\"placename\":\"Grand Isle, VT\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4167,44.6167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Clinton\",\"island\":\"Valcour Island\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.2833,44.7167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Grand Isle\",\"city\":\"Grand Isle\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4167,44.6167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Clinton\",\"island\":\"Valcour Island\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.2833,44.7167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Vermont\",\"county\":\"Grand Isle\",\"city\":\"Grand Isle\"}}"
         ],
         "subject_point_geospatial": [
             "44.6167,-73.4167",
@@ -128,7 +133,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:13:47Z",
         "system_modified_dtsi": "2023-09-15T14:47:33Z",
-        "timestamp": "2023-10-03T15:47:14.604Z",
+        "timestamp": "2025-10-31T15:46:53.001Z",
         "title_info_primary_subtitle_tsi": "by the King's fleet commanded by Sir Guy Carleton upon Lake Champlain in \"11th\" of \"Octr.\" 1776",
         "title_info_primary_tsi": "The Attack and defeat of the American fleet under Benedict Arnold",
         "type_of_resource_ssim": [

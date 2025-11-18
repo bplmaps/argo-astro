@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749895169015808,
+        "_version_": 1847512934471696384,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nd90r",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nd90r/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Dieskau, Jean Hermant, baron de, 1701-1767"
         ],
@@ -103,14 +106,15 @@
         ],
         "subject_geographic_sim": [
             "George, Lake",
+            "New York",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4167,43.8333]},\"properties\":{\"placename\":\"George, Lake\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4167,43.8333]},\"properties\":{\"placename\":\"George, Lake, NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4167,43.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"George, Lake\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4167,43.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"other\":\"George, Lake\"}}"
         ],
         "subject_point_geospatial": [
             "43.8333,-73.4167"
@@ -122,7 +126,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:40:53Z",
         "system_modified_dtsi": "2023-09-15T14:47:45Z",
-        "timestamp": "2023-10-03T15:48:10.332Z",
+        "timestamp": "2025-10-31T15:47:14.834Z",
         "title_info_primary_tsi": "Fort Edward to Crown Point",
         "type_of_resource_ssim": [
             "Cartographic"

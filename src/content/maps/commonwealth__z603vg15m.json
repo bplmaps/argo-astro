@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1824412557158383616,
+        "_version_": 1847512839642677248,
         "abstract_tsi": "Subject: Map of the state of Connecticut with each county colored differently. A cartouche at lower left shows a man in a rowboat rowing towards a ship, and the state seal of Connecticut.",
         "admin_set_ark_id_ssi": "commonwealth:z603vf985",
         "admin_set_name_ssi": "Maps from AAS",
@@ -10,7 +10,7 @@
             "commonwealth:z603vf985"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Maps from AAS"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -45,8 +45,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": true,
         "georeferenced_bsi": true,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vg15m",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vg15m/manifest",
@@ -128,7 +130,7 @@
         ],
         "system_create_dtsi": "2016-12-06T21:51:20Z",
         "system_modified_dtsi": "2023-09-15T14:47:10Z",
-        "timestamp": "2025-02-18T16:16:38.290Z",
+        "timestamp": "2025-10-31T15:45:44.398Z",
         "title_info_primary_subtitle_tsi": "one of the United States of North America",
         "title_info_primary_tsi": "A new and correct map of Connecticut",
         "type_of_resource_ssim": [

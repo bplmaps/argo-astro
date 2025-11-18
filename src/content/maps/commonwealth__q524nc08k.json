@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749868651577344,
+        "_version_": 1847512923868495872,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nc08k",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nc08k/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1458"
         ],
@@ -96,13 +99,14 @@
             "King William (county)",
             "North and Central America",
             "United States",
+            "Virginia",
             "West Point"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.7833,37.5167]},\"properties\":{\"placename\":\"West Point\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.7833,37.5167]},\"properties\":{\"placename\":\"West Point, VA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.7833,37.5167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"King William\",\"city\":\"West Point\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.7833,37.5167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\",\"county\":\"King William\",\"city\":\"West Point\"}}"
         ],
         "subject_point_geospatial": [
             "37.5167,-76.7833"
@@ -112,7 +116,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:57:42Z",
         "system_modified_dtsi": "2023-09-15T14:47:39Z",
-        "timestamp": "2023-10-03T15:47:45.044Z",
+        "timestamp": "2025-10-31T15:47:04.721Z",
         "title_info_primary_tsi": "Batteries de West-point au haut de la Rivie\u0300re d'York",
         "type_of_resource_ssim": [
             "Cartographic"

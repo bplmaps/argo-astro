@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749641652699136,
+        "_version_": 1847512876537872384,
         "admin_set_ark_id_ssi": "commonwealth:mc87pw948",
         "admin_set_name_ssi": "Massachusetts Historical Society Map Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:mc87pw948"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Massachusetts Historical Society Map Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vm71s",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vm71s/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzVWOtz27gR/56/AsMP7d2M+ZB0lixdxIwt313dsZ1M7Ou0vel0IHJFIiYBFgAlK399FxQgkZL8SNL2pl/0APaNxe5v8fbdY1mQJUjFBJ96vSDyCPBEpIxnU+/X+5/9M+9d/OZtKVI1MR8E6bmaPBaMP0y9XOtqEoar1SpYDQIhs7A3Ho/DZtdzpIodI+xHUS/86831XZJDSX3GlaY8AcdldHXYCpEEmViGZiNcDryd0YNghFyKTVQj6lokVDcbT3OTI1tGf0ol7lui5tsf+KPgUaVe/IaQTRg00wVc8YUgtaIZTL1KspLKtUdSpqqCrq/pHIrt8j/taiPByeCC3wmp43PyNuwstGgaPXFJKyIWROdUk4pKbf6clyBZQskqBwmEkhQyCWB2CnRd1ymQFVWkBKpqCSlZCIkCgHwUa1qQO5Ew0GureKPFOBd2vTvmsF5X6C8tNEiOmpbgHRr8C3D8Kin/I1pAM/qZcSDfXQueCn5CfuJZgXH+/vXaOS3BKq7wyAWnRTeUuP8BAxPfUGU0zHIqC1Aurm73CIeVmlKNfvRG/TO/NzobPsMoxcbY7so9yNKK0vCoPUJrnQvJ9HrqYQIkEvBUhGyt//rxapudLN1m4BIzd14XmDOh5VGY5rSo4fUMIarz4pkE88+64oy0roQdX1rufkXML9mjifmfMQ9LRvP/99jpOcZOcC3ZvP6W+BmP3i8+ghK1TCCeYSxEJmmVs8Qlepdiy5kBN1d6F4WszKrki/y3im4wrSWjxevjsM8Y6qyMomF/2NsvbWglSJMTN7RyN62xfOcIGpsx7q6yW0UZyV4aNEv7eRBv6oUVvSXpnEBLlpVUzwumsCbGv6mAB/9wdNvlFi1Tqjb9Ji4F3zua7VaL3NSIK1zHYrprj6tBkuqFRx5gfYn7U28NGOx/1bRgCwZy6jG+AIkF2FSX4diK34lqpU83WhudWCezGhtM2w639ty9YUoMB2O/P/+irHFcr84WxxACz7zY1HUMsnWnbWbLy7ZH9sjytcJOVlyCSiSrTN/uhB2jomnxvolOLAEbWUm1xlOwOy6mHbqWAIwNtqO4R0wbnZAcWw9JRBGQH0lvRB5JLyJJGVgplridJdx0OtA3kDJ6j+GOsaVnEH6qIHPZckDyCn7NFotv4f9U9Z9jd4l/PLgOgWgsTMKgKIJFCOGB5KRCCIJUykCJD8C5WhdLyhklJm63sDKFXsH6hCCyMHqJgsQwGPobTArT2k/IJdbTFZVw0rBxlJkfof8Lk3hYjAZbBKRhz7wrTuoKGxDBc801Hhx6KifEIIwA9WUBuRXLgJjL9bQUe00Q3mkokdPolqAqdJPNWYGXw4vnawMbjEzsdeQPtKx+bHpaQJoG96LwDYS4z5ki5ifBb3f3j/Oqev4JQ9G+tkWi8pdvrNtnoEIrRHVBmKhYEt+wNC2AnGs8Ec0Scme8V75v6rXv/4QIaU1WQj4oogXpnUWRa0sN9y6FrIr/neEud/47puqMP2FpU9iCDLReB5DWYUN5UAmPUIWjKBr1B+OOLzmWf0Qvubl9v4DrL92+lyDOQGiMBefW3JDmrszwL/ZVB/CtZzvKjoAmo7cBc1FoFttt8jlbrCUteKL2jRQSm51JnngwPvFHp8FwOBxtDdvttlUeCPzdj6j3w7AXffERYVjp/lWyrjRb/5nzfPGcXojeK49SoVyI78wn+S3BYteb9E/6p9FJFEUOKm1ovuooGxAN6RUWWVsUc6H04Xy4Q4TdsRFLr6JJXis8OUX+xBTibxMKN66SmSiKTffYnx2fmB7DfbueM5apj4AFG8EdpBc4yjdPGJMcIcc2s+Y49+b0M6UyKNFYLPa6eclIMubPGQ8/rGAuAQ83wJV3lxdTLH20aJrJxcXV5bR3NsRO5YU7M1iKSdBgRWtFLZkXG3UK9VH5EFhgk4gSceoKjAWNTtybhKfR+HQcfh5Gg2U56jkcvhPagpL2TaSDli06cO8lL57AHqq4bsl0+K699KTiWhYHLyc0SUCpqSc29YBxYi5JMwl8YzhQ275yp6ySsGSw+noVoc7rcs4pK55WZvo+phdjC79EKLUA9Q0+hU5EV9+T4d94ihNtyhrYtZ/VxobEvBWwJWwMUI3ugiXAFXbq+drnia9o+EMQhZ7LUgVNdZNQSZHWzZ3cnxCtBAuKTP82oMiubl6kjJiap5j8lMysEXjLGyuw3G6GcGP1reC+WQeZMJOOORZfcl6wByDXG4Hku9mMXPzNv535d+ffO8i15/3TYXm9Ww0QRdxyK8gDFyuTptV6g04RU6LJDZd60QJTJ2S6Px1vVs0DBF7hu83LwAVWUTTxgxliE/R3jk1iva1th/SH4prQCm5G1MPhNe5H/Z4fjf3e6X00mvQHk37v713xLf4j0nGkyuCrZW+5DyXbYQ5vGMXBBA8FTz3tcB+Oe27AfL+YUbxTArezbrM5MkCj1fD7D9D48cTwfDA+H3pnp+XdnHdnH7P339NaJF5MaeKeuI6wdnroLlvtkvmI3/wbdU5cSQ==",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Mason, Charles, 1728-1786",
             "Dixon, Jeremiah"
@@ -110,14 +113,15 @@
         "subject_geographic_sim": [
             "Delaware",
             "Middle Atlantic",
-            "North and Central America"
+            "North and Central America",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.6667,39.0]},\"properties\":{\"placename\":\"Delaware, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.6667,39.0]},\"properties\":{\"placename\":\"Delaware\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.6667,39.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Delaware\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"Middle Atlantic\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.6667,39.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Delaware\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"area\":\"Middle Atlantic\"}}"
         ],
         "subject_point_geospatial": [
             "39,-75.6667"
@@ -128,7 +132,7 @@
         ],
         "system_create_dtsi": "2016-11-20T03:49:47Z",
         "system_modified_dtsi": "2023-09-15T14:47:17Z",
-        "timestamp": "2023-10-03T15:44:08.560Z",
+        "timestamp": "2025-10-31T15:46:19.584Z",
         "title_info_alternative_tsim": [
             "Gentleman's magazine (London, England)"
         ],

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749885185523712,
+        "_version_": 1847512930626568192,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nd156",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nd156/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1665"
         ],
@@ -97,15 +100,16 @@
         ],
         "subject_geographic_sim": [
             "Escambia (county)",
+            "Florida",
             "North and Central America",
             "Pensacola",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-87.2167,30.4167]},\"properties\":{\"placename\":\"Pensacola\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-87.2167,30.4167]},\"properties\":{\"placename\":\"Pensacola, FL\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-87.2167,30.4167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Escambia\",\"city\":\"Pensacola\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-87.2167,30.4167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Florida\",\"county\":\"Escambia\",\"city\":\"Pensacola\"}}"
         ],
         "subject_point_geospatial": [
             "30.4167,-87.2167"
@@ -115,7 +119,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:21:50Z",
         "system_modified_dtsi": "2023-09-15T14:47:42Z",
-        "timestamp": "2023-10-03T15:48:00.812Z",
+        "timestamp": "2025-10-31T15:47:11.167Z",
         "title_info_primary_tsi": "Bay of Pensacola, fortification",
         "type_of_resource_ssim": [
             "Cartographic"

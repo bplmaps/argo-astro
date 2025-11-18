@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749525717942272,
+        "_version_": 1847512835451518976,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vn98d",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vn98d/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Ellicott, Andrew, 1754-1820"
         ],
@@ -110,17 +113,19 @@
         ],
         "subject_geographic_sim": [
             "Arlington (county)",
+            "District of Columbia",
             "North and Central America",
             "United States",
+            "Virginia",
             "Washington"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.1,38.8667]},\"properties\":{\"placename\":\"United States\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.0333,38.8833]},\"properties\":{\"placename\":\"Washington\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.1,38.8667]},\"properties\":{\"placename\":\"Arlington (county), VA\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.0333,38.8833]},\"properties\":{\"placename\":\"Washington, DC\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.1,38.8667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Arlington\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.0333,38.8833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"city\":\"Washington\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.1,38.8667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\",\"county\":\"Arlington\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.0333,38.8833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"District of Columbia\",\"city\":\"Washington\"}}"
         ],
         "subject_point_geospatial": [
             "38.8667,-77.1",
@@ -132,7 +137,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:31:23Z",
         "system_modified_dtsi": "2023-09-15T14:47:10Z",
-        "timestamp": "2023-10-03T15:42:17.997Z",
+        "timestamp": "2025-10-31T15:45:40.401Z",
         "title_info_primary_tsi": "Territory of Columbia",
         "type_of_resource_ssim": [
             "Cartographic"

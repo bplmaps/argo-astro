@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749865363243008,
+        "_version_": 1847512922743373824,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -53,7 +53,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nb86r",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nb86r/manifest",
@@ -68,7 +71,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Booth, Robert, -1791"
         ],
@@ -124,15 +127,16 @@
             "North and Central America",
             "Potomac",
             "Rappahannock",
-            "United States"
+            "United States",
+            "Virginia"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.1,38.8667]},\"properties\":{\"placename\":\"Rappahannock (river)\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.3333,38.0]},\"properties\":{\"placename\":\"Potomac (river), North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.1,38.8667]},\"properties\":{\"placename\":\"Rappahannock (river), VA\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.3333,38.0]},\"properties\":{\"placename\":\"Potomac (river)\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.1,38.8667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Rappahannock (river)\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.3333,38.0]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Potomac (river)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.1,38.8667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\",\"other\":\"Rappahannock (river)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.3333,38.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Potomac (river)\"}}"
         ],
         "subject_point_geospatial": [
             "38.8667,-78.1",
@@ -146,7 +150,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:52:59Z",
         "system_modified_dtsi": "2023-09-15T14:47:38Z",
-        "timestamp": "2023-10-03T15:47:41.908Z",
+        "timestamp": "2025-10-31T15:47:03.649Z",
         "title_info_primary_tsi": "Potomack",
         "type_of_resource_ssim": [
             "Cartographic"

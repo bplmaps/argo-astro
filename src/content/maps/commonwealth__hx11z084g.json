@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750001500913664,
+        "_version_": 1847512977632133120,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z084g",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z084g/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Labrosse, Paul, 1697-1769",
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
@@ -118,14 +121,15 @@
         "subject_geographic_sim": [
             "Canada",
             "Montreal",
-            "North and Central America"
+            "North and Central America",
+            "Quebec"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.6,45.5]},\"properties\":{\"placename\":\"Montreal\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.6,45.5]},\"properties\":{\"placename\":\"Montreal, Quebec\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-73.571667,45.484444],[-73.546111,45.484444],[-73.546111,45.5125],[-73.571667,45.5125],[-73.571667,45.484444]]]},\"bbox\":[-73.571667,45.484444,-73.546111,45.5125]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.6,45.5]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"city\":\"Montreal\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.6,45.5]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Quebec\",\"city\":\"Montreal\"}}"
         ],
         "subject_point_geospatial": [
             "45.5,-73.6"
@@ -135,7 +139,7 @@
         ],
         "system_create_dtsi": "2016-11-17T22:53:19Z",
         "system_modified_dtsi": "2023-09-15T14:48:01Z",
-        "timestamp": "2023-10-03T15:49:51.739Z",
+        "timestamp": "2025-10-31T15:47:55.994Z",
         "title_info_primary_tsi": "PLAN DE LA VILLE DE MONT REAL DEDIER A SON EXCELLENCE M.R LE GENERAL AMHERST COMMANDANT EN CHEF LES FORCES DE SA MAJESTE BRIITANNIQUE DANS LAMERIQUE SEPTENTRIONNAL",
         "type_of_resource_ssim": [
             "Cartographic"

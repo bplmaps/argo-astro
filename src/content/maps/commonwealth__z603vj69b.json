@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749776937877504,
+        "_version_": 1847512886953377792,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vj69b",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vj69b/manifest",
@@ -60,7 +63,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_tsim": [
             "Manuscript, pen-and-ink and watercolor.",
             "\"No. 53.\"",
@@ -92,15 +95,16 @@
         ],
         "subject_geographic_sim": [
             "Boston",
+            "Massachusetts",
             "North and Central America",
             "Suffolk (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"placename\":\"Boston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"placename\":\"Boston, MA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Suffolk\",\"city\":\"Boston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Massachusetts\",\"county\":\"Suffolk\",\"city\":\"Boston\"}}"
         ],
         "subject_point_geospatial": [
             "42.35,-71.05"
@@ -111,7 +115,7 @@
         ],
         "system_create_dtsi": "2016-11-20T02:31:24Z",
         "system_modified_dtsi": "2023-09-15T14:47:21Z",
-        "timestamp": "2023-10-03T15:46:17.579Z",
+        "timestamp": "2025-10-31T15:46:29.517Z",
         "title_info_primary_tsi": "A Temporary project for a star redout [sic] to contain 150 men",
         "type_of_resource_ssim": [
             "Cartographic"

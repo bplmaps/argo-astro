@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749877221588992,
+        "_version_": 1847512927976816640,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nc613",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nc613/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzNWFlz27YWfs+vwPCh086IpBbbstSYHVtJE8/YScZypu19uQOREIkYBBgAlMx/3wMSkEhtcZOH9sULgLNv3+Hr355zhlZEKir4lTcI+h4iPBYJ5emV9/nxd//S+y169ToXiZqaHwjeczV9ZpQ/XXmZ1sU0DNfrdbAeBUKm4WAymYT1reeeKnro4bDfH4R/3t/N44zk2Kdcacxj4qiMrA4ZE3GQilVoLsLVyNsqPQrGQKXoVNWs7kSMdX1xnBoduDLyEyzh3j6qf/sjfxw8q8SLXiHUuEFTzcgtXwpUKpySK6+QNMey8lBCVcFwdYcXhG2O/29Paw6OBxd8LqSOrjl6HXZOWo9qQRF5xrH2gQNHYoneEXAe8R/FmlvC5lWLTJWLx/pMCcRxThK0qNAnrCWNn9A7iTOc99Bb9VUGPfRJEkUTwrXhrTMCB2JFIQ4bWRT3EOUoE1wGSAv0nir0ICrM4K8040Qpq5Nh5ij/wIyoHvoJ58WvMbaKbvQyngy7rjzkXV0V4FzMNJEcIroi3r5zTrjjuAjjFMu9gCQSHLNucOD+E4ZY/CW4ses94bJyYXJ3rfdSuAC0Tx6JzK0UTZ61h3CpMyGprq48yItYEoa1kK3zzw+3m6SlySYxV5DQi5JBKoWWRkH2Y1aSlxOEIM6LZpKY/6wpTklrStixpWVuKzZgzcflA1GilBDoHPNSxZIW+sqriAL+4BiRSlxkNHbu75BsWaXgU9J2SZqnRfyPnGEF3WNIEIrZy52ySxjqNO/3L4YXg90SBi2JNNlxjwtlLao1/w8bMhgOLy9OGOJidsQe0Dml3BWMO01ARJ090E2282E9ihO99NATqd7AVZMF6GuJGV1SIq88ypdESgLdczA+P7MCW7xamdaV20iFnpeW0GLbmrizU+VFlbgYTfzh4h+FwVG92P2OICQ89aK3PGVUZdactpotK9sWNfYUWaVojNkb0oQFJlfH8eAVjdnH2juRJEshc6xNGOyNc2rnXYsB+AbaezRoVSv8WaApymDeoVgwIdH4DD2j8zMU54HlZ8lajCg3jZjoe5JQ/AiOj2C8pST8UpDUEu0/eQG9psvlj9B/KYanyO3dETe7aaxJqzJ6qCDcB+8AKnlCxktrU2G1q4LNuNZkh8FtDtNkSWI9RfcYBidXMC8lP0EB0QInQyzXVGeIw/jPzIg1c3ghtBb5CdoZTrDSUNMmmifezTOxNoqsOWKYJkiU2sxzJrQyvzFaEDAQZrb3ztQk+pgSgFHoAeYtzCYDOzgoCFotSCzM3ITLGBcm2RxmKCxmCNAtR7+TRYCg2s/rq3rUrrFCMWRb2jB6DyBrDVikhxagi3lVa8cJSERLBoMCyogkvdrzBVaKNFqDNPJMFeQliDoRBh6zMiEKJS7UKwKWJuT5OJFtJAABNcktGgJkVAiu6IIyaB9eNC/lilSgS41qgDuA3KYhArwSMgHlNxjKgarm6UyUPKasA6l0BjhqorMAJbgyN/fwyzTJAN1UDeJAFn4oEHwi76zuMUTEZDWMfOi5xkdedDdDZnAZ9h/q5LrOYVDEIB4k9f3B+HICf56Ph99iblq2Fz0anc2fiJrcaVr7YcUA632BSmg3ZRar7Nv92N1TokLLRHVxnyhoHG1z6B0O0M83sgJ4bPysq1983xjdQ9uC9v23WLIKrYV8MrWABpf9vgMoNb9to7BCT5qiU37Ekno6BCnRugpIUob1y71xcuAV7EPD0aB/2bE1gyEKSDEzjQsyx477LtSMa6OjG8zAIQ4E28P9h7KKPnNqknZucl2138s9Aq4hxWEKNMljynEG/5qeYxNpQ+5edhmAczaRck+p08senLLRsmmhSrWrIhQe5caSaDQK+hcX455/OQqGg4vxRrftk7bcPa7fiP8LNVJgBjRd8xPaJHTC6VlvvEm25va71KiRPEluoUHZosyE0vsr0Ra5dTelO7oAP9etZgZ9RZrFbSYYAyHQNQ7skofWp3BXlVP6UfXgWlFyA9tx/VVgmkF/agpBQSWwOOab2k/z8aBvgPgl8sIt57qV1oDSMoYB4UWOA5ZPgQU/MJ9ywdcEVsas/sYAd9PwvD85n4Rfz4dnPL4YjBxW2DA9IQgUw8wX0NOlF2FpOuUmlIcYMPvpoR0UBzzcZ4mDgXCJX9VFBu0LvaErqraB2ePSgpTto6NqlJLtfa7AcQzCrzzRNDhAA6aQDZj+Ue+CtF3hTlghyYqS9feLCHVW5guOKTsuzAwjSEBKlz7AXrok6gdsCh2Lrryj7m8shdgm1FwczPvYYC0AJo0CqpbNaEy4grm3qHwe+wqHZ0E/9FzSK1InhyQAt5KyrtrdLc9ysJPaTDszqe1pgmB3QIZNyQ1YwWhmlYA8rLVA11pLCqDMaP1BcN+cA+6F1RLNMwxr7jWjTwTdNQzRz7MZuvnL/zDz59e/OBywY/1xt7zcLNhpMoMCPgj0xA1UjEVR1YcGpJnvWoZKfVMDCe6Wye5q25zOTOZzPW8+U9xAawUVP5ULcB6yFbvpfvvv99nVrhXcrMX7C3MEw37g92F1nDz2YUL0p4PJ/7rsW/QHuNdg+rt5b6j3Odv9ESoM8BSUagFRTzrU+xum22k/LmcYakrAddqdQAd2dtCa/Ps7O/w4sq/vbez71tkFfbtQzu0X5N0vfa0nXiQTh5oOUHaG7DZZ7ZH5Eb36G7IKLqI=",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Yonge, Henry"
         ],
@@ -112,15 +115,16 @@
         ],
         "subject_geographic_sim": [
             "Baldwin (county)",
+            "Georgia",
             "Hardwick",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-83.2167,33.0667]},\"properties\":{\"placename\":\"Hardwick\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-83.2167,33.0667]},\"properties\":{\"placename\":\"Hardwick, GA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-83.2167,33.0667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Baldwin\",\"city\":\"Hardwick\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-83.2167,33.0667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Georgia\",\"county\":\"Baldwin\",\"city\":\"Hardwick\"}}"
         ],
         "subject_point_geospatial": [
             "33.0667,-83.2167"
@@ -130,7 +134,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:10:17Z",
         "system_modified_dtsi": "2023-09-15T14:47:39Z",
-        "timestamp": "2023-10-03T15:47:53.217Z",
+        "timestamp": "2025-10-31T15:47:08.640Z",
         "title_info_alternative_tsim": [
             "George-Town"
         ],

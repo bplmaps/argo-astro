@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749850498629632,
+        "_version_": 1847512917109374976,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n991d",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n991d/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzNWFlz2zgSfs+vQPFlkyqT1GFHljfmlKPM7mTKdqZsp2Z3X7YgsEUihgAGAC3r32+DAiRSVzzJVM2+WDLQ/fWBPvXup+e5IE+gDVfyMuonvYiAZCrnsriMPj/8Iz6PfspevZur3Fy4PwTppbl4Flw+XkaltdVFmi4Wi2QxTJQu0v54PE6b2yiQGr6PcNDr9dN/3VzfsxLmNObSWCoZBC4nq8MmFEsK9ZS6i/RpGG2UHiYj5DL8wjRQ14pR21wc5iZ7rpz8nGq890TNZzyMR8mzyaPsFSErN1huBXyUM0VqQwu4jCrN51QvI5JzUwm6vKZTEOvj//rTBqGDkd0/gmUlUTPyXtfSLDh7fJe27lsMpp4+bPHYEkihVS1zIoFqcqMTcq0WfzOEWnJHNbdKkms0Ct/Sw65RnDFp15p9BtplhfZRYUFLdOoT7DHioOp/loD9prxAjKRz8BIqDBYlqejAu/vfqLbZfY2+1ALxT8iVgGf8AvqEvP5ZFlwC6DdexpqhBaJVeKj2yQPouRdt4dlGhKIIhXYsLyMMCqZBUKt06/zz3cd1xPJ8HZVPGM3TWmAcpZ7HYOhTUcPLGVIUF2UTDe4/b0pQ0puSdmxpmdt6NLTm0+wOjKo1AzKnsjZM88peRkswiI+OUYWmVclZeJMOywaqAKmh7ZJiXlTsDznDC7qhGDmcipc7ZZsxtcW813s7eNvfzl/UErQLmRtaGW9Ro/n/sSH9weD87RFDwpsdsAd1xogPWRROcxTRRA/kreawGLLcziLyCMsPeLWKAvK1poLPOOjL6GsNxhViOhUYfv3RaOSFtvBa0daVvZKMKVnUWGPb2oSzYynGjXo7HMeD6R96isD14icIDCnIIsqwWghuSm9OW82WlW2LVvZU5dJwRsUHWD0NeqzjfPSKpeJT451Mw0zpObXuKfxNcGqHrgWAvgFpswFhSiSYtpX5O8FqakoAS84G5JkM+4TNE4/jyVsAXLrqDPYGck4f0OEZ9rUC0i8VhGK8S/ICfstnsx/h/1INjrH7uwPu9R1AWWhlxQmpQMZY/XEceST4SRYuu9BxSgf/NCxdgN8dEVb1xwvya0J+L6nF4niE/g4Ehxm+gFpIMl3iF+pS6gjHrUrIkHDJRJ2DIbKeT0FjCAg/6+BVDs/EKoKnqp5ac0KsVqoilTLcUeABzg1HRFwxpuYVlRxhUadfuBDGRYsLGwGskdL0WFKh8xvnWJfZbhJhSrqgMYfhfaIyDFGHhK1phga4eS+7nhBXYB3OrdK2JFdzLGiMnpD+6KwX90fnY/w6GA32guNE8wW1aye/YKb8dt6Hew4m9SCmO3yoirPsFhab4Yy8vk1+Td7E8S/cYCtdxvEdPClRO5OcuqMzp+4wjp1Bcfwz1WJJFko/Gvc0/fNeLzTGBnsTpF6Bv9osp/YJ2eTDn22CLeQBC5qimhRg7TKBvE4byp0qvIcqHfX6p7h0dGwssf/gkFW6vP8nhKGkO6UxHJztMrvheS7AwLM3wx/vkupl9llyV3fvMYbBtOn1DoO0ODhiGV1FtEuWCf6LTThE95o9UHYB0D3dNwr0PCjnD46Z6rFac5nZ1lNprDzOnOy0l5yeD4cn8eg0OT1bq7chaEvdwfxGELxQH4NG4Ibj/hJGE9K/6A9Oer1e48DmkmD2kwL3BBkkNizfpVszHkP+0UKYI0pl7O4CshmHunvJNZ+i65eucE2ULDQYg19CsdyzyO1bVNJtVY7px81dqJv5e9w3mz37osRiukoRgzkiGJPralDMR7hnD8/GQxKlG2SeY8Q1U5oHrjWPsoCAjSzx0wS2hLmSC8AFrWy2dtfk0rPe+Gycfj0bnMrxuJ+HJrwGPSLINSwRK7duRRnVrqyvK8o+gNDg2o8SOnpY9Pc+RMiFZRM7WNjIB/7EzeZhdlBaM1r76KAatRY7PwBQxlD4ZaRWpY/LVWvE6fRHvYvStoUHYZWGJw6L7xeR2hIHCkm5OCzMdV0MQM5nMQ43fAbmB2xKA0RX3kH3ryzFt82bWWZv3DO3UGBhWClgGtmCM5AGO+F0GUsWG5qeJr00CkFvVmOMhkqrvG6ydnt18ghR9lBy0/RBgp/+NCc4jBMHU7sfDAglE68ExmGjBbmyVvNpMyDgdCNjd44DJe5r5L6kuDteCf4I5HoFSF5PJuT9v+PbSXx/9SZMU1vWH3bLy83CJaF0c8GtIo/STaFMVcvmENkMqtxwmW9qoNHdOt/eF1enk9VQeL/a/d9jaUUVf6un6DziM3Zd/Xbpd+Ea1yrpds3dLTQb9Ab9uIe72Pihh22jf3F6/p8ufIt/D3qJexl8N/aaexfZL2SYYVQSTNUKXz3vcO+ubGFJ/DSbUMwphddFtwPtWYJRa/jrl2BY/0C3vQDvrMC71vmNd7Op3fvfZLd/PmuRYBuhLPyqtYe102U30eqP3J/s1f8AeCDyoQ==",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Sutherland, Alexander, (Engineer)"
         ],
@@ -107,14 +110,15 @@
         "subject_geographic_sim": [
             "Middlesex (county)",
             "New Brunswick",
+            "New Jersey",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.45,40.4833]},\"properties\":{\"placename\":\"New Brunswick\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.45,40.4833]},\"properties\":{\"placename\":\"New Brunswick, NJ\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.45,40.4833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Middlesex\",\"city\":\"New Brunswick\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.45,40.4833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\",\"county\":\"Middlesex\",\"city\":\"New Brunswick\"}}"
         ],
         "subject_point_geospatial": [
             "40.4833,-74.45"
@@ -125,7 +129,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:29:23Z",
         "system_modified_dtsi": "2023-09-15T14:47:35Z",
-        "timestamp": "2023-10-03T15:47:27.732Z",
+        "timestamp": "2025-10-31T15:46:58.276Z",
         "title_info_alternative_tsim": [
             "Brunswick",
             "Rariton Landing"

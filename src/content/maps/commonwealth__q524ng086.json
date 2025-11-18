@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749913188794368,
+        "_version_": 1847512945320263680,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524ng09g",
         "extent_tsi": "1 ms. map : col. ; 25 x 40 cm.",
         "filenames_ssim": [
-            "ct003784",
-            "commonwealth:q524ng086_metadata"
+            "commonwealth:q524ng086_metadata",
+            "ct003784"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524ng086",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524ng086/manifest",
@@ -107,7 +110,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:09:49Z",
         "system_modified_dtsi": "2023-09-15T14:47:47Z",
-        "timestamp": "2023-10-03T15:48:27.517Z",
+        "timestamp": "2025-10-31T15:47:25.180Z",
         "title_info_primary_tsi": "Plano de la ciudad de S. Juan de Puerto Rico",
         "type_of_resource_ssim": [
             "Cartographic"

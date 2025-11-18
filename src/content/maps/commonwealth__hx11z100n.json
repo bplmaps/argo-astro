@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750004423294976,
+        "_version_": 1847512978247647232,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z100n",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z100n/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Laforce, Rene\u0301-Hippolyte, 1728-1802",
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
@@ -111,14 +114,15 @@
             "Military art and science--Saint Lawrence River--Maps, Manuscript--Early works to 1800",
             "Saint Lawrence River--Maps, Manuscript--Early works to 1800"
         ],
-        "subject_geo_other_ssm": [
-            "Saint Lawrence River"
-        ],
         "subject_geographic_sim": [
+            "North and Central America",
             "Saint Lawrence River"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.0,49.5]},\"properties\":{\"placename\":\"Saint Lawrence River\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.0,49.5]},\"properties\":{\"placename\":\"Saint Lawrence River, North and Central America\"}}"
+        ],
+        "subject_hiergeo_geojson_ssm": [
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.0,49.5]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Saint Lawrence River\"}}"
         ],
         "subject_point_geospatial": [
             "49.5,-65"
@@ -130,7 +134,7 @@
         ],
         "system_create_dtsi": "2016-11-17T22:56:28Z",
         "system_modified_dtsi": "2023-09-15T14:48:01Z",
-        "timestamp": "2023-10-03T15:49:54.526Z",
+        "timestamp": "2025-10-31T15:47:56.582Z",
         "title_info_primary_tsi": "[Sketch map of an unidentified fort]",
         "type_of_resource_ssim": [
             "Cartographic"

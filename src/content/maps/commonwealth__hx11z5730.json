@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750102927572992,
+        "_version_": 1847513013842608128,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -10,8 +10,8 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
-            "Boston and New England Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
+            "Boston and New England Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -45,7 +45,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z5730",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z5730/manifest",
@@ -58,7 +61,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJztGmlv48b1e37FAz80KWCRuixZSqzA1jprp5ZtWN4kbVEEI3IkzZqcYWaGltVf3/eGpETKsvfKJt2iC6xtzPHue/jd949JDA9cG6Hksdfymx5wGapIyMWx9+buh8aR9/3oq+8SFZkh/QA8L83wMRby/thbWpsOg2C1Wvmrjq/0ImgNBoPA7XrlUSP2HWw3m63gl8nlNFzyhDWENJbJkJe3CFftWqxCf6EeAtoIHjreluiO38dbRgyNA3WpQmbdxvO3Yc8W4Y+Yxv3ikPvd6DT6/qOJvNFXALkYrLAxv5BzBZlhC37spVokTK89iIRJY7a+ZDMeb5Z/LVYdhBKGVHKqtB2dwHdBbaFyxuEZTVgK13OwSw63AnmGydnt7cXkZPw3mGuVuI0TGzNpRXgP1yFnEqyCG1zIwntuLfzA4thAxE2oxQz1CjOVSdTkjNsV5xLOhYEJezu0awM3Wj0IVAOoOVzxFZyzJDVLoTn8Bf/61mGbMGNYuMwMtwZO2RrYQnM2iznhrQK71hHSKySMEWEoYmj1u62C35w5kmlQF+pWzpIlCHKdkoRR10qyuC5D3L9hKLOJsKj5OD6A1xxNi5ciLff33CngRsxyb9Ro9Q8PX7ikVU5qfeWO66QAY/mj9YBldqm0sOtjD/Ueah4zq3Rl/c3txcYoRbQxvAc02FkWo6kExR2D1s3ijL//hcDoB280zfQDXytd8FJSWfAS1Jip8PsxImd2KZhBiftfuOBCu/BGYyRcLTRLl/z3FV6VN8nm7+ap3BfcBATwHRw9OR7Io16zddTtNfcr7mcu7QoDzfIATrmUGA4+1FtavUEPPabf/MIVHxEzr3gkMF1w/vld5joSSkt+AD8qu2TJB4u93+xQoGp94WJfCeuNfhZWcmM+v9Cn6NCzzIn9nEu9/r/wasILlU6Vdva1T3q3as1ieCOF5RFMuX4QITdwgaWasJnlMFcaXvE5p4IBiyc8EmYkApjaLMKQ9IVLe54ob/SD0glWMWolPyE1EEvX81tuVKZDXkk3Iizrn/qJzc0FWi2vimGRLNLwgwRQIMKUzbVg8fsLYvdiYBdJs9lr91q7pS5SyTX5IFarpdYd5VtGkNiFkGWFV64ijHDHDtzSriGM/nlDy1SWplpFWUgVPkhlQUSY0cRc8OhfBeINgJp+KpgKPNksFgbjAxbhVmccq9R0va2prx29aP5UgFvNpEmEJT/AIpf2TxX2CkTPnWYRh9m6zKewSbFwhmYBr9UD/tytp32snKCsokoSNxRVyBTGZNQYjRIld2xms1U5TslijOU4Ubpt5FadMLJYfdzz9SvcOvbWVFj8lrGYJKePPSHnXGseUZ7Z1OgVWBXLrisyx4rtxyLDXqhKSbn2kk8Lo3qdQaM9+yCDLm+9tyGXFwIusdg7kwsSc8FOlcwKl1WOCntZrg3WCvEr10ilZIA1waNULItzsxlpjrExYc5gip1SqLVzFQAoGzScUQsSNLgh4C+Z5ZggxS6N4it21fAtwGELHqHfhrAsIoqrVauR6LOS2wnWN+wOhT/CXnTBg7cpLwu+p0fe4z562vxT7r9N2y9dLx1hv6jL1tlyzOtqZWDBS49AP424ZdhjslihD2rXKs+YvDegZLz2MU+lIsSGtdJIo8UjVdg1P2mkiz56xY1d0UgAmIE50/Qr1dygsBsRNr43bFU02Q8ijvmmFSIK99HrmlxqiCMeUtpFMiCkXJBh/wrMQqxWSBiaxtK+E1hY6Vm+NrDKqwK0t9yTMMqkhIqBEUmKaE2mNTX+INFcyijmKHonKs/FxxDjowfGYjxIUAJbemM+fze5UV5pU9h2VD0ngixNC5AH4N1du4HC2WOI7T2Gs/1B9jdfw5ilqH4Jr7n042JYMVYJOlE5g1gKPqc/8j1FFlAMK1DL6693Zh9nP8P5yeRmen5xezbM74Rwt3QXUK4GzrNkFq+pGKKxCor9dL1DK4KcKGPhGnd96+on/PWaKwz8xcQCqGMfau8F6VG83kl7BmUUY8JzSQcx4NINpY4QLsVMY8B7AZxLcijmkyiCiYHD/kG/1fI7PgLKXISBW/+NP/UvfPhJxXD5yy8/4Z+5CisRiUWRcLQgZV7Ho3sYpGjGs1FhbsXFVe8E2oPgcPfk1n5cfPOuFLTaXW+7FaKaKVleMoHJFu1Gh0uBUR9SRjjoUiwk6hxOMRNATOUI2TYNBxWYOu7nxVLrtAb4710nt16AAsCIkCppxEzEmL+8UT6F2io5YfdYNl9jskefQ9YsmVE+q8G9vHhYioRAvRidJgo9uzxlSCL50X3jPsTgnDa3dv7Iwo3Pz9DeCYqj4h4DV3HoXqpVzKMF9krlsM8Ry9GsJC8HiNwZCa1iRSYJDwbFUEmX7/YMAV9xjPMJVlKl65fDQLy2wv+4QoTcOHXj3Uiz1QHMMgtzIal6AWHhIkk1coABpMBg3LSzYOgS2eauxHJCqWH8FpY5EqOw63FFIEoGFSJzuSrkrHT8km+nkxMXNE9itEOqsVyvk8s94aUEXCTFAilc1nTnIzfamsSpqz5FnZABw9EQN6jQ8uvhAL0FY5rEIIfYeDEogGJwAOfkTEU7Cz9mJALkBRHfIAUvBPGacbsQRn+S5sqqb/9dk83ecjSbSr0Wh2b5YTOsAoipNZhWYS6mzooK9zwpNBoTDN+80aBVsgYsvWNaTM0BSq0MPI3GGdMYdlFMmNlR/62jZjmIyqFuq4gC9R/H0IT8H8Mv0OyGQpMJBfXG/wu81cw4p/2/mt7KI4U1XwK9m3Cfx/Rvrnz0dzIi4sT/6+dhwS7kMxy47slfoPTWPo+ywJ180m7tORX0m83+Yatf4xFrL+1SNxbqrzdFe73vxxxiKZXb0ZWr64j3MaV/zPYnCdd4t+Bse7IGwOXkuuJLUbid6jTgJYIKciozGrNLqdIR5RduRt223z48aPRb/lGn09kQuD1QxfoE5p+uqnar2TysqWrbU+3a5Gaus09cn1XDv7vSOn4XteXU1jv8jEpDWRWPOHs1Z1bGL4/Qo/gete0eCbqDXrfX6z6nsyLFYHcNU7J6rAz1/Yuae1+ZdX3E2+8eNHpH/lHraND+neX2ETSR/jpHvUG3C+iHvU6n12pBo9/0j5rkjbQ4aB/h4hfnlxhCd3T8B4bQWq7/A0JoN3dEtK4/x6QMcsBHU/rpRsoLjHayBO32PooI947AowtsFIsSfInNej33V7962FkenVLVYJZlU4+NUxxzNwHY/YZiQ0P9K4pgl4yXaBPmlmM3QPVqdLr2wH3DM1xqPt/GIk76zltwjEaz2M/ug4uTyfTXn960h/RHs9tsNJv0DVC/2/GCLb7NlF4X6DItvBHBNQgYQ5RfzEVDlSRKrjiL7dLFO9wbBofNweEgWD62Wv8+7HfKimcLtDKJLr7+qU36i3Fi+WXQrmR3po6XFRDlNLi69CyeTMdPPgliITZp5thTeeDAxpFczz1pfCL3iG0XeYks1fxB8NXHowjsMktmkon4eWTULKLZCDFvJEyKOTefwFNQgqjje1b8OadjJYsx1K61Eg0hPV2gpeYE5Nkzxp5ZGizFZ+uGDBuGBV2/GXilUZr8HVPz7bRt96mrgFB00lSIUyddrEZuTEBgMjd3ZDAuiHDDSKQCTqzVYpY5qq+w76V1rkOBIXqKvkUjB3FPIxcHEL4Zj+H0742rcWN68teyT9/h/nmxvD9bblqHjcmVcnMg6aa9bpHGW0iyu2XeSYGmsW60+8yXr47J8qWd5k+ceyeXm5j19PxTcE60SroJ6ZO3rlEbi9tGc9DoNO/a7eFhe9g8+kcdfOX+HuhLJhf8o2Fvbj+FXDz9oIcxSc8JKWo9qt1++jhUPkddz8cMfUrh9qKeM/Y8tyHV/M9/buObT4x2n9qePLY95a54W9u+A02LrzR3vwyoHPFGjIVlt7Lnai03bq21WKIfo6/+A3BTzsI=",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Mitchell, George, -1755",
             "Mathias, G.",
@@ -144,19 +147,20 @@
             "Massachusetts",
             "Merrimack River",
             "New Hampshire",
-            "North and Central America"
+            "North and Central America",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.8333,42.25]},\"properties\":{\"placename\":\"Massachusetts, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.65,43.4333]},\"properties\":{\"placename\":\"Merrimack River, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.8333,42.25]},\"properties\":{\"placename\":\"Massachusetts\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.65,43.4333]},\"properties\":{\"placename\":\"Merrimack River\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-68.81892,44.46674]},\"properties\":{\"placename\":\"Fort Point State Park\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-71.386944,42.633611],[-70.808333,42.633611],[-70.808333,42.928611],[-71.386944,42.928611],[-71.386944,42.633611]]]},\"bbox\":[-71.386944,42.633611,-70.808333,42.928611]}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.6667,44.0]},\"properties\":{\"placename\":\"New Hampshire, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.6667,44.0]},\"properties\":{\"placename\":\"New Hampshire\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.8333,42.25]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Massachusetts\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.65,43.4333]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Merrimack River\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.6667,44.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"New Hampshire\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.8333,42.25]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Massachusetts\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.65,43.4333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Merrimack River\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.6667,44.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Hampshire\"}}"
         ],
         "subject_point_geospatial": [
             "42.25,-71.8333",
@@ -173,7 +177,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:55:06Z",
         "system_modified_dtsi": "2023-07-13T13:46:43Z",
-        "timestamp": "2023-10-03T15:51:28.467Z",
+        "timestamp": "2025-10-31T15:48:30.527Z",
         "title_info_primary_tsi": "A Map Of the River MERRIMACK from the Atlantick Ocean to Pantuckett Falls describing bounds between His Maj:tys Province of New Hampshire & the Massachusets Bay agreable to His Maj:tys Order in Council 1741",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750064235118592,
+        "_version_": 1847513005545226240,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z4343",
         "extent_tsi": "1 map : manuscript pen and ink, colour ; 43 x 53 cm",
         "filenames_ssim": [
-            "k_top_122_56",
-            "commonwealth:hx11z433t_metadata"
+            "commonwealth:hx11z433t_metadata",
+            "k_top_122_56"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z433t",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z433t/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Sauthier, Claude Joseph",
             "George, III, King of Great Britain, 1738-1820",
@@ -118,15 +121,16 @@
         "subject_geographic_sim": [
             "Cumberland (county)",
             "Fayetteville",
+            "North Carolina",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.8667,35.05]},\"properties\":{\"placename\":\"Fayetteville\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.8667,35.05]},\"properties\":{\"placename\":\"Fayetteville, NC\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-78.893611,35.04638],[-78.86083,35.04638],[-78.86083,35.06555],[-78.893611,35.06555],[-78.893611,35.04638]]]},\"bbox\":[-78.893611,35.04638,-78.86083,35.06555]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.8667,35.05]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Cumberland\",\"city\":\"Fayetteville\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.8667,35.05]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"North Carolina\",\"county\":\"Cumberland\",\"city\":\"Fayetteville\"}}"
         ],
         "subject_point_geospatial": [
             "35.05,-78.8667"
@@ -136,7 +140,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:22:45Z",
         "system_modified_dtsi": "2023-09-15T14:48:12Z",
-        "timestamp": "2023-10-03T15:50:51.567Z",
+        "timestamp": "2025-10-31T15:48:22.615Z",
         "title_info_primary_tsi": "PLAN of the Town of CROSS CREEK in Cumberland County. NORTH CAROLINA",
         "type_of_resource_ssim": [
             "Cartographic"

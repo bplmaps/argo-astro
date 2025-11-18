@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749908602322944,
+        "_version_": 1847512943088893952,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nf79z",
         "extent_tsi": "1 map : ms. ; 50 x 76 cm.",
         "filenames_ssim": [
-            "ct001876",
-            "commonwealth:q524nf78p_metadata"
+            "commonwealth:q524nf78p_metadata",
+            "ct001876"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nf78p",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nf78p/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_date_tsim": [
             "This date is inferred."
         ],
@@ -103,13 +106,14 @@
             "British Virgin Islands--Maps, Manuscript--Early works to 1800"
         ],
         "subject_geographic_sim": [
-            "British Virgin Islands"
+            "British Virgin Islands",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.5,18.5]},\"properties\":{\"placename\":\"British Virgin Islands\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.5,18.5]},\"properties\":{\"placename\":\"British Virgin Islands, North and Central America\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.5,18.5]},\"properties\":{\"territory\":\"British Virgin Islands\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.5,18.5]},\"properties\":{\"continent\":\"North and Central America\",\"territory\":\"British Virgin Islands\"}}"
         ],
         "subject_point_geospatial": [
             "18.5,-64.5"
@@ -119,7 +123,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:59:41Z",
         "system_modified_dtsi": "2023-09-15T14:47:44Z",
-        "timestamp": "2023-10-03T15:48:23.144Z",
+        "timestamp": "2025-10-31T15:47:23.052Z",
         "title_info_primary_tsi": "Carta esfe\u0301rica de las Yslas Virgenes",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750194450432000,
+        "_version_": 1847513037596000256,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vt86n",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vt86n/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJzFWG1v2zgS/t5fQejL3QHRm5U4sa/RIk233QBJWyTZvbstDgUljSU2FKklKTvur9+hLNmSHbvZFot+UYIhZ+aZ4bz65U+PJSdzUJpJce6EXuAQEKnMmMjPnV/v37hnzk/xi5elzPTUfgjeF3r6yJl4OHcKY6qp7y8WC28ReVLlfjiZTPzm1OmuavbUxVEQhP5/b67v0gJK6jKhDRUpdFxW14CNy9TL5dy3B/48cjagI+8UuTSb6kbUtUypaQ72c5Mnjqz+jCo8by81f93IPfUedebELwhZucEww+FKzCSpNc3h3KkUK6laOiRjuuJ0eU0T4Gvyp5baSBjIiC8SxbQmGSiC2jND3rJEUW6oIrXIGjoiYkKQBGZMZJyhhYLMQBv8g0LNFzgiAhJt8HJJSgCV1BrP5lKQC56DZorql35PpzXDH9qxMU3QEohZVtYodK8UlA9g2/MPVJn4VvLZDBUdkTceeee1EtfHPRYlV0qHlHtQZavIwKNxCK1NIRUzy3MHnZYqQOOk6tF/vb1avyjL1q82x9dOao5+9lsejaFBeQ3PZ/BTkzjxpRRGsaRGSmtOB7Q1xx/Y0zO5Fxpo0fvZLWhZqxTiS/SFzBWtCpZ2Th/eWHPmIBT0vZCXeZX+JftbRTfUgGKUP98P24y+ycsgGI/G4XZII0pQNiZuaNWFVYN8YwiCzZnowqqjoox0Kwwa0nYcxB/vPO79vxW9vjJ4gZ6sVlKdcKYLUPFH7YkN95rcu4v5Vts6E5dSbD3N+qh3PUOfXCEdsl5ZXERpZmYOeYDlazw/d5aAzv6jppzNGKhz548aMxRLEE04OHF4ejZqVWzE9UJo6LGVXk5FXmNx6WPpaIdyh2k5jibuKPlLkdNxPTtiOgY/g9qJ3yIgKlpr+ih7RvYNal+tWGqWUv4adKpYZf018Dw6xVD+vnFOrGAmUYkx+BDtSefSwb2eAHQNCBOHpKQV+TeJxuSRHJ+StOyqVXuhHxwCM0CAuYGM0Xv0cIwVPAf/cwV5FyQ7V57Bb9hs9j38n6vRIfYu3p92aFu5pYEYnYQWowsXzBRESIVfI4kpgKD7CrOu4/bykPUWOIMZ0YVcYDdakoKmRa1Ae+Q1VKbQmxOsbMLmiT4g7UqkvM5AE3xXUJhZ+C8CKRnHt1RLUkk0VBM5I43BmE0HoZVyjkbNlCwJJYmUDwdVk1W87r/TJhe2ZAMlOsziQAyVFJolFiL28qbtka4NEp3WvNpjsa6Tz5CafpryVBdfz9DunIH2WyF6OEXIiqXxemhw3V+Yxva1dN1bmEte2xA4IuHp6YmLRShyXVu2XfdnqviSLKR6aLwengVB150agZuQarX+WFvuGOTQmDH5G80wudhjRVP3vByMWXqQ1X5zc6dQPnHLPw2Ck1EUDewssEPggFPYTH0LXQsatsYURxEmbHH6uVaygtaMDbnfDg8JbMX1xhC9rUkqTFYMdB1HYy+MoujIPfGik7XKzXlf6Y7Ir3j6G+Ec/0gwGh0K8Z39ko8p9Ug4jc6OgiDoBozVhW9C0oyekF1hgWmrTSG12V0RNnPUcHO4xU0AdxXyi0deKVt4Nwlv6+d/cIPAJCGXknPUi1RCDbnBymzIb9hAZNet1zvBnq3A30Z7yASmb7tynr3CdahZA6cF1vh1luBqRrnMvdJCmTdImm2w7eJ+ugbsV+H4bDSxhOMRVhL/JNqeRm9+u77AwpxiVDj+BhjLMEWaSazFVSvmxBaARgRUPXittlSWOAUuAAtO0aDAs6l/EkxOJv6XcRDNzdm4c9RG6AFFWOwodyX2U+XEwfhTEH4KrLTwgBDerquDgbbt5N0qixMWwgN8Vl1gZzVS/EM/9Zo7fL35q0/aq7hWfGeppSl2Z9zF5apkMkFsHWqG9e/0KWrbVt4pqxTMGSy+XYVvirpMBGV8vzLbpjFqGZu5OA8wu1Z/h8JOxFDfXvevLMWlM2NNfm4ni8WAazByzWEFQDe6OUtBaOyiydIVqaupf+wFvtOFusYlUmSYFZWSWd1k0nbatBKc+L5guumfBP+2VByjpCJWDE5xGNiUXLYgsJg0KMiFWe3JFvU7KVxLB5Xi5kjusCgBueDsAcj1SiD55+UlefU/992le3fxr25C2rJ+v1ueb1YzweJM8U6SB2FLYiqrZUO0wxtCbrj0VxGsCsr2Arui2t8IMIXvVsv7KyzZCPGD3TNTtBdHF7Vcl8zd+7viGtdKYbfI3f0yHgWj0A0DNwjvg2AaRtNg8vtQfI//CekF7lywX3bkBhGKvw8n09HxNAy3ZK+5dyW3yxZmGBUEU7XCV88G3LvrWLcAvp9drnoAwhl2tif2W0QNP3S/BZE7MX72LLc76+2ude02u9nJ7trfGbd/8updcWJK0+5XqCdYB615E60tyX7iF38CHSiJHA==",
         "name_facet_ssim": [
             "Rolffsen, F. N."
         ],
@@ -108,14 +111,15 @@
             "Gibraltar--History--Siege, 1779-1783--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "Europe",
             "Gibraltar"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-5.35,36.1333]},\"properties\":{\"placename\":\"Gibraltar\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-5.35,36.1333]},\"properties\":{\"placename\":\"Gibraltar, Europe\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-5.35,36.14]}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-5.35,36.1333]},\"properties\":{\"territory\":\"Gibraltar\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-5.35,36.1333]},\"properties\":{\"continent\":\"Europe\",\"territory\":\"Gibraltar\"}}"
         ],
         "subject_point_geospatial": [
             "36.1333,-5.35",
@@ -127,7 +131,7 @@
         ],
         "system_create_dtsi": "2016-11-20T06:35:34Z",
         "system_modified_dtsi": "2023-09-15T14:48:27Z",
-        "timestamp": "2023-10-03T15:52:55.750Z",
+        "timestamp": "2025-10-31T15:48:53.181Z",
         "title_info_primary_tsi": "Abriss der stadt Gibraltar und der darinn befindlichen festen platze, nebst dem meerbusen von Algesiras",
         "type_of_resource_ssim": [
             "Cartographic"

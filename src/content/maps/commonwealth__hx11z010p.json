@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1792997180115517440,
+        "_version_": 1847512972773031936,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z010p",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z010p/manifest",
@@ -129,7 +132,7 @@
         ],
         "system_create_dtsi": "2016-11-17T22:34:33Z",
         "system_modified_dtsi": "2023-11-04T20:58:00Z",
-        "timestamp": "2024-03-08T22:02:40.065Z",
+        "timestamp": "2025-10-31T15:47:51.361Z",
         "title_info_primary_tsi": "A Chart of The Peninsula of Nova Scotia 1765",
         "type_of_resource_ssim": [
             "Cartographic"

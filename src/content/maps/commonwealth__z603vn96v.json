@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1792996196469440512,
+        "_version_": 1847512835220832256,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vn96v",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vn96v/manifest",
@@ -123,7 +126,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:31:07Z",
         "system_modified_dtsi": "2023-11-04T20:56:48Z",
-        "timestamp": "2024-03-08T21:47:01.987Z",
+        "timestamp": "2025-10-31T15:45:40.181Z",
         "title_info_primary_subtitle_tsi": "exhibiting the late seat of war between the English & French in those parts",
         "title_info_primary_tsi": "An accurate map of Canada, with the adjacent countries",
         "type_of_resource_ssim": [

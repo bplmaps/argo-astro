@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749940077428736,
+        "_version_": 1847512956703604736,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nh72f",
         "extent_tsi": "2 maps on 1 sheet : ms. ; 50 x 54 cm. and 50 x 24 cm., sheet 56 x 84 cm.",
         "filenames_ssim": [
-            "lh000979",
-            "commonwealth:q524nh715_metadata"
+            "commonwealth:q524nh715_metadata",
+            "lh000979"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nh715",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nh715/manifest",
@@ -106,13 +109,14 @@
         ],
         "subject_geographic_sim": [
             "Charlotte Amalie",
-            "North and Central America"
+            "North and Central America",
+            "Virgin Islands of the United States"
         ],
         "subject_geojson_facet_ssim": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.9333,18.3667]},\"properties\":{\"placename\":\"Charlotte Amalie, North and Central America\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.9333,18.3667]},\"properties\":{\"continent\":\"North and Central America\",\"city\":\"Charlotte Amalie\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-64.9333,18.3667]},\"properties\":{\"continent\":\"North and Central America\",\"territory\":\"Virgin Islands of the United States\",\"city\":\"Charlotte Amalie\"}}"
         ],
         "subject_point_geospatial": [
             "18.3667,-64.9333"
@@ -124,7 +128,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:49:09Z",
         "system_modified_dtsi": "2023-09-15T14:47:50Z",
-        "timestamp": "2023-10-03T15:48:53.161Z",
+        "timestamp": "2025-10-31T15:47:36.035Z",
         "title_info_alternative_tsim": [
             "Plano geome\u0301trico del puerto de Normand en la costa N.O. de la ya. del mismo nombre"
         ],

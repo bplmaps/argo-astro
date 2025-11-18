@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750190121910272,
+        "_version_": 1847513035425447936,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,8 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
         "georeferenced_bsi": true,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vt58g",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vt58g/manifest",
@@ -60,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJzFWFtz27YSfs+vwPAl7Ux4011qzI6jNK1n7MRjuz23OZOBwBWJmAQ4AChZfetb/835Eee1P6oLipRISXbc5KF5oJ3F7uLbxV79+vuHPCMrUJpLceaEXuAQEEzGXCRnzs9379yJ83304nUuYz2zH4L8Qs8eMi7uz5zUmGLm++v12lv3PakSP5xOp3516jSsmp9i7AVB6P/z6vKWpZBTlwttqGDQSNm7OmKZZF4iV7498Fd9Zw+6741RSvOZrlRdSkZNdfC4NDlxZO+PqcLzmqn66fbdsfegYyd6QcjWDYabDC7EUpJS0wTOnELxnKqNQ2Kui4xuLukCsh35Y02tNHR0RNcZFSQGklGy4lkGJC7JnBbknUJXSK4JGHusAX8TK66k0CSm+MleXmhkvzUeeStzfKsSXvstxRar3wW7xy9oDsRsCoscfSgFzTrY7Pk1VSa6TiHjBdDyFbkBAX/8VuvcMZwQqhXH1IATLTOPhOPBxA3Hk8ETwkpuMXcpd6DyWp2BB+MQWppUKm42Zw46linIqJGqRf/55mL36jzevewKI2JRZvgWfi2jMXxoVsLzBXxmFk40l8IoviiRUpvTAK3N8Tv2tExuhQ9a9GF5A1qWikE0R1/IRNEi5ax5sy7HTjIBoaDthSRPCvaX7K8vusLnUZxmz/fDoaBvkjwIRr1ReBj2iBKUDakrWujaogr53hAEm3DRRGVDRR3sIAwq0mEcRBg+vNG84+g8QEtVrahcZFynoKJ5Cr8SmzvKI7sAb8R2XC1RrnVpK1OUS3HwULujFruN/AukQ9wqpOs+i83SIfeweYvnZ84GtBNhVoxqTXupVtx03bRVjxUjKbHqtK9saE8lDNdy1J+6vcVfCpdG6tlh0gj4S0Wd6J1CF6S1NW2ULSPbBtVvlW40ZzR7C5opXtha3nEwOsXQ7EPlnEjBUqqcGoP+rk8al3b4WgrQNSBMFJIcS+2MpFj2CZNYqr4jg4A8kOGYsNyrtdTM7XgQmAICzBXEnN6htyMs8wn4nwpImrg4YnmGvOHL5dfIfyp6T4k3IX7auXURlwYidBhajO5cc5MSIRV+jVzbzkhMCgT9mZrGPZVEV/4a2x6QHMsE3i5mpMpWj1xiUzYldrOlknnV5Wzje/lDghkHT6i7wRSFJdGpXAuy2OBzsbRUoE+L6HLxCZhpR37GdPr5oG/OOWi/VqK7HVsWnGG1LtyfKP/jd2QU5Bv81fBvXdeWOtf9gapsQ9ZS3aOnJAknQdBU9Ep4/wr1DU/iNol4BHaVb14Cxmw8iEu/4jxK0BNcfhiEo3F/2DEs5ViuFUttVPwITYXr1mEmS2x8m6iyt7ahoR0wCsOFzZj3VeDY3Jrjf7EhkHMbE4zuxBvOjgKcwvA9UThuXFURupegP+qX+P//7EM0Ki293QaeMq1W1eq++tAUBMEF3q6jcOqNh9NX7rjnhdPJzoI9Q/vWI52fefQvwGOB9MLJdBROx8FgHPYnxEIchINw2OtPR71pr08qtJPhZBJORqNgMOpXPPhvFIz6Q4yEUfj3WKLxOSC6tV/yH0ZxRpwNXw2D4L+N+ur8i4BU4xrEFwaaTphKbY5H7/3s0Z3IbzhLsdKRnzzyRtmKcwMrmZW2TGJ7I/+gimCuk7nEaZ1ZKqGGXNlMIL9gzZVNKO7G8EcGcf8Q7VMmcH0DS7C9FOI3uGZU69Usxda3S3ZceWgmEy+3UFYVkmrLqpugz3aA/SIcTXpTSxj0sAL6vfHRCHf1y+U5UcAwKhx/j4zHmK58iUlVAysVdyKLQCMEqu69+jomcxyW1kAzk1Yw8GzmD4PpcOr/Ogr6KzOc7HrlTukTF2GVppkrsf0oJwpGH4PwY4DaBuMnlGT1HtgZA+vu1+yIEVYFlQC+q05xUDNSvNSnnvNIrjW/tEmPXlyq7GhbpIyBxiVXbks/F8TWxGrC/Uqf4m2HlzeXFQpWHNZffoVv0jJfCMqzxy+zPRnDlvOlm1PBl6C/wia/UdG971H3by3FTS3mVYIeZovFgLsjSq1gC0BXd2ecgcBV219sXMFcTf2BF/hOE+oaqmamoFAyLqtUOkybWoMT3aW4u9s5gODPmhoTHFSJVVOKGAObknkNAqtJhYKcm+1yaVG/l8K1dFAM1y1yi1UJyHnG74FcbhWSb+Zz8uZf7vu5e3v+bTMOHVj/uFueb1Y18OEw9F6Se2FrIpPFpiKimEbIlZT+LIJtQTnc+rZUu1hjCt9uN943WLMR4rVdxxjau8AuvtnVzGP+Y3WVa6Wwy9bxGhb1gl7ohoEbhHdBMAtGs17w7676lvwJ7bgyJPC47r4b9FH9XTid9Qaz8FD3TvpYc72sYIZRQTBVC3z1uCN9vM40C9SH5XzbBBBOt7Wd2A8RNfyt+yGIxInw88hyeLQeHltXb4P7Pea2/gPe4d+JWixORClr/nRzQrTTm/fRWpPsJ3rxJwpPQcA=",
         "name_facet_ssim": [
             "Phelipeau, Rene\u0301, fl. 1748-1784"
         ],
@@ -107,15 +109,16 @@
         ],
         "subject_geographic_sim": [
             "Cap-Ha\u00eftien",
+            "Haiti",
             "Nord",
             "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.198,19.759]},\"properties\":{\"placename\":\"Cap-Ha\u00eftien, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.198,19.759]},\"properties\":{\"placename\":\"Cap-Ha\u00eftien, Haiti\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-72.21896197047138,19.74141523962923],[-72.1858818660463,19.74141523962923],[-72.1858818660463,19.77776063501661],[-72.21896197047138,19.77776063501661],[-72.21896197047138,19.74141523962923]]]},\"bbox\":[-72.21896197047138,19.74141523962923,-72.1858818660463,19.77776063501661]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.198,19.759]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Nord\",\"city\":\"Cap-Ha\u00eftien\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.198,19.759]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Haiti\",\"state\":\"Nord\",\"city\":\"Cap-Ha\u00eftien\"}}"
         ],
         "subject_point_geospatial": [
             "19.759,-72.198"
@@ -125,7 +128,7 @@
         ],
         "system_create_dtsi": "2016-11-20T06:26:36Z",
         "system_modified_dtsi": "2023-09-15T14:48:26Z",
-        "timestamp": "2023-10-03T15:52:51.622Z",
+        "timestamp": "2025-10-31T15:48:51.111Z",
         "title_info_primary_tsi": "Plan de la ville du Cap Francois et de ses environs dans l'Isle St. Domingue",
         "type_of_resource_ssim": [
             "Cartographic"

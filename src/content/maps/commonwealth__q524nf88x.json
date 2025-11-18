@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749909907800064,
+        "_version_": 1847512944085041152,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nf896",
         "extent_tsi": "1 manuscript map : hand color 37 x 45 cm.",
         "filenames_ssim": [
-            "ct002030",
-            "commonwealth:q524nf88x_metadata"
+            "commonwealth:q524nf88x_metadata",
+            "ct002030"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nf88x",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nf88x/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_date_tsim": [
             "This date is inferred."
         ],
@@ -97,15 +100,16 @@
         ],
         "subject_geographic_sim": [
             "Chatham (county)",
+            "Georgia",
             "North and Central America",
             "Savannah",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.1,32.0833]},\"properties\":{\"placename\":\"Savannah\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.1,32.0833]},\"properties\":{\"placename\":\"Savannah, GA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.1,32.0833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Chatham\",\"city\":\"Savannah\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.1,32.0833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Georgia\",\"county\":\"Chatham\",\"city\":\"Savannah\"}}"
         ],
         "subject_point_geospatial": [
             "32.0833,-81.1"
@@ -117,7 +121,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:02:45Z",
         "system_modified_dtsi": "2023-09-15T14:47:44Z",
-        "timestamp": "2023-10-03T15:48:24.388Z",
+        "timestamp": "2025-10-31T15:47:24.002Z",
         "title_info_primary_tsi": "Plan of Savannah & its environs in 1782",
         "type_of_resource_ssim": [
             "Cartographic"

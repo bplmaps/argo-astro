@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749929438576640,
+        "_version_": 1847512952023810048,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -10,8 +10,8 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
-            "Maritime Charts and Atlases (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
+            "Maritime Charts and Atlases",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -39,14 +39,17 @@
         "exemplary_image_ssi": "commonwealth:q524nh10f",
         "extent_tsi": "1 map : ms. ; 34 x 45 cm.",
         "filenames_ssim": [
-            "lh000767",
-            "commonwealth:q524nh09p_metadata"
+            "commonwealth:q524nh09p_metadata",
+            "lh000767"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nh09p",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nh09p/manifest",
@@ -135,7 +138,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:34:08Z",
         "system_modified_dtsi": "2023-09-15T14:47:51Z",
-        "timestamp": "2023-10-03T15:48:43.014Z",
+        "timestamp": "2025-10-31T15:47:31.573Z",
         "title_info_primary_tsi": "Plano de Pto. Rico en la ysla de este nombre situado en 18\u207037\u02b9 de latitd. N. y en 59\u207042\u02b9 de longd. O. de Ca\u0301diz",
         "type_of_resource_ssim": [
             "Cartographic"

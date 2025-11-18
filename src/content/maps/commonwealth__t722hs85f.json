@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750225791320064,
+        "_version_": 1847513046497361920,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:t722hs85f",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/t722hs85f/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Sproule, George, 1741-1817"
         ],
@@ -112,14 +115,15 @@
             "Charleston",
             "Charleston (county)",
             "North and Central America",
+            "South Carolina",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9167,32.7667]},\"properties\":{\"placename\":\"Charleston\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9167,32.7667]},\"properties\":{\"placename\":\"Charleston, SC\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-80.35,32.5],[-79.8,32.5],[-79.8,32.9],[-80.35,32.9],[-80.35,32.5]]]},\"bbox\":[-80.35,32.5,-79.8,32.9]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9167,32.7667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Charleston\",\"city\":\"Charleston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9167,32.7667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"South Carolina\",\"county\":\"Charleston\",\"city\":\"Charleston\"}}"
         ],
         "subject_point_geospatial": [
             "32.7667,-79.9167"
@@ -130,7 +134,7 @@
         ],
         "system_create_dtsi": "2016-11-22T20:21:27Z",
         "system_modified_dtsi": "2023-09-15T14:48:31Z",
-        "timestamp": "2023-10-03T15:53:25.638Z",
+        "timestamp": "2025-10-31T15:49:01.670Z",
         "title_info_primary_tsi": "A sketch of the environs of Charlestown in South Carolina",
         "type_of_resource_ssim": [
             "Cartographic"

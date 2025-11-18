@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749832200978432,
+        "_version_": 1847512909537607680,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n861g",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n861g/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Blaskowitz, Charles"
         ],
@@ -113,15 +116,16 @@
         ],
         "subject_geographic_sim": [
             "Hell Gate",
+            "New York",
             "New York (county)",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9167,40.7667]},\"properties\":{\"placename\":\"Hell Gate (channel)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9167,40.7667]},\"properties\":{\"placename\":\"Hell Gate (channel), NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9167,40.7667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"New York\",\"other\":\"Hell Gate (channel)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9167,40.7667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"New York\",\"other\":\"Hell Gate (channel)\"}}"
         ],
         "subject_point_geospatial": [
             "40.7667,-73.9167"
@@ -133,7 +137,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:08:38Z",
         "system_modified_dtsi": "2023-09-15T14:47:32Z",
-        "timestamp": "2023-10-03T15:47:10.281Z",
+        "timestamp": "2025-10-31T15:46:51.055Z",
         "title_info_primary_subtitle_tsi": "near which batteries of cannon and mortars were erected on Long Island with a view to take off the defences and make breaches in the rebel fort on the opposite shore to facilitate a landing of troops on New York Island",
         "title_info_primary_tsi": "A plan of the Narrows of Hells-gate in the East River",
         "type_of_resource_ssim": [

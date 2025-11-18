@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749820734799872,
+        "_version_": 1847512904950087680,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n7686",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n7686/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJzVGNtu2zb0vV9B6GFogciS7MSOvVpF4nZrgVyGJgW2vQw0RUtsKFIlqTj++x1Koi35kqTtgLV5UBLy3O+Hr9885BzdU6WZFFMv6oUeooLIhIl06n26/c0/9d7EL17nMtET+0EAL/TkgTNxN/UyY4pJECyXy95y0JMqDaLxeBxUt54D1WwfYD8Mo+DPy4sbktEc+0xogwWhDsvy6qBxSXqpvA/sRXA/8DZCD3ojwNJsoitSF5JgU10cxkZ7riz/BCu4b4Cq3/7AH/UedOLFLxCqzWCY4fSDWEhUapzSqVcolmO18lDCdMHx6gLPKV8f/9OcVhQ6NOJzqY0U6BecF7+iDKu5LNXroAVgeQZdpi05VgW9XnykGrAIRTkWpSaKFWbqraj24hlWRqYKFxkjjkoHZUMqpUJRhEuTScXMauqleVoQb3Py6eOHtT1ZsrbZPdh6XnLQMmgYXWJDFcNcg4MwL+nXIwYmzcNw2B9G2wYFKanC3IsvcaEbjSrJf2BFon7/dPiIIs5nB/QBmVMmnN/daQIsZorCN2ll63JAErPw0B1dvYWrOgrQlxJztmBUTb0vJdU2M/CcUy+ORqOThmmLXivkurxrzhyLtISgb0vjzm6pypGNsKln6IPx2m5gWg4HY78//ypXOKxnu8AhBFSkXvxOpJzprFGnLWZLy7ZGtT5FttKMYP6W1q4Bi3WMD1YxmF9X1okVXUiVY2Nd0dw4o3bgWgTANlSYOGplLPxZoAmUAJEgIrlUCMqCzig1aHCMHlB/hEjeawg3+C2KTEDICWouacLwLXgghsqT0uBzQdMGaRfkGfiGLRbfg/+56D+G3twdsHdNWkhDW2lyhAoqfDATNIw7ZM21tOlW2czZp0LpEri11RMxYbEJ449Avse6Jgml++4RuJtMLjWCOips8mkkF+BDYEDAh4LySjSdSSgDPXRdAj3ENIQaNFAMBUrgnCaHqTdZRCB+rDUCCDKqqO2O8cUM2epn+V1JZTJ0lkO1IfgIRaOT0I9Gp+MjND4+3ktbl/PPlJh2YnKis6dz0t0zqoOGiO72M1kwEl8BnPWktYIy2vcvsdaYZKWmxv7b9Lv3ttMp33+HFV+hpVR3GhmJotMwdH2qIrcJkYbnD6fJOV790Gp0DI5eWiV6r6wyhT5Cm6z6GXQAU/+kClx2yrz+r2U1qTggatUYeylE7KpHkzKoIHc66R6oIIqi4+N+v6NMSt0w2Q2r9eCyvm4hZTB4YEUym0u/b0E4GAJF1KhV/Ekw20VvoOhRNw65uy0EYZiwPbAugbbWzuBfGKlcOVyjO8gOAW1ZxJ2UdgavbmoFgic1aMRpzdl6W1KpoD9YheLjfm8AP0f+KOyNh8PRWsQNSJvvDtUnQuKZEmlQA7qX/SKCeyiajIdH4ToA6+tvkkNRbgfID4a6KTCDMNndejbDbHcZumBzMPTKdraZFKmiWsMfnAMT6IHba9GBxSjYFuUx+Zj+6Bprcg7rW7W2TjLotnVyaMgOTohYJ3yajyKw1XhwirxgQ5klEGHVjN0QLhXzYkfBzhHNLEhknkuxpJibrFqC4W4SnITjk3Hw5aR/LEbD06GbmNZEH2EEgmHuS5NR5cVYhdD4167cR4A3u3HbKW78cnvzXke4yF9VyQblF71l90xvHLNDpTVht48OilEqvrNPY0KA+dSTddGz4xUktN0tvte6wG2buWNWKHrP6PLbWQQmK/O5wIwfZmbnMghAxhY+bAFsQfV36BQ4El1+B81fawq+TZi92Bv3xK6D7J7WAuiKN2eECg3Nbr7yBfE1Do57YeC5oNe0Cg5FCyWTssra7cW3oeDFtxnTVQeEsRg1pwmCVQpZMjBUQ4hjNGuEgDispEBnxig2Lyupr6Tw7TlM/7Bto5vMDtZnnN1RdFETRC9nM3T+l38182/OXrlxe0v7w2Z5vlqw4mW29V9JdCfk0oZpsaoOAU2DyBWWflICBeZWyfa2X5/ObOQLc1O/3DQd+I9yDsZDTcauq98u/C65yrRS2JeC3TeEuB/2Iz+ETXp8G4aTk8EkHP7dJd/C30MdtqCUfjPtNfYu5WadhgzDsM2BU8DrSQd7d+F2K/71YoYhpyRcp90OtOcJA6Sm//8TBnwOPF/sPGDsate8V2zW6pvmibOtFlRa0gLxYpW46WkPZqfJboK1ObKf+MW/0A25fQ==",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 944"
         ],
@@ -99,14 +102,15 @@
         ],
         "subject_geographic_sim": [
             "Boston Harbor",
+            "Massachusetts",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.9667,42.3333]},\"properties\":{\"placename\":\"Boston Harbor\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.9667,42.3333]},\"properties\":{\"placename\":\"Boston Harbor, MA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.9667,42.3333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Boston Harbor\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.9667,42.3333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Massachusetts\",\"other\":\"Boston Harbor\"}}"
         ],
         "subject_point_geospatial": [
             "42.3333,-70.9667"
@@ -120,7 +124,7 @@
         ],
         "system_create_dtsi": "2017-05-25T15:54:11Z",
         "system_modified_dtsi": "2023-09-15T14:47:30Z",
-        "timestamp": "2023-10-03T15:46:59.347Z",
+        "timestamp": "2025-10-31T15:46:46.680Z",
         "title_info_primary_tsi": "Boston & harbour",
         "type_of_resource_ssim": [
             "Cartographic"

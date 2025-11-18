@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749523750813696,
+        "_version_": 1847512835200909312,
         "admin_set_ark_id_ssi": "commonwealth:z603vh48c",
         "admin_set_name_ssi": "Harvard Map Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh48c"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Harvard Map Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vh57b",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vh57b/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Conder, Thomas, 1746 or 1747-1831"
         ],
@@ -107,14 +110,15 @@
         "subject_geographic_sim": [
             "North and Central America",
             "United States",
+            "Virginia",
             "York (county)",
             "Yorktown"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"placename\":\"Yorktown\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"placename\":\"Yorktown, VA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"York\",\"city\":\"Yorktown\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\",\"county\":\"York\",\"city\":\"Yorktown\"}}"
         ],
         "subject_point_geospatial": [
             "37.2333,-76.5"
@@ -124,7 +128,7 @@
         ],
         "system_create_dtsi": "2016-11-20T02:03:42Z",
         "system_modified_dtsi": "2023-09-15T14:47:09Z",
-        "timestamp": "2023-10-03T15:42:16.121Z",
+        "timestamp": "2025-10-31T15:45:40.162Z",
         "title_info_primary_subtitle_tsi": "as besieged by the Allied Army",
         "title_info_primary_tsi": "York Town, and Gloucester Point",
         "type_of_resource_ssim": [

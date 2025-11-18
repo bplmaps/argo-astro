@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749967463088128,
+        "_version_": 1847512967991525376,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -10,8 +10,8 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
-            "Urban Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
+            "Urban Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -39,14 +39,17 @@
         "exemplary_image_ssi": "commonwealth:q524nk645",
         "extent_tsi": "1 map : ms., col. ; 68 x 106 cm.",
         "filenames_ssim": [
-            "ct000301Z",
-            "commonwealth:q524nk63w_metadata"
+            "commonwealth:q524nk63w_metadata",
+            "ct000301Z"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nk63w",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nk63w/manifest",
@@ -61,7 +64,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "L'Enfant, Pierre Charles, 1754-1825"
         ],
@@ -114,15 +117,16 @@
             "Manuscript maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "District of Columbia",
             "North and Central America",
             "United States",
             "Washington"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.0333,38.8833]},\"properties\":{\"placename\":\"Washington\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.0333,38.8833]},\"properties\":{\"placename\":\"Washington, DC\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.0333,38.8833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"city\":\"Washington\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.0333,38.8833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"District of Columbia\",\"city\":\"Washington\"}}"
         ],
         "subject_point_geospatial": [
             "38.8833,-77.0333"
@@ -134,7 +138,7 @@
         ],
         "system_create_dtsi": "2017-05-26T15:39:37Z",
         "system_modified_dtsi": "2023-09-15T14:47:56Z",
-        "timestamp": "2023-10-03T15:49:19.278Z",
+        "timestamp": "2025-10-31T15:47:46.801Z",
         "title_info_primary_tsi": "Dotted line map of Washington, D.C., 1791, before Aug. 19th",
         "type_of_resource_ssim": [
             "Cartographic"

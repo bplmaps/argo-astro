@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749917255172096,
+        "_version_": 1847512946529271808,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -46,14 +46,17 @@
         "exemplary_image_ssi": "commonwealth:q524ng33j",
         "extent_tsi": "1 map : ms., col., sectioned and mounted on cloth ; 28 x 43 cm., folded to 15 x 15 cm.",
         "filenames_ssim": [
-            "la002155",
-            "commonwealth:q524ng328_metadata"
+            "commonwealth:q524ng328_metadata",
+            "la002155"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524ng328",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524ng328/manifest",
@@ -68,7 +71,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Adlum, John, 1759-1836",
             "Bingham, William, 1752-1804"
@@ -118,13 +121,14 @@
         "subject_geographic_sim": [
             "Armstrong (county)",
             "North and Central America",
+            "Pennsylvania",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.6833,41.1167]},\"properties\":{\"placename\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.6833,41.1167]},\"properties\":{\"placename\":\"Armstrong (county), PA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.6833,41.1167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Armstrong\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.6833,41.1167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Armstrong\"}}"
         ],
         "subject_point_geospatial": [
             "41.1167,-79.6833"
@@ -137,7 +141,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:16:04Z",
         "system_modified_dtsi": "2023-09-15T14:47:48Z",
-        "timestamp": "2023-10-03T15:48:31.396Z",
+        "timestamp": "2025-10-31T15:47:26.333Z",
         "title_info_alternative_tsim": [
             "Armstrong Co"
         ],

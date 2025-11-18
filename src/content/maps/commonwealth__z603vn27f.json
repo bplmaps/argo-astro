@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1792996291728375808,
+        "_version_": 1847512879588179968,
         "admin_set_ark_id_ssi": "commonwealth:z603vm84v",
         "admin_set_name_ssi": "Newberry Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vm84v"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Newberry Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:z603vn28q",
         "extent_tsi": "1 map : hand col. ; 22 x 48 cm.",
         "filenames_ssim": [
-            "map4f_3701_s3_14",
-            "commonwealth:z603vn27f_metadata"
+            "commonwealth:z603vn27f_metadata",
+            "map4f_3701_s3_14"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vn27f",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vn27f/manifest",
@@ -126,7 +129,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:13:30Z",
         "system_modified_dtsi": "2024-02-02T20:40:28Z",
-        "timestamp": "2024-03-08T21:48:32.832Z",
+        "timestamp": "2025-10-31T15:46:22.493Z",
         "title_info_primary_tsi": "Plan of the position which the army under Lt. Genl. Burgoine took at Saratoga on the 10th of September, 1777, and in which it remained till the Convention was signed",
         "type_of_resource_ssim": [
             "Cartographic"

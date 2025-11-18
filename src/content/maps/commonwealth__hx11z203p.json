@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750022393790464,
+        "_version_": 1847512985242697728,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z203p",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z203p/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJztGmtv2zjye3/FQJ9SIJb8ShznGi8St1tkkaRBnL7ucFjQEi1xI5Fakorj+/U3Q0mO/Eiapr3t9XD94NjkvGc4D7KvfrnLUrjl2gglj7yO3/aAy1BFQsZH3vvrX1sH3i+jF68yFZlD+gCEl+bwLhXy5shLrM0Pg2A+n/vznq90HHSGw2Hgdr0a1IhtgN12uxN8Oj+bhAnPWEtIY5kMeY1FvFbQUhX6sboNaCO47Xn3Qvf8AWIZcWgcqTMVMus2HsaGLVvEP2Ia9ysg97fVaw38OxN5oxcApRmssCk/lTMFhWExP/JyLTKmFx5EwuQpW5yxKU+Xy79Xq47CCo3RpVZ/8NDCTGmwCYdja1l4A2oG1yJUMuJaxWwXcq1yZXgEVsGUQ15YEBL4HQ8LK6QCZkBypukvUQmFDousNKcBVApirQr8MxdpCizKhEUWr4KGIKRbsKrcvb6SZRzsIidN0eZKstQDVthEaWEXR55ks8bv91enS8uLaGndel9wExBBgw5kacGfCh7IvXa732vvH6zYkfYumbajE82M4HoXPqKSgmWVOsv9Bo5WpcarK9dcZ5WWlt/ZFQ3RjaHmKbNKf1nTW4y/aZGi54MK5wu6bkEIQht7ozEKrmLN8oTrSp9a0kqfYEWhhs7/dd476HUGw86gs917xxmqaOwu/MZnM64XsFw4YVrJR5xZr1UqRsxyb4R8Bi3kN/jJo2CWKW/0q9IZ16Dm8vtEQah0rrSz0zZXXKkFS+G9FBYTzoTrW0FZ5BTTs7CF5S5XveYzLBLc5ZYJZiGyA0xsEaHD/2/yOsWjSu9mV9yoQoe8cZhFWOfaVYglZsyl5k0zxFmch19lgIrRObpZC5Y+3RDriIGNs3Z7v7vfWS9vKCXXmExG5yyvve4kv1cEhY2FrKtJvYo0wrU4cEvrgTD6xxm74fCWY7vA/1lxWEKuOKJBsiJYTFNhMIegdAvY920CH32oigScCY6hLJm0VFKpZo4TH95IFJZzCu/Ut7s16SWlBnlhTEHldZQpuebU5VYDnLLSWHNGR+q+u5r3wshi8r3hi9e4deQtKK/+WbBUzFDKI09IzIWaR5TQ9oYV/QatRuitWrrkmjIZF9igNCWp1x47dMKo/d6w1Z1+VcTVWE+OtBoh4BJrHRqfzFyp0xSzoWVTo8rPycKIkKWvuQm1yKnvWzE8WsWy9J2zzkhzTF4Zs+SGaqc26gpcgwDahks76kDGcjgE/COLkhPkXLoEiK0udlYYYHM6M6FK8TTD3wB6B3AHvQ6EdS9S0WqGkUQMye05jwS7Rm+MsGOMefBHzuM6nDZAnoBvxWz2Lfh/5N3H0OuTsd32VT1Rlo+ueCr4DEyCmRSmC/zCKPSd2fBnwsIEa4eM/TqBEtIqiQnilm0tiYItcQR42CX1yKzslpEQbZ9Qv2ESXAVM37bZQcOOA0D4lBPixr5V6gZcDoHfinQB3X0nYnewC3TyXn6dfCie07Ik6DrzKst4pz4eKThXhVXSg51LjYdAwqkhlKdxUTj2EDSETOvFko3ZRf5hWjjGFTecGawBpP9RqQgwZ/CbJ7HA4c2ZaSawCs20ymBKZ0Zjcb9XEnmEJEs5cdSyINZUMeJaifllhjRvOGunnJggacyHsHPcunxJUw4DU+hyfEHPpmqOLFM+s7W+NOEApTBMm0B0QfMYpzgXZikFLw6Dt9wFjWlEjXc6c6JjEcsoMFWRRjRcqSk2OohD/nQAUdXrqBJec6vxd5LhUfYe0e61S/aklxGx5GvSE3HMG7tEUkKOrQHWWgw8XUynCIvx8QjpscoXRO44iuDcwN5gd9Dp+kMsb85MSPrKf+9PfAy2DyqFs0+fPpzi99LejQTGokjQoSXVvKFHiJjTQpES8SLHaQEwHya2RvWOB4M1qFKjCuqMiYjCDXu2RGARQN9iLeQ+vMXQk+VYipkfzwf2DxRANMErlx2Q+GDf8+Fjgm3nAwCvr44/vrmCXhsmb8bXp+8uoIcYJ1hrHkA4RtigQ2QvGSnj8jN2lDcVAAOsbdLl7jLQEsHTRyJ2ZcQY4r8vQeIIbjkFCllYc5MracRUpFhPvWf3JU+U7zoRBiIXx3Rqy0ZiO64ppu4WotECpKFJvm4qrIiY1VsOlYuQumksSKK8lWm1LvgcPiv0ws6E7POy1VrPx60WtZS7cL6M1VbrDdN4PuaIZ8g2nYN2u+6iHZP7slRJ8tfpd04exY4GaAx1Jz4UlDL+B1VtNOSwc+F/9l/+ZAqME5ZhKRByF0iXn0z6zcbmL/KBjeUDSriG3o+xdi98HhWBg9yYALZABd32/rC7N1wfK63GQp2TornCbmPFCjGvh60NUywH0CVEAw8Tu3ZVCbvVt2sQNUyIxdMuRm+M4XcVsWppE0wvRvUFCZ1r04TXGwgSGwpq/C9Q5MQliDH+xNEZjjPsqkK2RK8hVwi4KjKqU0ntNLfYHIEf07GSpHEDYdaFVNQykS6jfs8/6PV6u61Bz+/ht6V09yBNvhtUf3BYDdrdfntw8FDcrCWA7xA2z3Tvd3db398rfdb77j57hjgkyV53sAcYToPOsN/vgxOu2+/sD2jxAHcHBz9dcHV6B5iznplcPuKcxOVPlV2WjNCGzfJfUxW1Cv+BNESh4kJ68GPi2aAOOKfSJ42WEOMgWXuv3HuWEO6umUenOBtULXuCk/rm8+D9venqq2F903EmpprazrFKU2Qglu8kyze9B171gnUxHpNNmCucgGnm5dHJwgP3tnuYaD5bnhTDyePl2MeNP0394iY4PT6f/P7hffeQvrT77Va7TW/Dg37fC+75iQgj0l13VuwKLbwR0TVIGGc1v7qaC1WWKTnnONMn7v0Y9w6DvfZwbxgkd53Ov7rtXl5fWi2JNi5Dq1fhlUvi6gKrfjFet+zaPddZg0R9IdlcepBPodONp2IWhtyYI0+VeQsHUDqg7tr7G7VHbuvMa2a55reCz5/PIrBJkU0lE+nDzGi4xLARYtbKmBQzbr5Bp6AmscrvQfOXmo6xKyyvNtajlWQI6fYcI7UUwDjeqQi5NNh9TxctGbYMC/p+O/DqoDTlFZXmuVZR4c7aet9aUagmb2q8afKuViP3bEZkCupXgcG4EgJPr5OC3v61mBZO6guck2md61BgIp/g2eJwnArMvmclQdgZj+Hkc+ti3JocL28O17R/2CxPV8vd7eAscqHgRtI1bqjyhVukGw0U2WGZL0qg0dw6Wn8KKlfHFPnSTspnsBNMhijiJb27hGtHcRv8JjlnWiXpCm7zuWXUbXc7rfaw1WtfdzuH3f3DTu/vq+Qb+FuoJ0zG/Nm0l9iblKvXBzxhTAIe1Ry9Hq1gb75P1C8i72ZjhmdK4Xa8WjO2vPig1PzHv/jgxwOvPRvvPZvaVc879y8Pk+p/76y/HjdAvBFjYf2euwV1pTbeR2u1RB+jF/8GfFvFoQ==",
         "name_facet_ssim": [
             "Brasier, William",
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
@@ -125,27 +128,26 @@
             "Champlain, Lake--Maps, Manuscript--Early works to 1800",
             "Fort Ticonderoga (N.Y.)--Maps, Manuscript--Early works to 1800"
         ],
-        "subject_geo_other_ssm": [
-            "Champlain, Lake"
-        ],
         "subject_geographic_sim": [
             "Champlain, Lake",
             "Essex (county)",
             "Fort Ticonderoga",
             "Lake George",
+            "New York",
             "North and Central America",
             "United States",
             "Warren (county)"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3833,43.8333]},\"properties\":{\"placename\":\"Fort Ticonderoga (transport point)\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3333,44.5]},\"properties\":{\"placename\":\"Champlain, Lake\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3833,43.8333]},\"properties\":{\"placename\":\"Fort Ticonderoga (transport point), NY\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3333,44.5]},\"properties\":{\"placename\":\"Champlain, Lake, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-73.5275,43.719444],[-73.324167,43.719444],[-73.324167,43.852778],[-73.5275,43.852778],[-73.5275,43.719444]]]},\"bbox\":[-73.5275,43.719444,-73.324167,43.852778]}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.7,43.4167]},\"properties\":{\"placename\":\"Lake George\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.7,43.4167]},\"properties\":{\"placename\":\"Lake George, NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3833,43.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Essex\",\"other\":\"Fort Ticonderoga (transport point)\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.7,43.4167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Warren\",\"city\":\"Lake George\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3833,43.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Essex\",\"other\":\"Fort Ticonderoga (transport point)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3333,44.5]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Champlain, Lake\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.7,43.4167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Warren\",\"city\":\"Lake George\"}}"
         ],
         "subject_point_geospatial": [
             "43.8333,-73.3833",
@@ -161,7 +163,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:22:42Z",
         "system_modified_dtsi": "2023-09-15T14:48:05Z",
-        "timestamp": "2023-10-03T15:50:11.663Z",
+        "timestamp": "2025-10-31T15:48:03.253Z",
         "title_info_primary_tsi": "Project for the Attack of Ticonderoga, proposed to be put in executino as near as the circumstances and ground will admit of",
         "type_of_resource_ssim": [
             "Cartographic"

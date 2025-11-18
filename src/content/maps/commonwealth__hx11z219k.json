@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750025442000896,
+        "_version_": 1847512986361528320,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z219k",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z219k/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Gordon, Harry, -1787",
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
@@ -121,15 +124,16 @@
         "subject_geographic_sim": [
             "Allegheny (county)",
             "North and Central America",
+            "Pennsylvania",
             "Pittsburgh",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9833,40.4333]},\"properties\":{\"placename\":\"Pittsburgh\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9833,40.4333]},\"properties\":{\"placename\":\"Pittsburgh, PA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-80.013333,40.439444],[-80.008889,40.439444],[-80.008889,40.443056],[-80.013333,40.443056],[-80.013333,40.439444]]]},\"bbox\":[-80.013333,40.439444,-80.008889,40.443056]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9833,40.4333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Allegheny\",\"city\":\"Pittsburgh\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9833,40.4333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Allegheny\",\"city\":\"Pittsburgh\"}}"
         ],
         "subject_point_geospatial": [
             "40.4333,-79.9833"
@@ -141,7 +145,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:26:51Z",
         "system_modified_dtsi": "2023-09-15T14:48:05Z",
-        "timestamp": "2023-10-03T15:50:14.570Z",
+        "timestamp": "2025-10-31T15:48:04.319Z",
         "title_info_primary_tsi": "A SKETCH of FORT DU QUESNE how it was before the Enemy abandont and distryd it taken from a survey of Cap.t Gordon's",
         "type_of_resource_ssim": [
             "Cartographic"

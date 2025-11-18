@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749971555680256,
+        "_version_": 1847512969295953920,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nk85x",
         "extent_tsi": "1 manuscript map 38 x 21 cm.",
         "filenames_ssim": [
-            "lh000334",
-            "commonwealth:q524ng638_metadata"
+            "commonwealth:q524ng638_metadata",
+            "lh000334"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524ng638",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524ng638/manifest",
@@ -127,7 +130,7 @@
         ],
         "system_create_dtsi": "2017-05-26T15:53:54Z",
         "system_modified_dtsi": "2023-09-15T14:47:57Z",
-        "timestamp": "2023-10-03T15:49:23.181Z",
+        "timestamp": "2025-10-31T15:47:48.045Z",
         "title_info_primary_tsi": "Plano del Puerto de Sama\u0301, situado en la costa del N. de la ysla de Sntia\u0301go. de Cuba",
         "type_of_resource_ssim": [
             "Cartographic"

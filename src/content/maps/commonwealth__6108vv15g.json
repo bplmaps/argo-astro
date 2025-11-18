@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750141527752704,
+        "_version_": 1847513021468901376,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:6108vv15g",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/6108vv15g/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Chamberlain, John",
             "Des Barres, Joseph F. W.  (Joseph Frederick Wallet), 1722-1824",
@@ -125,14 +128,15 @@
         "subject_geographic_sim": [
             "Canada",
             "Carbonear",
+            "Newfoundland and Labrador",
             "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-53.2667,47.75]},\"properties\":{\"placename\":\"Carbonear\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-53.2667,47.75]},\"properties\":{\"placename\":\"Carbonear, Newfoundland and Labrador\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-53.171944,47.733611],[-53.16,47.733611],[-53.16,47.742222],[-53.171944,47.742222],[-53.171944,47.733611]]]},\"bbox\":[-53.171944,47.733611,-53.16,47.742222]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-53.2667,47.75]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"city\":\"Carbonear\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-53.2667,47.75]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Newfoundland and Labrador\",\"city\":\"Carbonear\"}}"
         ],
         "subject_point_geospatial": [
             "47.75,-53.2667"
@@ -144,7 +148,7 @@
         ],
         "system_create_dtsi": "2016-12-07T18:16:32Z",
         "system_modified_dtsi": "2023-09-15T14:48:19Z",
-        "timestamp": "2023-10-03T15:52:05.279Z",
+        "timestamp": "2025-10-31T15:48:37.801Z",
         "title_info_primary_tsi": "PLAN of CARBONERA ISLAND situated at the Entrance of CARBONERA HARBOUR in CONCEPTION BAY NEWFOUNDLAND",
         "type_of_resource_ssim": [
             "Cartographic"

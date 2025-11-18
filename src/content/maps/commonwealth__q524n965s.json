@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749846761504768,
+        "_version_": 1847512915017465856,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n965s",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n965s/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Grant, James, deputy surveyor"
         ],
@@ -108,17 +111,18 @@
         "subject_geographic_sim": [
             "Bonhamtown",
             "Middlesex (county)",
+            "New Jersey",
             "North and Central America",
             "Perth Amboy",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.35,40.5167]},\"properties\":{\"placename\":\"Bonhamtown\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.25,40.5]},\"properties\":{\"placename\":\"Perth Amboy\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.35,40.5167]},\"properties\":{\"placename\":\"Bonhamtown, NJ\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.25,40.5]},\"properties\":{\"placename\":\"Perth Amboy, NJ\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.35,40.5167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Middlesex\",\"city\":\"Bonhamtown\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.25,40.5]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Middlesex\",\"city\":\"Perth Amboy\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.35,40.5167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\",\"county\":\"Middlesex\",\"city\":\"Bonhamtown\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.25,40.5]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\",\"county\":\"Middlesex\",\"city\":\"Perth Amboy\"}}"
         ],
         "subject_point_geospatial": [
             "40.5167,-74.35",
@@ -130,7 +134,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:24:25Z",
         "system_modified_dtsi": "2023-09-15T14:47:35Z",
-        "timestamp": "2023-10-03T15:47:24.168Z",
+        "timestamp": "2025-10-31T15:46:56.281Z",
         "title_info_primary_tsi": "Plan of Perth Amboy from an actual survey. Sketch of Bonham Town",
         "type_of_resource_ssim": [
             "Cartographic"

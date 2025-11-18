@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749867056693248,
+        "_version_": 1847512923678703616,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nb960",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nb960/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzNWFtz2zYWfs+vOMOXtDOmSMpXaWJ2EmWTpmM7mcjJtLvT2YFIiEQMAiwAWtZb+7Y/Lj9qD0hQInWz2+xM90WSAZz77Tt+8cNDweGeKs2kuPSiQegBFYlMmcguvU+3b/wL74f42YtCpnpsPwDfCz1+4EzcXXq5MeU4CBaLxWBxPJAqC6LRaBTUt177VLNdD4dhGAU/X19Nk5wWxGdCGyIS2lJZWT0yLpNBJu8DexHcH3trpY8H50il2VjXrK5kQkx9sZ8adlxZ+SlReO8e1d/+sX8+eNCpFz8DaNxgmOH0nZhLqDTJ6KVXKlYQtfQgZbrkZHlFZpSvjv/tTmsOPR7xB04EpBUYqhRlAsjX34ETUOyeQkYqNAdS6k4Y/fq7qv/+iRRUwz3TPr738bs5MXIhMHbwmamMCUZfBB1JHdG6mt3WZ7IC/RzpgLN7Rb/+AZxCIosZMVanM/hSMc6pgej8IkLGBqXz50QV+JQCsV+KJYSJmqpA59UXJVGW0TXTA6vsFYE3ZEmNoUB5l15kXDKNP6oHkCpVaBJKvcKfMJFKLAjnTDsbVirbGAT9IKzjIlAnMMvSRgRzQwrCez639x+IMvFrqlFbJauv/8G0O4KfKIbhhiWSk1bi6u0OeicjJYZ6cXQ+HPnR+Wh4gFDJNgLdk1uqCsfK0AfjoSdMLhUzy0sP8yZRlBMjVef808d3q6Rm6Spx7zHhZxXHVAscjcbqILyiTycIUJwXTxS1fzlTWiWdKUHPlo65ncpAa97PP1ItK5VQwJyodKJYaS69JdXIHx0jM0XKnCVtHHska1YZFYp2XZIVWZn8KWc4QdcYJ8UIf7pTNgkDkxVheDY8izZLHLWkyqbZNSnb1Kk1/z82JBoOL84OGNLGbI89qDO2l7by2lNbDHX20LQzPxbHSWrmHtzR5Wu8arIAfqsIZ3NG1aXHxNy2vtTW0UXkBHZ4dTKtL7eRiu0zq7AFdzVpzw6VF9Py7HjkD2d/Kgwt1ZPd3xIEc0W8+I1Cx+TOmq6WHSO7BjXmlPlSY5fl2LPqqOBg6/kdnWIIf187J1Z0LlVBjI2Cu2l92nvXYYCuwdYeR51ixZ8ljCHHHomdnUsFJ6fwACcjSIqB4+fIOoyYwCQT1FzTlJFb9HuM0y+jwZeSZo5o+8kT6A2bz7+F/ks5PETu7va42TV+aWinMI6gpMJH7yBouQPrpYUtsNpVrX9qkj6DH4luHmJzvzvw7iPljM5B53aez5YYhySvcDweIHknEl6lOEEZDuEHMBJKidZqkHMoGMfIqyXU5uO438/HlQsCIUMLDK8lR4pSCs1mlg1imH9NWSZwgo9/hf4YfYxrglpYt+LIwZqnFurFVxOwjdPKuZHK5PCyoBZTHCHmOA1xrF6M8OfJafQY82YW3+aIhexPYNYVTWvZbS4iii80Md2mwBOdP94P2ntGdeCY6D6ykyVL4reKIhSbIgQUGViY1xh/BK+wOhEeyfkRfCaDoxpc+b71whGsU8z3/0EUX8JCqjtt4xldhGE7MWsB69R1WvzttsF3aND3jS3/a/1NJvaoX7fbQYYAczmgaRXUL7f6845XQRSF0egi7BmY0RaexBMsZ4FDE25q6/DHjwwxtk1PDojw7lbjcUXSYZTjeEMMl9vXbzdetG8SWSGoXsafBLMNe2rLri2j9m6DQBiE29h3m2qxrWdigTlq5CpnRd6+7GK3/Uo9EoquZUkHw+m+fhr50nhqPyEhA4jG0dlRuAp8c91VaIvXPj1qmErTd9iXXMXnUpvtjWoNS/qL1hWbKdsDsdFMpMiwqWn8gdtNYmO7Y1PatWQEm6oc0o/pj22fS1/halivxOMcm1+TlBqzkieJWBVfVpxHYTiMzi7AC9acWYpRrNGSY1wp5sUtBztJ3Gi3O5gUC0q4yesFG+/GwWk4Oh0Fv50OT8RsdNZGYs30gCBUjHBfmpwqLybKtuHwEAPu9u5uUNqx2u7kOwPRpuKyTmhsH/Aa1129DswWlw5g6h7tVaNSfGtXJ0mCwi892TQb3L5t0Vik+K3eRWmbwlthpaK4yC/+uojA5FUxE4Tx/cLspMMEZGzuI6hjc6q/waagZdGXt9f9jaUY25TVQ2FX3icW3LN72iiga9mcJVRoHDyzpS8SX5PgZBAGXpv09h8FmByKlkqmVV21myuM4+BggJ08Fga40xQQGYNlUyFEUkBg4pTAPKy1gJfGKDaraq1vpPDtOaI6OwKmOcEd7iVndxSuGobw3WQCr37xbyb+9OX3LcjYsH6/W55uFiL23I7hGwl3wkLCRJbL+tBiM1S5ptKPaqDQ3Srd3Nua04nNfGGmzQ7+ClsrqvihmqHzwFXsqvttv99mV7tWCrvzbW+D8RC7nB/iXjS6DaPxcTiOTv7ZZ9+h38EdF5OMPpn36QbvFfU2Z7cdYYURAViqJUY97VFv70/txvZ+PiFYUxKvs/4E2rGQotb0b11Iqci8GD/2bKNb++i2dW79XK9LU/fv081/Y3WeeLFKW4Syg7I3ZNfJ6o7sR/zsv7f/4Zo=",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Desandrou\u0308ins, Jean Nicolas, 1729-1792"
         ],
@@ -109,10 +112,11 @@
         "subject_geographic_sim": [
             "Colonial National Historical Park",
             "North and Central America",
-            "United States"
+            "United States",
+            "Virginia"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Colonial National Historical Park\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\",\"other\":\"Colonial National Historical Park\"}}"
         ],
         "subject_topic_tsim": [
             "Green Spring Plantation, Battle of, Va., 1781--Maps, Manuscript--Early works to 1800",
@@ -120,7 +124,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:55:20Z",
         "system_modified_dtsi": "2023-09-15T14:47:38Z",
-        "timestamp": "2023-10-03T15:47:43.523Z",
+        "timestamp": "2025-10-31T15:47:04.541Z",
         "title_info_primary_subtitle_tsi": "ou s'est livre\u0301 le combat du 6 juillet 1781 entre l'arme\u0301e ame\u0301ricaine commande\u0301e par le Mis. de La Fayette el l'arme\u0301e angloise aux ordres du Lord Cornwallis",
         "title_info_primary_tsi": "Plan du terrein a\u0300 la rive gauche de la rivie\u0300re de James vis-a\u0300-vis Jamestown en Virginie",
         "type_of_resource_ssim": [

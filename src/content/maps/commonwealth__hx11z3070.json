@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750041231458304,
+        "_version_": 1847512992348897280,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z3088",
         "extent_tsi": "1 map : manuscript pen and ink with watercolour ; 65 x 48 cm",
         "filenames_ssim": [
-            "k_top_120_22",
-            "commonwealth:hx11z3070_metadata"
+            "commonwealth:hx11z3070_metadata",
+            "k_top_120_22"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z3070",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z3070/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "George, III, King of Great Britain, 1738-1820",
             "George, IV, King of Great Britain, 1762-1830",
@@ -126,6 +129,7 @@
             "United States--History--French and Indian War, 1754-1763--Maps, manuscript--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
@@ -133,7 +137,7 @@
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-69.298055,43.90138],[-68.73583,43.90138],[-68.73583,44.57555],[-69.298055,44.57555],[-69.298055,43.90138]]]},\"bbox\":[-69.298055,43.90138,-68.73583,44.57555]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-98.0,38.0]},\"properties\":{\"country\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-98.0,38.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\"}}"
         ],
         "subject_point_geospatial": [
             "38,-98"
@@ -143,7 +147,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:49:30Z",
         "system_modified_dtsi": "2023-09-15T14:48:09Z",
-        "timestamp": "2023-10-03T15:50:29.629Z",
+        "timestamp": "2025-10-31T15:48:10.030Z",
         "title_info_primary_tsi": "MAY 23. 1759. PROVINCE MASSACHUSETTS BAY PENOBSCOT DOMINIONS OF GREAT BRITAIN POSSESSION CONFIRM'D BY THOS. POWNALL GOVR",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749620939128832,
+        "_version_": 1847512868809867264,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vq747",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vq747/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Fielding, I."
         ],
@@ -99,13 +102,14 @@
             "United States--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-98.0,38.0]},\"properties\":{\"placename\":\"United States\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-98.0,38.0]},\"properties\":{\"country\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-98.0,38.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\"}}"
         ],
         "subject_point_geospatial": [
             "38,-98"
@@ -115,7 +119,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:55:40Z",
         "system_modified_dtsi": "2023-09-15T14:47:15Z",
-        "timestamp": "2023-10-03T15:43:48.806Z",
+        "timestamp": "2025-10-31T15:46:12.214Z",
         "title_info_primary_tsi": "A map of the United States of America, as settled by the peace of 1783",
         "type_of_resource_ssim": [
             "Cartographic"

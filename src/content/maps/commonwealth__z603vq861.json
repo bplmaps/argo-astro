@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749629846781952,
+        "_version_": 1847512871980761088,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vq861",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vq861/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "M. B."
         ],
@@ -98,17 +101,18 @@
         ],
         "subject_geographic_sim": [
             "North and Central America",
-            "Northeastern United States"
+            "Northeastern United States",
+            "United States"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"Northeastern United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"area\":\"Northeastern United States\"}}"
         ],
         "subject_topic_tsim": [
             "Northeastern States--Maps--Early works to 1800"
         ],
         "system_create_dtsi": "2016-11-20T04:57:03Z",
         "system_modified_dtsi": "2023-09-15T14:47:15Z",
-        "timestamp": "2023-10-03T15:43:57.302Z",
+        "timestamp": "2025-10-31T15:46:15.238Z",
         "title_info_alternative_tsim": [
             "Gazzettiere americano"
         ],

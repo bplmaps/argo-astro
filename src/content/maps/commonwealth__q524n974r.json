@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749847773380608,
+        "_version_": 1847512916094353408,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n974r",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n974r/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Hills, John, (Surveyor)"
         ],
@@ -115,16 +118,17 @@
             "Camden (county)",
             "Haddonfield",
             "Holly, Mount",
+            "New Jersey",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.7833,40.0]},\"properties\":{\"placename\":\"Holly, Mount (hill)\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0333,39.8833]},\"properties\":{\"placename\":\"Haddonfield\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.7833,40.0]},\"properties\":{\"placename\":\"Holly, Mount (hill), NJ\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0333,39.8833]},\"properties\":{\"placename\":\"Haddonfield, NJ\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.7833,40.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Burlington\",\"other\":\"Holly, Mount (hill)\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0333,39.8833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Camden\",\"city\":\"Haddonfield\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.7833,40.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\",\"county\":\"Burlington\",\"other\":\"Holly, Mount (hill)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0333,39.8833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\",\"county\":\"Camden\",\"city\":\"Haddonfield\"}}"
         ],
         "subject_point_geospatial": [
             "40,-74.7833",
@@ -136,7 +140,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:26:13Z",
         "system_modified_dtsi": "2023-09-15T14:47:34Z",
-        "timestamp": "2023-10-03T15:47:25.133Z",
+        "timestamp": "2025-10-31T15:46:57.307Z",
         "title_info_alternative_tsim": [
             "Penny Hill to Black Horse through Mount Holly"
         ],

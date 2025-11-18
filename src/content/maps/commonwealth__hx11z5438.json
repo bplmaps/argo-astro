@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750096065691648,
+        "_version_": 1847513012605288448,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z544j",
         "extent_tsi": "1 map : manuscript pen and ink over pencil ; 51 x 72 cm",
         "filenames_ssim": [
-            "k_top_119_88_2",
-            "commonwealth:hx11z5438_metadata"
+            "commonwealth:hx11z5438_metadata",
+            "k_top_119_88_2"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z5438",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z5438/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Durell, Philip, -1766",
             "George, III, King of Great Britain, 1738-1820",
@@ -126,14 +129,15 @@
         "subject_geographic_sim": [
             "Canada",
             "Louisbourg",
-            "North and Central America"
+            "North and Central America",
+            "Nova Scotia"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-59.9667,45.9333]},\"properties\":{\"placename\":\"Louisbourg\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-59.9667,45.9333]},\"properties\":{\"placename\":\"Louisbourg, Nova Scotia\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-60.000833,45.92888],[-59.95361,45.92888],[-59.95361,45.92888],[-60.000833,45.92888],[-60.000833,45.92888]]]},\"bbox\":[-60.000833,45.92888,-59.95361,45.92888]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-59.9667,45.9333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"city\":\"Louisbourg\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-59.9667,45.9333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Nova Scotia\",\"city\":\"Louisbourg\"}}"
         ],
         "subject_point_geospatial": [
             "45.9333,-59.9667"
@@ -147,7 +151,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:48:29Z",
         "system_modified_dtsi": "2023-09-15T14:48:14Z",
-        "timestamp": "2023-10-03T15:51:21.923Z",
+        "timestamp": "2025-10-31T15:48:29.347Z",
         "title_info_primary_tsi": "Plan of the HARBOUR and FORTIFICATIONS OF LOUISBOURG",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749877544550400,
+        "_version_": 1847512928043925504,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nc64x",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nc64x/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Phelipeau, Rene\u0301, active 1748-1784"
         ],
@@ -109,15 +112,16 @@
         ],
         "subject_geographic_sim": [
             "Chatham (county)",
+            "Georgia",
             "North and Central America",
             "Savannah",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.1,32.0833]},\"properties\":{\"placename\":\"Savannah\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.1,32.0833]},\"properties\":{\"placename\":\"Savannah, GA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.1,32.0833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Chatham\",\"city\":\"Savannah\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.1,32.0833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Georgia\",\"county\":\"Chatham\",\"city\":\"Savannah\"}}"
         ],
         "subject_point_geospatial": [
             "32.0833,-81.1"
@@ -127,7 +131,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:10:40Z",
         "system_modified_dtsi": "2023-09-15T14:47:39Z",
-        "timestamp": "2023-10-03T15:47:53.525Z",
+        "timestamp": "2025-10-31T15:47:08.704Z",
         "title_info_primary_tsi": "Taking of Savannah in Dec. 1778",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750130152800256,
+        "_version_": 1847513019649622016,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:cj82m429g",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/cj82m429g/manifest",
@@ -62,7 +65,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Korn, Christoph Heinrich, 1726-1783",
             "Raspe, Gabriel Nicolaus, 1712-1785"
@@ -119,16 +122,17 @@
         "subject_geographic_sim": [
             "New Jersey",
             "New York",
-            "North and Central America"
+            "North and Central America",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"placename\":\"New Jersey, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"placename\":\"New York, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"placename\":\"New Jersey\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"placename\":\"New York\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-74.07,40.77],[-73.67,40.77],[-73.67,41.31],[-74.07,41.31],[-74.07,40.77]]]},\"bbox\":[-74.07,40.77,-73.67,41.31]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"New Jersey\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"New York\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,43.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\"}}"
         ],
         "subject_point_geospatial": [
             "40,-75",
@@ -141,7 +145,7 @@
         ],
         "system_create_dtsi": "2015-01-24T01:11:32Z",
         "system_modified_dtsi": "2023-09-15T14:48:19Z",
-        "timestamp": "2023-10-03T15:51:54.431Z",
+        "timestamp": "2025-10-31T15:48:36.066Z",
         "title_info_primary_subtitle_tsi": "in Neuyorck und Ost-Neujersey\u0308 gegen die Americaner unter comando des General Washington, vom 12. October bis 28. November. 1776, wobey\u0308 vorzu\u0308glich die affaire bey\u0308 White Plains am 28. October vorgestellt wird",
         "title_info_primary_tsi": "Plan von den operationen der Koeniglichen Armee unter dem General Sir William Howe",
         "type_of_resource_ssim": [

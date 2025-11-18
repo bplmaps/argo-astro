@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749997943095296,
+        "_version_": 1847512976087580672,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -53,7 +53,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z0640",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z0640/manifest",
@@ -66,7 +69,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJztGdty27j1PV+B4dNmxiKpiyXLjbljK9nUGTtOLSebNtPZgUhIRAwBLABaVt/6A/tT+9qP6jkgKZG0ZDvJw740k8gKgHO/H7/6+X4pyB3Thit54nX90CNMxirhcnHifbz5pXPk/Ry9eLVUiTnGDwLvpTm+F1zenniptdlxEKxWK3/V95VeBN3xeBy4W696aviuh70w7AafLy+mccqWtMOlsVTGrIJCWg0woWJ/oe4CvAju+t6W6b4/AijDj41DdaFiat3Ffmiy4wrpJ1TDffnI/ez0OyP/3iRe9IKQQg2WW8HO5VyR3NAFO/EyzZdUrz2ScJMJur6gMyY2x7+Vpw5DA0f05dwIIErUnExUnmj2z1dB7RopBk2SWy4kXTJi1xnSB00oSYVHaG5Tpbldn3iSzmv//3h9vtEHTzYyV/ecmQARGlArFTl77vNAHvW7o3F31G1Ih3cfqLbR6TIF3uwBecfmc6bXZHNwRrWSpXSb5ztQlCIm1DIvAjqjDtAbPQKoVaG55skN08sSlWX3tqEpMFKsmaBW6ac1dgfeNcsF2DUoYZ7Q2Q6AYL5UXvSL0kumiVpJpkt5Kk5LeYKGQDWZd3pBrHSmtNPTLlNcqzUV5KPkliVkyvQdj5kh5xB23OaWkbnS5DWbQ/Azgj45ZXGOeiBTmydg8P+rvApdEOlqfs2MynXMogkoQy00zVIeV9HafLGBXDCpWV0Ni+Uii79JASWhSzCz5lQ8XxFtwMAulmE47A277bQFXDINySS6pFlldcf5VhBgdsFllY+qU8ARt/zAHbUdIfryAY8x62VaJXmM2ZpIZQlPmLR8zllSJcINgoZ9apRKOvlMcAOpJfpSoAQr70G4eVkD58bkWHyipZItW26uas8xGU00oxhJ22K56seJhZx7y9av4erEW2M6zRSX9sSD4qIhBP6VU4Hs6BOPS0iImiWY1YZhSa2G+QcJMpnsJTfaQ648bVq34ADK1CKHYlfnqjp7LNC5UcP+uNObfZOXV1DP9u4KIGBy4UVv5AJtXIpTZ7MmZV2i0onSteExFa+ZiTXP0CsbRgCtWCqunHYizSBhLqlFk5Q3lVIb72oIQDfgjVGXLGlGjgn8kHlBiWRMuqQLbRNZcZuSFcZprARkEPIXQvoDck8GAxIvSyIlrroPS4CQzF6yhNMbsEYE3ceCBV8ztqh8+cGTZ8BD+Mx/BP5r1nsMvArL3bova5iyLEIXJxqMBqVKqyXBqIFeYNgl01zfsbVroqikCSUrCN8UdBmLPAHzGHcPIbPts6DwFZ3XT39VWprZ+gDKHMtSMMM7v0QIVQMB3iwzrtkByUAYMgwPyJwvckjjPX/00m+jW1FDLGJhEPBFokkInFFieFlj1cxg8QVuhJLgKcAiSaDSwgFAoljDDoZoTSw8f5uLOX6fUlAjuaArvanUeN06vubQHftV+UL1NZU5UcuMghCnSUIuDTkcHYzCgd/zHYcUnkCCdG5aUueltmZrECXh2MuB+5EUD/GfSdUKJdheQe2TiTtimU3Ny29mZlAyU2dj2y5facGoNAQYwguDbVDBDRqAG4R6BkkohArp+kDYJ/1u3xnY721IbyIUucBaAn14QjwoYLJi6lrRWgfvIUsTmlkwCHmHPTJcqNtHeLlmgrO5U6FEYJNSVNwjENOmbglKsgCLy8dgAL0hsaLgmIKo3MKIBiVYCnB9qYiLTQ5CL1hRANdg84KnR5DeoDqKcHSNqGPCJTAQvvAZn1w5Z3LjQvkA+fWmlnyguTAwCcDkhKbzQG3g6EpJzzH2qP0y8ETbcpm+T85QNSANufY/+lP/3CeflCAXn88/Q1g7FdRsSpOEu94DrOd1RwSGSoCEXBxzgdjzDCYrAnk8tUVWBqNXMKBEr+89hfSUHB61kAq1qpA+Dd07Cg7bXBUIBJsD/AXl4Huo0TjlUCuJxX6F+eStZqDomOsYCyQR2NoRq9zQrJxdDfF6YwoS/JpiatrxAj3Me319+uuba2CETN9Mbs6v3pMewFzWOJZgETdwb6G3/JaUuiMA+kBRna6yQf9/W97NBYMaB0lQrE3lOpAuU85EUmjdu/j0FsKKgeDOT2KwcYUDnNQ7/+Ttd5XG/DiGP897eYM5BL8ihap32k3F5LOvLLb1rkfEJv224btEYppLApXxOGpXrL/l7L//mbH4ZaeDHfpBzRidzhuqxZqslL41aI7uUVj1egWybcUtKT4qh13IPWK43stfMGvXPkvywL180KzteBV0Yeo4GvYbgoKxtXNh6ADesqoDb40SWkHVhEYc5Afpq76hOm28dR6i11HRD5RPq8PWS8jpElup90q7CE/IBP4LAxA5hVkRONqAVy8bCIosVxnpgPzxu8AR734zPrjr+vDymLAlU7WR0rT5VRpSPzimiQYjf9Adjg46o9B92TC6fVKn+wDrE47wHRwhJ4e9MfBCgLl+333Dw97hcAztK3I8PAoPh38OqwY0DpUQPwnNwHXuoUW1DAKmezwID8JNrBQPv4sjt3Bgybll1UyUKmMf7v62w3NzJXiGCcGk5ILPwEuglVBCMDcht1eDe5aDQZuNx3jj5pq5hi1myRmUYbe4PU5huNnEsGHorEWBYcafCT+/Dc5PL6e/ffrYO8Yv4SDshCEufkf9gRds6W2mb12SgzbXixCvAcSQvv1yVorVEibvFaPCpm45DHfHwWE4PhwH6X23++9wOKhss0Vam07LlW9jJVBOFNU6uK3Z1uBxUUNRTYj1o710ci0e7IFpHDNjTjxVZFSoaJg93O7jB6UHam3iFbFMszvOVt9PIrBpvpxJysV+Ylj6wG04n3ega+FzZn5ApqBC0aS3V/2FpBMlyx6p7a3IQ4zrDPDUggHjaAseM2mgys7WHRl3DA0Gfhh4lVOaYozSbLuNau/ESgxlX4DlFfuC8jRx0wKigd6T4dwwKZmA6HVckFNrNZ/ljuv3SnbwHOZ7DlVmmrrZR/BbBq7pEJKfJhNy9vfO+0lnerqZnFrS71fL88VyXSj0HO8VuZU4fsTQVxf9LhQzYNlBmSc50KBunbT3gcXpBD1f2mmxCz2DZAgsfsAtXNwKxV3vH6JzqlXSrQMe7MKiXtjrdsJxpx/e9MLjQ/g7/kcTfQ1+B/YUFwzfjXsD/RBzuQ6CCIMhAkIVx8+kAf1wYVStqK7mEwoxpeB60awZO1ZwwDX781dw8LFn/fZgAfdQunLftl0FTctfzbV/hVB74kWUxtVSfwdoozZuvbU8wo/oxf8APjv0Ig==",
         "name_facet_ssim": [
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
             "Royal United Services Institute for Defence and Security Studies"
@@ -127,14 +130,15 @@
         "subject_geographic_sim": [
             "Canada",
             "Coudres, \u00cele aux",
-            "North and Central America"
+            "North and Central America",
+            "Quebec"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.4167,47.4167]},\"properties\":{\"placename\":\"Coudres, \u00cele aux\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.4167,47.4167]},\"properties\":{\"placename\":\"Coudres, \u00cele aux, Quebec\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-70.529167,47.339167],[-70.256944,47.339167],[-70.256944,47.468056],[-70.529167,47.468056],[-70.529167,47.339167]]]},\"bbox\":[-70.529167,47.339167,-70.256944,47.468056]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.4167,47.4167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"island\":\"Coudres, \u00cele aux\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.4167,47.4167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Quebec\",\"island\":\"Coudres, \u00cele aux\"}}"
         ],
         "subject_point_geospatial": [
             "47.4167,-70.4167"
@@ -144,7 +148,7 @@
         ],
         "system_create_dtsi": "2016-11-17T22:47:09Z",
         "system_modified_dtsi": "2023-09-15T14:48:01Z",
-        "timestamp": "2023-10-03T15:49:48.346Z",
+        "timestamp": "2025-10-31T15:47:54.522Z",
         "title_info_primary_tsi": "[Island of Coudre]",
         "type_of_resource_ssim": [
             "Cartographic"

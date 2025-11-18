@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749874625314816,
+        "_version_": 1847512926883151872,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nc45q",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nc45q/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_date_tsim": [
             "This date is inferred."
         ],
@@ -102,15 +105,16 @@
         "subject_geographic_sim": [
             "North and Central America",
             "Sea Islands",
-            "South Carolina"
+            "South Carolina",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,34.0]},\"properties\":{\"placename\":\"South Carolina, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.1167,31.5]},\"properties\":{\"placename\":\"Sea Islands, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,34.0]},\"properties\":{\"placename\":\"South Carolina\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.1167,31.5]},\"properties\":{\"placename\":\"Sea Islands\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,34.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"South Carolina\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.1167,31.5]},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"Sea Islands\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,34.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"South Carolina\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.1167,31.5]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"area\":\"Sea Islands\"}}"
         ],
         "subject_point_geospatial": [
             "34,-80",
@@ -122,7 +126,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:05:52Z",
         "system_modified_dtsi": "2023-09-15T14:47:40Z",
-        "timestamp": "2023-10-03T15:47:50.741Z",
+        "timestamp": "2025-10-31T15:47:07.597Z",
         "title_info_primary_tsi": "Sketch of the coast from South Edisto to Charles Town, 1st March 1780",
         "type_of_resource_ssim": [
             "Cartographic"

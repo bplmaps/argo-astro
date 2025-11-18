@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749855441616896,
+        "_version_": 1847512919212818432,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -53,7 +53,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nb21x",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nb21x/manifest",
@@ -68,7 +71,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1292"
         ],
@@ -106,15 +109,16 @@
         ],
         "subject_geographic_sim": [
             "Monmouth (county)",
+            "New Jersey",
             "North and Central America",
             "Sandy Hook",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9833,40.4333]},\"properties\":{\"placename\":\"Sandy Hook (cape)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9833,40.4333]},\"properties\":{\"placename\":\"Sandy Hook (cape), NJ\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9833,40.4333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Monmouth\",\"other\":\"Sandy Hook (cape)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9833,40.4333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\",\"county\":\"Monmouth\",\"other\":\"Sandy Hook (cape)\"}}"
         ],
         "subject_point_geospatial": [
             "40.4333,-73.9833"
@@ -124,7 +128,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:36:39Z",
         "system_modified_dtsi": "2023-09-15T14:47:36Z",
-        "timestamp": "2023-10-03T15:47:32.446Z",
+        "timestamp": "2025-10-31T15:47:00.282Z",
         "title_info_primary_tsi": "Soundings of the bar of Sandy Hook at low water & the marks made use of for the best water",
         "type_of_resource_ssim": [
             "Cartographic"

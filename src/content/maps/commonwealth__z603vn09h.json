@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1792996290644148224,
+        "_version_": 1847512878554284032,
         "abstract_tsi": "Anonymous map of the Yorktown and Williamsburg regions on the Virginia Peninsula possibly compiled by a French engineer named D'Aboville serving under General Claude Anne de Rouvroy, Marquis de Saint-Simon Montblern; see historian Martha McCartney's email correspondence of June 2005 (filed in the Newberry Library Map Information File.) Shows troop movements made between July 2 and October 8, 1781 in coordination with American forces against the British army during the Yorktown siege. Map legend keyed to sites 1-12 and A-Q. Identifies camps, fortifications, and earthworks. Topographic detail includes wooded areas, cultivated fields, individual buildings, and roads. Includes inset view of Yorktown (113 x 248 mm.)",
         "admin_set_ark_id_ssi": "commonwealth:z603vm84v",
         "admin_set_name_ssi": "Newberry Library Collection",
@@ -10,7 +10,7 @@
             "commonwealth:z603vm84v"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Newberry Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -45,7 +45,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vn09h",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vn09h/manifest",
@@ -131,7 +134,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:04:41Z",
         "system_modified_dtsi": "2024-02-02T20:40:28Z",
-        "timestamp": "2024-03-08T21:48:31.799Z",
+        "timestamp": "2025-10-31T15:46:21.506Z",
         "title_info_primary_tsi": "Carte de la campagne de la division aux ordres du Mis. de St. Simon en Virginie depuis le 2 7bre. 1781 jusq-a la reddition d'Yorck le 19 8bre. meme anne\u0301e",
         "type_of_resource_ssim": [
             "Cartographic"

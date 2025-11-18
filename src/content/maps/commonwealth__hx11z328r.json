@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750045420519424,
+        "_version_": 1847512994513158144,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -39,14 +39,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z3291",
         "extent_tsi": "1 map on 3 sheets : joined and lain on linen, manuscript pen and ink with watercolour ; 40 x 175 cm",
         "filenames_ssim": [
-            "k_top_121_16",
-            "commonwealth:hx11z328r_metadata"
+            "commonwealth:hx11z328r_metadata",
+            "k_top_121_16"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z328r",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z328r/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "George, III, King of Great Britain, 1738-1820",
             "George, IV, King of Great Britain, 1762-1830"
@@ -119,22 +122,21 @@
             "George, Lake (N.Y. : Lake)--Maps, Manuscript--Early works to 1800",
             "United States--History--French and Indian War, 1754-1763--Maps, Manuscript--Early works to 1800"
         ],
-        "subject_geo_other_ssm": [
-            "Champlain, Lake"
-        ],
         "subject_geographic_sim": [
             "Champlain, Lake",
             "George, Lake",
+            "New York",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4167,43.8333]},\"properties\":{\"placename\":\"George, Lake\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3333,44.5]},\"properties\":{\"placename\":\"Champlain, Lake\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4167,43.8333]},\"properties\":{\"placename\":\"George, Lake, NY\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3333,44.5]},\"properties\":{\"placename\":\"Champlain, Lake, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-73.8,43.26666],[-73.06666,43.26666],[-73.06666,46.06666],[-73.8,46.06666],[-73.8,43.26666]]]},\"bbox\":[-73.8,43.26666,-73.06666,46.06666]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4167,43.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"George, Lake\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4167,43.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"other\":\"George, Lake\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.3333,44.5]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Champlain, Lake\"}}"
         ],
         "subject_point_geospatial": [
             "43.8333,-73.4167",
@@ -149,7 +151,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:56:24Z",
         "system_modified_dtsi": "2023-09-15T14:48:07Z",
-        "timestamp": "2023-10-03T15:50:33.623Z",
+        "timestamp": "2025-10-31T15:48:12.094Z",
         "title_info_primary_tsi": "French Draught of Lake Champlain & Lake George",
         "type_of_resource_ssim": [
             "Cartographic"

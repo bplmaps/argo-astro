@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750076573712384,
+        "_version_": 1847513008995041280,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z4806",
         "extent_tsi": "1 map : manuscript pen and ink with watercolour ; 29 x 44 cm",
         "filenames_ssim": [
-            "k_top_122_94_1",
-            "commonwealth:hx11z479f_metadata"
+            "commonwealth:hx11z479f_metadata",
+            "k_top_122_94_1"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z479f",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z479f/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Pittman, Philip, active 1760-1770",
             "George, III, King of Great Britain, 1738-1820",
@@ -120,6 +123,7 @@
         "subject_geographic_sim": [
             "Alabama",
             "Mobile",
+            "Mobile (county)",
             "North and Central America",
             "United States"
         ],
@@ -128,7 +132,7 @@
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-88.040555,30.68583],[-88.03083,30.68583],[-88.03083,30.69138],[-88.040555,30.69138],[-88.040555,30.68583]]]},\"bbox\":[-88.040555,30.68583,-88.03083,30.69138]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-88.0333,30.6833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Alabama\",\"city\":\"Mobile\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-88.0333,30.6833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Alabama\",\"county\":\"Mobile\",\"city\":\"Mobile\"}}"
         ],
         "subject_point_geospatial": [
             "30.6833,-88.0333"
@@ -139,7 +143,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:33:55Z",
         "system_modified_dtsi": "2023-09-15T14:48:12Z",
-        "timestamp": "2023-10-03T15:51:03.334Z",
+        "timestamp": "2025-10-31T15:48:25.904Z",
         "title_info_primary_tsi": "PLAN of MOBILE",
         "type_of_resource_ssim": [
             "Cartographic"

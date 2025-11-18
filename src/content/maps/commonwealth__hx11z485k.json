@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1780925150389075968,
+        "_version_": 1847513009019158528,
         "abstract_tsi": "A manuscript map of the town of St George in New Brunswick showing the land available to United Empire Loyalists - those American Loyalists who resettled in British North America as an act of loyalty to George III after the British defeat in the American Revolutionary War. Ordered by Governor General of Nova Scotia, John Parr, and surveyed by Charles Morris.",
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
@@ -10,7 +10,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -38,14 +38,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z486v",
         "extent_tsi": "1 map : manuscript pen and ink with watercolour ; 34 x 45 cm",
         "filenames_ssim": [
-            "k_top_119_53",
-            "commonwealth:hx11z485k_metadata"
+            "commonwealth:hx11z485k_metadata",
+            "k_top_119_53"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z485k",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z485k/manifest",
@@ -58,7 +61,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Morris, Charles, (Surveyor)",
             "George, III, King of Great Britain, 1738-1820",
@@ -118,6 +121,7 @@
         ],
         "subject_geographic_sim": [
             "Canada",
+            "North and Central America",
             "Province of New Brunswick"
         ],
         "subject_geojson_facet_ssim": [
@@ -125,7 +129,7 @@
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-66.842777,45.12583],[-66.81861,45.12583],[-66.81861,45.13138],[-66.842777,45.13138],[-66.842777,45.12583]]]},\"bbox\":[-66.842777,45.12583,-66.81861,45.13138]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-66.75,46.5]},\"properties\":{\"country\":\"Canada\",\"province\":\"Province of New Brunswick\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-66.75,46.5]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Province of New Brunswick\"}}"
         ],
         "subject_point_geospatial": [
             "46.5,-66.75"
@@ -136,7 +140,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:35:22Z",
         "system_modified_dtsi": "2023-09-15T14:48:12Z",
-        "timestamp": "2023-10-27T16:02:55.358Z",
+        "timestamp": "2025-10-31T15:48:25.928Z",
         "title_info_primary_tsi": "A PLAN OF THE TOWN OF ST. GEORGE Situated in Harbor Etang on the North side the Bay of Fundy, projected and laid out under the Orders and directions of His Excellency John Parr Esquire",
         "type_of_resource_ssim": [
             "Cartographic"

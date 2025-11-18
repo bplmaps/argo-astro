@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749634680717312,
+        "_version_": 1847512874327474176,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vr12f",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vr12f/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_resp_tsim": [
             "Jno. Lodge, sculp."
         ],
@@ -98,17 +101,18 @@
             "Maryland",
             "North and Central America",
             "Pennsylvania",
+            "United States",
             "Virginia"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.8333,39.0]},\"properties\":{\"placename\":\"Maryland, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"placename\":\"Pennsylvania, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,37.0]},\"properties\":{\"placename\":\"Virginia, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.8333,39.0]},\"properties\":{\"placename\":\"Maryland\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"placename\":\"Pennsylvania\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,37.0]},\"properties\":{\"placename\":\"Virginia\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.8333,39.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Maryland\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Pennsylvania\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,37.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Virginia\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.8333,39.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Maryland\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.0,40.8333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,37.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\"}}"
         ],
         "subject_point_geospatial": [
             "39,-76.8333",
@@ -122,7 +126,7 @@
         ],
         "system_create_dtsi": "2016-11-20T05:00:33Z",
         "system_modified_dtsi": "2023-09-15T14:47:16Z",
-        "timestamp": "2023-10-03T15:44:01.911Z",
+        "timestamp": "2025-10-31T15:46:17.476Z",
         "title_info_primary_subtitle_tsi": "and part of Maryland and Pennsylvania",
         "title_info_primary_tsi": "A New and accurate map of Virginia",
         "type_of_resource_ssim": [

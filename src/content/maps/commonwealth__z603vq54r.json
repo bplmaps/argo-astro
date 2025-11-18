@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749613571833856,
+        "_version_": 1847512866307964928,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vq54r",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vq54r/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Scull, Nicholas, 1686?-1761?",
             "Jackson, L."
@@ -106,15 +109,16 @@
         ],
         "subject_geographic_sim": [
             "North and Central America",
+            "Pennsylvania",
             "Philadelphia",
             "Philadelphia (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"placename\":\"Philadelphia\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"placename\":\"Philadelphia, PA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Philadelphia\",\"city\":\"Philadelphia\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Philadelphia\",\"city\":\"Philadelphia\"}}"
         ],
         "subject_point_geospatial": [
             "39.95,-75.15"
@@ -125,7 +129,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:53:13Z",
         "system_modified_dtsi": "2023-09-15T14:47:14Z",
-        "timestamp": "2023-10-03T15:43:41.781Z",
+        "timestamp": "2025-10-31T15:46:09.828Z",
         "title_info_primary_subtitle_tsi": "wherein may be seen the situation of Philadelphia, Red Bank, Mud Island, & Germantown",
         "title_info_primary_tsi": "A map of that part of Pennsylvania now the principal seat of war in America",
         "type_of_resource_ssim": [

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750196951285760,
+        "_version_": 1847513037780549632,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vt96w",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vt96w/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Bowles, Carington, 1724-1793"
         ],
@@ -108,14 +111,15 @@
             "North America--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
-            "North America"
+            "North America",
+            "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-120.0,4.0],[-45.0,4.0],[-45.0,54.0],[-120.0,54.0],[-120.0,4.0]]]},\"bbox\":[-120.0,4.0,-45.0,54.0]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"area\":\"North America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"North America\"}}"
         ],
         "subject_point_geospatial": [
             "58.166,-104.466"
@@ -125,7 +129,7 @@
         ],
         "system_create_dtsi": "2016-11-20T06:40:44Z",
         "system_modified_dtsi": "2023-09-15T14:48:27Z",
-        "timestamp": "2023-10-03T15:52:58.135Z",
+        "timestamp": "2025-10-31T15:48:53.357Z",
         "title_info_primary_subtitle_tsi": "exhibiting the extent and boundaries of the United States, the British dominions, and territories possessed in that quarter by the Spaniards, the French, and other European powers ; the whole compiled and laid down from the best authorities, regulated and divided according to the preliminary Articles of Peace signed at Versailles 20th. Jany. 1783",
         "title_info_primary_tsi": "Bowles's new and accurate map of North America and the West Indies",
         "type_of_resource_ssim": [

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1792996990306484224,
+        "_version_": 1847512953488670720,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -10,8 +10,8 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
-            "Maritime Charts and Atlases (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
+            "Maritime Charts and Atlases",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -39,14 +39,17 @@
         "exemplary_image_ssi": "commonwealth:q524nh36k",
         "extent_tsi": "1 manuscript map : hand color 37 x 53 cm.",
         "filenames_ssim": [
-            "lh000827",
-            "commonwealth:q524nh359_metadata"
+            "commonwealth:q524nh359_metadata",
+            "lh000827"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nh359",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nh359/manifest",
@@ -147,7 +150,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:40:42Z",
         "system_modified_dtsi": "2023-11-04T21:04:56Z",
-        "timestamp": "2024-03-08T21:59:39.049Z",
+        "timestamp": "2025-10-31T15:47:32.969Z",
         "title_info_primary_tsi": "Descripcio\u0301n de la costa de la Luciana y entrada en el Ri\u0301o de Micisipi con sus sondas y bajos nuebamte. corregido y enmendado pr. los pilotos de la Rl. Armada en el an\u0303o de 1769",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749950682726400,
+        "_version_": 1847512961251278848,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nj703",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nj703/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1117"
         ],
@@ -97,14 +100,15 @@
         "subject_geographic_sim": [
             "Crown Point",
             "Essex (county)",
+            "New York",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4333,43.95]},\"properties\":{\"placename\":\"Crown Point\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4333,43.95]},\"properties\":{\"placename\":\"Crown Point, NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4333,43.95]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Essex\",\"city\":\"Crown Point\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.4333,43.95]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Essex\",\"city\":\"Crown Point\"}}"
         ],
         "subject_point_geospatial": [
             "43.95,-73.4333"
@@ -114,7 +118,7 @@
         ],
         "system_create_dtsi": "2017-05-26T14:54:12Z",
         "system_modified_dtsi": "2023-09-15T14:47:54Z",
-        "timestamp": "2023-10-03T15:49:03.275Z",
+        "timestamp": "2025-10-31T15:47:40.373Z",
         "title_info_primary_tsi": "Crown Point & part of Lake Champlain",
         "type_of_resource_ssim": [
             "Cartographic"

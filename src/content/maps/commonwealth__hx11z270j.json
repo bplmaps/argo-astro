@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750034629623808,
+        "_version_": 1847512989836509184,
         "abstract_tsi": "The harbour of Charleston, South Carolina, produced by an anoymous cartographer during the period of the American Revolutionary War.",
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
@@ -10,7 +10,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z270j",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z270j/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Frazer, Sir Augustus Simon, 1776-1835",
             "Royal United Services Institute for Defence and Security Studies"
@@ -118,14 +121,15 @@
             "Charleston (county)",
             "Charleston Harbor",
             "North and Central America",
+            "South Carolina",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.8833,32.75]},\"properties\":{\"placename\":\"Charleston Harbor (bay)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.8833,32.75]},\"properties\":{\"placename\":\"Charleston Harbor (bay), SC\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-80.1075,32.585556],[-79.693889,32.585556],[-79.693889,32.863611],[-80.1075,32.863611],[-80.1075,32.585556]]]},\"bbox\":[-80.1075,32.585556,-79.693889,32.863611]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.8833,32.75]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Charleston\",\"other\":\"Charleston Harbor (bay)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.8833,32.75]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"South Carolina\",\"county\":\"Charleston\",\"other\":\"Charleston Harbor (bay)\"}}"
         ],
         "subject_point_geospatial": [
             "32.75,-79.8833"
@@ -137,7 +141,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:40:12Z",
         "system_modified_dtsi": "2023-09-15T14:48:06Z",
-        "timestamp": "2023-10-03T15:50:23.333Z",
+        "timestamp": "2025-10-31T15:48:07.634Z",
         "title_info_primary_tsi": "[Charles Town Harbour & adjacent Islands, Country, Rivers &c]",
         "type_of_resource_ssim": [
             "Cartographic"

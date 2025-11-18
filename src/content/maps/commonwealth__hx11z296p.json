@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750039266426880,
+        "_version_": 1847512992086753280,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z296p",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z296p/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Loxley, Benjamin, 1720-1801",
             "Royal United Services Institute for Defence and Security Studies"
@@ -121,16 +124,17 @@
         ],
         "subject_geographic_sim": [
             "North and Central America",
+            "Pennsylvania",
             "Philadelphia",
             "Philadelphia (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"placename\":\"Philadelphia\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"placename\":\"Philadelphia, PA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-75.153056,39.956111],[-75.135278,39.956111],[-75.135278,39.965278],[-75.153056,39.965278],[-75.153056,39.956111]]]},\"bbox\":[-75.153056,39.956111,-75.135278,39.965278]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Philadelphia\",\"city\":\"Philadelphia\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Philadelphia\",\"city\":\"Philadelphia\"}}"
         ],
         "subject_point_geospatial": [
             "39.95,-75.15"
@@ -142,7 +146,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:47:18Z",
         "system_modified_dtsi": "2023-09-15T14:48:07Z",
-        "timestamp": "2023-10-03T15:50:27.755Z",
+        "timestamp": "2025-10-31T15:48:09.779Z",
         "title_info_primary_tsi": "Plans & Sections of Houses for Officers & Barracks for Soldiers near the City of Philadelphia",
         "type_of_resource_ssim": [
             "Cartographic"

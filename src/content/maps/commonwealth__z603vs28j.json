@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750158635270144,
+        "_version_": 1847513027209854976,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vs28j",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vs28j/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Le Rouge, Georges-Louis"
         ],
@@ -108,15 +111,16 @@
         "subject_geographic_sim": [
             "North and Central America",
             "United States",
+            "Virginia",
             "York (county)",
             "Yorktown"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"placename\":\"Yorktown\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"placename\":\"Yorktown, VA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.509673,37.238756]}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"York\",\"city\":\"Yorktown\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,37.2333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\",\"county\":\"York\",\"city\":\"Yorktown\"}}"
         ],
         "subject_point_geospatial": [
             "37.2333,-76.5",
@@ -128,7 +132,7 @@
         ],
         "system_create_dtsi": "2016-11-20T05:39:42Z",
         "system_modified_dtsi": "2023-09-15T14:48:21Z",
-        "timestamp": "2023-10-03T15:52:21.593Z",
+        "timestamp": "2025-10-31T15:48:43.276Z",
         "title_info_primary_subtitle_tsi": "le 19 8bre par l'arme\u0301e combine\u0301e Francaise et Americaine",
         "title_info_primary_tsi": "Plan de l'arme\u0301e de Cornwallis attaque\u0301e et faitte prisoniere dans York Town",
         "type_of_resource_ssim": [

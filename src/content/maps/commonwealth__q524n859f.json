@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749831874871296,
+        "_version_": 1847512909497761792,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n859f",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n859f/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJzNGNty27j1PV+B4UO7O2OKulqWGnPHVrKbzNjOju1Mm3Y6HYg8IhFTABcAJXO/vgckIJG62Uke2heJxLkfnCvf/vK8zMgKpGKCX3q9TtcjwCMRM55cep8ff/UvvF/CN2+XIlZT80MQn6vpc8b406WXap1Pg2C9XnfWg46QSdCbTCZBBfUcqmKHEPvdbi/4x+3NQ5TCkvqMK015BI7KyGqRZSLqJGIVGECwGnhbpQedMVIpNlUVqxsRUV0BjlOTAyAjP6YS4Rap+vcH/rjzrGIvfENI7QbNdAYf+UKQQtEELr1csiWVpUdipvKMljd0Dtnm+D/2tOLgeHDBH4TU4RV5G7QOGjiVnFAVcgUlEQvyqxTJXxW5g+iJoKpEp0CkKPS/4N8GbF6vJdNMpeRKLkvLuObSYKuK+WN1pkVF0x/q1NB/irSYgyS98fj8jBQ8xmcDj8RyacQhygemyPvnCLIMY6SsoB8EF5LOMyB/Z1nG6BJP1nBGfgMOkmaVorOaA/JjnMxSBgvH7JZ+BaVLtGohZATqjPyFLvO/RXT/wZqz0d5cR9C+j0NXpMscb4hmGiTHsFiBt+/ihmN3nXZcBKdLsNxzjETBaeYRWuhU4B2Ulx6ni8b75/uPm3hk8SbmHJyBCgxDhWFNswJeix7wEabRoDsat6MLYb9TjKbrjKonsWb6zzN0PJUZKBdvDqVBJoWLlObJI8ilNVTDs24ZifEdScioFvJlY1eYmPMiw5QILM0L5h4gCFCcF84kmDdrilPSmhK0bGmY2wgPtObT4h6UKDDqCAZnoSLJcn3plXgH4QwdIxJJ85RFLgJaJFtWCXAJTZckyySPvskZVtAtxRhlNHu9U3YJA50su93z/nlvtxQldTZ64S3NXQRUmv8fG9Lr9y/OTxji7uyIPahzwrjLWXcao4gqeiBu9Ln1IIo1pusTlO8QVEcB+aOgGVswkJce4wuQErALmOpoBTZ4NSKtLbeWmlGeFNgqmpq4s1PpxZQ4H0z8/vybrsFRvdr9jiAAnnjhe55k2EOsOU01G1Y2LartydNSsYhm76C+FuzALcejVzTNPlXeCSVgvV9Sba7BQpxTW3gNBugb4DrsNbIVH3MyJanpMZHIhCTjIXkmwwGJlh3Lz5I1GDFuegHoW4gZfUTHh9imEwi+5pBYon2UV9Brtlj8CP3XvH+K3MKOuNlNFRoamXFGcuA+egenq3pkWJsMq1zV2cwdGnYYfKCqRsTq/qROIN5DZnq5SsWak3mJD9Tk0wmKjzzKihgU8e4BMwozEJ/tHIJZzjveUVqbIxFGhzEaO4Jl4IU3M2Lqmhkq7nCGwvFniXXEzA698ajr98YXE3zsjfovMTcZ7YWPKU4m5pHgv8v8w0bhNPIVIt3M2SxS6bc1fstEtScTkbMIVcHRxI58P911vnQw3Gc0h599H8cnbIGl79/DSmSF8Ymxdzwy9g5833jkjGyDwfffY/8vyVrgpRqf9y66XdfcKmHbILManbRTJ/yImVVl6SSgddmBuAgqzL1SdAAr6I/73f54r+hHaHHLOQm47tz00KYPbIANEpw6JQ4rqcmd33YwHE4kCq7L8FoK/myZ2aN9NFmGnzkz9esBA3IzVjnYDgHXjJsyVIdnNRPjq5mPbahuyB1mi4EyIsI7WJMveHvukqrD5sxzykarSWOwUbtKConZa2wJh93OxZk/HnQuNnptgU2Je/xeCKBX6qLQAAgfzC/pTfvDs+4mVGvQd+lQzZAQf9TgGm4qlN7fB7YzQ3tNuGFzdG+1is0ETyQohQ+4C0Um+Q6sW4d2h2BXlVP6MbUpk/E17pfVXj1NsfTVaaQwj7Io4puykizHPfTV+fCCeMGWM4sxpKpRxjIuJPNCxwGrfMe2XbPrCb4G3JfSaktH2DQYdSejSfDHqD/kF6PJpsltmJ4QhIrRzBdY36UXUmmK8OYqDzHI7PLevBTX8txif/AiXLyXVXZh8SPv2Iqp7cXscWkMM82jo2oUMttb+GmEDUxdeqIuj7jemgw2Y9yPehel7Qp3wnIJKwbr7xcR6LRYzjll2XFhps9hADK28HHgYgtQP2BT4Fi05R11f20p3m3MDOBg3Edm8sZ9vlZAVbIzFgFX2FLnpc8jX9Fg2OkGngt6BVVwSMiliIsqa3dbjeVghwDTK80QYE9j85WCGDb11xFKZlaJ6hMHakGutJZsXnVjnEW4b85x4sKlhjzg/g3kKmNPQG5qhuSn2Yxcf/HvZv7D1c9uxNix/rhbXm8WTtOpGTDuBHniZlqLRF5Wh0imUOWKSr2ogUR3y3h3qapPZybyuX6oF+RrLK2o4u/FHJ1HbMZuqt8+/j67yrWCm4Vsf1ULcVDo+V1cWiaP3e50NJl2h/9ss2/QH+COS0MC3817Q73P2W4umGGUE0zVHG89blHv7zZum/q0mFHMKYHgpN2BDmyLqDX877dF/DmyKe7tivvW2dVwu8o82G+wu9+YGiheKGM3Lh2gbDXZbbDaI/MTvvkvnCDqMg==",
         "name_facet_ssim": [
             "Blaskowitz, Charles"
         ],
@@ -107,15 +110,16 @@
         ],
         "subject_geographic_sim": [
             "Bronx (county)",
+            "New York",
             "North and Central America",
             "Throgs Neck",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.8,40.8]},\"properties\":{\"placename\":\"Throgs Neck (cape)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.8,40.8]},\"properties\":{\"placename\":\"Throgs Neck (cape), NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.8,40.8]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Bronx\",\"other\":\"Throgs Neck (cape)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.8,40.8]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Bronx\",\"other\":\"Throgs Neck (cape)\"}}"
         ],
         "subject_point_geospatial": [
             "40.8,-73.8"
@@ -125,7 +129,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:08:14Z",
         "system_modified_dtsi": "2023-09-15T14:47:32Z",
-        "timestamp": "2023-10-03T15:47:09.971Z",
+        "timestamp": "2025-10-31T15:46:51.017Z",
         "title_info_alternative_tsim": [
             "Frog's Neck"
         ],

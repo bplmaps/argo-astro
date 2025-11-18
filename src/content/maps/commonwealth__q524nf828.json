@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749908926332928,
+        "_version_": 1847512943114059776,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nf83j",
         "extent_tsi": "1 map : ms. ; 37 x 47 cm.",
         "filenames_ssim": [
-            "ct001977",
-            "commonwealth:q524nf828_metadata"
+            "commonwealth:q524nf828_metadata",
+            "ct001977"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nf828",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nf828/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Luso-Hispanic World, 469",
             "LC Maps of North America, 1750-1789, 1888"
@@ -97,15 +100,16 @@
             "Mo\u0302le Saint-Nicolas (Haiti)--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "Haiti",
             "M\u00f4le, Cap du",
             "Nord-Ouest",
             "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.416,19.833]},\"properties\":{\"placename\":\"M\u00f4le, Cap du (cape), North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.416,19.833]},\"properties\":{\"placename\":\"M\u00f4le, Cap du (cape), Haiti\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.416,19.833]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Nord-Ouest\",\"other\":\"M\u00f4le, Cap du (cape)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.416,19.833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Haiti\",\"state\":\"Nord-Ouest\",\"other\":\"M\u00f4le, Cap du (cape)\"}}"
         ],
         "subject_point_geospatial": [
             "19.833,-73.416"
@@ -115,7 +119,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:00:07Z",
         "system_modified_dtsi": "2023-09-15T14:47:44Z",
-        "timestamp": "2023-10-03T15:48:23.453Z",
+        "timestamp": "2025-10-31T15:47:23.075Z",
         "title_info_primary_tsi": "Esquisse du plan de la ville du Mole a\u0300 St. Domingue",
         "type_of_resource_ssim": [
             "Cartographic"

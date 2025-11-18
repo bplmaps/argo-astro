@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749897806184448,
+        "_version_": 1847512935539146752,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -46,14 +46,17 @@
         "exemplary_image_ssi": "commonwealth:q524nf07q",
         "extent_tsi": "1 manuscript map : hand color on sheet 25 x 78 cm.",
         "filenames_ssim": [
-            "ct000075z",
-            "commonwealth:q524nf06f_metadata"
+            "commonwealth:q524nf06f_metadata",
+            "ct000075z"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nf06f",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nf06f/manifest",
@@ -68,7 +71,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_date_tsim": [
             "This date is inferred."
         ],
@@ -110,16 +113,17 @@
         "subject_geographic_sim": [
             "Mercer (county)",
             "Middlesex (county)",
+            "New Jersey",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.4,40.4333]},\"properties\":{\"placename\":\"United States\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.85,40.2833]},\"properties\":{\"placename\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.4,40.4333]},\"properties\":{\"placename\":\"Middlesex (county), NJ\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.85,40.2833]},\"properties\":{\"placename\":\"Mercer (county), NJ\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.4,40.4333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Middlesex\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.85,40.2833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Mercer\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.4,40.4333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\",\"county\":\"Middlesex\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.85,40.2833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\",\"county\":\"Mercer\"}}"
         ],
         "subject_point_geospatial": [
             "40.4333,-74.4",
@@ -133,7 +137,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:44:35Z",
         "system_modified_dtsi": "2023-09-15T14:47:42Z",
-        "timestamp": "2023-10-03T15:48:12.848Z",
+        "timestamp": "2025-10-31T15:47:15.851Z",
         "title_info_primary_tsi": "A Map of the Trenton and New-Brunswick Turnpike-road",
         "type_of_resource_ssim": [
             "Cartographic"

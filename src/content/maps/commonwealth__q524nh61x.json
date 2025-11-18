@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749938437455872,
+        "_version_": 1847512955832238080,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nh626",
         "extent_tsi": "1 ms. map ; 73 x 52 cm.",
         "filenames_ssim": [
-            "lh000948",
-            "commonwealth:q524nh61x_metadata"
+            "commonwealth:q524nh61x_metadata",
+            "lh000948"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nh61x",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nh61x/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Pintado, Vicente Sebastia\u0301n, 1774-1829"
         ],
@@ -112,16 +115,17 @@
             "Manuscript maps"
         ],
         "subject_geographic_sim": [
+            "Louisiana",
             "Manchac",
             "North and Central America",
             "Tangipahoa (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-90.4,30.2833]},\"properties\":{\"placename\":\"Manchac\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-90.4,30.2833]},\"properties\":{\"placename\":\"Manchac, LA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-90.4,30.2833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Tangipahoa\",\"city\":\"Manchac\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-90.4,30.2833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Louisiana\",\"county\":\"Tangipahoa\",\"city\":\"Manchac\"}}"
         ],
         "subject_point_geospatial": [
             "30.2833,-90.4"
@@ -133,7 +137,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:46:40Z",
         "system_modified_dtsi": "2023-09-15T14:47:53Z",
-        "timestamp": "2023-10-03T15:48:51.596Z",
+        "timestamp": "2025-10-31T15:47:35.205Z",
         "title_info_primary_tsi": "Mapa de las locaciones del Distrito de Manchack",
         "type_of_resource_ssim": [
             "Cartographic"

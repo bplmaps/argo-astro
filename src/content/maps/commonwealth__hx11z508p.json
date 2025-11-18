@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1780112939118755840,
+        "_version_": 1847513010228166656,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -55,14 +55,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z509z",
         "extent_tsi": "1 map : manuscript pen and ink with watercolour ; 51 x 74 cm",
         "filenames_ssim": [
-            "k_top_119_86",
-            "commonwealth:hx11z508p_metadata"
+            "commonwealth:hx11z508p_metadata",
+            "k_top_119_86"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z508p",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z508p/manifest",
@@ -75,7 +78,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "George, III, King of Great Britain, 1738-1820",
             "George, IV, King of Great Britain, 1762-1830"
@@ -130,14 +133,15 @@
         "subject_geographic_sim": [
             "Canada",
             "Cape Breton Island",
-            "North and Central America"
+            "North and Central America",
+            "Nova Scotia"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-60.75,46.166667]},\"properties\":{\"placename\":\"Cape Breton Island\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-60.75,46.166667]},\"properties\":{\"placename\":\"Cape Breton Island, Nova Scotia\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-60.719444,45.87583],[-59.89111,45.87583],[-59.89111,46.40166],[-60.719444,46.40166],[-60.719444,45.87583]]]},\"bbox\":[-60.719444,45.87583,-59.89111,46.40166]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-60.75,46.166667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"island\":\"Cape Breton Island\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-60.75,46.166667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Nova Scotia\",\"island\":\"Cape Breton Island\"}}"
         ],
         "subject_point_geospatial": [
             "46.166667,-60.75"
@@ -147,7 +151,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:41:50Z",
         "system_modified_dtsi": "2023-09-15T14:48:13Z",
-        "timestamp": "2023-10-18T16:53:10.315Z",
+        "timestamp": "2025-10-31T15:48:27.081Z",
         "title_info_primary_tsi": "A CHART of the South East Part of l'Isle Royal, or Cape Bretton taken from the best Surveys, and the Observations of the most able Pilots",
         "type_of_resource_ssim": [
             "Cartographic"

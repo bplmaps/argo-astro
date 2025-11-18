@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778757924780244992,
+        "_version_": 1847513158288146432,
         "admin_set_ark_id_ssi": "commonwealth:mw22z436x",
         "admin_set_name_ssi": "Library and Archives Canada Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:mw22z436x"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library and Archives Canada Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -47,7 +47,10 @@
         "genre_specific_ssim": [
             "Manuscript maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:pn89h678s",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/pn89h678s/manifest",
@@ -64,7 +67,7 @@
             "English"
         ],
         "license_ss": "Contact host institution for more information.",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Cook, James, 1728-1779"
         ],
@@ -105,16 +108,17 @@
             "Saint Lawrence River--Maps",
             "New France--Maps"
         ],
-        "subject_geo_other_ssm": [
-            "Saint Lawrence River",
-            "New France"
-        ],
         "subject_geographic_sim": [
             "New France",
+            "North and Central America",
             "Saint Lawrence River"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.0,49.5]},\"properties\":{\"placename\":\"Saint Lawrence River\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.0,49.5]},\"properties\":{\"placename\":\"Saint Lawrence River, North and Central America\"}}"
+        ],
+        "subject_hiergeo_geojson_ssm": [
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-65.0,49.5]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Saint Lawrence River\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"New France (former administrative division)\"}}"
         ],
         "subject_point_geospatial": [
             "49.5,-65"
@@ -127,7 +131,7 @@
         ],
         "system_create_dtsi": "2023-03-29T18:19:45Z",
         "system_modified_dtsi": "2023-03-29T20:12:16Z",
-        "timestamp": "2023-10-03T17:55:47.967Z",
+        "timestamp": "2025-10-31T15:50:48.281Z",
         "title_info_alternative_tsim": [
             "Plan of the River St. Lawrence from \u00cele Verte to Cap Rouge"
         ],

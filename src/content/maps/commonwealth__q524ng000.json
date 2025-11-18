@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749911897997312,
+        "_version_": 1847512944317825024,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524ng018",
         "extent_tsi": "1 ms. map : col. ; 47 x 100 cm.",
         "filenames_ssim": [
-            "ct003566",
-            "commonwealth:q524ng000_metadata"
+            "commonwealth:q524ng000_metadata",
+            "ct003566"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524ng000",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524ng000/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Thompson, Alexander, (Surveyor)"
         ],
@@ -105,15 +108,16 @@
         ],
         "subject_geographic_sim": [
             "Dutchess (county)",
+            "New York",
             "North and Central America",
             "Rhinebeck",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9,41.9167]},\"properties\":{\"placename\":\"Rhinebeck\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9,41.9167]},\"properties\":{\"placename\":\"Rhinebeck, NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9,41.9167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Dutchess\",\"city\":\"Rhinebeck\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9,41.9167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Dutchess\",\"city\":\"Rhinebeck\"}}"
         ],
         "subject_point_geospatial": [
             "41.9167,-73.9"
@@ -123,7 +127,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:07:52Z",
         "system_modified_dtsi": "2023-09-15T14:47:44Z",
-        "timestamp": "2023-10-03T15:48:26.287Z",
+        "timestamp": "2025-10-31T15:47:24.224Z",
         "title_info_primary_subtitle_tsi": "surveyed in December 1797 and January 1798",
         "title_info_primary_tsi": "A map of the town of Rhinebeck in the County of Dutchess",
         "type_of_resource_ssim": [

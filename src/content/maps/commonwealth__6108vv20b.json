@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750110380851200,
+        "_version_": 1847513014310273024,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:6108vv20b",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/6108vv20b/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Skinner, William, 1700-1780",
             "Skinner, Monier"
@@ -113,14 +116,15 @@
         "subject_geographic_sim": [
             "Canada",
             "Ferryland",
+            "Newfoundland and Labrador",
             "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-52.8833,47.0167]},\"properties\":{\"placename\":\"Ferryland\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-52.8833,47.0167]},\"properties\":{\"placename\":\"Ferryland, Newfoundland and Labrador\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-52.911667,46.9975],[-52.851389,46.9975],[-52.851389,47.064167],[-52.911667,47.064167],[-52.911667,46.9975]]]},\"bbox\":[-52.911667,46.9975,-52.851389,47.064167]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-52.8833,47.0167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"city\":\"Ferryland\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-52.8833,47.0167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Newfoundland and Labrador\",\"city\":\"Ferryland\"}}"
         ],
         "subject_point_geospatial": [
             "47.0167,-52.8833"
@@ -131,7 +135,7 @@
         ],
         "system_create_dtsi": "2016-12-07T17:41:53Z",
         "system_modified_dtsi": "2023-09-15T14:48:15Z",
-        "timestamp": "2023-10-03T15:51:35.575Z",
+        "timestamp": "2025-10-31T15:48:30.974Z",
         "title_info_primary_tsi": "Plan of Ferryland Harbour and Capeling Bay In Newfoundland",
         "type_of_resource_ssim": [
             "Cartographic"

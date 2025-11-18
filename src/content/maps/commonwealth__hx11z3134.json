@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750042415300608,
+        "_version_": 1847512993302052864,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z314d",
         "extent_tsi": "1 map : manuscript pen and ink with watercolour ; 31 x 19 cm",
         "filenames_ssim": [
-            "k_top_120_42",
-            "commonwealth:hx11z3134_metadata"
+            "commonwealth:hx11z3134_metadata",
+            "k_top_120_42"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z3134",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z3134/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Fage, Edward",
             "George, III, King of Great Britain, 1738-1820",
@@ -118,14 +121,15 @@
         ],
         "subject_geographic_sim": [
             "North and Central America",
-            "Rhode Island"
+            "Rhode Island",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.5,41.6667]},\"properties\":{\"placename\":\"Rhode Island, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.5,41.6667]},\"properties\":{\"placename\":\"Rhode Island\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-71.467777,41.39944],[-71.15611,41.39944],[-71.15611,41.74916],[-71.467777,41.74916],[-71.467777,41.39944]]]},\"bbox\":[-71.467777,41.39944,-71.15611,41.74916]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.5,41.6667]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Rhode Island\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.5,41.6667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Rhode Island\"}}"
         ],
         "subject_point_geospatial": [
             "41.6667,-71.5"
@@ -137,7 +141,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:50:49Z",
         "system_modified_dtsi": "2023-09-15T14:48:09Z",
-        "timestamp": "2023-10-03T15:50:30.758Z",
+        "timestamp": "2025-10-31T15:48:10.938Z",
         "title_info_primary_tsi": "PLAN of RHODE ISLAND, the HARBOUR, the Adjacent ISLANDS, and COAST",
         "type_of_resource_ssim": [
             "Cartographic"

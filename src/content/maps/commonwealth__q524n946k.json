@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749844046741504,
+        "_version_": 1847512913896538112,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n946k",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n946k/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1217"
         ],
@@ -98,15 +101,16 @@
         ],
         "subject_geographic_sim": [
             "Bronx (county)",
+            "New York",
             "North and Central America",
             "Throgs Neck",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.8,40.8]},\"properties\":{\"placename\":\"Throgs Neck (cape)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.8,40.8]},\"properties\":{\"placename\":\"Throgs Neck (cape), NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.8,40.8]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Bronx\",\"other\":\"Throgs Neck (cape)\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.8,40.8]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Bronx\",\"other\":\"Throgs Neck (cape)\"}}"
         ],
         "subject_point_geospatial": [
             "40.8,-73.8"
@@ -116,7 +120,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:20:57Z",
         "system_modified_dtsi": "2023-09-15T14:47:27Z",
-        "timestamp": "2023-10-03T15:47:21.579Z",
+        "timestamp": "2025-10-31T15:46:55.211Z",
         "title_info_alternative_tsim": [
             "Reconnoissance de King's bridge"
         ],

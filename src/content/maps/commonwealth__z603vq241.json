@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749602973876224,
+        "_version_": 1847512862308696064,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vq241",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vq241/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Hinton, John, -1781"
         ],
@@ -107,14 +110,15 @@
         ],
         "subject_geographic_sim": [
             "New Jersey",
-            "North and Central America"
+            "North and Central America",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"placename\":\"New Jersey, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"placename\":\"New Jersey\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-76.0,39.0],[-74.0,39.0],[-74.0,41.0],[-76.0,41.0],[-76.0,39.0]]]},\"bbox\":[-76.0,39.0,-74.0,41.0]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"New Jersey\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\"}}"
         ],
         "subject_point_geospatial": [
             "40,-75"
@@ -124,7 +128,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:48:33Z",
         "system_modified_dtsi": "2023-09-15T14:47:14Z",
-        "timestamp": "2023-10-03T15:43:31.674Z",
+        "timestamp": "2025-10-31T15:46:06.014Z",
         "title_info_primary_subtitle_tsi": "from the best authorities",
         "title_info_primary_tsi": "A New and accurate map of New Jersey",
         "type_of_resource_ssim": [

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749852428009472,
+        "_version_": 1847512917394587648,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nb030",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nb030/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Wangenheim, Friedrich Adam Julius von"
         ],
@@ -105,17 +108,18 @@
         ],
         "subject_geographic_sim": [
             "Essex (county)",
+            "New Jersey",
             "North and Central America",
             "Union (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.2167,40.7833]},\"properties\":{\"placename\":\"United States\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.2667,40.6333]},\"properties\":{\"placename\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.2167,40.7833]},\"properties\":{\"placename\":\"Essex (county), NJ\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.2667,40.6333]},\"properties\":{\"placename\":\"Union (county), NJ\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.2167,40.7833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Essex\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.2667,40.6333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Union\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.2167,40.7833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\",\"county\":\"Essex\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-74.2667,40.6333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\",\"county\":\"Union\"}}"
         ],
         "subject_point_geospatial": [
             "40.7833,-74.2167",
@@ -127,7 +131,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:31:20Z",
         "system_modified_dtsi": "2023-09-15T14:47:35Z",
-        "timestamp": "2023-10-03T15:47:29.571Z",
+        "timestamp": "2025-10-31T15:46:58.548Z",
         "title_info_alternative_tsim": [
             "Westfield & du camp de Raway",
             "Raway"

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1784565062513459200,
+        "_version_": 1847512840845393920,
         "admin_set_ark_id_ssi": "commonwealth:4t64hr20k",
         "admin_set_name_ssi": "Boston Athenaeum, Cartographic Collection",
         "collection_ark_id_ssim": [
@@ -10,8 +10,8 @@
             "commonwealth:4t64hr20k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
-            "Boston and New England Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
+            "Boston and New England Maps",
             "Boston Athenaeum, Cartographic Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -51,7 +51,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vh46t",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vh46t/manifest",
@@ -131,7 +134,7 @@
         ],
         "system_create_dtsi": "2016-11-22T20:52:47Z",
         "system_modified_dtsi": "2023-07-13T13:46:42Z",
-        "timestamp": "2023-12-06T20:17:46.073Z",
+        "timestamp": "2025-10-31T15:45:45.545Z",
         "title_info_primary_tsi": "Waldo Patent, District of Maine between 1798 and 1802",
         "type_of_resource_ssim": [
             "Cartographic"

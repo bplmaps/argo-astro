@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750215868645376,
+        "_version_": 1847513043284525056,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vv72h",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vv72h/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Korn, Christoph Heinrich, 1726-1783",
             "Raspe, Gabriel Nicolaus, 1712-1785"
@@ -110,16 +113,17 @@
         ],
         "subject_geographic_sim": [
             "Boston",
+            "Massachusetts",
             "North and Central America",
             "Suffolk (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"placename\":\"Boston\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"placename\":\"Boston, MA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.059773,42.358431]}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Suffolk\",\"city\":\"Boston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Massachusetts\",\"county\":\"Suffolk\",\"city\":\"Boston\"}}"
         ],
         "subject_point_geospatial": [
             "42.35,-71.05",
@@ -131,7 +135,7 @@
         ],
         "system_create_dtsi": "2016-11-20T07:08:04Z",
         "system_modified_dtsi": "2023-09-15T14:48:29Z",
-        "timestamp": "2023-10-03T15:53:16.176Z",
+        "timestamp": "2025-10-31T15:48:58.606Z",
         "title_info_primary_tsi": "Plan de Boston",
         "type_of_resource_ssim": [
             "Cartographic"

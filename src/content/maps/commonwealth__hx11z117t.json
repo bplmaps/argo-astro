@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750007189438464,
+        "_version_": 1847512979531104256,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -72,7 +72,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z117t",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z117t/manifest",
@@ -85,7 +88,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Rocbert Lamorendiere",
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
@@ -152,17 +155,18 @@
             "Fort Oswego (Oswego, N.Y.)--Maps, Manuscript--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "New York",
             "North and Central America",
             "Oswego",
             "Oswego (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,43.45]},\"properties\":{\"placename\":\"Oswego\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,43.45]},\"properties\":{\"placename\":\"Oswego, NY\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-76.521667,43.4575],[-76.503333,43.4575],[-76.503333,43.469722],[-76.521667,43.469722],[-76.521667,43.4575]]]},\"bbox\":[-76.521667,43.4575,-76.503333,43.469722]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,43.45]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Oswego\",\"city\":\"Oswego\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,43.45]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Oswego\",\"city\":\"Oswego\"}}"
         ],
         "subject_point_geospatial": [
             "43.45,-76.5"
@@ -174,7 +178,7 @@
         ],
         "system_create_dtsi": "2016-11-17T22:59:51Z",
         "system_modified_dtsi": "2023-09-15T14:48:03Z",
-        "timestamp": "2023-10-03T15:49:57.164Z",
+        "timestamp": "2025-10-31T15:47:57.806Z",
         "title_info_primary_tsi": "Plan du fort de Choue\u0301ghen de la Riviere Et de terrain aux Environs au Sud du Lac Ontario",
         "type_of_resource_ssim": [
             "Cartographic"

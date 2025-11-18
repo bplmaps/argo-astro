@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749529629130752,
+        "_version_": 1847512837192155136,
         "admin_set_ark_id_ssi": "commonwealth:4t64hr20k",
         "admin_set_name_ssi": "Boston Athenaeum, Cartographic Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:4t64hr20k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Boston Athenaeum, Cartographic Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vh39d",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vh39d/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Kints, Everard"
         ],
@@ -104,15 +107,16 @@
         ],
         "subject_geographic_sim": [
             "Boston",
+            "Massachusetts",
             "North and Central America",
             "Suffolk (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"placename\":\"Boston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"placename\":\"Boston, MA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Suffolk\",\"city\":\"Boston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Massachusetts\",\"county\":\"Suffolk\",\"city\":\"Boston\"}}"
         ],
         "subject_point_geospatial": [
             "42.35,-71.05"
@@ -122,7 +126,7 @@
         ],
         "system_create_dtsi": "2016-11-22T19:56:28Z",
         "system_modified_dtsi": "2023-09-15T14:47:10Z",
-        "timestamp": "2023-10-03T15:42:21.726Z",
+        "timestamp": "2025-10-31T15:45:42.061Z",
         "title_info_primary_subtitle_tsi": "cette ville est compose\u0301e de quatre mille maisons, et d'environ vingt mille habitans, on compte par an jusqu'a 1200 voiles dans son port",
         "title_info_primary_tsi": "Plan de Boston",
         "title_info_uniform_ssim": [

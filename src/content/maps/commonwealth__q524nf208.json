@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749900107808768,
+        "_version_": 1847512939932680192,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:q524nf21j",
         "extent_tsi": "1 map ms. ; 42 x 50 cm.",
         "filenames_ssim": [
-            "ct000151",
-            "commonwealth:q524nf208_metadata"
+            "commonwealth:q524nf208_metadata",
+            "ct000151"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nf208",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nf208/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_date_tsim": [
             "This date is inferred."
         ],
@@ -95,13 +98,14 @@
         ],
         "subject_geographic_sim": [
             "Missouri River",
-            "North and Central America"
+            "North and Central America",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-90.1833,38.8167]},\"properties\":{\"placename\":\"Missouri River, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-90.1833,38.8167]},\"properties\":{\"placename\":\"Missouri River\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-90.1833,38.8167]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Missouri River\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-90.1833,38.8167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Missouri River\"}}"
         ],
         "subject_point_geospatial": [
             "38.8167,-90.1833"
@@ -111,7 +115,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:47:54Z",
         "system_modified_dtsi": "2023-09-15T14:47:43Z",
-        "timestamp": "2023-10-03T15:48:15.042Z",
+        "timestamp": "2025-10-31T15:47:20.042Z",
         "title_info_primary_tsi": "Bend of the Missouri River",
         "type_of_resource_ssim": [
             "Cartographic"

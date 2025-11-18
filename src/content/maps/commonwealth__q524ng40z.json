@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749918716887040,
+        "_version_": 1847512947525419008,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -46,14 +46,17 @@
         "exemplary_image_ssi": "commonwealth:q524ng417",
         "extent_tsi": "1 map : ms., col., sectioned and mounted on cloth ; 84 x 49 cm., folded to 21 x 17 cm.",
         "filenames_ssim": [
-            "la002160",
-            "commonwealth:q524ng40z_metadata"
+            "commonwealth:q524ng40z_metadata",
+            "la002160"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524ng40z",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524ng40z/manifest",
@@ -68,7 +71,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJztGdtu2zj2vV9B6KkDRJbsOHbsbVQkbmfQQXpBk2J2ZzBY0BItsaFIlaTsaL5+DynKlnybTDKLbYB9cWLy3G885/jV6/ucoSWRigp+4fV7oYcIj0VCeXrhfbn90T/3XkcvXuUiUVPzgQCeq+k9o/zuwsu0LqZBsFqteqvTnpBp0J9MJoG99RpQRfcBDsKwH/zz/fVNnJEc+5QrjXlMGizDq4PGRNxLxTIwF8Hy1NsIfdobA5aiU2VJXYsYa3txGBvtuTL8Eyzh3gHZv/6pP+7dq8SLXiBUm0FTzcg7vhCoVDglF14haY5l5aGEqoLh6hrPCVsf/9udWgodGtEvPXRT/vat9/p3NJO9E3QlcbIQMkEz8SpowRnWQZf3RhyOc4J0VRhBwCSCY9ZhZe4/Yamjy4SV+Qn6WWTcUVtf7QF3JBOsiRf1x2cTv39+OjqCKEUtaffklsjckdLkXnsIlzoTkurqwgPrxJIwrIVsnX/5/G7tOpqs3bMEt85LBgYNHI6CGMCsJA9HCICdF80kMd+cKo2QTpWgo0tL3UcY/AqSKMNg8l8oYxTnj7D6AKweDp+71fUcrC64lnRePsXyRqOPi89EiVLGBOWYlyqWtNAXXkUU8ADjiFTiIqNxkzAdlA2plHBJ2mZJ87SI/5JBHKP34CtJMXu4YbYRA53mYTgajPrbJQSkJNKE13tcKKeRlfw7VqQ/GJyPjijS+OyAPiBzSnlT4ppTkxA2b0nSep9Wp3GiFx66I9UbuKqjABWCcogIqOcSIv9biRldUCIvvG8lUeZlwHNms2sSOhFa1J/IlPDkOMvJfpbutKt8LQXDPC3hnWlL1pwdy3OqxOh04g/mfykWGqwHx0CDEBCeetFbnjKqMqdOW8yWlm2Nan2KrFI0xuwNqWMDLNZxBFhFY/bRWieSBN7IHGvjFnfTGLUD1yIAtiFcR30oGQWaolzBYxsLBp+KxIYbkILXH+Wi5Ias4ChmQmfoH+h8iO7RcILiHKAXgiVwrQUa9OG4PzbHjrnj0eIKEUEkJ/o9SSi+BS9F0BCkJPhakNQh7YI8AF/TxeIp+F+LwTF0d3fAJ+69EppASTc9GAJ3Ql8oFkhnpHnqkHv7EIQ/xDhSpVySCkw3r2wDgmwzgihHXEjAw8oIgm6pSDF0P+CFyjrE3q5IfdtqjyzAy0+490NjfitRV76bTKxAPKHVCZoDCnR3lMD/vMznIPiJ5ZDQnHDTSKojlG5N24UWUuSgLRQ0hBcLel8HirGBOIL7o8E6YhoIyWOsPxHug5zQIN9ZeVem2ELsCnkE6R2PWZkQhcy3/XCqnH+F2G9XDBar7M+LRXMPpgwcEdXtbUVB4+gzwQwVUkCLpCvfBzW4qtgSc4p9v+1n3zePm++/xZJVaCXknTIJBn1PU55rgpvIdFy/E122ovIZqHO1zgX08q0NQvUD6rqkq+Lz1GjHMc9MqU2rZGvEdy1rp3DbuvwMDLz3PfnvyK1TfkBs20r1UqJ11SNJGVjInd5rD1TQD8NBfzLsKJZB1wnzXWYe7p9IMwt1B8TYarvW3mnhTnchZRV94dR0RTc2sdrwcgeBa8pNG/TBPNz2wZrBV2j90WUOQ0KM1+gNZIeAzd2onaiNke1Fe1I8pqqTpjUOqm1BQXPKjT7RsN87H43GJ/54ZP9ZS7gBafPdofodhMFkePbYMLCZ+/8YWMfAuHf2NwfAA8VRoAP0rOYT/RbjHupPh+FJGIa/N/QtwKMksasYkrzTpBkXM6H07kZyM3Z3F5XXdA52rkyTPxM8lUQp+Iexenja3lUe2FYG26Ick4+qz2RBJIzdJLmqPGRXytMMZr86GRRkA4tjvq754L7JcDw6Q16woUsTiC47ijuypaRe1OBjeddzI2Ms8lzwFfR5OrPrabibBmfh5GwSfDsbDHk6DP9ohqY10SOMQCzMfBghifQihk2pHoVHCDC3tW67pJnAmo32Xjc0YV/PS/B2oTd0SdXGLTtUWoN4++igGKVkO5tuHMfA/MITdYmDOc4ks1lBPNW6wG2becOskGRJyerxLAKdwejHMWWHmZkpCcKP0oWfQ+1ZEPUEnYKGRJffQfPXmoJvE2ou9kZ9bLZGdElqAZTlzWgMQyx0O/PK57GvcDDshYHXBL0iNjgkgRkmKW3Obi/oHAUvus2osm0Pgr/uNEHQKCBDBtpsCHHo9JwQEIdWCnSp6+2ukfqD4L45hzmVQtG/ybAk6JLRO4Kua4Lo5WyGrv7lf5j5N5frEX5L+8NmebhakqaZ6f0+CHTHxcqEaVHZQ0BTILLFUn8qgQRzy2R7K1mfms02JPRNvWG+gsIKIn4q52A85DJ2Xft24XfJWdMKbpaLu2vHaACVxA8n/mByGw6mZ+PpcPRrl3wLfw/1DPOUPJr2GnuXstu6QYZhDsMyKcDrSQd7dy/XbAI/LmYYckrAddp9f/ZsOkFq8r/fdMLHgS3nzp5zVzu31txs1m7cj4/bP9S0QLwI47j57WQPaueN3USrOzIf0Yv/ANpqU0g=",
         "name_facet_ssim": [
             "Adlum, John, 1759-1836",
             "Bingham, William, 1752-1804"
@@ -123,16 +126,17 @@
         "subject_geographic_sim": [
             "Bradford (county)",
             "North and Central America",
+            "Pennsylvania",
             "Tioga (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.8667,41.8667]},\"properties\":{\"placename\":\"United States\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.5,41.8667]},\"properties\":{\"placename\":\"United States\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.8667,41.8667]},\"properties\":{\"placename\":\"Bradford (county), PA\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.5,41.8667]},\"properties\":{\"placename\":\"Tioga (county), PA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.8667,41.8667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Bradford\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.5,41.8667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Tioga\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.8667,41.8667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Bradford\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.5,41.8667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Tioga\"}}"
         ],
         "subject_point_geospatial": [
             "41.8667,-76.8667",
@@ -149,7 +153,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:19:08Z",
         "system_modified_dtsi": "2023-09-15T14:47:48Z",
-        "timestamp": "2023-10-03T15:48:32.790Z",
+        "timestamp": "2025-10-31T15:47:27.283Z",
         "title_info_primary_tsi": "W. Su[q.?] Cr., Bradford Co",
         "type_of_resource_ssim": [
             "Cartographic"

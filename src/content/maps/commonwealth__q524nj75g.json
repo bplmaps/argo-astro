@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749951621201920,
+        "_version_": 1847512961314193408,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nj75g",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nj75g/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1171"
         ],
@@ -99,10 +102,10 @@
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9667,40.7833]},\"properties\":{\"placename\":\"Manhattan\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9667,40.7833]},\"properties\":{\"placename\":\"Manhattan, NY\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9667,40.7833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"city\":\"New York\",\"city_section\":\"Manhattan\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9667,40.7833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"city\":\"New York\",\"city_section\":\"Manhattan\"}}"
         ],
         "subject_point_geospatial": [
             "40.7833,-73.9667"
@@ -112,7 +115,7 @@
         ],
         "system_create_dtsi": "2017-05-26T14:56:13Z",
         "system_modified_dtsi": "2023-09-15T14:47:54Z",
-        "timestamp": "2023-10-03T15:49:04.170Z",
+        "timestamp": "2025-10-31T15:47:40.433Z",
         "title_info_primary_tsi": "Unfinished draught for a topographical map of the northern part of New York Island",
         "type_of_resource_ssim": [
             "Cartographic"

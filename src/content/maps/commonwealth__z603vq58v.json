@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749615325052928,
+        "_version_": 1847512867195060224,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vq58v",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vq58v/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Lodge, John, -1796",
             "Wilkie, J. (John), -1785"
@@ -119,18 +122,19 @@
             "Delaware (county)",
             "Fort Mifflin",
             "North and Central America",
+            "Pennsylvania",
             "Philadelphia",
             "Philadelphia (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.5667,39.8667]},\"properties\":{\"placename\":\"Brandywine Battlefield (historic site)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.5667,39.8667]},\"properties\":{\"placename\":\"Brandywine Battlefield (historic site), PA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.21296,39.87539]},\"properties\":{\"placename\":\"Fort Mifflin\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"placename\":\"Philadelphia\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"placename\":\"Philadelphia, PA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.5667,39.8667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Delaware\",\"other\":\"Brandywine Battlefield (historic site)\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Philadelphia\",\"city\":\"Philadelphia\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.5667,39.8667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Delaware\",\"other\":\"Brandywine Battlefield (historic site)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.15,39.95]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Pennsylvania\",\"county\":\"Philadelphia\",\"city\":\"Philadelphia\"}}"
         ],
         "subject_point_geospatial": [
             "39.8667,-75.5667",
@@ -146,7 +150,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:53:43Z",
         "system_modified_dtsi": "2023-09-15T14:47:14Z",
-        "timestamp": "2023-10-03T15:43:43.453Z",
+        "timestamp": "2025-10-31T15:46:10.674Z",
         "title_info_primary_tsi": "A plan of the operations of the British & Rebel army in the Campaign, 1777",
         "type_of_resource_ssim": [
             "Cartographic"

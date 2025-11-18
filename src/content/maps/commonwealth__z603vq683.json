@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749618880774144,
+        "_version_": 1847512868477468673,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vq683",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vq683/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Gibson, J. (John), active 1750-1792",
             "Jefferys, Thomas, -1771",
@@ -114,14 +117,15 @@
         "subject_geographic_sim": [
             "North America",
             "North and Central America",
-            "Northeastern United States"
+            "Northeastern United States",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America, North and Central America\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"Northeastern United States\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"area\":\"North America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"area\":\"Northeastern United States\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"North America\"}}"
         ],
         "subject_point_geospatial": [
             "58.166,-104.466"
@@ -133,7 +137,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:54:51Z",
         "system_modified_dtsi": "2023-09-15T14:47:15Z",
-        "timestamp": "2023-10-03T15:43:46.844Z",
+        "timestamp": "2025-10-31T15:46:11.897Z",
         "title_info_alternative_tsim": [
             "Middle British colonies"
         ],

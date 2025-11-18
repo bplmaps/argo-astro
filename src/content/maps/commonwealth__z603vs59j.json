@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750168268537856,
+        "_version_": 1847513029464293376,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vs59j",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vs59j/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Le Rouge, Georges-Louis",
             "Faden, William, 1749-1836",
@@ -124,14 +127,15 @@
         ],
         "subject_geographic_sim": [
             "New Jersey",
-            "North and Central America"
+            "North and Central America",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"placename\":\"New Jersey, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"placename\":\"New Jersey\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-75.55,38.9],[-73.95,38.9],[-73.95,41.35],[-75.55,41.35],[-75.55,38.9]]]},\"bbox\":[-75.55,38.9,-73.95,41.35]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"New Jersey\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,40.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New Jersey\"}}"
         ],
         "subject_point_geospatial": [
             "40,-75"
@@ -142,7 +146,7 @@
         ],
         "system_create_dtsi": "2016-11-20T05:50:14Z",
         "system_modified_dtsi": "2023-09-15T14:48:23Z",
-        "timestamp": "2023-10-03T15:52:30.781Z",
+        "timestamp": "2025-10-31T15:48:45.426Z",
         "title_info_primary_tsi": "Province de New-Jersey divise\u0301e en est et ouest nome\u0301e vulgairement les Jerseys",
         "type_of_resource_ssim": [
             "Cartographic"

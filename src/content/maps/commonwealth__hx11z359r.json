@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1811902185248653312,
+        "_version_": 1847512996484481024,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": true,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z359r",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z359r/manifest",
@@ -150,7 +153,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:05:32Z",
         "system_modified_dtsi": "2023-09-15T14:48:11Z",
-        "timestamp": "2024-10-03T14:09:37.911Z",
+        "timestamp": "2025-10-31T15:48:13.974Z",
         "title_info_primary_subtitle_tsi": "Surveyed in the Years 1766 & 1767",
         "title_info_primary_tsi": "PLAN of the CITY of NEW YORK, in North America",
         "type_of_resource_ssim": [

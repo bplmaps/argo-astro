@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749640981610496,
+        "_version_": 1847512875622465536,
         "admin_set_ark_id_ssi": "commonwealth:mc87pw948",
         "admin_set_name_ssi": "Massachusetts Historical Society Map Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:mc87pw948"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Massachusetts Historical Society Map Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vm676",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vm676/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzNWFtz2zYWfs+vwPBhp50xSVGyJFuJmIntXjxjJ5lIaXe3s9OBQIhETAIsAEpWf/0eUABF6uK4yW5bP9A2cC4fzjk4F7x6/VjkaEWlYoJPvSjoeYhyIhLG06n3cf69f+G9jl+8KkSiJuaDgJ6ryWPO+MPUy7QuJ2G4Xq+D9SAQMg2jy8vLsN71HKlixwj7vV4U/vP+bkYyWmCfcaUxJ9RxGV0dtlyQIBWr0GyEq4G3Az0IxsCl2ETVou4EwbreOM2NjmwZ/QmWsG+J6t/+wB8Hjyrx4hcIbc2gmc7pLV8KVCmc0qlXSlZgufFQwlSZ480dXtC8Wf7VrtYSOjLiK6G04GdozXSGmFZg+hWTgqtXYYvKKA67mndgOC4o0pvSwACDCI7zjiKz/x5LHV8LnlB5huaZKLBT0Owe4bBSE6ypF0fj8xESEo396GIQPcEtxRZxd2VOZWHlafqoPYQrnQnJ9GbqgY2IpDnWQrbWP364bRzIksZJK3DuosrBrKHlURAJOK/o8xlCoheesYeWbFHBij2OA2qPE3bO0zpyKxLgRO+WH6gSlSQ0vgZbiFTiMmPEeaxL0XCmlEvatkJapCX5Q+e3iu7BP5Lh/Pl22GcMdVr0eqP+KNqPYEBJpQmoe1y6kKmR7w4CYFPGXUy6VZBB9sKgXtqPg/gOolJwK7oh6XigJctKqhY5UxmV8S8q4MF/HF2z3KJlSlUmrcSF4HuuabZa5CbYb2GdJq0suB6QRC899EA3N7A/9TYUjP1bhXO2ZFROPcaXVEqamGtycWHF70S1wqdrra3OHPO0gjzSxuHWnro3TInR4NLvL/5Q1DiuZ0eLYwgpT734O54aI9vjtGG2Ttk+kXVZtlGM4PyGKiJZadJzx+xgFY3zd7V1YkmXQhZYa/CC3XE27dC1BIBtKNdxhApcopeoP0CPaNBHpAgspyVoRwaH8OdU39OE4TmYOIZsndLwU0lTFyEHJM/g12y5/Br+T2X/KXYX7McNajO40NR4SuIVmBCMiW5kgH4QEq6aQj8yKDpyg8QS6YyiNwVkAYI5+hlLZ61aQFec9x6SJ0W3t95L5M0FWsKlrPnnpiYZYT+JPID9wDspxEYyFFpNC3CH4ZJUlYCKLVgO8evF8wC5SjUjVV7q05g6BWqeMYXMnwh+uwt5nFdVi0+U6PZdyonKPn+N3D6jKrRCVLeqi5IRW9XRj1guwPTf3GOlgm993+RQ3/8Oy3yD1kI+KKQFii56PVcqauadi62GPx33HuBoPB7+XRAaZJhklaJaAzQbyb7/ga5EXplLcIYMXgB9Mdge4Cug65SfQF6nxyAFFJuAJlVYUx7k0yNUYRRF5+f9fudsKXWVqRs6TcFttltMGVQeaJwykwR+2KNwNERU0ONs4o+cmVw6M/fOGcTt7TFwzbhJlG+FhJYUGmJ0Df9CD+DyRMPuKNul+ilQVkOrRVL7yiFBMW4wxuf9YAA/Z/64F1yORuNG646krfdA6l/s5XEvGpyfD70vctgmnlXLpcgf2p46cNSf5dlGABjHhqcjZA7V/8P7Q/A9TKPD/7Hnn4lGwRFoPDNf9AvBAYomw+FZr8nV2/0vAlJPITS5hRJoC1gGVj0cDnctdXdm7ORAW8yNxdFMEEb1BspnnoNG1jiqmSJPzJHhPq6nwDL1gUJxhe6YJlcw8taj/iSDnq25EQuc6wz/jqGfgElTQWHW9cRPUuYvGA/fr+lCUoizAFZe31xNoQrg/B+4KF9eXd3eTKOLUX8w8sIdDJZAPNbNtkVRSebFRp0CfVg+BLYzJKKARn9NDYJaJ+xNwmHvcngZ/j7qDVbFaDxy7VUjtNWL27eDzrhhWy33rvBZD+y1aHctma5Bbi+dVFzJ/OCFARNClZp6YpvHGEfmvtaj1FeaA7TtK3fKSklXjK6/XEWos6pYcMzy08pMjwbhxdjSLzBnS6q+4kyhE9HVd9L825OaxpOZjYOoNhiIpMC1olsAqtadM0K5gqZlsfE58RUOz4Ne6LkoVbROtJKWUiRVfSf3R2wrwTawpi80Daxd3TbvRkxlWmKE0bUFAbe8RoHe6O0rhkH9VnDfrFNJmAnHDEvo73P2QNHdViD65voaXf3Lf3vtz95869rjvdOfNsvzjwUTWmZauLcCPXCxNmFabupF0/ED5JpLfRaByRMy2X9e2K6aFxy4wrPt04ptnd6bVwAC511ALdo0ue2Q/lBcbVrBzYx/OP3H/V4/8nuXfjSc98aTfn8y6P+7K77Ff0R6BkMx/WLZDfehZDsNww2DIQ6uagleTzrch/Oym9DfLa8x3CkB22m32Bx5gQDU9K9/gYDPideHg/eHw9PZ54bd0Dyzj777D5ItEi/GmLhm/Ahrp4buotUumU/84r8GcwsI",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Conder, Thomas, 1746 or 7-1831"
         ],
@@ -109,17 +112,18 @@
         "subject_geographic_sim": [
             "Boston",
             "Boston Harbor",
+            "Massachusetts",
             "North and Central America",
             "Suffolk (county)",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.9667,42.3333]},\"properties\":{\"placename\":\"Boston Harbor\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"placename\":\"Boston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.9667,42.3333]},\"properties\":{\"placename\":\"Boston Harbor, MA\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"placename\":\"Boston, MA\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.9667,42.3333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Boston Harbor\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Suffolk\",\"city\":\"Boston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-70.9667,42.3333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Massachusetts\",\"other\":\"Boston Harbor\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.05,42.35]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Massachusetts\",\"county\":\"Suffolk\",\"city\":\"Boston\"}}"
         ],
         "subject_point_geospatial": [
             "42.3333,-70.9667",
@@ -132,7 +136,7 @@
         ],
         "system_create_dtsi": "2016-11-20T03:49:11Z",
         "system_modified_dtsi": "2023-09-15T14:47:16Z",
-        "timestamp": "2023-10-03T15:44:07.921Z",
+        "timestamp": "2025-10-31T15:46:18.711Z",
         "title_info_primary_tsi": "Boston, with its environs",
         "type_of_resource_ssim": [
             "Cartographic"

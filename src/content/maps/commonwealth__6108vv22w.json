@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750110715346944,
+        "_version_": 1847513014540959744,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:6108vv22w",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/6108vv22w/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Skinner, Thomas, 1759-1818",
             "Skinner, William, 1700-1780",
@@ -120,14 +123,15 @@
         "subject_geographic_sim": [
             "Canada",
             "Ferryland",
+            "Newfoundland and Labrador",
             "North and Central America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-52.8833,47.0167]},\"properties\":{\"placename\":\"Ferryland\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-52.8833,47.0167]},\"properties\":{\"placename\":\"Ferryland, Newfoundland and Labrador\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-52.866667,47.020833],[-52.858333,47.020833],[-52.858333,47.029167],[-52.866667,47.029167],[-52.866667,47.020833]]]},\"bbox\":[-52.866667,47.020833,-52.858333,47.029167]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-52.8833,47.0167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"city\":\"Ferryland\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-52.8833,47.0167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Newfoundland and Labrador\",\"city\":\"Ferryland\"}}"
         ],
         "subject_point_geospatial": [
             "47.0167,-52.8833"
@@ -138,7 +142,7 @@
         ],
         "system_create_dtsi": "2016-12-07T17:42:24Z",
         "system_modified_dtsi": "2023-09-15T14:48:16Z",
-        "timestamp": "2023-10-03T15:51:35.894Z",
+        "timestamp": "2025-10-31T15:48:31.193Z",
         "title_info_primary_tsi": "PLAN of BUOY ISLAND NEW FOUND-LAND",
         "type_of_resource_ssim": [
             "Cartographic"

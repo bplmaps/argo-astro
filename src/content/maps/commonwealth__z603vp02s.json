@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749528593137664,
+        "_version_": 1847512836389994496,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,8 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": true,
         "georeferenced_bsi": true,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vp02s",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vp02s/manifest",
@@ -60,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Kroe, A. van der"
         ],
@@ -112,17 +114,17 @@
             "Georgetown (Washington, D.C.)--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "District of Columbia",
             "Georgetown",
             "North and Central America",
-            "United States",
-            "Washington"
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.05,38.9]},\"properties\":{\"placename\":\"Georgetown\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.05,38.9]},\"properties\":{\"placename\":\"Georgetown, DC\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-77.08843039885429,38.84050882112648],[-76.95307879989726,38.84050882112648],[-76.95307879989726,38.93749084523002],[-77.08843039885429,38.93749084523002],[-77.08843039885429,38.84050882112648]]]},\"bbox\":[-77.08843039885429,38.84050882112648,-76.95307879989726,38.93749084523002]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.05,38.9]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"city\":\"Washington\",\"city_section\":\"Georgetown\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.05,38.9]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"District of Columbia\",\"city_section\":\"Georgetown\"}}"
         ],
         "subject_point_geospatial": [
             "38.9,-77.05"
@@ -133,7 +135,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:31:49Z",
         "system_modified_dtsi": "2023-09-15T14:47:10Z",
-        "timestamp": "2023-10-03T15:42:20.739Z",
+        "timestamp": "2025-10-31T15:45:41.295Z",
         "title_info_primary_subtitle_tsi": "bestemd tot de hoofdstad van America, en ter bestendige verblijfplaats van het Congres, naa het jaar 1800",
         "title_info_primary_tsi": "Plan der stad Washington",
         "type_of_resource_ssim": [

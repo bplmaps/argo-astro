@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749598010966016,
+        "_version_": 1847512860943450112,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vq127",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vq127/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "eJzVGVtv27b6vb+C0MPBBkQX23Ece42G1N0lQ5IOTbpzdg6GgaZoiY1EaiQdR+fX7yNN2pLspGk7oOiLHZPfnd89L79/qEp0T6Vigp8FgygJEOVEZIznZ8G72x/D0+D79MXLSmRqZj4QwHM1eygZvzsLCq3rWRyv1+toPYqEzOPBdDqN7W3gQRU7BDhMkkH8n6vLG1LQCoeMK405oR7L8OqglYJEubiPzUV8Pwp2Qo+iCWApNlOW1KUgWNuLx7HRgSvDP8MS7h2Q/Q5H4SR6UFmQvkBoYwbNdEkv+FKglcI5PQtqySosmwBlTNUlbi7xgpbb4z/dqaXgaXDBb4TU6Tl6GXcOWjCWT8rpGpECS43EEumCIiKwsj+uAb5A5xWVjGBHZoPTIqJWi1t7tpSiQtdA7Hch75AWaI5rin7GWlOJ1RFinJQr8+yWyQI3yvB4TUu8xpIisA2aF1QBEr47QmsGrLfSWFBD+xd4E9ocoSvQuwSUI/QbkznjDFsC9eNqzLEU4DVej63Yxupx1+y7l+C4okg3tXkD4Cw4LrtWhvtfgWf6syg34lxHR0ZxjRn3hvcwLTwQxRmxfXJLZeW4afqgA4RXuhCS6eYsgIcmEmylhWydv3t7sfVClm097R48dLEqwUaxw1Hgzrhc0ecjxMAuSOeSml9OFS+kUyXu6NJS96ABiZC1kFjTwxZ8KxYUHu8SryTbeMMvcKXQvwum4V2+dmPqBRhTcC3ZYvU5BjUavVm+pUqsJKEpeLUWucR1wYh34y7EFjOn3ITZzgp5ldfko/R3jK7gESXD5fPt0EeMdV4lycnwZNDPaSAlpAuIsitcK6eRlXynCAgLEe8D1Z8CDdJzA3vU94P0UvBM+ODcgnReoEXLUVotSqYKKtNf3V8ZWjTeWf+Fq/o776iQAkSExiP0Y0mpRjdawtcRwsompXOiQWFJifbK7Ui3+DGlVqZYpZXgvefdXrXAM7DrBZyDVLvauh6RTC8DdEeb13B/FjRUBelgMj12lHZYLW/rGndDHjJbvoJC1Gbpz54KM6bEyWgaDhcf5WQe69nO5RFiyvMg/YHnxp5OnbaYLS3bGrkXLhoFVa58TRWRrDb1vWNhsIrG5RtrnVTSpZCVqWwZcjfeph24FgGwDeU6HaAK12iGCpPgiCgj9B0aJCP0gCYJIlXkyDjotkdwCB1O9RXNGL4Fe6dQ+3Mav69p7j1jD+QZ+Jotl5+D/74ePoXunfywdX2romlqkjpkBgQZk9ElUoVYcxNiBSbFSkIdsOWdEcidAFY2EXQOtS7UDhLyHTeer6Jtx6Npnwt0TBSZhgZk5DO0yQVPIFzYpgXYB+dKSwjGyqiBxEJReW+7QHUUIAMKHY4RcbjpOwCmxhzKXYWfkMcFDoBrWsGDm24FdK2BKluwEsIlSEEz109Ab4Fcn3GYJPQ07yGztEOwJKr4cPT5e0ZV7IioTpXWAkyfnmvgrRlBc9tafXPFsqyEnOaPb4we6tswNLk7DH/AsmzQGrpBZdrBwWmS+BJlye3cw/H8cppcR/Poa5D7GuCsA9qGHWR99pN8TUp1G/a+kv+0Ljrnj6hia0yUU62biGar2ELuFaUDUPEkSSaTZNpRtmDQ2EhSGFV/or6qdzsWAjlMyyZ9x5mpLZvXc7r4ux4CGIabWrExmp2i4Ce0UL3BbQfZIWBzT3p4RLJX7b7oKRWcPK1+VPVFFRLys9EoHY2j8VF4mmxl2121+e1R++LPOjg+GSQf/aww3+K0F5pOFXv1hXzgg6/6AXN/wsOHk9MoQaPjaHyKwskwGqPjQfRPu8Ez5VKgL01vzCf6H8ERGswmg+QoSZI/PAML8Umi2MmPZhdQ2F2VL4TS3ezX3jf0tzKmFD1nB3NodRH3JXhKLKbe0iWVMDfQ7FUTILtamxXQ4m5CQUEsuK4W+tUSlDRNT8SburRrNnDSSsXjQZIdTzIcLpOTRYhH2TSkyXECHwmG/HxyjKfTIN7JwTLwQrYEz3NiwCAVpJ4flnfRlmcFM9Ca4lIXlh/czeJxMh1P4/+fJKP7vwbDie9At0Rbs4tb1nWmOdeN+kVeut1a2emOoEu2gIhoes3rZYuUnyPaR4/yW8lyb5OHCaFKnQVik7iguzPBaQfUz7QCcOsz98xqSe8ZXX86i1gXq2rBMSsfZ2Z6UnArxpZhhTlbUvUZOsWeRJffo+bfaDqHtp6Zi4PeTMxOi93TjQDK8oZXp1xBn7JoQk5ChePjKIkD75xqs5GStJYiW9kQ6C8uHIUgvS2Yss0Jgm93miEYGJEhAzMK+DxGcycE9DRWCqgLm92Qkfpa8NCcU0nMTHRTmAXpecnuKLimJYi+mc/Rq9/D63l4c/6tHwd62j9uluerBYNsYbq2a4HuuJm0iKgbe2gmFRDZ5YMPSSDB3DLrL202p2YvBpF7s1lYvYI8CSIeDMVD8PvkrGkFN1uP/X1IOkyGgzCZhoPxbXI8G53MhuP/dsm38A9Qh9E9p59Me4u9T9ktDSDCMEcQqjW8etbB3l8r+EXGm+UcQ0wJuM675eTAogakpl9+UQMfjyxp9tY0+9q5rcxunXDj/rnSX/O2QIIUY+I3rwdQO7Vz563uyHykL/4GkCU45w==",
         "name_facet_ssim": [
             "Holland, N., Captain",
             "Robert Laurie and James Whittle"
@@ -113,15 +116,16 @@
         "subject_geographic_sim": [
             "Middle Atlantic",
             "North Carolina",
-            "North and Central America"
+            "North and Central America",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,35.5]},\"properties\":{\"placename\":\"North Carolina, North and Central America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,35.5]},\"properties\":{\"placename\":\"North Carolina\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-78.0,34.58],[-72.5,34.58],[-72.5,41.0],[-78.0,41.0],[-78.0,34.58]]]},\"bbox\":[-78.0,34.58,-72.5,41.0]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,35.5]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"North Carolina\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"Middle Atlantic\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,35.5]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"North Carolina\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"area\":\"Middle Atlantic\"}}"
         ],
         "subject_point_geospatial": [
             "35.5,-80"
@@ -134,7 +138,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:47:14Z",
         "system_modified_dtsi": "2023-09-15T14:47:14Z",
-        "timestamp": "2023-10-03T15:43:26.941Z",
+        "timestamp": "2025-10-31T15:46:04.712Z",
         "title_info_primary_subtitle_tsi": "from New York to Cape Hatteras, including the bays of Delaware and Chesapeak, with the coasts of New Jersey, Maryland, Virginia and part of the coast of North Carolina",
         "title_info_primary_tsi": "A new chart of the coast of North America",
         "type_of_resource_ssim": [

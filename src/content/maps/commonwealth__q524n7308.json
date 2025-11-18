@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749815775035392,
+        "_version_": 1847512902883344384,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n7308",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n7308/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Patten, John, 1724 or 1725-1754"
         ],
@@ -114,17 +117,18 @@
             "Indiana",
             "North and Central America",
             "Ohio",
-            "Ohio River"
+            "Ohio River",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-86.0,40.0]},\"properties\":{\"placename\":\"Indiana, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-89.1333,36.9833]},\"properties\":{\"placename\":\"Ohio River, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.8333,40.0]},\"properties\":{\"placename\":\"Ohio, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-86.0,40.0]},\"properties\":{\"placename\":\"Indiana\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-89.1333,36.9833]},\"properties\":{\"placename\":\"Ohio River\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.8333,40.0]},\"properties\":{\"placename\":\"Ohio\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-86.0,40.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Indiana\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-89.1333,36.9833]},\"properties\":{\"continent\":\"North and Central America\",\"other\":\"Ohio River\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.8333,40.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Ohio\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-86.0,40.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Indiana\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-89.1333,36.9833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Ohio River\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.8333,40.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Ohio\"}}"
         ],
         "subject_point_geospatial": [
             "40,-86",
@@ -138,7 +142,7 @@
         ],
         "system_create_dtsi": "2017-05-25T15:46:21Z",
         "system_modified_dtsi": "2023-09-15T14:47:27Z",
-        "timestamp": "2023-10-03T15:46:54.617Z",
+        "timestamp": "2025-10-31T15:46:44.709Z",
         "title_info_primary_tsi": "A Map of the western parts of the province of Pennsylvania, Virginia, &c",
         "type_of_resource_ssim": [
             "Cartographic"

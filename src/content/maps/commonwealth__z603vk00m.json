@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749781381742592,
+        "_version_": 1847512888309186560,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,13 +37,16 @@
         "exemplary_image_ssi": "commonwealth:z603vk01w",
         "extent_tsi": "1 map : hand col. ; 47 x 64 cm",
         "filenames_ssim": [
-            "gan00012an011036",
-            "commonwealth:z603vk00m_metadata"
+            "commonwealth:z603vk00m_metadata",
+            "gan00012an011036"
         ],
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vk00m",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vk00m/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1722-1824"
         ],
@@ -98,14 +101,15 @@
         ],
         "subject_geographic_sim": [
             "Canada",
+            "Newfoundland and Labrador",
             "North and Central America",
             "Torbay"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-52.7,47.6667]},\"properties\":{\"placename\":\"Torbay\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-52.7,47.6667]},\"properties\":{\"placename\":\"Torbay, Newfoundland and Labrador\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-52.7,47.6667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"city\":\"Torbay\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-52.7,47.6667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Newfoundland and Labrador\",\"city\":\"Torbay\"}}"
         ],
         "subject_point_geospatial": [
             "47.6667,-52.7"
@@ -116,7 +120,7 @@
         ],
         "system_create_dtsi": "2016-11-20T02:45:13Z",
         "system_modified_dtsi": "2023-09-15T14:47:22Z",
-        "timestamp": "2023-10-03T15:46:21.817Z",
+        "timestamp": "2025-10-31T15:46:30.810Z",
         "title_info_primary_tsi": "[Torbay]",
         "type_of_resource_ssim": [
             "Cartographic"

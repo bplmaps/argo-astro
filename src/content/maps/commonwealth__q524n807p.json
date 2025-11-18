@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749825981874176,
+        "_version_": 1847512907237031936,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n807p",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n807p/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzNWFtv2zYUfu+vIPS0AZElOY0dG42G1O3aAklbJBl2eRlo6VhiTZEaScXRv9+hLNqSb03bhw0o3Irk+c791le/PBWcPILSTIorLxqEHgGRyJSJ7Mr77eFX/9L7JX7xqpCpntofgu+Fnj5xJpZXXm5MOQ2C1Wo1WJ0PpMqCaDKZBM2t555qdujhMAyj4I/bm/skh4L6TGhDRQKOyvLqkXGZDDL5GNiL4PHc2wp9PhgjlWZT3UDdyISa5uI4NTlwZfmnVOF9+6j52z/3x4MnnXrxC0LWZjDMcPggFpJUmmZw5ZWKFVTVHkmZLjmtb+gc+Ob47/a0QehhxA850wT/CGlIxh5BEKoJxd8kqRQ1QApanpF5ZYgUvCZGErpYSJXaNywFSuSCmBxIqWSmQGv3TVVRk4WSRfPFUS90J6GGvOVLi2JPDV3aQ6QopdZIjCazX59zxmkKvMwZfRV0hO1Ir6v5Q6sAkLmSK0HQ44CyK2jAdVUiKqSogEKnbARTgJbRLewGxVo26Jt2a21BC8SsS2tn9LgUlPcsae8/U2XidwrqMzLLqeLIcP31Fj9a6M27A7Qtfoom9+JoPJz40WU4PkGopDNI9+QBVNFCGXgyHqGVyaVipr7yrCEUcGqk6pz/dvdhE6Ys3YTiI4bwvOIYPEFLozHeKa/g+QQBsvPimQL71arihGxVCXq6dNTtxDpq82lxB1pWKrHxKCqdKFaaK68GjfhoGIw9itGSOB/2SLZQGQiMjo5JsiIrk28yRsvoFv2kGOXPN8ouYWCyIgxHw1G0m7QoJSgbYre0dIHaSP4/ViQaDi9HJxRxPjuiD8qcMeGyzp3aZGiiB7N42xFW50lqFh5ZQv0Gr9ZRQP6pKGcLBurKY2IBSkFq82jsUqiD1Ym0Pt81V6xVWYVFtSuJOzuVXkzL0fnEH86/yQ2O6tnmdwQBiMyL34qMM5236nTF7GjZ1WitT5nXmiWUv4G1W7Dw9gyPVjGUf2qsEyvAgl9QY93Q3jij9t51ANA2IEwcdbLVNhIyJTl2ApJILhU2FKJzAEOG5+SJRBOSFIMWuKXvIDKB4SbA3ELK6AN6IMbOlkHwpYSsJdp/8gx6wxaLH6H/Ug5Pkbd3R+zdtgBpoJMiZ6QE4aOZcCBZOoM0b/oU77FRr2wSYl0/9e4OOIMFmtr2yHmNHkjyClv1CZIPgmD3BEU4LAx6C9VSU/IOxLRpaicoP4lmKJJTEoUnnjVNl4yiMYmCIWEYCNR2TJyaKJeZa9U2I+gcH3I2Vxj77vy9FANyPyC/D8hnEKIuabIEdUaucdzhGEjh6DjrNnsTjFvrBexVWCzATn3xzYzYimu5fJTK5OS6wAqX0DMSjS9CPxpfTvCfWLK/Br5u4s1kZf9pxytXkw4LhmPIF0hMt5rwROdfLyTunoEOWhDdH/JkyZL4lqUpmvHaYCUwLCH3qDxo33/PNHbm2vfv4FHyyhrEKju+sMqe+/6MFiVlmcCn1jJnZBulvm8Hm5qspFpqO9DhuBK69tsw3UZ/K9lJfU0mjqjb1L5BBsbUA0iroHm5VywPvArGYfRyFIU9g+TYIuxAaLPxHbi5oT9I4QhJd23WqtJc9R4nEq+FrVbroLH1bYaf2PhcALW025fd2ee4QF+xXlerpDMD6b58GnEhvre/2yHfQTd3XWn2gI4J0cx4kH4w4BpiLrXZXzC2Pb2/d9xsU3omxXp1mEnOkQlG4YGp/9B0HuyKcko+pu9crqevcVNqNsRpjgVgHUQao4gnidgkV1aMozAML0dD4gVbZNx60I921GiBK8W82CHYWty2xUQWhRQroNzkzb6Jd9PgIpxcTIJ/LoYvBQ74pWseG9ATjFAwyn2JJVB5MVW2FG1y7hAAb9fQrlNcJ3Ir6kFHuDism2jG1Cdv2CPTW8fsoXSGje7RUTEqxfdWV1w5kfmVJ9fFAbuCzRg7Zv2odZHbLnPHrFTwyGD1/SwCk1fFXFDGjzOz1R4DkLGFjwMRW4D+AZ0CB9Hnd9T8a03RtymzFwfjPrGTMRaGtQC64c1ZAgK38mBe+yLxNQ1eDsLAc0GvoQkOBbj5p1WTtbvzf4vQtkLbKWwrbE9TglMlsTCVSDHEKZm1QmAcNlJg7TWKzZu2hB1Z+PYcVIJLB7nP7Z5/zdkSyM0akPw0m5HXf/ofZ/799c+u0e5of9wsz1cLp93cttmPkiyFHaoSWdbNIZJpFLmh0l+VQKG5Vbq79KxPZzbyhblfL7CvsbSiiJ+rORqPtBm7qX777/fhGtNKYRem/VUqHobDyA9xqZg8hOH0YjQdjv7qw3foD6DjUJ/Bd2NvqPeR280CM4wKgqlaotfTHvX+7uG2nU+L2XqcRHH6HejANodSw3+/zeHPkU1ub5fb165d3bYbxn37v4m7/wfUeeLFKnXjyQHKXpPdBmt7ZH/iF/8CbG+DKQ==",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Grey, Charles Grey, Earl, 1729-1807"
         ],
@@ -106,17 +109,18 @@
         ],
         "subject_geographic_sim": [
             "Middle Atlantic",
-            "North and Central America"
+            "North and Central America",
+            "United States"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"Middle Atlantic\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"area\":\"Middle Atlantic\"}}"
         ],
         "subject_topic_tsim": [
             "Middle Atlantic States--History--Revolution, 1775-1783--Campaigns--Maps, Manuscript--Early works to 1800"
         ],
         "system_create_dtsi": "2017-05-25T16:01:21Z",
         "system_modified_dtsi": "2023-09-15T14:47:31Z",
-        "timestamp": "2023-10-03T15:47:04.351Z",
+        "timestamp": "2025-10-31T15:46:48.860Z",
         "title_info_primary_subtitle_tsi": "The brown lines are the supposed marches of the rebels",
         "title_info_primary_tsi": "This is not given as an accurate map, but only to afford an idea of the progress of the army from the landing at Elk to the taking of possession of Philadelphia",
         "type_of_resource_ssim": [

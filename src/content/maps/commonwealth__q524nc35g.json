@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749872937107456,
+        "_version_": 1847512925874421760,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nc35g",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nc35g/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Faden, William, 1749-1836"
         ],
@@ -109,15 +112,16 @@
             "Charleston (county)",
             "Charleston Harbor",
             "North and Central America",
+            "South Carolina",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.8833,32.75]},\"properties\":{\"placename\":\"Charleston Harbor (bay)\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9167,32.7667]},\"properties\":{\"placename\":\"Charleston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.8833,32.75]},\"properties\":{\"placename\":\"Charleston Harbor (bay), SC\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9167,32.7667]},\"properties\":{\"placename\":\"Charleston, SC\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.8833,32.75]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Charleston\",\"other\":\"Charleston Harbor (bay)\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9167,32.7667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Charleston\",\"city\":\"Charleston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.8833,32.75]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"South Carolina\",\"county\":\"Charleston\",\"other\":\"Charleston Harbor (bay)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-79.9167,32.7667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"South Carolina\",\"county\":\"Charleston\",\"city\":\"Charleston\"}}"
         ],
         "subject_point_geospatial": [
             "32.75,-79.8833",
@@ -129,7 +133,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:04:11Z",
         "system_modified_dtsi": "2023-09-15T14:47:38Z",
-        "timestamp": "2023-10-03T15:47:49.131Z",
+        "timestamp": "2025-10-31T15:47:06.635Z",
         "title_info_primary_subtitle_tsi": "with all the channels, soundings, sailing-marks &c. from the surveys made in the colony",
         "title_info_primary_tsi": "A plan of the town, bar, harbour, and environs of Charlestown in South Carolina",
         "type_of_resource_ssim": [

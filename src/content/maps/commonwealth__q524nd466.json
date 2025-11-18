@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749889814986752,
+        "_version_": 1847512932357767168,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nd466",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nd466/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Baventin, Regnard de",
             "Estaing, Charles Henri, comte d', 1729-1794"
@@ -117,14 +120,15 @@
         ],
         "subject_geographic_sim": [
             "Bainet",
+            "Haiti",
             "North and Central America",
             "Sud-Est"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.747,18.185]},\"properties\":{\"placename\":\"Bainet, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.747,18.185]},\"properties\":{\"placename\":\"Bainet, Haiti\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.747,18.185]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"Sud-Est\",\"city\":\"Bainet\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-72.747,18.185]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Haiti\",\"state\":\"Sud-Est\",\"city\":\"Bainet\"}}"
         ],
         "subject_point_geospatial": [
             "18.185,-72.747"
@@ -135,7 +139,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:29:42Z",
         "system_modified_dtsi": "2023-09-15T14:47:45Z",
-        "timestamp": "2023-10-03T15:48:05.226Z",
+        "timestamp": "2025-10-31T15:47:12.818Z",
         "title_info_primary_subtitle_tsi": "situee\u0301 a hiut leiues sous le vent de celle de Jacmel, leve\u0301 suivant les ordres de Mr. d'Estaing le 11 Ocbre. 1764",
         "title_info_primary_tsi": "Plan de la Baye de Baynet",
         "type_of_resource_ssim": [

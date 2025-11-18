@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778757929217818624,
+        "_version_": 1847513159222427648,
         "admin_set_ark_id_ssi": "commonwealth:mw22z436x",
         "admin_set_name_ssi": "Library and Archives Canada Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:mw22z436x"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library and Archives Canada Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -45,7 +45,10 @@
         "genre_specific_ssim": [
             "Manuscript maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:bg25bf84n",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/bg25bf84n/manifest",
@@ -62,7 +65,7 @@
             "English"
         ],
         "license_ss": "Contact host institution for more information.",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_date_tsim": [
             "This date is inferred."
         ],
@@ -95,13 +98,14 @@
         "subject_geographic_sim": [
             "Canada",
             "North and Central America",
+            "Quebec",
             "\u00cele aux Noix"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.266667,45.116667]},\"properties\":{\"placename\":\"\u00cele aux Noix\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.266667,45.116667]},\"properties\":{\"placename\":\"\u00cele aux Noix, Quebec\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.266667,45.116667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"island\":\"\u00cele aux Noix\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.266667,45.116667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Quebec\",\"island\":\"\u00cele aux Noix\"}}"
         ],
         "subject_point_geospatial": [
             "45.116667,-73.266667"
@@ -112,7 +116,7 @@
         ],
         "system_create_dtsi": "2023-03-29T18:23:52Z",
         "system_modified_dtsi": "2023-03-29T20:12:20Z",
-        "timestamp": "2023-10-03T17:55:52.198Z",
+        "timestamp": "2025-10-31T15:50:49.173Z",
         "title_info_primary_tsi": "Fortifications on \u00eele aux Noix, Qu\u00e9bec",
         "type_of_resource_ssim": [
             "Cartographic"

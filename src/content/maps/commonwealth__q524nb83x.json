@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749865016164352,
+        "_version_": 1847512922655293440,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nb83x",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nb83x/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Maps of North America, 1750-1789, 1397"
         ],
@@ -98,15 +101,16 @@
         "subject_geographic_sim": [
             "North Carolina",
             "North and Central America",
-            "South Carolina"
+            "South Carolina",
+            "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,34.0]},\"properties\":{\"placename\":\"South Carolina, North and Central America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,35.5]},\"properties\":{\"placename\":\"North Carolina, North and Central America\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,34.0]},\"properties\":{\"placename\":\"South Carolina\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,35.5]},\"properties\":{\"placename\":\"North Carolina\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,34.0]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"South Carolina\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,35.5]},\"properties\":{\"continent\":\"North and Central America\",\"state\":\"North Carolina\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,34.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"South Carolina\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,35.5]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"North Carolina\"}}"
         ],
         "subject_point_geospatial": [
             "34,-80",
@@ -118,7 +122,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:52:38Z",
         "system_modified_dtsi": "2023-09-15T14:47:38Z",
-        "timestamp": "2023-10-03T15:47:41.577Z",
+        "timestamp": "2025-10-31T15:47:03.565Z",
         "title_info_primary_subtitle_tsi": "lying between that part of said boundary marked in 1764 and the old Cherokee boundary line. Fixed and marked by commissioners appointed by each respective colony, now states, in June A.D. 1772",
         "title_info_primary_tsi": "A Plan of that part of the boundary between the states of North and South Carolina",
         "type_of_resource_ssim": [

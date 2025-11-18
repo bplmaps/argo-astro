@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1780925935202074624,
+        "_version_": 1847512833937375232,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vn85b"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "New York Public Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vn906",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vn906/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Cassini, Giovanni Maria, active 1788-1815"
         ],
@@ -109,18 +112,19 @@
         "subject_geographic_sim": [
             "Mesoamerica",
             "North America",
+            "North and Central America",
             "South America"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"placename\":\"North America, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-56.683,-3.55]},\"properties\":{\"placename\":\"South America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,10.0]},\"properties\":{\"placename\":\"Mesoamerica\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,10.0]},\"properties\":{\"placename\":\"Mesoamerica, North and Central America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-195.0,-60.0],[-7.0,-60.0],[-7.0,75.0],[-195.0,75.0],[-195.0,-60.0]]]},\"bbox\":[165.0,-60.0,-7.0,75.0]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"area\":\"North America\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-104.466,58.166]},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"North America\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-56.683,-3.55]},\"properties\":{\"continent\":\"South America\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,10.0]},\"properties\":{\"area\":\"Mesoamerica\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,10.0]},\"properties\":{\"continent\":\"North and Central America\",\"area\":\"Mesoamerica\"}}"
         ],
         "subject_point_geospatial": [
             "58.166,-104.466",
@@ -132,7 +136,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:30:22Z",
         "system_modified_dtsi": "2023-09-15T14:47:09Z",
-        "timestamp": "2023-10-27T16:15:23.820Z",
+        "timestamp": "2025-10-31T15:45:38.957Z",
         "title_info_primary_tsi": "L'America secondo leultime osservazioni divisa ne\u0301 suoistati principali",
         "type_of_resource_ssim": [
             "Cartographic"

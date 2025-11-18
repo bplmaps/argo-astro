@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1780112939103027200,
+        "_version_": 1847512972929269760,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z014s",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z014s/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJztGWtz4kbye35Flz7c7VYZCYGBtbMmJWN2TYKxD+FN9lJXqUEa0KzFjDIjGXO//npGEkjg125SlUrV+YOxZ/rdPf3i/Q8PqxjuqVRM8DPLtZsWUB6IkPHlmXU7+9B4Z/3Q/+79SoTqVP8ChOfq9CFm/O7MitI0OXWc9Xptr9u2kEvHPTk5ccytVYIq9hhgq9l0nV+uxn4Q0RVpMK5SwgNaYmleNbRYBPZS3Dv6wrlvWzuh23YPsRQ7VYbUWAQkNRdPY8MjV5p/SCTeF0Dms9Fu9OwHFVr97wByM6QsjemILwRkiizpmZVItiJyY0HIVBKTzZjMabw9/q04NRRKGlxwX8i078F7p3ZQgTF8+jdjbwJiAWlEYeTjPxf6v4F3M4Tz6WjmjSYgaZgFNISFFCsDFxO5pOBn8p5uYEVCCiQIhNROhVQYkOvpxXDqA6oMo4k/m94OZqPriV9ymo4+Xs7g8npyPfXOx0NzNkYcHwbXV1cj30dgjb8QEmZT72JoKGlZZ54hVKiV66BN59RttzMnJysK6SbRhkSXCk7iuqnw/oagaS5FHCOXI/DJKqNxabjy+hGUgmxIUmr13V7rXcN913SfQZQil7Z+MqNyVZBK6UNqAcnSSEiWbs4s9HAgaUxSISvnt9PRNvxYuA2xewzNeYbe2TgFjsI4JnFGX4/gKHlv9XPfClnoUkpZ6OLUlKno+w1W/1myZZQewSwSK6KOQBWcYUk5leQ5N/wdrBmkS6s/QMHFUpIkon+uRau6cbJ4WafynlHlaIIvaHQA7vB3bbd34vbcx73prVBFhe78kS4WVG5ge3BOpOBf/6bcXgP59f7mUbBYCav/QcgVlSDW/M+JAsy4iZDGTo+5Yio2JIZbzlJM3T6V9yygCkZYB1mapdSk1gu6wGpMTXL1aZBpO4CfZiE6/P8mL+skqnS9mFIlMhnQymNmQVl16hBbTExhklbNsFwtk+CrDFAwukI3S0bi1xtiH9FJl6tms9vquvt9RJForf4VSUqvG8l3iqCwS8bLulqeIo1gLw7M0X4g9H+90ce69idSYC+h2yfgIgUWUp6yBaPhfwrGWwI1/1Q4FXyyecwUppb+rzlJ9PITBLeQFXSmVKa7wf5K8D1fbq8q4DoZDSQl+iXtutd1OwhTzLl3dHOBV2fWRqfT3zMSawHkmUUSlO0Bm7Q8lXXLLFYhVwm6uo1zxtiPLDPsAavClGfPPTemRLd90mjNvyrWSqxXx1iJ4FCOVW7Il9rShTpVMStaVjUqXBltFAtIfEFVIFmiY6Nme7RKSuJrY52+pJi20KDaE8VNadQaXIUA2gZjou9io5rAKeAHz3JOkFBuUh9OE7BmaQRr/VoCEeM7hu8B3GYbHqDnQrAquBTEqqHEEYXT9IqGjMzQHX10+JI6XxK6LEPqAOQV+BjFiz+C/yVpPYdevo7HjV8OESntT2nM6AJUhEkU5hv8g+jwt7dzRUr3MHyRcTMKhDRJIwUEc+CS3VP+DM5ArBINZ3mAb52XYwJTuiM3AwlJKJxjHBPGnxpIVGUgQUn1BQ4l2H4UTlapzHOPKumb3hMiTAKSzGOajyGIowAFWmEqQGCNb8YQaQYdPYagUCnJCSGffFyAYnwAqn6X9kEbW3JETvghuc7BqWRBqi88LFLoBfgHWSXfB3YeixqaoAT53KrBIqa0TTPdjlnwRqdraDcGDbeNyhn4j+h5uCGJ0Tk1Rz+zOGZkBWMbBjFdYfQqGLO5xPf7FkKT0twTZOfhOBmDzlJGR8WWHK+QSCzWmFxzS1nnGxhyfQcfqTBDIKa4LKaleh1NakqXqZ1LutkawnqN9wsv0xTrw8j4HvVsdTvgRe5bI5dVC4QKTC+HwQykVUK3XArJFX6+QbhynDGOH64SJunb0kC3P8HlJpRlGYDrxQI7JZiRjGsx3swFqqSY9kEqCVfY1mL86Tl3htgTEwfoX08GEQY5TjA/0TU00NFr8C6uoN1pOW6nY4Tf/d/FGFYJxWi8p/Hm7XOvCR+eAjPXaomzBJ0LMV2kL+LgW/LxaRvffEA+2NgR0/mNKVlmOoS23n0dvdnlEHzvk/dxiFP67WQ2/YzvC26mo8lgdOON4RLPRpOPcDHCgX80mCEDBWsax/ozwKyA4TCvvEiCLSEGrHqRc1FZDNIHiRUYX4dIBN+sXsZNzcPei2PdJKBBMZy0DweCp+ZdlMuJrWvggt0zVc0Yo0cz0vPBnWw0fy8M4UpBp3fUa7p2z4ZznSf1y53at7Zvj2z4JGIY//IJ/8pl13GGz3+VaH5bqDlmFKIThImJQLejWRDtRwdc7eocCUNmei4kY/UszRNLX4DvvW4XG8aEoXIcnxHHfA0fJcUSGTAZ6IKPsrDgDoEx9vV2TOSJyupYttaOFS9hHeHIgSkZm8sdpK4fuiZYF1Pv5+EUWj3wh2YnBHvoc2w9nsQmiOh0njF3bXw8wZ+XING+qUmL2jj6UaKz2ZzF2DFZfUx3vnd1O8TYvh6b3djQ/5c9hcuRD1fej0N/9vmf/ja7YE7Mc70uFzpYJmWyv6gke3O4TfnbVO/VUr1J5iiUydhwiYn/okj8j6uusvkXDNlqDxgHKvq6hUBBRNXmSXxoLOgfJmZ4M8FwfNto6DJ0VIm2RmNIZLyBtZB3SrvQfddsloOSIbZrPwqOz+qRLvkTaphO1F7SNN3Y2BE4BvKgdX0EysEX2G62WjVFI+zZiU7imDOxuBXloD7emCQmN2gOTkJSKFEe7kFiiuG6V8z9rS02wH91eBS+36KXkDUCeevziOG3c4q5r05Jz2lQSFWZXdW+wGaBi49B9Y+7ttvFn95Ro9u0e52tpDuQKt8Dqi949xskanRduwvHHfu4A43Oid1t6x847tmtv0g6pUtrPy+wlUEPA989bXc7R81t0OeQ3ySS2WbQcIQZqkhXkVBp/X1WN977y31dnnThLBo+rHRxTE0LvL8/f2KD7uyL8ZxsTE0pdkd6oxSebywwX9OcRjizbR+jojpASdEr2fPYzu6ckXfl//bptnWq/2geNxvNpv6ap9d2LWfHbzvay4JdJpnV13QVEibyzi5GwABbd8HXlMRpZL4KwrtTp9M86Zw40YPr/rfpHpd7jh3RytBdfMFT2zcUc1L55c++ZffGqXGFRDn4Vo+e5JPJ+OBbHxIEVKkzS+SpEYu3ThlmsfIHtUdu+8xLZomk94yuv52Fk0bZas4Ji59mpmsYhg1jiwZO5WxB1R/QySlJ1Pk9af5cU+z9it5oP1q1DLpB1X1gLoAyvGOcDrjCcjnfNHjQUMQ5tpuOVQalymdESXerrv2FW0HB6s/0RKfrJA66UJyGpnvQZLA7xFgnMCiEMDOpbkW9FJuJeWakngje0OdUBgxLix/pOcqL2R22+TlBeDMYwPnnxmTQ8L3tpLGn/dNmeb1apoXE5mEi4I7rbUGAnW/eb2NfZfof3Um/KIGk+rvE/WVjflq06n6+aD3HZIgi3ugVX7D3FB+DPyRnTCu43t8dbvb6rWbLbTRPGu3mrNU8bXVPm81/18lX8B+hHhG+pN9Me4t9SLnYcuELI9jKo1PQ62EN+3APVm7erhcDgm9K4PWyXjMe2Syi1PSv3yzirye2igd7xUPtijXibsHlF1/E738/UQGx+gSH03KzeIhaq427aC2O9K/+d/8DRw5J3Q==",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Holland, Samuel, 1728-1801",
             "Wright, Thomas, surveyor general",
@@ -126,14 +129,15 @@
         "subject_geographic_sim": [
             "Canada",
             "Cape Breton Island",
-            "North and Central America"
+            "North and Central America",
+            "Nova Scotia"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-60.75,46.166667]},\"properties\":{\"placename\":\"Cape Breton Island\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-60.75,46.166667]},\"properties\":{\"placename\":\"Cape Breton Island, Nova Scotia\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-61.6,45.45],[-59.633333,45.45],[-59.633333,47.25],[-61.6,47.25],[-61.6,45.45]]]},\"bbox\":[-61.6,45.45,-59.633333,47.25]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-60.75,46.166667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"island\":\"Cape Breton Island\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-60.75,46.166667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Nova Scotia\",\"island\":\"Cape Breton Island\"}}"
         ],
         "subject_point_geospatial": [
             "46.166667,-60.75"
@@ -143,7 +147,7 @@
         ],
         "system_create_dtsi": "2016-11-17T22:35:34Z",
         "system_modified_dtsi": "2023-09-15T14:47:59Z",
-        "timestamp": "2023-10-18T16:53:10.315Z",
+        "timestamp": "2025-10-31T15:47:51.509Z",
         "title_info_primary_tsi": "A PLAN of the ISLAND of CAPE BRITAIN reduced from the large Survey made according to the ORDERS and INSTRUCTIONS of the RIGHT HONORABLE the LORDS COMMISSIONERS for TRADE and PLANTATIONS",
         "type_of_resource_ssim": [
             "Cartographic"

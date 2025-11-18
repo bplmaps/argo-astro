@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749998954971136,
+        "_version_": 1847512976874012672,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z0704",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z0704/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "CB",
             "Sarrebource de Pontleroy, Nicolas, 1717-1802",
@@ -124,14 +127,15 @@
         "subject_geographic_sim": [
             "Beauport",
             "Canada",
-            "North and Central America"
+            "North and Central America",
+            "Quebec"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.2,46.8667]},\"properties\":{\"placename\":\"Beauport\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.2,46.8667]},\"properties\":{\"placename\":\"Beauport, Quebec\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-71.211389,46.843056],[-71.199167,46.843056],[-71.199167,46.851389],[-71.211389,46.851389],[-71.211389,46.843056]]]},\"bbox\":[-71.211389,46.843056,-71.199167,46.851389]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.2,46.8667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"city\":\"Beauport\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-71.2,46.8667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Quebec\",\"city\":\"Beauport\"}}"
         ],
         "subject_point_geospatial": [
             "46.8667,-71.2"
@@ -143,7 +147,7 @@
         ],
         "system_create_dtsi": "2016-11-17T22:48:50Z",
         "system_modified_dtsi": "2023-09-15T14:48:01Z",
-        "timestamp": "2023-10-03T15:49:49.310Z",
+        "timestamp": "2025-10-31T15:47:55.272Z",
         "title_info_primary_tsi": "PLAN D'une des Redoutes des Lignes projettee par Mr de PontLeroy ing.r le Chef du Canada sur La plage de Beaupoint pour supposer au Barquements des anglois",
         "type_of_resource_ssim": [
             "Cartographic"

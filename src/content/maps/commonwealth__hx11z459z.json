@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750068838367232,
+        "_version_": 1847513007227142144,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -37,14 +37,17 @@
         "exemplary_image_ssi": "commonwealth:hx11z460q",
         "extent_tsi": "1 map : manuscript pen and ink over pencil ; 28 x 33 cm",
         "filenames_ssim": [
-            "k_top_122_71_c",
-            "commonwealth:hx11z459z_metadata"
+            "commonwealth:hx11z459z_metadata",
+            "k_top_122_71_c"
         ],
         "genre_basic_ssim": [
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z459z",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z459z/manifest",
@@ -57,7 +60,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Thomas, John, the Elder",
             "George, III, King of Great Britain, 1738-1820",
@@ -114,17 +117,18 @@
             "Jekyll Island (Ga.)--Maps, Manuscript--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "Georgia",
             "Glynn (county)",
             "Jekyll Island",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.4,31.0667]},\"properties\":{\"placename\":\"Jekyll Island\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.4,31.0667]},\"properties\":{\"placename\":\"Jekyll Island, GA\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-81.415,31.11777],[-81.40666,31.11777],[-81.40666,31.1225],[-81.415,31.1225],[-81.415,31.11777]]]},\"bbox\":[-81.415,31.11777,-81.40666,31.1225]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.4,31.0667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Glynn\",\"island\":\"Jekyll Island\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.4,31.0667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Georgia\",\"county\":\"Glynn\",\"island\":\"Jekyll Island\"}}"
         ],
         "subject_point_geospatial": [
             "31.0667,-81.4"
@@ -136,7 +140,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:29:09Z",
         "system_modified_dtsi": "2023-09-15T14:48:14Z",
-        "timestamp": "2023-10-03T15:50:55.957Z",
+        "timestamp": "2025-10-31T15:48:24.219Z",
         "title_info_primary_tsi": "[A sketch map of the proposed battery (?) on Jekyll Island (?)]",
         "type_of_resource_ssim": [
             "Cartographic"

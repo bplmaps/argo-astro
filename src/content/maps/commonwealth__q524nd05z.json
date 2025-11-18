@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778749883543453696,
+        "_version_": 1847512930186166272,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vh98k"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library of Congress Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nd05z",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nd05z/manifest",
@@ -59,7 +62,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Gauld, George",
             "Lindsay, John, Sir, 1737-1788"
@@ -113,15 +116,16 @@
             "Harbors--Florida--Pensacola--Maps--Early works to 1800"
         ],
         "subject_geographic_sim": [
+            "Florida",
             "North and Central America",
             "Pensacola Bay",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-87.2,30.3667]},\"properties\":{\"placename\":\"Pensacola Bay\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-87.2,30.3667]},\"properties\":{\"placename\":\"Pensacola Bay, FL\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-87.2,30.3667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Pensacola Bay\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-87.2,30.3667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Florida\",\"other\":\"Pensacola Bay\"}}"
         ],
         "subject_point_geospatial": [
             "30.3667,-87.2"
@@ -132,7 +136,7 @@
         ],
         "system_create_dtsi": "2017-05-25T17:20:05Z",
         "system_modified_dtsi": "2023-09-15T14:47:41Z",
-        "timestamp": "2023-10-03T15:47:59.246Z",
+        "timestamp": "2025-10-31T15:47:10.747Z",
         "title_info_primary_tsi": "A plan of the harbour of Pensacola in West-Florida",
         "type_of_resource_ssim": [
             "Cartographic"

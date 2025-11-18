@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778757936903880704,
+        "_version_": 1847513161529294848,
         "admin_set_ark_id_ssi": "commonwealth:mw22z436x",
         "admin_set_name_ssi": "Library and Archives Canada Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:mw22z436x"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Library and Archives Canada Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -45,7 +45,10 @@
         "genre_specific_ssim": [
             "Manuscript maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": true,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:2r36xx573",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/2r36xx573/manifest",
@@ -62,7 +65,7 @@
             "English"
         ],
         "license_ss": "Contact host institution for more information.",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Holland, John Frederick, 1760-1845",
             "Haldimand, Peter Frederick, approximately 1741-1765"
@@ -107,13 +110,14 @@
         "subject_geographic_sim": [
             "Canada",
             "Kingston",
-            "North and Central America"
+            "North and Central America",
+            "Ontario"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,44.2333]},\"properties\":{\"placename\":\"Kingston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,44.2333]},\"properties\":{\"placename\":\"Kingston, Ontario\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,44.2333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"city\":\"Kingston\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.5,44.2333]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Ontario\",\"city\":\"Kingston\"}}"
         ],
         "subject_point_geospatial": [
             "44.2333,-76.5"
@@ -124,7 +128,7 @@
         ],
         "system_create_dtsi": "2023-03-29T18:38:50Z",
         "system_modified_dtsi": "2023-03-29T20:12:26Z",
-        "timestamp": "2023-10-03T17:55:59.529Z",
+        "timestamp": "2025-10-31T15:50:51.372Z",
         "title_info_primary_tsi": "Plan of old fort Frontenac and town plot of Kingston",
         "type_of_resource_ssim": [
             "Cartographic"

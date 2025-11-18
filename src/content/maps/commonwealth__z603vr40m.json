@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750140052406272,
+        "_version_": 1847513020862824448,
         "admin_set_ark_id_ssi": "commonwealth:z603vr25h",
         "admin_set_name_ssi": "Richard H. Brown Revolutionary War Map Collection at Mount Vernon",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:z603vr25h"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "Richard H. Brown Revolutionary War Map Collection at Mount Vernon"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -44,7 +44,10 @@
             "Maps",
             "Manuscripts"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vr40m",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vr40m/manifest",
@@ -60,7 +63,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "eJzNWFlz2zYQfs+vwPCl7Yx5SbZsqTE7ttI0zthOxnZ6TicDkRCJGARYAJSsvvX/9Ud1AYESKVmKm0yPFx0AdvHtvYvn3zyUDM2IVFTwUy8OIg8RnoqM8vzUe3f30j/xvkmePS9FpkbmA8F5rkYPjPL7U6/QuhqF4Xw+D+b9QMg8jIfDYWh3veaooo8d7EVRHP54dXmbFqTEPuVKY56Shsrc1SFjIg1yMQvNRjjre2vQ/eAYqBQdKcvqUqRY243d1OiRLXN/hiXsu0P22+/7x8GDyrzkGUJLNWiqGbngU4FqhXNy6lWSllguPJRRVTG8uMQTwlbL792q5dDhkbxlmKOsRq/wTBJENMoIYhhNsIS/8PtWkwBdYUkJqrBEjCh0xnMmqIJfuKoIY+TPPwg6K+GLUXyAMOiRot9q4lidL1lhrsy/l0xIChvwSbjGjDwPW2iMgGFXwrXQHJcE6UVlxAXFC45ZRyCz/xZLnZwz+LU4QK9xKiaO32qzRSDF8sruyh2RpbtGkwftIVzrAuDqxakHykwlYVgL2Vp/d3OxsjTNVtacgRdMagb6Dx2NApfBrCZPJwjhOi8ZS2L+OVEakE6UsCNLS9yWu4A0b6Y3RIlapgSVmNcqlbTSp96CKOAPihG5xFVB00b/HZI1q5xwsGZLJXmZV+nfUoa76AprIilmT1fKJmGo8zKKBr1BvOn3gJJI4x5XuFJOIov8fyxI3OudDPYI0thshzyAOae8iZhmlSpVm5yWlIJvWHi11TqeAaILWCdZKwXP+2mmpx66J4sXsO98Jj4+PnKc1lQtD+ziWbKHXJPXkK/aVzZr+8KOKjHoD/3e5G+Zp6F6slkagpDw3Eu+hTRHVeHEacNsSdmWaClPVSwUTTF7QZbmgjLQ0TBoBdLeG6udRJKpkCXWGhTudhqdds61GIBuIHEmMSpVAJFcoREqoGqgVLAAfY0GffSADmOUloHj5AjaTsHB7zjRVySj+A5UnkCVyEn4oSJ54xxbR55Ar+l0+jn0H6rePnK3t0PBrgYITVqxYhUkpqY6QW1CFwrslR24IoQbDVmiLos3tjyBVeZUF4gLCZ9aIF0QBBYp9B7SF6SCw6oQc44mCwQJlJs4UntILnjK6gwKqvmHjDXBMYiEEIQ1uLYSoBBlBLGKIWrP/S6GoJXQpAQZDBVQVAKq8oQyiBwvYWQG1RpCHJkotoXd1kq0rJxoLMrSdCJAzaAFuBcCspDtBjD0Ah+AVmnDwGzqAL0mmD8OSNWTDyTV7VhmqSo+HsbNPiUqdExUt3sRFU2TV1hOoEr6vrOo73cs7fsm//v+t1iyBZoLeW/VGZ9EUVPmLJu1c7m7/j0JruGc8WaUFlCE90jyP5ahgxR9+ZLh4Kt/RvU65ztQ2zQe5ETrRUCyOrQnt/L+I6fC2LUQbbkKClVXpoWxzHekKZzdXjGFwNYLMKBSuHYyuLXtc3KRvOPUJJRbE5iqfV5uEXBNucnZ1zbvGKWO4S/0ASaRSQC1Im9OdhhQa4iuWVZF3261O8d9sjpArfZQbWIVErKbESnpR8HgwD+Jg8OjFb71bvvKLYYfcYFPAGNwDJCBdIQsJvP7+D8CpkC1JLk1n+iXFAcoHvXjgyiKfm342wOfhMROCiS7gGzvUn8hlN6e9NadYXcAvKEm82ToVYDOpalZN2QmWG3KKvRE6AeoDRDJUBJg0EvNKsIaXRm/Rd9DjRZ8c4DbMcKFm2j3iUDVTVMAs3OYau00PyqgKq5CGSZszEQelAbKzCKxQ71rnMJ0BTis4sFJb2gWDnuQ3sI4Pt7ss6++vzyDMpmCW3jhGhlMqhBhU4gQB6yW1EsMAgUQsLwP3HUpVEzB5wQzXVgYsDcKj6Lh0TD8fRD1Z/IwKpsYXDHdcxGkYMx8AQ2H9JJo8D6K30fAbdDfw4S5Z4e27ZtuqXmSSCDEZU7ArqqArkQL/oV6zJxbdK2et7208+Jasq3HCZxCQ6NOPbFM7JQjk8FMt/+5OoXbNi9vLqskmVEy//QrQl3U5YRjynZfZtoecFtKpz50TnRK1GfIFDYsuvftVP9S0rGAPtMG6Ga0GAypeUKgM7IEoOzdjKaEK6jtk4XPU1/h8DCIQq9xddW0opUUWW1DaTNsHAcvuSuoslUewbdbzRAMN8iwgQ4YHBujsQNhG0xAgc60lnRikw26Ftw360SmMBOjW8hKBJ0xek/Q5ZIh+nI8Ruc/+ddj//bsq6bj3JB+t1qeLpZt8aHTuRbonpucmIpqYRdNKw2QLZX6KIJlQtmcyZerY+P5XN8u31fOIWcDxLf1BJQH8k6gJC9WOXP7/DY7q1rBzYS+PbsnvagX+9HQ70d3vf4oPhodnvzcZd+if4Q7jJg52c2770d9P47u4uGodziK4g3eK+ptzm7AhQjDHEGowixCsg719gjcDN1vpuNlEQA43dL2yKMCoCb//aMCfOx4UNh6UtiWzr0grOfeW/devPlE2TriJRinzcvhI6Sd2rz2VrdkPpJnfwGpsyrC",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Blamey, Jacob"
         ],
@@ -111,16 +114,17 @@
         ],
         "subject_geographic_sim": [
             "Amelia Island",
+            "Florida",
             "Nassau (county)",
             "North and Central America",
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.45,30.6]},\"properties\":{\"placename\":\"Amelia Island\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.45,30.6]},\"properties\":{\"placename\":\"Amelia Island, FL\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-81.6,30.65],[-81.4,30.65],[-81.4,30.75],[-81.6,30.75],[-81.6,30.65]]]},\"bbox\":[-81.6,30.65,-81.4,30.75]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.45,30.6]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Nassau\",\"island\":\"Amelia Island\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-81.45,30.6]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Florida\",\"county\":\"Nassau\",\"island\":\"Amelia Island\"}}"
         ],
         "subject_point_geospatial": [
             "30.6,-81.45"
@@ -132,7 +136,7 @@
         ],
         "system_create_dtsi": "2016-11-20T05:06:14Z",
         "system_modified_dtsi": "2023-09-15T14:48:18Z",
-        "timestamp": "2023-10-03T15:52:03.872Z",
+        "timestamp": "2025-10-31T15:48:37.223Z",
         "title_info_primary_tsi": "Plan du Havre et de la barre de Ste. Marie par les Angloises appelle\u0301e Ame\u0301lia, ainsi que de la Barre dans la Floride orientale",
         "type_of_resource_ssim": [
             "Cartographic"

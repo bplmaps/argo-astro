@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1778750021987991552,
+        "_version_": 1847512985095897088,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -9,7 +9,7 @@
             "commonwealth:hx11xz34w"
         ],
         "collection_name_ssim": [
-            "American Revolutionary War-Era Maps (Collection of Distinction)",
+            "American Revolutionary War-Era Maps",
             "British Library Collection"
         ],
         "curator_model_ssi": "Curator::DigitalObject",
@@ -43,7 +43,10 @@
         "genre_basic_ssim": [
             "Maps"
         ],
+        "georeferenced_allmaps_bsi": false,
+        "georeferenced_bsi": false,
         "harvesting_status_bsi": false,
+        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z2014",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z2014/manifest",
@@ -56,7 +59,7 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
+        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Pfister, Francis, 1740-1777",
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
@@ -117,16 +120,17 @@
         ],
         "subject_geographic_sim": [
             "Lake George",
+            "New York",
             "North and Central America",
             "United States",
             "Warren (county)"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.7,43.4167]},\"properties\":{\"placename\":\"Lake George\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.7,43.4167]},\"properties\":{\"placename\":\"Lake George, NY\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-73.710278,43.415],[-73.704167,43.415],[-73.704167,43.419444],[-73.710278,43.419444],[-73.710278,43.415]]]},\"bbox\":[-73.710278,43.415,-73.704167,43.419444]}"
         ],
         "subject_hiergeo_geojson_ssm": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.7,43.4167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"county\":\"Warren\",\"city\":\"Lake George\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.7,43.4167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"New York\",\"county\":\"Warren\",\"city\":\"Lake George\"}}"
         ],
         "subject_point_geospatial": [
             "43.4167,-73.7"
@@ -139,7 +143,7 @@
         ],
         "system_create_dtsi": "2016-11-17T23:22:10Z",
         "system_modified_dtsi": "2023-09-15T14:48:05Z",
-        "timestamp": "2023-10-03T15:50:11.277Z",
+        "timestamp": "2025-10-31T15:48:03.113Z",
         "title_info_primary_tsi": "PLAN of the Bastion at Fort George",
         "type_of_resource_ssim": [
             "Cartographic"
