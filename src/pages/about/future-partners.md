@@ -5,11 +5,9 @@ layout: "@layouts/SingletonPage.astro"
 
 ## Future Partner Collections
 
-* [**The American Revolution Institute of the Society of the Cincinnati**](https://www.americanrevolutioninstitute.org/) - Expected early 2025
-* [**Osher Map Library**](https://oshermaps.org/) - Expected mid-2025
-* [**American Philosophical Society**](https://www.amphilsoc.org/) - Expected  late 2025
-* [**Newport Historical Society**](https://newporthistory.org/) - Expected late 2025
-* [**Bibliothe&#768;que Nationale de France**](https://www.bnf.fr/fr) - Expected early 2026
+* [**The American Revolution Institute of the Society of the Cincinnati**](https://www.americanrevolutioninstitute.org/) - Expected late 2025
+* [**American Philosophical Society**](https://www.amphilsoc.org/) - Expected early 2026
+* [**Bibliothe&#768;que Nationale de France**](https://www.bnf.fr/fr) - Expected 2026
 * [**Bibliothe&#768;que Nationale du Que&#769;bec**](https://www.banq.qc.ca/) - Coming soon
 * [**Barry Lawrence Ruderman Antique Maps Inc.**](https://www.raremaps.com/) - Coming soon
 * [**Beinecke Rare Book & Manuscript Library, Yale University**](https://beinecke.library.yale.edu/) - Coming soon
