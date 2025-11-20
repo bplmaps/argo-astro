@@ -28,7 +28,7 @@ def parse_collection_record(doc):
 
 while not complete:
     print ("Page")
-    queryUrl = "{}&per_page=100&page={}".format(query, page)
+    queryUrl = "{}&per_page=500&page={}".format(query, page)
     print(queryUrl)
     r = requests.get(queryUrl)
 
