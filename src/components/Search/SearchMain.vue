@@ -37,9 +37,9 @@
 
     <div v-if="!loading && results.length > 0" class="grid grid-cols-2 md:grid-cols-5 gap-4 my-5">
       
-      <Card v-for="r in results" :key="r.id" :subtitle="r.admin_set_name_ssi"
-            :title="r.title_info_primary_tsi" :link="{ href: `../maps/${r.id}`, text: 'See map' }"
-            :image="`https://bpldcassets.blob.core.windows.net/derivatives/${r.exemplary_image_key_base_ss}/image_thumbnail_300.jpg`" />
+      <Card v-for="r in results" :key="r.id" :subtitle="r.attributes.admin_set_name_ssi"
+            :title="r.attributes.title_info_primary_tsi" :link="{ href: `../maps/${r.id}`, text: 'See map' }"
+            :image="`https://bpldcassets.blob.core.windows.net/derivatives/${r.attributes.exemplary_image_key_base_ss}/image_thumbnail_300.jpg`" />
     </div>
 
     <nav v-if="results.length > 0" class="flex justify-center gap-4 items-center">
@@ -73,17 +73,15 @@ export default {
   methods: {
     resetPagination() {
       this.pages = {
-        pages: {
-          current_page: 1,
-          'first_page?': true,
-          'last_page?': true,
-          limit_value: 0,
-          next_page: null,
-          offset_value: 0,
-          prev_page: null,
-          total_count: 0,
-          total_pages: 0
-        }
+        current_page: 1,
+        'first_page?': true,
+        'last_page?': true,
+        limit_value: 0,
+        next_page: null,
+        offset_value: 0,
+        prev_page: null,
+        total_count: 0,
+        total_pages: 0
       }
     },
     getSearchUrl() {
@@ -93,7 +91,7 @@ export default {
         "f_inclusive[destination_site_ssim][]": "argo",
         format: "json",
         q: this.queryString,
-        page: this.pages.current_page,
+        page: this.pages?.current_page || 1,
       };
       const searchParams = new URLSearchParams(params);
       return `${url}?${searchParams}`;
@@ -121,8 +119,8 @@ export default {
 
       this.loading = false;
       this.executedQueryString = this.queryString;
-      this.results = response.response.docs;
-      this.pages = response.response.pages;
+      this.results = response.data;
+      this.pages = response.meta.pages;
     },
     prevPage() {
       this.pages.current_page = this.pages.current_page === 1 ? 0 : this.pages.current_page - 1
