@@ -110,10 +110,35 @@ const partnerCollections = defineCollection({
     type: 'data'
 })
 
+const timeline = defineCollection({
+    type: 'data',
+    schema: z.object({
+        timeline_eras: z.record(z.object({
+            id: z.string(),
+            era: z.string(),
+            era_start_year: z.string(),
+            era_end_year: z.string(),
+            era_description: z.string(),
+            background_image: z.string(),
+            background_image_alt_tag: z.string().optional(),
+        }).passthrough()),
+        timeline_events: z.record(z.array(z.object({
+            id: z.string(),
+            name: z.string(),
+            notes: z.string().optional(),
+            start_year: z.string(),
+            end_year: z.union([z.string(), z.null()]),
+            event_date_range: z.string(),
+            solr_ids_array: z.array(z.string()).optional(),
+        }).passthrough())),
+    }),
+})
+
 export const collections = {
     'maps': maps,
     'people': people,
     'stories': stories,
     'facets': facets,
-    'partner-collections': partnerCollections
+    'partner-collections': partnerCollections,
+    'timeline': timeline
 }
