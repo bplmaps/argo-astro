@@ -43,7 +43,7 @@ const maps = defineCollection({
             processing_state_ssi: z.string(),
             destination_site_ssim: z.array(z.string()),
             hosting_status_ssi: z.string(),
-            harvesting_status_bsi: z.boolean(),
+            harvesting_status_bsi: z.boolean().optional(),
             exemplary_image_ssi: z.string(),
             exemplary_image_key_base_ss: z.string(),
             admin_set_name_ssi: z.string(),
