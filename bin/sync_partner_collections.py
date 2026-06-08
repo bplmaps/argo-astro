@@ -31,4 +31,4 @@ for partner in partnerIDs:
     r = requests.get(url)
     partner_cleanid = partner.replace(":","__")
     with open(f'../src/content/partner-collections/{partner_cleanid}.json', 'w+') as f:
-        json.dump( r.json()['response']['document'], f )
+        json.dump( r.json()['data']['attributes'], f )
