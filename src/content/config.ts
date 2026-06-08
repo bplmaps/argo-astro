@@ -53,7 +53,6 @@ const maps = defineCollection({
             collection_name_ssim: z.array(z.string()),
             collection_ark_id_ssim: z.array(z.string()),
             filenames_ssim: z.array(z.string()),
-            mods_xml_ss: z.string(),
             _version_: z.number(),
             timestamp: z.string().datetime(),
             subject_geographic_sim: z.array(z.string()).optional(),
