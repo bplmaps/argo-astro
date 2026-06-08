@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1847513099771314176,
+        "_version_": 1858311926032891904,
         "admin_set_ark_id_ssi": "commonwealth:41688024w",
         "admin_set_name_ssi": "Norman B. Leventhal Map & Education Center Collection",
         "collection_ark_id_ssim": [
@@ -45,10 +45,8 @@
         "genre_basic_ssim": [
             "Maps"
         ],
-        "georeferenced_allmaps_bsi": false,
-        "georeferenced_bsi": false,
+        "georeferenced_allmaps_bsi": true,
         "harvesting_status_bsi": true,
-        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:6t053n91f",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/6t053n91f/manifest",
@@ -69,7 +67,6 @@
             "English"
         ],
         "license_ss": "No known restrictions on use.",
-        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Jefferys, Thomas, d. 1771"
         ],
@@ -96,7 +93,6 @@
         "related_item_host_ssim": [
             "Norman B. Leventhal Map & Education Center Collection"
         ],
-        "resource_type_manuscript_bsi": false,
         "reuse_allowed_ssi": "no restrictions",
         "rights_ss": "No known copyright restrictions.",
         "scale_tsim": [
@@ -137,7 +133,7 @@
         ],
         "system_create_dtsi": "2015-01-23T21:42:47Z",
         "system_modified_dtsi": "2024-05-20T19:06:09Z",
-        "timestamp": "2025-10-31T15:49:52.475Z",
+        "timestamp": "2026-02-27T20:32:35.729Z",
         "title_info_primary_tsi": "North America from the French of Mr. D'Anville, improved with the back settlements of Virginia and course of Ohio, illustrated with geographical and historical remarks",
         "type_of_resource_ssim": [
             "Cartographic"

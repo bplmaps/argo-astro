@@ -44,10 +44,6 @@
             "Maps",
             "Manuscripts"
         ],
-        "georeferenced_allmaps_bsi": false,
-        "georeferenced_bsi": false,
-        "harvesting_status_bsi": false,
-        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nf500",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nf500/manifest",
@@ -62,7 +58,6 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Chegeree"
         ],

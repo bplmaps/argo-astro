@@ -44,10 +44,6 @@
         "genre_basic_ssim": [
             "Maps"
         ],
-        "georeferenced_allmaps_bsi": false,
-        "georeferenced_bsi": false,
-        "harvesting_status_bsi": false,
-        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z194x",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z194x/manifest",
@@ -60,7 +56,6 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Ratzer, Bernard",
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
@@ -101,7 +96,6 @@
         "related_item_isreferencedby_ssm": [
             "{\"url\":\"http://searcharchives.bl.uk/IAMS_VU2:IAMS040-001999744\"}"
         ],
-        "resource_type_manuscript_bsi": false,
         "reuse_allowed_ssi": "creative commons",
         "rights_ss": "No known copyright restrictions.",
         "scale_tsim": [

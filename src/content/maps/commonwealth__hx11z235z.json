@@ -47,10 +47,6 @@
         "genre_basic_ssim": [
             "Maps"
         ],
-        "georeferenced_allmaps_bsi": false,
-        "georeferenced_bsi": false,
-        "harvesting_status_bsi": false,
-        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z235z",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z235z/manifest",
@@ -63,7 +59,6 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
             "Royal United Services Institute for Defence and Security Studies"
@@ -105,7 +100,6 @@
         "related_item_isreferencedby_ssm": [
             "{\"url\":\"http://searcharchives.bl.uk/IAMS_VU2:IAMS040-001999746\"}"
         ],
-        "resource_type_manuscript_bsi": false,
         "reuse_allowed_ssi": "creative commons",
         "rights_ss": "No known copyright restrictions.",
         "scale_tsim": [

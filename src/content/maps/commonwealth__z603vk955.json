@@ -43,10 +43,6 @@
         "genre_basic_ssim": [
             "Maps"
         ],
-        "georeferenced_allmaps_bsi": false,
-        "georeferenced_bsi": false,
-        "harvesting_status_bsi": false,
-        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vk955",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vk955/manifest",
@@ -59,7 +55,6 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1722-1824"
         ],
@@ -85,7 +80,6 @@
         "related_item_isreferencedby_ssm": [
             "{\"url\":\"https://lccn.loc.gov/75332519\"}"
         ],
-        "resource_type_manuscript_bsi": false,
         "reuse_allowed_ssi": "creative commons",
         "rights_ss": "No known copyright restrictions.",
         "scale_tsim": [

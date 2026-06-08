@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1847512843075715072,
+        "_version_": 1858311926168158208,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -43,10 +43,7 @@
         "genre_basic_ssim": [
             "Maps"
         ],
-        "georeferenced_allmaps_bsi": false,
-        "georeferenced_bsi": false,
-        "harvesting_status_bsi": false,
-        "has_searchable_pages_bsi": false,
+        "georeferenced_allmaps_bsi": true,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vp28x",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vp28x/manifest",
@@ -59,7 +56,6 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Bennett, Richard",
             "Griffiths, Ralph, 1720-1803"
@@ -95,7 +91,6 @@
         "related_item_isreferencedby_ssm": [
             "{\"url\":\"https://digitalcollections.nypl.org/items/510d47da-ee87-a3d9-e040-e00a18064a99\"}"
         ],
-        "resource_type_manuscript_bsi": false,
         "reuse_allowed_ssi": "creative commons",
         "rights_ss": "No known copyright restrictions.",
         "scale_tsim": [
@@ -128,7 +123,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:35:16Z",
         "system_modified_dtsi": "2023-09-15T14:47:11Z",
-        "timestamp": "2025-10-31T15:45:47.672Z",
+        "timestamp": "2026-02-27T20:32:35.858Z",
         "title_info_primary_subtitle_tsi": "representing their rightful claim as confirm'd by charters, and the formal surrender of their Indian friends ; likewise the encroachments of the French, with the several forts they have unjustly erected therein",
         "title_info_primary_tsi": "A new and accurate map of the English empire in North America",
         "title_info_uniform_ssim": [

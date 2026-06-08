@@ -1,0 +1,130 @@
+{
+    "argoMetadata": {},
+    "dcMetadata": {
+        "_version_": 1858923671765123072,
+        "admin_set_ark_id_ssi": "commonwealth-oai:7079f414m",
+        "admin_set_name_ssi": "George Washington Presidential Library at Mount Vernon Collection",
+        "collection_ark_id_ssim": [
+            "commonwealth:dn39z222j",
+            "commonwealth-oai:7079f414m"
+        ],
+        "collection_name_ssim": [
+            "American Revolutionary War-Era Maps",
+            "George Washington Presidential Library at Mount Vernon Collection"
+        ],
+        "curator_model_ssi": "Curator::DigitalObject",
+        "curator_model_suffix_ssi": "DigitalObject",
+        "date_edtf_ssm": [
+            "1751-05-01"
+        ],
+        "date_end_dtsi": "1751-05-01T23:59:59.999Z",
+        "date_facet_yearly_itim": [
+            1751
+        ],
+        "date_start_dtsi": "1751-05-01T00:00:00Z",
+        "date_tsim": [
+            "May 1, 1751"
+        ],
+        "date_type_ssm": [
+            "dateCreated"
+        ],
+        "destination_site_ssim": [
+            "argo",
+            "nblmc"
+        ],
+        "digital_origin_ssi": "reformatted_digital",
+        "exemplary_image_key_base_ss": "metadata/commonwealth-oai:qf85x504x",
+        "exemplary_image_ssi": "commonwealth-oai:qf85x504x",
+        "extent_tsi": "1 page : uncolored",
+        "filenames_ssim": [
+            "commonwealth-oai:pr76px07q_metadata"
+        ],
+        "genre_basic_ssim": [
+            "Maps"
+        ],
+        "genre_specific_ssim": [
+            "Manuscript maps",
+            "Cadastral maps"
+        ],
+        "harvesting_status_bsi": true,
+        "hosting_status_ssi": "harvested",
+        "id": "commonwealth-oai:pr76px07q",
+        "identifier_iiif_manifest_ss": "https://catalog.mountvernon.org/iiif/info/p16829coll19/12/manifest.json",
+        "identifier_local_accession_tsim": [
+            "2024-SC-009-002"
+        ],
+        "identifier_local_other_tsim": [
+            "DA_004777"
+        ],
+        "identifier_uri_preview_ss": "https://cdm16829.contentdm.oclc.org/digital/api/singleitem/collection/p16829coll19/id/12/thumbnail",
+        "identifier_uri_ss": "http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll19/id/12",
+        "institution_ark_id_ssi": "commonwealth:qv341s28x",
+        "institution_name_ssi": "George Washington Presidential Library at Mount Vernon",
+        "lang_term_ssim": [
+            "English"
+        ],
+        "license_ss": "Contact host institution for more information.",
+        "name_facet_ssim": [
+            "Shirley, Walter",
+            "Washington, George, 1732-1799"
+        ],
+        "name_role_tsim": [
+            "Contributor",
+            "Creator"
+        ],
+        "name_tsim": [
+            "Shirley, Walter",
+            "Washington, George, 1732-1799"
+        ],
+        "note_acquisition_tsim": [
+            "Gift of Ted and Mary Wendell, 2024. Digitization courtesy of The Gladys Krieble Delmas Foundation."
+        ],
+        "note_tsim": [
+            "Land survey with plat map by George Washington for Walter Shirley, detailing 311 acres in Frederick County, VA.",
+            "Autograph document signed, 1 page."
+        ],
+        "oai_header_id_ssi": "oai:cdm16829.contentdm.oclc.org:p16829coll19/12",
+        "physical_location_ssim": [
+            "George Washington Presidential Library at Mount Vernon"
+        ],
+        "processing_state_ssi": "complete",
+        "publishing_state_ssi": "published",
+        "related_item_host_ssim": [
+            "George Washington Presidential Library at Mount Vernon Collection"
+        ],
+        "related_item_isreferencedby_ssm": [
+            "{\"url\":\"https://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll19/id/12\",\"label\":\"Catalog Record\"}"
+        ],
+        "related_item_series_ssi": "Ted and Mary Wendell Early American Collection at Mount Vernon",
+        "resource_type_manuscript_bsi": true,
+        "reuse_allowed_ssi": "contact host",
+        "rights_ss": "No Known Copyright. The organization that has made the Item available reasonably believes that the Item is not restricted by copyright or related rights, but a conclusive determination could not be made. Please refer to the organization that has made the Item available for more information. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.",
+        "score": 1.0,
+        "subject_coordinates_geospatial": [
+            "39.2167,-78.25"
+        ],
+        "subject_geographic_sim": [
+            "Frederick (county)",
+            "North and Central America",
+            "United States",
+            "Virginia"
+        ],
+        "subject_geojson_facet_ssim": [
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.25,39.2167]},\"properties\":{\"placename\":\"Frederick (county), VA\"}}"
+        ],
+        "subject_hiergeo_geojson_ssm": [
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.25,39.2167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\",\"county\":\"Frederick\"}}"
+        ],
+        "subject_point_geospatial": [
+            "39.2167,-78.25"
+        ],
+        "system_create_dtsi": "2026-03-05T21:39:05Z",
+        "system_modified_dtsi": "2026-03-06T14:35:51Z",
+        "timestamp": "2026-03-06T14:36:01.922Z",
+        "title_info_primary_tsi": "Survey, George Washington for Walter Shirley",
+        "type_of_resource_ssim": [
+            "Text",
+            "Cartographic"
+        ]
+    }
+}

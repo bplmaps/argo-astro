@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1847513065234366464,
+        "_version_": 1856041562325123072,
         "admin_set_ark_id_ssi": "commonwealth:41688024w",
         "admin_set_name_ssi": "Norman B. Leventhal Map & Education Center Collection",
         "collection_ark_id_ssim": [
@@ -45,10 +45,8 @@
         "genre_basic_ssim": [
             "Maps"
         ],
-        "georeferenced_allmaps_bsi": false,
-        "georeferenced_bsi": false,
+        "georeferenced_allmaps_bsi": true,
         "harvesting_status_bsi": true,
-        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:6t053q347",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/6t053q347/manifest",
@@ -69,7 +67,6 @@
             "English"
         ],
         "license_ss": "No known restrictions on use.",
-        "mods_xml_ss": "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",
         "note_date_tsim": [
             "This date is inferred."
         ],
@@ -88,7 +85,6 @@
         "related_item_host_ssim": [
             "Norman B. Leventhal Map & Education Center Collection"
         ],
-        "resource_type_manuscript_bsi": false,
         "reuse_allowed_ssi": "no restrictions",
         "rights_ss": "No known copyright restrictions.",
         "scale_tsim": [
@@ -126,7 +122,7 @@
         ],
         "system_create_dtsi": "2015-01-16T18:29:51Z",
         "system_modified_dtsi": "2024-05-20T19:02:39Z",
-        "timestamp": "2025-10-31T15:49:19.539Z",
+        "timestamp": "2026-02-02T19:06:08.172Z",
         "title_info_primary_tsi": "A new and accurate map of the province of Pennsylvania in North America, from the best authorities",
         "type_of_resource_ssim": [
             "Cartographic"

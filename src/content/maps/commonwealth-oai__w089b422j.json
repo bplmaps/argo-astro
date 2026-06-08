@@ -1,0 +1,139 @@
+{
+    "argoMetadata": {},
+    "dcMetadata": {
+        "_version_": 1858923673203769344,
+        "admin_set_ark_id_ssi": "commonwealth-oai:7079f414m",
+        "admin_set_name_ssi": "George Washington Presidential Library at Mount Vernon Collection",
+        "collection_ark_id_ssim": [
+            "commonwealth:dn39z222j",
+            "commonwealth-oai:7079f414m"
+        ],
+        "collection_name_ssim": [
+            "American Revolutionary War-Era Maps",
+            "George Washington Presidential Library at Mount Vernon Collection"
+        ],
+        "curator_model_ssi": "Curator::DigitalObject",
+        "curator_model_suffix_ssi": "DigitalObject",
+        "date_edtf_ssm": [
+            "1751-04-06"
+        ],
+        "date_end_dtsi": "1751-04-06T23:59:59.999Z",
+        "date_facet_yearly_itim": [
+            1751
+        ],
+        "date_start_dtsi": "1751-04-06T00:00:00Z",
+        "date_tsim": [
+            "April 6, 1751"
+        ],
+        "date_type_ssm": [
+            "dateCreated"
+        ],
+        "destination_site_ssim": [
+            "argo",
+            "nblmc"
+        ],
+        "digital_origin_ssi": "reformatted_digital",
+        "exemplary_image_key_base_ss": "metadata/commonwealth-oai:c821rg042",
+        "exemplary_image_ssi": "commonwealth-oai:c821rg042",
+        "extent_tsi": "1 page : uncolored",
+        "filenames_ssim": [
+            "commonwealth-oai:w089b422j_metadata"
+        ],
+        "genre_basic_ssim": [
+            "Maps"
+        ],
+        "genre_specific_ssim": [
+            "Manuscript maps",
+            "Cadastral maps"
+        ],
+        "harvesting_status_bsi": true,
+        "hosting_status_ssi": "harvested",
+        "id": "commonwealth-oai:w089b422j",
+        "identifier_iiif_manifest_ss": "https://catalog.mountvernon.org/iiif/info/p16829coll21/62/manifest.json",
+        "identifier_local_accession_tsim": [
+            "2023-SC-011"
+        ],
+        "identifier_local_other_tsim": [
+            "DA_004724"
+        ],
+        "identifier_uri_preview_ss": "https://cdm16829.contentdm.oclc.org/digital/api/singleitem/collection/p16829coll21/id/62/thumbnail",
+        "identifier_uri_ss": "http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll21/id/62",
+        "institution_ark_id_ssi": "commonwealth:qv341s28x",
+        "institution_name_ssi": "George Washington Presidential Library at Mount Vernon",
+        "lang_term_ssim": [
+            "English"
+        ],
+        "license_ss": "Contact host institution for more information.",
+        "name_facet_ssim": [
+            "Washington, George, 1732-1799",
+            "Washington, Lawrence, 1718-1752"
+        ],
+        "name_role_tsim": [
+            "Creator",
+            "Contributor"
+        ],
+        "name_tsim": [
+            "Washington, George, 1732-1799",
+            "Washington, Lawrence, 1718-1752"
+        ],
+        "note_acquisition_tsim": [
+            "Purchased by the David M. Rubenstein Rare Books and Manuscripts Endowment, with additional funds provided by Richard Ammerman, Frank \u2021 and Barbara Becker, and the H.W. Wilson Foundation, 2023."
+        ],
+        "note_tsim": [
+            "Land survey with 2 plat maps by George Washington for Gersham Keyes, detailing two tracts of land on Evitts Run in Frederick County, VA. One tract contained 109 acres and one 100 acres, which was part of a land parcel granted to Lawrence Washington, George Washington's half-brother.",
+            "Three additional names listed of those who assisted with the survey - Robert Worthington, Michael Sweim (chainmen -'C.C.') and William Davis (marker - 'Mr.').",
+            "The first two lines at the upper left, not in Washington's writing, describe conveyance 'by deeds from Mr. Lawrence Washington to Keyes' with an added date of August 14, 1751.",
+            "Autograph document signed, 1 page."
+        ],
+        "oai_header_id_ssi": "oai:cdm16829.contentdm.oclc.org:p16829coll21/62",
+        "physical_location_ssim": [
+            "George Washington Presidential Library at Mount Vernon"
+        ],
+        "processing_state_ssi": "complete",
+        "publishing_state_ssi": "published",
+        "related_item_host_ssim": [
+            "George Washington Presidential Library at Mount Vernon Collection"
+        ],
+        "related_item_isreferencedby_ssm": [
+            "{\"url\":\"https://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll21/id/62\",\"label\":\"Catalog Record\"}"
+        ],
+        "related_item_series_ssi": "George Washington Collection at Mount Vernon",
+        "resource_type_manuscript_bsi": true,
+        "reuse_allowed_ssi": "contact host",
+        "rights_ss": "No Known Copyright. The organization that has made the Item available reasonably believes that the Item is not restricted by copyright or related rights, but a conclusive determination could not be made. Please refer to the organization that has made the Item available for more information. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.",
+        "score": 1.0,
+        "subject_coordinates_geospatial": [
+            "39.3,-77.9167",
+            "39.2167,-78.25"
+        ],
+        "subject_geographic_sim": [
+            "Evitts Run",
+            "Frederick (county)",
+            "Jefferson (county)",
+            "North and Central America",
+            "United States",
+            "Virginia",
+            "West Virginia"
+        ],
+        "subject_geojson_facet_ssim": [
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.9167,39.3]},\"properties\":{\"placename\":\"Evitts Run (stream), WV\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.25,39.2167]},\"properties\":{\"placename\":\"Frederick (county), VA\"}}"
+        ],
+        "subject_hiergeo_geojson_ssm": [
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-77.9167,39.3]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"West Virginia\",\"county\":\"Jefferson\",\"other\":\"Evitts Run (stream)\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-78.25,39.2167]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\",\"county\":\"Frederick\"}}"
+        ],
+        "subject_point_geospatial": [
+            "39.3,-77.9167",
+            "39.2167,-78.25"
+        ],
+        "system_create_dtsi": "2026-03-05T21:42:15Z",
+        "system_modified_dtsi": "2026-03-06T14:35:52Z",
+        "timestamp": "2026-03-06T14:36:03.294Z",
+        "title_info_primary_tsi": "Survey, George Washington for Gersham Keyes",
+        "type_of_resource_ssim": [
+            "Text",
+            "Cartographic"
+        ]
+    }
+}

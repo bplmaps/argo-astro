@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1847512945320263680,
+        "_version_": 1861794411769233408,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -44,10 +44,7 @@
             "Maps",
             "Manuscripts"
         ],
-        "georeferenced_allmaps_bsi": false,
-        "georeferenced_bsi": false,
-        "harvesting_status_bsi": false,
-        "has_searchable_pages_bsi": false,
+        "georeferenced_allmaps_bsi": true,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524ng086",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524ng086/manifest",
@@ -62,7 +59,6 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
         "note_tsim": [
             "Oriented with north toward the lower left.",
             "Pen-and-ink and watercolors.",
@@ -110,7 +106,7 @@
         ],
         "system_create_dtsi": "2017-05-25T18:09:49Z",
         "system_modified_dtsi": "2023-09-15T14:47:47Z",
-        "timestamp": "2025-10-31T15:47:25.180Z",
+        "timestamp": "2026-04-07T07:05:12.919Z",
         "title_info_primary_tsi": "Plano de la ciudad de S. Juan de Puerto Rico",
         "type_of_resource_ssim": [
             "Cartographic"

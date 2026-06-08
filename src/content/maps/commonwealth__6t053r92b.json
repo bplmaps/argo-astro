@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1847513107761463297,
+        "_version_": 1855593503795445760,
         "admin_set_ark_id_ssi": "commonwealth:41688024w",
         "admin_set_name_ssi": "Norman B. Leventhal Map & Education Center Collection",
         "collection_ark_id_ssim": [
@@ -45,10 +45,9 @@
         "genre_basic_ssim": [
             "Maps"
         ],
-        "georeferenced_allmaps_bsi": false,
+        "georeferenced_allmaps_bsi": true,
         "georeferenced_bsi": true,
         "harvesting_status_bsi": true,
-        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:6t053r92b",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/6t053r92b/manifest",
@@ -72,7 +71,6 @@
             "English"
         ],
         "license_ss": "No known restrictions on use.",
-        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Seale, Richard William."
         ],
@@ -104,7 +102,6 @@
         "related_item_host_ssim": [
             "Norman B. Leventhal Map & Education Center Collection"
         ],
-        "resource_type_manuscript_bsi": false,
         "reuse_allowed_ssi": "no restrictions",
         "rights_ss": "No known copyright restrictions.",
         "scale_tsim": [
@@ -116,38 +113,38 @@
             "ENVELOPE(-101.15120700645454, -52.012824099348286, 32.994950400910085, 2.4744583320175018)"
         ],
         "subject_coordinates_geospatial": [
-            "19.38333,71.21667",
+            "15,-75",
             "ENVELOPE(-101.15120700645454, -52.012824099348286, 32.994950400910085, 2.4744583320175018)",
-            "15,-75"
+            "19.38333,71.21667"
         ],
         "subject_facet_ssim": [
-            "Caribbean Area--Maps--Early works to 1800",
-            "West Indies--Maps--Early works to 1800"
+            "West Indies--Maps--Early works to 1800",
+            "Caribbean Area--Maps--Early works to 1800"
         ],
         "subject_geo_other_ssm": [
-            "West Indies",
-            "Caribbean Sea"
+            "Caribbean Sea",
+            "West Indies"
         ],
         "subject_geographic_sim": [
             "Caribbean Sea",
             "West Indies"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[71.21667,19.38333]},\"properties\":{\"placename\":\"West Indies\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,15.0]},\"properties\":{\"placename\":\"Caribbean Sea\"}}",
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-101.15120700645454,2.4744583320175018],[-52.012824099348286,2.4744583320175018],[-52.012824099348286,32.994950400910085],[-101.15120700645454,32.994950400910085],[-101.15120700645454,2.4744583320175018]]]},\"bbox\":[-101.15120700645454,2.4744583320175018,-52.012824099348286,32.994950400910085]}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-75.0,15.0]},\"properties\":{\"placename\":\"Caribbean Sea\"}}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[71.21667,19.38333]},\"properties\":{\"placename\":\"West Indies\"}}"
         ],
         "subject_point_geospatial": [
-            "19.38333,71.21667",
-            "15,-75"
+            "15,-75",
+            "19.38333,71.21667"
         ],
         "subject_topic_tsim": [
-            "Caribbean Area--Maps--Early works to 1800",
-            "West Indies--Maps--Early works to 1800"
+            "West Indies--Maps--Early works to 1800",
+            "Caribbean Area--Maps--Early works to 1800"
         ],
         "system_create_dtsi": "2015-01-23T21:56:47Z",
         "system_modified_dtsi": "2024-05-20T19:06:15Z",
-        "timestamp": "2025-10-31T15:50:00.096Z",
+        "timestamp": "2026-01-28T20:48:08.330Z",
         "title_info_primary_tsi": "A new & accurate map of the West Indies and the adjacent parts of North & South America",
         "type_of_resource_ssim": [
             "Cartographic"

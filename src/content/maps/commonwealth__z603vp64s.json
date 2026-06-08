@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1847512850846711808,
+        "_version_": 1860888442609598464,
         "admin_set_ark_id_ssi": "commonwealth:z603vn85b",
         "admin_set_name_ssi": "New York Public Library Collection",
         "collection_ark_id_ssim": [
@@ -43,10 +43,7 @@
         "genre_basic_ssim": [
             "Maps"
         ],
-        "georeferenced_allmaps_bsi": false,
-        "georeferenced_bsi": false,
-        "harvesting_status_bsi": false,
-        "has_searchable_pages_bsi": false,
+        "georeferenced_allmaps_bsi": true,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vp64s",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vp64s/manifest",
@@ -59,7 +56,6 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Lodge, John, -1796"
         ],
@@ -88,7 +84,6 @@
         "related_item_isreferencedby_ssm": [
             "{\"url\":\"https://digitalcollections.nypl.org/items/510d47db-afe3-a3d9-e040-e00a18064a99\"}"
         ],
-        "resource_type_manuscript_bsi": false,
         "reuse_allowed_ssi": "creative commons",
         "rights_ss": "No known copyright restrictions.",
         "scale_tsim": [
@@ -129,7 +124,7 @@
         ],
         "system_create_dtsi": "2016-11-20T04:41:06Z",
         "system_modified_dtsi": "2023-09-15T14:47:11Z",
-        "timestamp": "2025-10-31T15:45:55.083Z",
+        "timestamp": "2026-03-28T07:05:13.406Z",
         "title_info_primary_tsi": "An exact map of New England, New York, Pensylvania & New Jersey, from the latest surveys",
         "type_of_resource_ssim": [
             "Cartographic"

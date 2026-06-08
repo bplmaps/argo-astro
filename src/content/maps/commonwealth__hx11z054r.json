@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1847512975814950912,
+        "_version_": 1859384248949014528,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -43,10 +43,7 @@
         "genre_basic_ssim": [
             "Maps"
         ],
-        "georeferenced_allmaps_bsi": false,
-        "georeferenced_bsi": false,
-        "harvesting_status_bsi": false,
-        "has_searchable_pages_bsi": false,
+        "georeferenced_allmaps_bsi": true,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z054r",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z054r/manifest",
@@ -59,7 +56,6 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Bruce, Robert George",
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
@@ -103,7 +99,6 @@
         "related_item_isreferencedby_ssm": [
             "{\"url\":\"http://searcharchives.bl.uk/IAMS_VU2:IAMS040-001999733\"}"
         ],
-        "resource_type_manuscript_bsi": false,
         "reuse_allowed_ssi": "creative commons",
         "rights_ss": "No known copyright restrictions.",
         "scale_tsim": [
@@ -154,7 +149,7 @@
         ],
         "system_create_dtsi": "2016-11-17T22:44:26Z",
         "system_modified_dtsi": "2023-09-15T14:48:00Z",
-        "timestamp": "2025-10-31T15:47:54.262Z",
+        "timestamp": "2026-03-11T16:36:42.552Z",
         "title_info_primary_tsi": "PLAN of the HARBOUR and Part of the RIVER S.T JOHNS in the BAY of FUNDY",
         "type_of_resource_ssim": [
             "Cartographic"

@@ -45,10 +45,6 @@
         "genre_basic_ssim": [
             "Maps"
         ],
-        "georeferenced_allmaps_bsi": false,
-        "georeferenced_bsi": false,
-        "harvesting_status_bsi": false,
-        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vq38c",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vq38c/manifest",
@@ -64,7 +60,6 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Montre\u0301sor, John, 1736-1799",
             "Andrews, Peter, active 1765-1782",
@@ -112,7 +107,6 @@
         "related_item_isreferencedby_ssm": [
             "{\"url\":\"https://digitalcollections.nypl.org/items/510d47db-c6b8-a3d9-e040-e00a18064a99\"}"
         ],
-        "resource_type_manuscript_bsi": false,
         "reuse_allowed_ssi": "creative commons",
         "rights_ss": "No known copyright restrictions.",
         "scale_tsim": [

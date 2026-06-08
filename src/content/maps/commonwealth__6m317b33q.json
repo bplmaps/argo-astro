@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1847513289829908480,
+        "_version_": 1862609784767774720,
         "admin_set_ark_id_ssi": "commonwealth:kh04p6570",
         "admin_set_name_ssi": "MacLean Collection Map Library",
         "collection_ark_id_ssim": [
@@ -42,10 +42,8 @@
         "genre_basic_ssim": [
             "Maps"
         ],
-        "georeferenced_allmaps_bsi": false,
-        "georeferenced_bsi": false,
+        "georeferenced_allmaps_bsi": true,
         "harvesting_status_bsi": true,
-        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:6m317b33q",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/6m317b33q/manifest",
@@ -62,7 +60,6 @@
             "French"
         ],
         "license_ss": "Contact host institution for more information.",
-        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Ettinger, Carl Wilhelm, 1742-1804"
         ],
@@ -85,7 +82,6 @@
         "related_item_host_ssim": [
             "MacLean Collection Map Library"
         ],
-        "resource_type_manuscript_bsi": false,
         "reuse_allowed_ssi": "contact host",
         "rights_ss": "Public Domain/No known restrictions on use. Contact host institution to download image.",
         "score": 1.0,
@@ -114,7 +110,7 @@
         ],
         "system_create_dtsi": "2024-10-02T21:36:24Z",
         "system_modified_dtsi": "2024-10-04T14:58:29Z",
-        "timestamp": "2025-10-31T15:52:53.730Z",
+        "timestamp": "2026-04-16T07:05:13.219Z",
         "title_info_primary_tsi": "Plan de la ville de Washington en Amerique",
         "type_of_resource_ssim": [
             "Cartographic"

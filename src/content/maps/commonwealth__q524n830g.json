@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1847512907613470720,
+        "_version_": 1860616654567768064,
         "admin_set_ark_id_ssi": "commonwealth:z603vh98k",
         "admin_set_name_ssi": "Library of Congress Collection",
         "collection_ark_id_ssim": [
@@ -44,10 +44,7 @@
             "Maps",
             "Manuscripts"
         ],
-        "georeferenced_allmaps_bsi": false,
-        "georeferenced_bsi": false,
-        "harvesting_status_bsi": false,
-        "has_searchable_pages_bsi": false,
+        "georeferenced_allmaps_bsi": true,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n830g",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n830g/manifest",
@@ -62,7 +59,6 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Erskine, Robert, 1735-1780",
             "Greene, Nathanael, 1742-1786"
@@ -142,7 +138,7 @@
         ],
         "system_create_dtsi": "2017-05-25T16:03:54Z",
         "system_modified_dtsi": "2023-09-15T14:47:31Z",
-        "timestamp": "2025-10-31T15:46:49.219Z",
+        "timestamp": "2026-03-25T07:05:16.139Z",
         "title_info_primary_tsi": "Map of Orange and Rockland counties area of New York",
         "type_of_resource_ssim": [
             "Cartographic"

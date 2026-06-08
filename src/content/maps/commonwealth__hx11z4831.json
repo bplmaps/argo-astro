@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1847513008982458368,
+        "_version_": 1855593502558126080,
         "abstract_tsi": "A manuscript map of the town of St Andrews in New Brunswick showing the land available to United Empire Loyalists - those American Loyalists who resettled in British North America as an act of loyalty to George III after the British defeat in the American Revolutionary War. Ordered by Governor General of Nova Scotia, John Parr, and surveyed by Charles Morris.",
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
@@ -42,13 +42,11 @@
             "k_top_119_52"
         ],
         "genre_basic_ssim": [
-            "Maps",
-            "Manuscripts"
+            "Manuscripts",
+            "Maps"
         ],
-        "georeferenced_allmaps_bsi": false,
+        "georeferenced_allmaps_bsi": true,
         "georeferenced_bsi": true,
-        "harvesting_status_bsi": false,
-        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z4831",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z4831/manifest",
@@ -61,27 +59,26 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
         "name_facet_ssim": [
-            "Morris, Charles, (Surveyor)",
-            "George, III, King of Great Britain, 1738-1820",
-            "George, IV, King of Great Britain, 1762-1830",
+            "Bulkeley, Richard, 1717-1800",
             "Parr, John, 1725-1791",
-            "Bulkeley, Richard, 1717-1800"
+            "George, IV, King of Great Britain, 1762-1830",
+            "George, III, King of Great Britain, 1738-1820",
+            "Morris, Charles, (Surveyor)"
         ],
         "name_role_tsim": [
-            "Surveyor",
-            "Former owner",
-            "Donor",
             "Contributor",
-            "Contributor"
+            "Contributor",
+            "Donor",
+            "Former owner",
+            "Surveyor"
         ],
         "name_tsim": [
-            "Morris, Charles, (Surveyor)",
-            "George, III, King of Great Britain, 1738-1820",
-            "George, IV, King of Great Britain, 1762-1830",
+            "Bulkeley, Richard, 1717-1800",
             "Parr, John, 1725-1791",
-            "Bulkeley, Richard, 1717-1800"
+            "George, IV, King of Great Britain, 1762-1830",
+            "George, III, King of Great Britain, 1738-1820",
+            "Morris, Charles, (Surveyor)"
         ],
         "note_resp_tsim": [
             "done under the Orders and directions of His Excellency Governor Parr By Charles Morris Survr. Genl."
@@ -116,12 +113,12 @@
             "ENVELOPE(-67.0679373274917, -67.03027714029785, 45.08599024633783, 45.062678585100905)"
         ],
         "subject_coordinates_geospatial": [
-            "46.5,-66.75",
-            "ENVELOPE(-67.0679373274917, -67.03027714029785, 45.08599024633783, 45.062678585100905)"
+            "ENVELOPE(-67.0679373274917, -67.03027714029785, 45.08599024633783, 45.062678585100905)",
+            "46.5,-66.75"
         ],
         "subject_facet_ssim": [
-            "United Empire loyalists--Maps, Manuscript--Early works to 1800",
-            "New Brunswick--Maps, Manuscript--Early works to 1800"
+            "New Brunswick--Maps, Manuscript--Early works to 1800",
+            "United Empire loyalists--Maps, Manuscript--Early works to 1800"
         ],
         "subject_geographic_sim": [
             "Canada",
@@ -129,8 +126,8 @@
             "Province of New Brunswick"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-66.75,46.5]},\"properties\":{\"placename\":\"Province of New Brunswick\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-67.0679373274917,45.062678585100905],[-67.03027714029785,45.062678585100905],[-67.03027714029785,45.08599024633783],[-67.0679373274917,45.08599024633783],[-67.0679373274917,45.062678585100905]]]},\"bbox\":[-67.0679373274917,45.062678585100905,-67.03027714029785,45.08599024633783]}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-67.0679373274917,45.062678585100905],[-67.03027714029785,45.062678585100905],[-67.03027714029785,45.08599024633783],[-67.0679373274917,45.08599024633783],[-67.0679373274917,45.062678585100905]]]},\"bbox\":[-67.0679373274917,45.062678585100905,-67.03027714029785,45.08599024633783]}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-66.75,46.5]},\"properties\":{\"placename\":\"Province of New Brunswick\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-66.75,46.5]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"Canada\",\"province\":\"Province of New Brunswick\"}}"
@@ -139,12 +136,12 @@
             "46.5,-66.75"
         ],
         "subject_topic_tsim": [
-            "United Empire loyalists--Maps, Manuscript--Early works to 1800",
-            "New Brunswick--Maps, Manuscript--Early works to 1800"
+            "New Brunswick--Maps, Manuscript--Early works to 1800",
+            "United Empire loyalists--Maps, Manuscript--Early works to 1800"
         ],
         "system_create_dtsi": "2016-11-18T00:34:52Z",
         "system_modified_dtsi": "2023-09-15T14:48:12Z",
-        "timestamp": "2025-10-31T15:48:25.893Z",
+        "timestamp": "2026-01-28T20:48:08.330Z",
         "title_info_primary_tsi": "A PLAN of the TOWN of St ANDREWS Situated at the Head of Passamaquoddy Bay-laid out for the Accomodation of Loyal Emigrants & disbanded Corps",
         "type_of_resource_ssim": [
             "Cartographic"

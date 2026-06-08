@@ -46,10 +46,6 @@
             "Maps",
             "Manuscripts"
         ],
-        "georeferenced_allmaps_bsi": false,
-        "georeferenced_bsi": false,
-        "harvesting_status_bsi": false,
-        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524ng485",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524ng485/manifest",
@@ -64,7 +60,6 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Deakins, Francis"
         ],

@@ -44,10 +44,6 @@
             "Maps",
             "Manuscripts"
         ],
-        "georeferenced_allmaps_bsi": false,
-        "georeferenced_bsi": false,
-        "harvesting_status_bsi": false,
-        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nh138",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nh138/manifest",
@@ -62,7 +58,6 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
         "note_reference_tsim": [
             "LC Luso-Hispanic World, 769"
         ],

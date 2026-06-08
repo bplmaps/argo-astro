@@ -1,0 +1,134 @@
+{
+    "argoMetadata": {},
+    "dcMetadata": {
+        "_version_": 1858923671787143168,
+        "admin_set_ark_id_ssi": "commonwealth-oai:7079f414m",
+        "admin_set_name_ssi": "George Washington Presidential Library at Mount Vernon Collection",
+        "collection_ark_id_ssim": [
+            "commonwealth:dn39z222j",
+            "commonwealth-oai:7079f414m"
+        ],
+        "collection_name_ssim": [
+            "American Revolutionary War-Era Maps",
+            "George Washington Presidential Library at Mount Vernon Collection"
+        ],
+        "curator_model_ssi": "Curator::DigitalObject",
+        "curator_model_suffix_ssi": "DigitalObject",
+        "date_edtf_ssm": [
+            "1771-06-20"
+        ],
+        "date_end_dtsi": "1771-06-20T23:59:59.999Z",
+        "date_facet_yearly_itim": [
+            1771
+        ],
+        "date_start_dtsi": "1771-06-20T00:00:00Z",
+        "date_tsim": [
+            "June 20, 1771"
+        ],
+        "date_type_ssm": [
+            "dateCreated"
+        ],
+        "destination_site_ssim": [
+            "argo",
+            "nblmc"
+        ],
+        "digital_origin_ssi": "reformatted_digital",
+        "exemplary_image_key_base_ss": "metadata/commonwealth-oai:2r373v81r",
+        "exemplary_image_ssi": "commonwealth-oai:2r373v81r",
+        "extent_tsi": "1 page : uncolored",
+        "filenames_ssim": [
+            "commonwealth-oai:np19c506z_metadata"
+        ],
+        "genre_basic_ssim": [
+            "Maps"
+        ],
+        "genre_specific_ssim": [
+            "Manuscript maps",
+            "Cadastral maps"
+        ],
+        "harvesting_status_bsi": true,
+        "hosting_status_ssi": "harvested",
+        "id": "commonwealth-oai:np19c506z",
+        "identifier_iiif_manifest_ss": "https://catalog.mountvernon.org/iiif/info/p16829coll19/15/manifest.json",
+        "identifier_local_accession_tsim": [
+            "2024-SC-009-009"
+        ],
+        "identifier_local_other_tsim": [
+            "DA_004783"
+        ],
+        "identifier_uri_preview_ss": "https://cdm16829.contentdm.oclc.org/digital/api/singleitem/collection/p16829coll19/id/15/thumbnail",
+        "identifier_uri_ss": "http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll19/id/15",
+        "institution_ark_id_ssi": "commonwealth:qv341s28x",
+        "institution_name_ssi": "George Washington Presidential Library at Mount Vernon",
+        "lang_term_ssim": [
+            "English"
+        ],
+        "license_ss": "Contact host institution for more information.",
+        "name_facet_ssim": [
+            "Crawford, William, 1732-1782",
+            "Washington, George, 1732-1799"
+        ],
+        "name_role_tsim": [
+            "Creator",
+            "Contributor"
+        ],
+        "name_tsim": [
+            "Crawford, William, 1732-1782",
+            "Washington, George, 1732-1799"
+        ],
+        "note_acquisition_tsim": [
+            "Gift of Ted and Mary Wendell, 2024. Digitization courtesy of The Gladys Krieble Delmas Foundation."
+        ],
+        "note_tsim": [
+            "Land survey with plat map by William Crawford for George Washington, detailing 587 acres on the Ohio River known as the Round Bottom tract.",
+            "Two additional men are named as 'chainmen'.",
+            "Docket note, in Washington's writing, reads 'Memorandum of the warrants laid upon this tract', with names and acreage listed.",
+            "Autograph document signed, 1 page."
+        ],
+        "oai_header_id_ssi": "oai:cdm16829.contentdm.oclc.org:p16829coll19/15",
+        "physical_location_ssim": [
+            "George Washington Presidential Library at Mount Vernon"
+        ],
+        "processing_state_ssi": "complete",
+        "publishing_state_ssi": "published",
+        "related_item_host_ssim": [
+            "George Washington Presidential Library at Mount Vernon Collection"
+        ],
+        "related_item_isreferencedby_ssm": [
+            "{\"url\":\"https://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll19/id/15\",\"label\":\"Catalog Record\"}"
+        ],
+        "related_item_series_ssi": "Ted and Mary Wendell Early American Collection at Mount Vernon",
+        "resource_type_manuscript_bsi": true,
+        "reuse_allowed_ssi": "contact host",
+        "rights_ss": "No Known Copyright. The organization that has made the Item available reasonably believes that the Item is not restricted by copyright or related rights, but a conclusive determination could not be made. Please refer to the organization that has made the Item available for more information. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.",
+        "score": 1.0,
+        "subject_coordinates_geospatial": [
+            "36.9833,-89.1333"
+        ],
+        "subject_geo_other_ssm": [
+            "Ohio River"
+        ],
+        "subject_geographic_sim": [
+            "North and Central America",
+            "Ohio River",
+            "United States"
+        ],
+        "subject_geojson_facet_ssim": [
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-89.1333,36.9833]},\"properties\":{\"placename\":\"Ohio River\"}}"
+        ],
+        "subject_hiergeo_geojson_ssm": [
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-89.1333,36.9833]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"other\":\"Ohio River\"}}"
+        ],
+        "subject_point_geospatial": [
+            "36.9833,-89.1333"
+        ],
+        "system_create_dtsi": "2026-03-05T21:39:14Z",
+        "system_modified_dtsi": "2026-03-06T14:35:51Z",
+        "timestamp": "2026-03-06T14:36:01.943Z",
+        "title_info_primary_tsi": "Survey, William Crawford for George Washington",
+        "type_of_resource_ssim": [
+            "Text",
+            "Cartographic"
+        ]
+    }
+}
