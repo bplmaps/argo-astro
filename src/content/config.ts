@@ -36,7 +36,7 @@ const maps = defineCollection({
             reuse_allowed_ssi: z.string(),
             digital_origin_ssi: z.string(),
             extent_tsi: z.string().optional(),
-            resource_type_manuscript_bsi: z.boolean(),
+            resource_type_manuscript_bsi: z.boolean().optional(),
             type_of_resource_ssim: z.array(z.string()),
             lang_term_ssim: z.array(z.string()).optional(),
             publishing_state_ssi: z.string(),
