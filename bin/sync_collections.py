@@ -11,7 +11,7 @@ bboxes = []
 
 def parse_collection_record(doc):
     filename = "../src/content/maps/{}.json".format(doc["id"].replace(":","__"))
-    
+
     with open(filename, "w") as f:
 
         jsonContent = {"argoMetadata": {}, "dcMetadata": doc}
@@ -34,12 +34,12 @@ while not complete:
 
     j = r.json()
 
-    for doc in j["response"]["docs"]:
-        parse_collection_record(doc)
+    for item in j["data"]:
+        parse_collection_record(item["attributes"])
 
-    if j["response"]["pages"]["last_page?"]:
+    if j["meta"]["pages"]["last_page?"]:
         complete = True
-        
+
         with open("../src/assets/map-bboxes.json", "w") as f:
             json.dump(bboxes, f, sort_keys=True, indent=4, separators=(',', ': '))
     else:
