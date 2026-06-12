@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1847513005372211200,
+        "_version_": 1854234481374789632,
         "admin_set_ark_id_ssi": "commonwealth:hx11xz34w",
         "admin_set_name_ssi": "British Library Collection",
         "collection_ark_id_ssim": [
@@ -41,13 +41,10 @@
             "k_top_122_53"
         ],
         "genre_basic_ssim": [
-            "Maps",
-            "Manuscripts"
+            "Manuscripts",
+            "Maps"
         ],
-        "georeferenced_allmaps_bsi": false,
-        "georeferenced_bsi": false,
-        "harvesting_status_bsi": false,
-        "has_searchable_pages_bsi": false,
+        "georeferenced_allmaps_bsi": true,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z427p",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z427p/manifest",
@@ -60,24 +57,23 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
         "name_facet_ssim": [
-            "Sauthier, Claude Joseph",
-            "George, III, King of Great Britain, 1738-1820",
+            "Palmer, Robert, 1723-1802",
             "George, IV, King of Great Britain, 1762-1830",
-            "Palmer, Robert, 1723-1802"
+            "George, III, King of Great Britain, 1738-1820",
+            "Sauthier, Claude Joseph"
         ],
         "name_role_tsim": [
-            "Cartographer",
-            "Former owner",
+            "Contributor",
             "Donor",
-            "Contributor"
+            "Former owner",
+            "Cartographer"
         ],
         "name_tsim": [
-            "Sauthier, Claude Joseph",
-            "George, III, King of Great Britain, 1738-1820",
+            "Palmer, Robert, 1723-1802",
             "George, IV, King of Great Britain, 1762-1830",
-            "Palmer, Robert, 1723-1802"
+            "George, III, King of Great Britain, 1738-1820",
+            "Sauthier, Claude Joseph"
         ],
         "note_resp_tsim": [
             "Survey'd and Drawn in May 1769. By C,J, Sauthier."
@@ -113,8 +109,8 @@
             "ENVELOPE(-76.820833, -76.80611, 35.48, 35.46666)"
         ],
         "subject_coordinates_geospatial": [
-            "35.4667,-76.8",
-            "ENVELOPE(-76.820833, -76.80611, 35.48, 35.46666)"
+            "ENVELOPE(-76.820833, -76.80611, 35.48, 35.46666)",
+            "35.4667,-76.8"
         ],
         "subject_facet_ssim": [
             "Bath (N.C.)--Maps, Manuscript--Early works to 1800"
@@ -127,8 +123,8 @@
             "United States"
         ],
         "subject_geojson_facet_ssim": [
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.8,35.4667]},\"properties\":{\"placename\":\"Bath, NC\"}}",
-            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-76.820833,35.46666],[-76.80611,35.46666],[-76.80611,35.48],[-76.820833,35.48],[-76.820833,35.46666]]]},\"bbox\":[-76.820833,35.46666,-76.80611,35.48]}"
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-76.820833,35.46666],[-76.80611,35.46666],[-76.80611,35.48],[-76.820833,35.48],[-76.820833,35.46666]]]},\"bbox\":[-76.820833,35.46666,-76.80611,35.48]}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.8,35.4667]},\"properties\":{\"placename\":\"Bath, NC\"}}"
         ],
         "subject_hiergeo_geojson_ssm": [
             "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.8,35.4667]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"North Carolina\",\"county\":\"Beaufort\",\"city\":\"Bath\"}}"
@@ -141,7 +137,7 @@
         ],
         "system_create_dtsi": "2016-11-18T00:21:04Z",
         "system_modified_dtsi": "2023-09-15T14:48:12Z",
-        "timestamp": "2025-10-31T15:48:22.450Z",
+        "timestamp": "2026-01-13T20:23:21.481Z",
         "title_info_primary_tsi": "PLAN of the Town and Port of BATH in Beaufort County NORTH CAROLINA",
         "type_of_resource_ssim": [
             "Cartographic"

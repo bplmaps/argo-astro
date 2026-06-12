@@ -44,10 +44,6 @@
         "genre_basic_ssim": [
             "Maps"
         ],
-        "georeferenced_allmaps_bsi": false,
-        "georeferenced_bsi": false,
-        "harvesting_status_bsi": false,
-        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z2880",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z2880/manifest",
@@ -60,7 +56,6 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Campbell, John",
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
@@ -100,7 +95,6 @@
         "related_item_isreferencedby_ssm": [
             "{\"url\":\"http://searcharchives.bl.uk/IAMS_VU2:IAMS040-001999749\"}"
         ],
-        "resource_type_manuscript_bsi": false,
         "reuse_allowed_ssi": "creative commons",
         "rights_ss": "No known copyright restrictions.",
         "scale_tsim": [

@@ -48,10 +48,6 @@
         "genre_basic_ssim": [
             "Maps"
         ],
-        "georeferenced_allmaps_bsi": false,
-        "georeferenced_bsi": false,
-        "harvesting_status_bsi": false,
-        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:6108vv62v",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/6108vv62v/manifest",
@@ -64,7 +60,6 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Skinner, William, 1700-1780",
             "Skinner, Monier"
@@ -102,7 +97,6 @@
         "related_item_isreferencedby_ssm": [
             "{\"url\":\"http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002027390\"}"
         ],
-        "resource_type_manuscript_bsi": false,
         "reuse_allowed_ssi": "creative commons",
         "rights_ss": "No known copyright restrictions.",
         "scale_tsim": [

@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1847513303754997760,
+        "_version_": 1853788203168825344,
         "admin_set_ark_id_ssi": "commonwealth:kh04p6570",
         "admin_set_name_ssi": "MacLean Collection Map Library",
         "collection_ark_id_ssim": [
@@ -42,10 +42,8 @@
         "genre_basic_ssim": [
             "Maps"
         ],
-        "georeferenced_allmaps_bsi": false,
-        "georeferenced_bsi": false,
+        "georeferenced_allmaps_bsi": true,
         "harvesting_status_bsi": true,
-        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:66833p58x",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/66833p58x/manifest",
@@ -62,7 +60,6 @@
             "English"
         ],
         "license_ss": "Contact host institution for more information.",
-        "mods_xml_ss": "eJzVWFtv2zYUfu+vIPQcWVKc+JI1KtpkG4olbdGkwLCXgpaOJTYUKZBUHP/7HcqkLdnOrVnR9SEJQvJ8537T6zd3FSe3oDST4jRIBnFAQGQyZ6I4Db5c/xFOgjfpq9eVzPWJ/UXwvdAnd5yJm9OgNKY+iaLFYjFYDAdSFVEynU6j9jbwTzXb9/AwjpPo78uLq6yEioZMaENFBp7K8uqRcZkNCnkb2YvodhhshB4Oxkil2YluoS5kRk17cT812XNl+edU4b171P4Nh+F4cKfzIH1FyMoMhhkO78VckkbTAk6DWrGKqmVAcqZrTpcXdAZ8ffzVnbYIPYz0nWKG6ZLksmICRdaECfK2AsUySmihAOiMAzGSmBL/KKBmSeScJOPR8HXUAeog62Z23Z7l7JblkCOko9eAJqOc1EreMjS1PiCoMfnWKKZzllmbaYe6BrFKR32tN4YQtEKplrU1ATpDCsoDQhtTStRreRoIOu/8/+Xz+7VLWL42u79noCMLqNGzlDfw1OeRmMTxcDSaTnsGtnefqDLpX8xkJRMH5LqUFfUKrq/3kDiVcmogSJNxMg2T8eToAUIlvQu6J9egKgdl4M70LINxkSng1Ej1uIVuMaBnDcdQihzNIzbaQxBlpgjSMxRcForWJSinj5fU6RP1FOro/L/z+jF6PU4mw/1eP2/U8oC8FbmCxS/uuXrGg/RTM+NYKV7gNqvPx/ln0LJRGXRCgWU+w/sv1pQFCAVdGxRVUWfP0t4xusSUUozyp1thmzAyRRXHo8NRsl1tUUpb3YL0ktY+y1vJN4qgsAUTvob5U8TItoKgPdqOgvRCilwKB71+0vNAB8sheb+tPZiT2dIFJllF6XlzA5qcodUNuRoYcomuwXZILqgAj7uG6WDbAnVmewJibnr2YpjlBjPwBpbneHUaLDG5sIyNx2E8wkrmEDvEnZDpW2jFhlNRNNjnuqz92UOZwrQcDafh4exZkeKpnhwhniACgRXud1FYQzl1umJ2tOxq5NxULjX2XH4OOlOstq2wZ2m0iqH8Y2udVMFcqooaa3d3443ae9cBQNuAMGlCKlqT38jRcEzuyPFwQqrKkboXHRrs26AEmEvIGb1GG6c4ThQQfauhcES7T55Ab9h8/hL6b/XhQ+Q+Yvdb1JVpaXwLwanLQIWq27lGga5xCGEzxjFYghQzBbv2QBPXxEkBshj4GmhRNpg4snyDzHQjkGe6fF4rciDP6EaeItLlZISVaTQ56g96smZZ+kUwGy1XVlkdhrZEheHvVPElWUh1o+2Il+Ac4ytxS7QxpmPyo5TdlfeMCprTHyOoKcQ9crZZPSjAmOUA8iZqX+44Ys+raBwnh8lRfwIsGfYDhWGDUfgn+F7XL/SZbIRRy75/nC7+botAYG22mfpBKlO2A/QZ/mvnaje4r8n9y26DeEgox6HTmPU2c6mwyFsZ0+HkIJxO1rw2F11uO1g/3U3x8Why/N1uWoXlL+GfUXwQJus8ebGD2mkQ8vdYK13hLKU2uyvlZrjpb5qXNLsAKnDK4BzaVQ/HjJpcsBmqu9yzS+5b+qJtUTby4aaJ5pyj9Zx4uFQGqQ0FjbFA1c3A9cZMVpUUC6DclO13ALw7iY7j6fE0wuI5HNbHkzvfX9agDzDCykZ5KHHBVTj7nX09jDdmfwYA/uDs+Bgxd98WeiOe63T+u8PTbL1D1RlPukf3sm0U3/n+QDPc6vVpIFfZjA3TRnk7vL7QFchtm7lnViu4ZbD4fhaRKZtqJijj9zOzvR5HSsbmYUUFm4N+gU6Rh+jzu9f8K03PcPxnrTddhGtoy4uCWsm8aR29vZRwloHQgJs3+oGiS2zWEvuti5mmxcJRklQS9ysmVlMlHg6cJFt8/wuBcDItbcdvt5GMnMuKMhF9kORGyIWwA5hR7lMQQWCEHJB7ZcdZIEcqLmlO2tnwUcEVZFgItzew1allgxl3tdo+3yEzZOHk7OfOvve7cHa5QeZ2CdpdjzDTD4+wQIfx0XVydBJPT5LRP334Dv0e9BJ3CPhu7DX1LrJbHjAlsIRgbtVUQd6j3l0v/ELzcX5GMQkkXhf9LrBnYUOp4ecvbPjrnmVtZ13b1c5tZ5sV48p9w93+YtN5EqRtwfcb2y5tr9VtwtUd2V/pq38Bd1MEGw==",
         "name_facet_ssim": [
             "Kitchin, Thomas, 1719-1784",
             "Dury, Andrew"
@@ -88,7 +85,6 @@
         "related_item_host_ssim": [
             "MacLean Collection Map Library"
         ],
-        "resource_type_manuscript_bsi": false,
         "reuse_allowed_ssi": "contact host",
         "rights_ss": "Public Domain/No known restrictions on use. Contact host institution to download image.",
         "score": 1.0,
@@ -123,7 +119,7 @@
         ],
         "system_create_dtsi": "2024-10-04T14:09:16Z",
         "system_modified_dtsi": "2024-10-04T14:58:30Z",
-        "timestamp": "2025-10-31T15:53:07.010Z",
+        "timestamp": "2026-01-08T22:09:57.419Z",
         "title_info_primary_subtitle_tsi": "divided into the several provinces, and jurisdictions",
         "title_info_primary_tsi": "British dominions in America agreeable to the treaty of 1763",
         "type_of_resource_ssim": [

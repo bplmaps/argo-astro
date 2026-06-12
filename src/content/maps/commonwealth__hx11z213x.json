@@ -44,10 +44,6 @@
         "genre_basic_ssim": [
             "Maps"
         ],
-        "georeferenced_allmaps_bsi": false,
-        "georeferenced_bsi": false,
-        "harvesting_status_bsi": false,
-        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z213x",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z213x/manifest",
@@ -60,7 +56,6 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Bellin, Jacques Nicolas, 1703-1772",
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
@@ -100,7 +95,6 @@
         "related_item_isreferencedby_ssm": [
             "{\"url\":\"http://searcharchives.bl.uk/IAMS_VU2:IAMS040-001999746\"}"
         ],
-        "resource_type_manuscript_bsi": false,
         "reuse_allowed_ssi": "creative commons",
         "rights_ss": "No known copyright restrictions.",
         "scale_tsim": [

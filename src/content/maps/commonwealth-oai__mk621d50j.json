@@ -1,0 +1,138 @@
+{
+    "argoMetadata": {},
+    "dcMetadata": {
+        "_version_": 1858923673724911616,
+        "admin_set_ark_id_ssi": "commonwealth-oai:7079f414m",
+        "admin_set_name_ssi": "George Washington Presidential Library at Mount Vernon Collection",
+        "collection_ark_id_ssim": [
+            "commonwealth:dn39z222j",
+            "commonwealth-oai:7079f414m"
+        ],
+        "collection_name_ssim": [
+            "American Revolutionary War-Era Maps",
+            "George Washington Presidential Library at Mount Vernon Collection"
+        ],
+        "curator_model_ssi": "Curator::DigitalObject",
+        "curator_model_suffix_ssi": "DigitalObject",
+        "date_edtf_ssm": [
+            "1761"
+        ],
+        "date_end_dtsi": "1761-12-31T23:59:59.999Z",
+        "date_facet_yearly_itim": [
+            1761
+        ],
+        "date_start_dtsi": "1761-01-01T00:00:00Z",
+        "date_tsim": [
+            "1761"
+        ],
+        "date_type_ssm": [
+            "dateCreated"
+        ],
+        "destination_site_ssim": [
+            "argo",
+            "nblmc"
+        ],
+        "digital_origin_ssi": "reformatted_digital",
+        "exemplary_image_key_base_ss": "metadata/commonwealth-oai:1v53tw45j",
+        "exemplary_image_ssi": "commonwealth-oai:1v53tw45j",
+        "extent_tsi": "1 map : hand colored ; 23 x 18 cm, on sheet 27 x 21 cm",
+        "filenames_ssim": [
+            "commonwealth-oai:mk621d50j_metadata"
+        ],
+        "genre_basic_ssim": [
+            "Maps"
+        ],
+        "harvesting_status_bsi": true,
+        "hosting_status_ssi": "harvested",
+        "id": "commonwealth-oai:mk621d50j",
+        "identifier_iiif_manifest_ss": "https://catalog.mountvernon.org/iiif/info/p16829coll47/18/manifest.json",
+        "identifier_local_accession_tsim": [
+            "2020-SC-024-004"
+        ],
+        "identifier_local_other_tsim": [
+            "DA_004181"
+        ],
+        "identifier_uri_preview_ss": "https://cdm16829.contentdm.oclc.org/digital/api/singleitem/collection/p16829coll47/id/18/thumbnail",
+        "identifier_uri_ss": "http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll47/id/18",
+        "institution_ark_id_ssi": "commonwealth:qv341s28x",
+        "institution_name_ssi": "George Washington Presidential Library at Mount Vernon",
+        "lang_term_ssim": [
+            "English"
+        ],
+        "license_ss": "Contact host institution for more information.",
+        "name_facet_ssim": [
+            "Kitchin, Thomas, 1719-1784"
+        ],
+        "name_role_tsim": [
+            "Creator"
+        ],
+        "name_tsim": [
+            "Kitchin, Thomas, 1719-1784"
+        ],
+        "note_tsim": [
+            "British Statute Miles.",
+            "Prime Meridian: London and Philadelphia.",
+            "Notes \"Deg.W.Long. from London\" in bottom right corner and \"Deg.W. from Philadelphia\" on top left corner.",
+            "Relief shown pictorially and by hachures.",
+            "Includes cartouche, \"A New Map of Virginia from the best Authorities by T.Kitchin Geog\".",
+            "Oriented north to the top.",
+            "Includes note \"For the Lond:Mag:\" on top margin."
+        ],
+        "oai_header_id_ssi": "oai:cdm16829.contentdm.oclc.org:p16829coll47/18",
+        "physical_location_ssim": [
+            "George Washington Presidential Library at Mount Vernon"
+        ],
+        "processing_state_ssi": "complete",
+        "publisher_tsi": "London Magazine",
+        "publishing_state_ssi": "published",
+        "pubplace_tsi": "London",
+        "related_item_host_ssim": [
+            "George Washington Presidential Library at Mount Vernon Collection"
+        ],
+        "related_item_isreferencedby_ssm": [
+            "{\"url\":\"https://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll47/id/18\",\"label\":\"Catalog Record\"}"
+        ],
+        "related_item_series_ssi": "Paul Stevens Map Collection at Mount Vernon",
+        "reuse_allowed_ssi": "contact host",
+        "rights_ss": "No Known Copyright. The organization that has made the Item available reasonably believes that the Item is not restricted by copyright or related rights, but a conclusive determination could not be made. Please refer to the organization that has made the Item available for more information. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.",
+        "scale_tsim": [
+            "Scale [ca. 1:2,500,000]"
+        ],
+        "score": 1.0,
+        "subject_bbox_geospatial": [
+            "ENVELOPE(-82.0, -76.0, 40.0, 37.0)"
+        ],
+        "subject_coordinates_geospatial": [
+            "37,-80",
+            "ENVELOPE(-82.0, -76.0, 40.0, 37.0)"
+        ],
+        "subject_facet_ssim": [
+            "Virginia--Maps--Early works to 1800"
+        ],
+        "subject_geographic_sim": [
+            "North and Central America",
+            "United States",
+            "Virginia"
+        ],
+        "subject_geojson_facet_ssim": [
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,37.0]},\"properties\":{\"placename\":\"Virginia\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-82.0,37.0],[-76.0,37.0],[-76.0,40.0],[-82.0,40.0],[-82.0,37.0]]]},\"bbox\":[-82.0,37.0,-76.0,40.0]}"
+        ],
+        "subject_hiergeo_geojson_ssm": [
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,37.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\"}}"
+        ],
+        "subject_point_geospatial": [
+            "37,-80"
+        ],
+        "subject_topic_tsim": [
+            "Virginia--Maps--Early works to 1800"
+        ],
+        "system_create_dtsi": "2026-03-05T21:49:38Z",
+        "system_modified_dtsi": "2026-03-06T14:35:52Z",
+        "timestamp": "2026-03-06T14:36:03.791Z",
+        "title_info_primary_tsi": "A new map of Virginia from the best authorities",
+        "type_of_resource_ssim": [
+            "Cartographic"
+        ]
+    }
+}

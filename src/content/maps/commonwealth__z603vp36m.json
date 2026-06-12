@@ -43,10 +43,6 @@
         "genre_basic_ssim": [
             "Maps"
         ],
-        "georeferenced_allmaps_bsi": false,
-        "georeferenced_bsi": false,
-        "harvesting_status_bsi": false,
-        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:z603vp36m",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/z603vp36m/manifest",
@@ -62,7 +58,6 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Mitchell, John, 1711-1768",
             "Kitchin, Thomas, 1719-1784",
@@ -103,7 +98,6 @@
         "related_item_isreferencedby_ssm": [
             "{\"url\":\"https://digitalcollections.nypl.org/items/510d47df-fd33-a3d9-e040-e00a18064a99\"}"
         ],
-        "resource_type_manuscript_bsi": false,
         "reuse_allowed_ssi": "creative commons",
         "rights_ss": "No known copyright restrictions.",
         "scale_tsim": [

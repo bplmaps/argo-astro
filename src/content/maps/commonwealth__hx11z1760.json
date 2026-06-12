@@ -43,10 +43,6 @@
         "genre_basic_ssim": [
             "Maps"
         ],
-        "georeferenced_allmaps_bsi": false,
-        "georeferenced_bsi": false,
-        "harvesting_status_bsi": false,
-        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z1760",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z1760/manifest",
@@ -59,7 +55,6 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Amherst, Jeffery Amherst, Baron, 1717-1797",
             "Royal United Services Institute for Defence and Security Studies"
@@ -96,7 +91,6 @@
         "related_item_isreferencedby_ssm": [
             "{\"url\":\"http://searcharchives.bl.uk/IAMS_VU2:IAMS040-001999744\"}"
         ],
-        "resource_type_manuscript_bsi": false,
         "reuse_allowed_ssi": "creative commons",
         "rights_ss": "No known copyright restrictions.",
         "scale_tsim": [

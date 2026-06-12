@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1847512834336882688,
+        "_version_": 1853788202766172160,
         "admin_set_ark_id_ssi": "commonwealth:4t64hr20k",
         "admin_set_name_ssi": "Boston Athenaeum, Cartographic Collection",
         "collection_ark_id_ssim": [
@@ -50,10 +50,8 @@
         "genre_basic_ssim": [
             "Maps"
         ],
-        "georeferenced_allmaps_bsi": false,
-        "georeferenced_bsi": false,
+        "georeferenced_allmaps_bsi": true,
         "harvesting_status_bsi": true,
-        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:4t64hr30t",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/4t64hr30t/manifest",
@@ -67,7 +65,6 @@
             "English"
         ],
         "license_ss": "Contact host institution for more information.",
-        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Mitchell, John, 1711-1768",
             "C\u00f3vens et Mortier"
@@ -113,7 +110,6 @@
         "related_item_isreferencedby_ssm": [
             "{\"url\":\"http://catalog.bostonathenaeum.org/vwebv/holdingsInfo?bibId=91863\"}"
         ],
-        "resource_type_manuscript_bsi": false,
         "reuse_allowed_ssi": "contact host",
         "rights_ss": "Collection of the Boston Athenaeum. May not be reproduced or quoted without written permission. For more information, see http://www.bostonathenaeum.org/node/46",
         "scale_tsim": [
@@ -155,7 +151,7 @@
         ],
         "system_create_dtsi": "2015-12-04T11:18:12Z",
         "system_modified_dtsi": "2023-09-15T14:47:09Z",
-        "timestamp": "2025-10-31T15:45:39.338Z",
+        "timestamp": "2026-01-08T22:09:57.035Z",
         "title_info_primary_subtitle_tsi": "with the roads, distances, limits, and extent of the settlements",
         "title_info_primary_tsi": "A map of the British and French dominions in North America",
         "type_of_resource_ssim": [

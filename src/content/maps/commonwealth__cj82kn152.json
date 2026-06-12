@@ -1,7 +1,7 @@
 {
     "argoMetadata": {},
     "dcMetadata": {
-        "_version_": 1847513124047945728,
+        "_version_": 1859828875743199232,
         "abstract_tsi": "Boston mapmaking was influential in forming Great Britain's perception of the New England colonies. For example, though William Douglass made his map of New England for local consumption, London publisher Thomas Jefferys targeted the English market by adapting it to illustrate a larger struggle for empire. Using Douglass' map as his primary source, Jefferys made additions based on other colonial surveys and added an inset plan of Fort Saint Frederic, a French \"incroachment\" on Lake Champlain. This map went through several editions and for over 50 years was the pre-eminent map of New England.",
         "admin_set_ark_id_ssi": "commonwealth:41688024w",
         "admin_set_name_ssi": "Norman B. Leventhal Map & Education Center Collection",
@@ -48,10 +48,9 @@
         "genre_basic_ssim": [
             "Maps"
         ],
-        "georeferenced_allmaps_bsi": false,
+        "georeferenced_allmaps_bsi": true,
         "georeferenced_bsi": true,
         "harvesting_status_bsi": true,
-        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:cj82kn152",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/cj82kn152/manifest",
@@ -72,7 +71,6 @@
             "English"
         ],
         "license_ss": "No known restrictions on use.",
-        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Jefferys, Thomas, d. 1771"
         ],
@@ -101,7 +99,6 @@
         "related_item_host_ssim": [
             "Norman B. Leventhal Map & Education Center Collection"
         ],
-        "resource_type_manuscript_bsi": false,
         "reuse_allowed_ssi": "no restrictions",
         "rights_ss": "No known copyright restrictions.",
         "scale_tsim": [
@@ -165,7 +162,7 @@
         ],
         "system_create_dtsi": "2015-01-24T00:02:25Z",
         "system_modified_dtsi": "2024-05-20T19:08:38Z",
-        "timestamp": "2025-10-31T15:50:15.628Z",
+        "timestamp": "2026-03-16T14:23:51.706Z",
         "title_info_primary_subtitle_tsi": "containing the provinces of Massachusets Bay and New Hampshire, with the colonies of Conecticut and Rhode Island, divided into counties and townships : the whole composed from actual surveys and its situation adjusted by astronomical observations",
         "title_info_primary_tsi": "A map of the most inhabited part of New England",
         "type_of_resource_ssim": [

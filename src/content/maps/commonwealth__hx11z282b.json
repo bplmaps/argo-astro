@@ -43,10 +43,6 @@
         "genre_basic_ssim": [
             "Maps"
         ],
-        "georeferenced_allmaps_bsi": false,
-        "georeferenced_bsi": false,
-        "harvesting_status_bsi": false,
-        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:hx11z282b",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/hx11z282b/manifest",
@@ -59,7 +55,6 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Burgoyne, John, 1722-1792",
             "Frazer, Sir Augustus Simon, 1776-1835",
@@ -102,7 +97,6 @@
         "related_item_isreferencedby_ssm": [
             "{\"url\":\"http://searcharchives.bl.uk/IAMS_VU2:IAMS040-001999748\"}"
         ],
-        "resource_type_manuscript_bsi": false,
         "reuse_allowed_ssi": "creative commons",
         "rights_ss": "No known copyright restrictions.",
         "scale_tsim": [

@@ -44,10 +44,6 @@
             "Maps",
             "Manuscripts"
         ],
-        "georeferenced_allmaps_bsi": false,
-        "georeferenced_bsi": false,
-        "harvesting_status_bsi": false,
-        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524nf942",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524nf942/manifest",
@@ -62,7 +58,6 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Lobb, J., Captain"
         ],

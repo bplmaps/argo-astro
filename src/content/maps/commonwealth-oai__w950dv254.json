@@ -1,0 +1,141 @@
+{
+    "argoMetadata": {},
+    "dcMetadata": {
+        "_version_": 1858923671781900288,
+        "admin_set_ark_id_ssi": "commonwealth-oai:7079f414m",
+        "admin_set_name_ssi": "George Washington Presidential Library at Mount Vernon Collection",
+        "collection_ark_id_ssim": [
+            "commonwealth:dn39z222j",
+            "commonwealth-oai:7079f414m"
+        ],
+        "collection_name_ssim": [
+            "American Revolutionary War-Era Maps",
+            "George Washington Presidential Library at Mount Vernon Collection"
+        ],
+        "curator_model_ssi": "Curator::DigitalObject",
+        "curator_model_suffix_ssi": "DigitalObject",
+        "date_edtf_ssm": [
+            "1796"
+        ],
+        "date_end_dtsi": "1796-12-31T23:59:59.999Z",
+        "date_facet_yearly_itim": [
+            1796
+        ],
+        "date_start_dtsi": "1796-01-01T00:00:00Z",
+        "date_tsim": [
+            "1796"
+        ],
+        "date_type_ssm": [
+            "dateCreated"
+        ],
+        "destination_site_ssim": [
+            "argo",
+            "nblmc"
+        ],
+        "digital_origin_ssi": "reformatted_digital",
+        "exemplary_image_key_base_ss": "metadata/commonwealth-oai:gh93rt61b",
+        "exemplary_image_ssi": "commonwealth-oai:gh93rt61b",
+        "extent_tsi": "1 map : uncolored",
+        "filenames_ssim": [
+            "commonwealth-oai:w950dv254_metadata"
+        ],
+        "genre_basic_ssim": [
+            "Maps"
+        ],
+        "harvesting_status_bsi": true,
+        "hosting_status_ssi": "harvested",
+        "id": "commonwealth-oai:w950dv254",
+        "identifier_iiif_manifest_ss": "https://catalog.mountvernon.org/iiif/info/p16829coll19/107/manifest.json",
+        "identifier_local_accession_tsim": [
+            "2024-SC-009-056"
+        ],
+        "identifier_local_other_tsim": [
+            "DA_005119"
+        ],
+        "identifier_uri_preview_ss": "https://cdm16829.contentdm.oclc.org/digital/api/singleitem/collection/p16829coll19/id/107/thumbnail",
+        "identifier_uri_ss": "http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll19/id/107",
+        "institution_ark_id_ssi": "commonwealth:qv341s28x",
+        "institution_name_ssi": "George Washington Presidential Library at Mount Vernon",
+        "lang_term_ssim": [
+            "English"
+        ],
+        "license_ss": "Contact host institution for more information.",
+        "name_facet_ssim": [
+            "Lewis, Samuel, 1753 or 1754-1822"
+        ],
+        "name_role_tsim": [
+            "Creator"
+        ],
+        "name_tsim": [
+            "Lewis, Samuel, 1753 or 1754-1822"
+        ],
+        "note_acquisition_tsim": [
+            "Gift of Ted and Mary Wendell, 2024. Digitization courtesy of The Gladys Krieble Delmas Foundation."
+        ],
+        "note_resp_tsim": [
+            "by Samuel Lewis, 1796"
+        ],
+        "note_tsim": [
+            "Identifies individual land grants in the area that would become Ohio.",
+            "Note printed near top center of map indicates map is meant to be colored.",
+            "Prime meridian: Philadelphia.",
+            "Longitude coordinates expressed here as measured from Greenwich.",
+            "Relief shown pictorially."
+        ],
+        "oai_header_id_ssi": "oai:cdm16829.contentdm.oclc.org:p16829coll19/107",
+        "physical_location_ssim": [
+            "George Washington Presidential Library at Mount Vernon"
+        ],
+        "processing_state_ssi": "complete",
+        "publishing_state_ssi": "published",
+        "related_item_host_ssim": [
+            "George Washington Presidential Library at Mount Vernon Collection"
+        ],
+        "related_item_isreferencedby_ssm": [
+            "{\"url\":\"https://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll19/id/107\",\"label\":\"Catalog Record\"}"
+        ],
+        "related_item_series_ssi": "Ted and Mary Wendell Early American Collection at Mount Vernon",
+        "reuse_allowed_ssi": "contact host",
+        "rights_ss": "No Known Copyright. The organization that has made the Item available reasonably believes that the Item is not restricted by copyright or related rights, but a conclusive determination could not be made. Please refer to the organization that has made the Item available for more information. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.",
+        "scale_tsim": [
+            "Scale approximately 1:1,085,000"
+        ],
+        "score": 1.0,
+        "subject_bbox_geospatial": [
+            "ENVELOPE(-88.166667, -79.833333, 43.0, 38.5)"
+        ],
+        "subject_coordinates_geospatial": [
+            "42.65982,93.93863",
+            "ENVELOPE(-88.166667, -79.833333, 43.0, 38.5)"
+        ],
+        "subject_geo_other_ssm": [
+            "North America",
+            "Ohio River Valley"
+        ],
+        "subject_geographic_sim": [
+            "Midwest",
+            "North America",
+            "North and Central America",
+            "Ohio River Valley",
+            "United States"
+        ],
+        "subject_geojson_facet_ssim": [
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[93.93863,42.65982]},\"properties\":{\"placename\":\"Midwest\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[-88.166667,38.5],[-79.833333,38.5],[-79.833333,43.0],[-88.166667,43.0],[-88.166667,38.5]]]},\"bbox\":[-88.166667,38.5,-79.833333,43.0]}"
+        ],
+        "subject_hiergeo_geojson_ssm": [
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[93.93863,42.65982]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"area\":\"Midwest\"}}"
+        ],
+        "subject_point_geospatial": [
+            "42.65982,93.93863"
+        ],
+        "system_create_dtsi": "2026-03-05T21:39:42Z",
+        "system_modified_dtsi": "2026-03-06T14:35:51Z",
+        "timestamp": "2026-03-06T14:36:01.937Z",
+        "title_info_primary_subtitle_tsi": "compiled from actual surveys, and the best information",
+        "title_info_primary_tsi": "A map of part of the N.W. territory of the United States",
+        "type_of_resource_ssim": [
+            "Cartographic"
+        ]
+    }
+}

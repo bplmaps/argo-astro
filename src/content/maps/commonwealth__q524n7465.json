@@ -44,10 +44,6 @@
             "Maps",
             "Manuscripts"
         ],
-        "georeferenced_allmaps_bsi": false,
-        "georeferenced_bsi": false,
-        "harvesting_status_bsi": false,
-        "has_searchable_pages_bsi": false,
         "hosting_status_ssi": "hosted",
         "id": "commonwealth:q524n7465",
         "identifier_iiif_manifest_ss": "https://ark.digitalcommonwealth.org/ark:/50959/q524n7465/manifest",
@@ -62,7 +58,6 @@
         ],
         "license_ss": "This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).",
         "license_uri_ss": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "mods_xml_ss": "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",
         "name_facet_ssim": [
             "Greenleaf, S., Captain"
         ],

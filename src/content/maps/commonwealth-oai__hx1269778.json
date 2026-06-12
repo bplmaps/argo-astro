@@ -1,0 +1,166 @@
+{
+    "argoMetadata": {},
+    "dcMetadata": {
+        "_version_": 1858923673891635200,
+        "admin_set_ark_id_ssi": "commonwealth-oai:7079f414m",
+        "admin_set_name_ssi": "George Washington Presidential Library at Mount Vernon Collection",
+        "collection_ark_id_ssim": [
+            "commonwealth:dn39z222j",
+            "commonwealth-oai:7079f414m"
+        ],
+        "collection_name_ssim": [
+            "American Revolutionary War-Era Maps",
+            "George Washington Presidential Library at Mount Vernon Collection"
+        ],
+        "curator_model_ssi": "Curator::DigitalObject",
+        "curator_model_suffix_ssi": "DigitalObject",
+        "date_edtf_ssm": [
+            "1758"
+        ],
+        "date_end_dtsi": "1758-12-31T23:59:59.999Z",
+        "date_facet_yearly_itim": [
+            1758
+        ],
+        "date_start_dtsi": "1758-01-01T00:00:00Z",
+        "date_tsim": [
+            "1758"
+        ],
+        "date_type_ssm": [
+            "dateCreated"
+        ],
+        "destination_site_ssim": [
+            "argo",
+            "nblmc"
+        ],
+        "digital_origin_ssi": "reformatted_digital",
+        "exemplary_image_key_base_ss": "metadata/commonwealth-oai:6q18bh052",
+        "exemplary_image_ssi": "commonwealth-oai:6q18bh052",
+        "extent_tsi": "1 map : hand colored ; 60 x 40 cm, on sheet 67 x 57 cm",
+        "filenames_ssim": [
+            "commonwealth-oai:hx1269778_metadata"
+        ],
+        "genre_basic_ssim": [
+            "Maps"
+        ],
+        "harvesting_status_bsi": true,
+        "hosting_status_ssi": "harvested",
+        "id": "commonwealth-oai:hx1269778",
+        "identifier_iiif_manifest_ss": "https://catalog.mountvernon.org/iiif/info/p16829coll47/23/manifest.json",
+        "identifier_local_accession_tsim": [
+            "2020-SC-024-010"
+        ],
+        "identifier_local_other_tsim": [
+            "DA_004185"
+        ],
+        "identifier_uri_preview_ss": "https://cdm16829.contentdm.oclc.org/digital/api/singleitem/collection/p16829coll47/id/23/thumbnail",
+        "identifier_uri_ss": "http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll47/id/23",
+        "institution_ark_id_ssi": "commonwealth:qv341s28x",
+        "institution_name_ssi": "George Washington Presidential Library at Mount Vernon",
+        "lang_term_ssim": [
+            "French"
+        ],
+        "license_ss": "Contact host institution for more information.",
+        "name_facet_ssim": [
+            "Sepp, Christiaan, -1775",
+            "C\u00f3vens et Mortier"
+        ],
+        "name_role_tsim": [
+            "Creator",
+            "Engraver"
+        ],
+        "name_tsim": [
+            "Sepp, Christiaan, -1775",
+            "C\u00f3vens et Mortier"
+        ],
+        "note_tsim": [
+            "Relief shown pictorially.",
+            "Longitude Orientale du Premier Meridien at top left margin, Longitude Occidentale du Premier Meridian at bottom right margin.",
+            "Includes longitude and latitude lines.",
+            "Includes note \"A Amsterdam chez Covens & Mortier, 1758\" at top margin and \"C Sepp Sculpsit\" on bottom left.",
+            "Scale listed as \"Lieues Fran\u00e7oises de 3000 pas g\u00e9ometrique ou de 2500 toises; Miles communs d'Angleterre, de 50 au degr\u00e9\"."
+        ],
+        "oai_header_id_ssi": "oai:cdm16829.contentdm.oclc.org:p16829coll47/23",
+        "physical_location_ssim": [
+            "George Washington Presidential Library at Mount Vernon"
+        ],
+        "processing_state_ssi": "complete",
+        "publisher_tsi": "Jean Covens and Corneille Mortier",
+        "publishing_state_ssi": "published",
+        "pubplace_tsi": "Amsterdam",
+        "related_item_host_ssim": [
+            "George Washington Presidential Library at Mount Vernon Collection"
+        ],
+        "related_item_isreferencedby_ssm": [
+            "{\"url\":\"https://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll47/id/23\",\"label\":\"Catalog Record\"}"
+        ],
+        "related_item_series_ssi": "Paul Stevens Map Collection at Mount Vernon",
+        "reuse_allowed_ssi": "contact host",
+        "rights_ss": "No Known Copyright. The organization that has made the Item available reasonably believes that the Item is not restricted by copyright or related rights, but a conclusive determination could not be made. Please refer to the organization that has made the Item available for more information. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.",
+        "scale_tsim": [
+            "Scale ca. 1:2,000,000"
+        ],
+        "score": 1.0,
+        "subject_coordinates_geospatial": [
+            "37,-80",
+            "39,-76.8333",
+            "31,-92",
+            "28,-82",
+            "32,-84",
+            "35.5,-80",
+            "34,-80"
+        ],
+        "subject_facet_ssim": [
+            "Southern States--Maps--Early works to 1800"
+        ],
+        "subject_geographic_sim": [
+            "Florida",
+            "Georgia",
+            "Louisiana",
+            "Maryland",
+            "North Carolina",
+            "North and Central America",
+            "South Carolina",
+            "Southern United States",
+            "United States",
+            "Virginia"
+        ],
+        "subject_geojson_facet_ssim": [
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,37.0]},\"properties\":{\"placename\":\"Virginia\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.8333,39.0]},\"properties\":{\"placename\":\"Maryland\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-92.0,31.0]},\"properties\":{\"placename\":\"Louisiana\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,28.0]},\"properties\":{\"placename\":\"Florida\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.0,32.0]},\"properties\":{\"placename\":\"Georgia\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,35.5]},\"properties\":{\"placename\":\"North Carolina\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,34.0]},\"properties\":{\"placename\":\"South Carolina\"}}"
+        ],
+        "subject_hiergeo_geojson_ssm": [
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":null},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"area\":\"Southern United States\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,37.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Virginia\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-76.8333,39.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Maryland\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-92.0,31.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Louisiana\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-82.0,28.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Florida\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-84.0,32.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"Georgia\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,35.5]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"North Carolina\"}}",
+            "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-80.0,34.0]},\"properties\":{\"continent\":\"North and Central America\",\"country\":\"United States\",\"state\":\"South Carolina\"}}"
+        ],
+        "subject_point_geospatial": [
+            "37,-80",
+            "39,-76.8333",
+            "31,-92",
+            "28,-82",
+            "32,-84",
+            "35.5,-80",
+            "34,-80"
+        ],
+        "subject_topic_tsim": [
+            "Southern States--Maps--Early works to 1800"
+        ],
+        "system_create_dtsi": "2026-03-05T21:49:47Z",
+        "system_modified_dtsi": "2026-03-06T14:35:52Z",
+        "timestamp": "2026-03-06T14:36:03.950Z",
+        "title_info_primary_tsi": "Carte de la Louisiane, Maryland, Virginia, Caroline, Georgie, avec une partie de la Floride",
+        "type_of_resource_ssim": [
+            "Cartographic"
+        ]
+    }
+}
