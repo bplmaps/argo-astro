@@ -5,9 +5,12 @@ layout: "@layouts/SingletonPage.astro"
 
 ## Future Partner Collections
 
-* [**The American Revolution Institute of the Society of the Cincinnati**](https://www.americanrevolutioninstitute.org/) - Expected late 2025
-* [**American Philosophical Society**](https://www.amphilsoc.org/) - Expected early 2026
-* [**Bibliothe&#768;que Nationale de France**](https://www.bnf.fr/fr) - Expected 2026
+* [**The American Revolution Institute of the Society of the Cincinnati**](https://www.americanrevolutioninstitute.org/) - Expected Fall 2026
+* [**American Philosophical Society**](https://www.amphilsoc.org/) - Expected Fall 2026
+* [**Colonial Williamsburg**](https://www.colonialwilliamsburg.org/) - Expected early 2027
+* [**Maine Historical Society**](https://www.mainehistory.org/) - Expected early 2027
+* [**The University of Texas at Arlington**](https://www.uta.edu/) - Expected 2027
+* [**Bibliothe&#768;que Nationale de France**](https://www.bnf.fr/fr) - Coming soon
 * [**Bibliothe&#768;que Nationale du Que&#769;bec**](https://www.banq.qc.ca/) - Coming soon
 * [**Barry Lawrence Ruderman Antique Maps Inc.**](https://www.raremaps.com/) - Coming soon
 * [**Beinecke Rare Book & Manuscript Library, Yale University**](https://beinecke.library.yale.edu/) - Coming soon
